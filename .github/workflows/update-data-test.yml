@@ -15,7 +15,8 @@ jobs:
       run: |-
         search=$(curl --silent --show-error --fail --retry 5 --retry-connrefused https://api.nuget.org/v3/index.json | jq '[.resources[] | select(."@type" == "SearchQueryService/3.0.0-beta")][0]."@id"' -r)
 
-        curl --silent --show-error --fail --retry 5 --retry-connrefused "${search}foo?prerelease=true&semVerLevel=2.0.0&take=100" | jq . > top-100.json
+        results=$(curl --silent --show-error --fail --retry 5 --retry-connrefused "${search}foo?prerelease=true&semVerLevel=2.0.0&take=100")
+        echo "$results" | jq . > top-100.json
         cat top-100.json | jq '.data[] | .id' -r > top-100-id.txt
         cat top-100.json | jq '[.data[] | .id]' > top-100-id.json
         cat top-100.json | jq '[.data[] | {id: .id, version: .version}]' > top-100-id-version.json
@@ -23,7 +24,8 @@ jobs:
 
         mkdir -p dotnettool
         cd dotnettool
-        curl --silent --show-error --fail --retry 5 --retry-connrefused "${search}?packageType=dotnettool&prerelease=true&semVerLevel=2.0.0&take=100" | jq . > top-100.json
+        results=$(curl --silent --show-error --fail --retry 5 --retry-connrefused "${search}?packageType=dotnettool&prerelease=true&semVerLevel=2.0.0&take=100")
+        echo "$results" | jq . > top-100.json
         cat top-100.json | jq '.data[] | .id' -r > top-100-id.txt
         cat top-100.json | jq '[.data[] | .id]' > top-100-id.json
         cat top-100.json | jq '[.data[] | {id: .id, version: .version}]' > top-100-id-version.json
@@ -32,7 +34,8 @@ jobs:
         cd ..
         mkdir -p template
         cd template
-        curl --silent --show-error --fail --retry 5 --retry-connrefused "${search}?packageType=template&prerelease=true&semVerLevel=2.0.0&take=100" | jq . > top-100.json
+        results=$(curl --silent --show-error --fail --retry 5 --retry-connrefused "${search}?packageType=template&prerelease=true&semVerLevel=2.0.0&take=100")
+        echo "$results" | jq . > top-100.json
         cat top-100.json | jq '.data[] | .id' -r > top-100-id.txt
         cat top-100.json | jq '[.data[] | .id]' > top-100-id.json
         cat top-100.json | jq '[.data[] | {id: .id, version: .version}]' > top-100-id-version.json
