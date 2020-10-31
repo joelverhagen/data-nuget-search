@@ -16,7 +16,7 @@ jobs:
         results=$(curl --silent --show-error --fail --retry 5 --retry-connrefused https://api.nuget.org/v3/index.json)
         search=$(echo "$results" | jq '[.resources[] | select(."@type" == "SearchQueryService/3.0.0-beta")][0]."@id"' -r)
 
-        results=$(curl --silent --show-error --fail --retry 5 --retry-connrefused "${search}foo?prerelease=true&semVerLevel=2.0.0&take=100")
+        results=$(curl --silent --show-error --fail --retry 5 --retry-connrefused "${search}?prerelease=true&semVerLevel=2.0.0&take=100")
         echo "$results" | jq . > top-100.json
         cat top-100.json | jq '.data[] | .id' -r > top-100-id.txt
         cat top-100.json | jq '[.data[] | .id]' > top-100-id.json
