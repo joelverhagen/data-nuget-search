@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 1897,
+  "totalHits": 1903,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.tools/index.json",
@@ -13364,12 +13364,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/gitversion.tool/index.json",
       "id": "GitVersion.Tool",
-      "version": "5.5.0",
+      "version": "5.5.1",
       "description": "Derives SemVer information from a repository following GitFlow or GitHubFlow. This is the .NET Core Global Tool allowing usage of GitVersion from command line.",
       "summary": "",
       "title": "GitVersion.Tool",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/gitversion.tool/5.5.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/GitVersion.Tool/5.5.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/gitversion.tool/5.5.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/GitVersion.Tool/5.5.1/license",
       "projectUrl": "https://github.com/GitTools/GitVersion",
       "tags": [
         "Git",
@@ -15520,6 +15520,11 @@
           "version": "5.5.0",
           "downloads": 46660,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitversion.tool/5.5.0.json"
+        },
+        {
+          "version": "5.5.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitversion.tool/5.5.1.json"
         }
       ]
     },
@@ -21595,6 +21600,104 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/index.json",
+      "id": "dotnet-trace",
+      "version": "5.0.152202",
+      "description": ".NET Core Performance Trace Tool",
+      "summary": "",
+      "title": "dotnet-trace",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-trace/5.0.152202/icon",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-trace/5.0.152202/license",
+      "projectUrl": "https://github.com/dotnet/diagnostics",
+      "tags": [
+        "Diagnostic"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "totalDownloads": 126290,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.3-preview5.19228.1",
+          "downloads": 125,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/1.0.3-preview5.19228.1.json"
+        },
+        {
+          "version": "1.0.3-preview5.19251.2",
+          "downloads": 394,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/1.0.3-preview5.19251.2.json"
+        },
+        {
+          "version": "1.0.4-preview6.19311.1",
+          "downloads": 552,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/1.0.4-preview6.19311.1.json"
+        },
+        {
+          "version": "3.0.0-preview7.19365.2",
+          "downloads": 326,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.0.0-preview7.19365.2.json"
+        },
+        {
+          "version": "3.0.0-preview8.19412.1",
+          "downloads": 1350,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.0.0-preview8.19412.1.json"
+        },
+        {
+          "version": "3.0.0-preview9.19454.1",
+          "downloads": 259,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.0.0-preview9.19454.1.json"
+        },
+        {
+          "version": "3.0.47001",
+          "downloads": 4763,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.0.47001.json"
+        },
+        {
+          "version": "3.0.52901",
+          "downloads": 2064,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.0.52901.json"
+        },
+        {
+          "version": "3.1.57502",
+          "downloads": 22153,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.1.57502.json"
+        },
+        {
+          "version": "3.1.120604",
+          "downloads": 25066,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.1.120604.json"
+        },
+        {
+          "version": "3.1.135903",
+          "downloads": 3818,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.1.135903.json"
+        },
+        {
+          "version": "3.1.137102",
+          "downloads": 9418,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.1.137102.json"
+        },
+        {
+          "version": "3.1.141901",
+          "downloads": 54337,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.1.141901.json"
+        },
+        {
+          "version": "5.0.152202",
+          "downloads": 1295,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/5.0.152202.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/index.json",
@@ -21723,189 +21826,6 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/index.json",
-      "id": "dotnet-trace",
-      "version": "5.0.152202",
-      "description": ".NET Core Performance Trace Tool",
-      "summary": "",
-      "title": "dotnet-trace",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-trace/5.0.152202/icon",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-trace/5.0.152202/license",
-      "projectUrl": "https://github.com/dotnet/diagnostics",
-      "tags": [
-        "Diagnostic"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "totalDownloads": 126290,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.3-preview5.19228.1",
-          "downloads": 125,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/1.0.3-preview5.19228.1.json"
-        },
-        {
-          "version": "1.0.3-preview5.19251.2",
-          "downloads": 394,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/1.0.3-preview5.19251.2.json"
-        },
-        {
-          "version": "1.0.4-preview6.19311.1",
-          "downloads": 552,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/1.0.4-preview6.19311.1.json"
-        },
-        {
-          "version": "3.0.0-preview7.19365.2",
-          "downloads": 326,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.0.0-preview7.19365.2.json"
-        },
-        {
-          "version": "3.0.0-preview8.19412.1",
-          "downloads": 1350,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.0.0-preview8.19412.1.json"
-        },
-        {
-          "version": "3.0.0-preview9.19454.1",
-          "downloads": 259,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.0.0-preview9.19454.1.json"
-        },
-        {
-          "version": "3.0.47001",
-          "downloads": 4763,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.0.47001.json"
-        },
-        {
-          "version": "3.0.52901",
-          "downloads": 2064,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.0.52901.json"
-        },
-        {
-          "version": "3.1.57502",
-          "downloads": 22153,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.1.57502.json"
-        },
-        {
-          "version": "3.1.120604",
-          "downloads": 25066,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.1.120604.json"
-        },
-        {
-          "version": "3.1.135903",
-          "downloads": 3818,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.1.135903.json"
-        },
-        {
-          "version": "3.1.137102",
-          "downloads": 9418,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.1.137102.json"
-        },
-        {
-          "version": "3.1.141901",
-          "downloads": 54337,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/3.1.141901.json"
-        },
-        {
-          "version": "5.0.152202",
-          "downloads": 1295,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-trace/5.0.152202.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/index.json",
-      "id": "dotnet-setversion",
-      "version": "2.2.0",
-      "description": "A CLI tool to set/update the Version property in csproj files",
-      "summary": "",
-      "title": "dotnet-setversion",
-      "licenseUrl": "https://opensource.org/licenses/MIT",
-      "projectUrl": "https://github.com/TAGC/dotnet-setversion",
-      "tags": [],
-      "authors": [
-        "ThymineC, Skulblaka"
-      ],
-      "totalDownloads": 126449,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.1.0",
-          "downloads": 590,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/0.1.0.json"
-        },
-        {
-          "version": "0.1.1",
-          "downloads": 451,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/0.1.1.json"
-        },
-        {
-          "version": "0.1.2",
-          "downloads": 455,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/0.1.2.json"
-        },
-        {
-          "version": "0.1.3",
-          "downloads": 464,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/0.1.3.json"
-        },
-        {
-          "version": "1.0.0",
-          "downloads": 5339,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/1.0.0.json"
-        },
-        {
-          "version": "1.0.1",
-          "downloads": 1931,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/1.0.1.json"
-        },
-        {
-          "version": "1.0.2",
-          "downloads": 51885,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/1.0.2.json"
-        },
-        {
-          "version": "1.0.3",
-          "downloads": 34467,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/1.0.3.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 11751,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/2.0.0.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 3260,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/2.1.0.json"
-        },
-        {
-          "version": "2.2.0-beta0001",
-          "downloads": 112,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/2.2.0-beta0001.json"
-        },
-        {
-          "version": "2.2.0",
-          "downloads": 11594,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/2.2.0.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-dump/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-dump/index.json",
@@ -22005,6 +21925,91 @@
           "version": "5.0.152202",
           "downloads": 1155,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-dump/5.0.152202.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/index.json",
+      "id": "dotnet-setversion",
+      "version": "2.2.0",
+      "description": "A CLI tool to set/update the Version property in csproj files",
+      "summary": "",
+      "title": "dotnet-setversion",
+      "licenseUrl": "https://opensource.org/licenses/MIT",
+      "projectUrl": "https://github.com/TAGC/dotnet-setversion",
+      "tags": [],
+      "authors": [
+        "ThymineC, Skulblaka"
+      ],
+      "totalDownloads": 126449,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.1.0",
+          "downloads": 590,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/0.1.0.json"
+        },
+        {
+          "version": "0.1.1",
+          "downloads": 451,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/0.1.1.json"
+        },
+        {
+          "version": "0.1.2",
+          "downloads": 455,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/0.1.2.json"
+        },
+        {
+          "version": "0.1.3",
+          "downloads": 464,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/0.1.3.json"
+        },
+        {
+          "version": "1.0.0",
+          "downloads": 5339,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/1.0.0.json"
+        },
+        {
+          "version": "1.0.1",
+          "downloads": 1931,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/1.0.1.json"
+        },
+        {
+          "version": "1.0.2",
+          "downloads": 51885,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/1.0.2.json"
+        },
+        {
+          "version": "1.0.3",
+          "downloads": 34467,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/1.0.3.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 11751,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/2.0.0.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 3260,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/2.1.0.json"
+        },
+        {
+          "version": "2.2.0-beta0001",
+          "downloads": 112,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/2.2.0-beta0001.json"
+        },
+        {
+          "version": "2.2.0",
+          "downloads": 11594,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/2.2.0.json"
         }
       ]
     },
@@ -25783,6 +25788,69 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/boots/index.json",
+      "id": "boots",
+      "version": "1.0.3.527",
+      "description": "boots is a dotnet global tool for \"bootstrapping\" vsix & pkg files.",
+      "summary": "",
+      "title": "boots",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/boots/1.0.3.527/icon",
+      "licenseUrl": "https://www.nuget.org/packages/boots/1.0.3.527/license",
+      "projectUrl": "https://github.com/jonathanpeppers/boots",
+      "tags": [
+        "Bootstrap",
+        "CI",
+        "Xamarin",
+        "Cake",
+        "Azure",
+        "DevOps"
+      ],
+      "authors": [
+        "Jonathan Peppers, Peter Collins"
+      ],
+      "totalDownloads": 64009,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0.291",
+          "downloads": 4844,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.0.291.json"
+        },
+        {
+          "version": "1.0.1.386",
+          "downloads": 4526,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.1.386.json"
+        },
+        {
+          "version": "1.0.2.421",
+          "downloads": 11532,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.2.421.json"
+        },
+        {
+          "version": "1.0.2.437",
+          "downloads": 18417,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.2.437.json"
+        },
+        {
+          "version": "1.0.2.482",
+          "downloads": 19858,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.2.482.json"
+        },
+        {
+          "version": "1.0.3.527",
+          "downloads": 3203,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.3.527.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/omnia/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/omnia/index.json",
@@ -26162,69 +26230,6 @@
           "version": "3.1.1-dev",
           "downloads": 458,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/omnia/3.1.1-dev.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/boots/index.json",
-      "id": "boots",
-      "version": "1.0.3.527",
-      "description": "boots is a dotnet global tool for \"bootstrapping\" vsix & pkg files.",
-      "summary": "",
-      "title": "boots",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/boots/1.0.3.527/icon",
-      "licenseUrl": "https://www.nuget.org/packages/boots/1.0.3.527/license",
-      "projectUrl": "https://github.com/jonathanpeppers/boots",
-      "tags": [
-        "Bootstrap",
-        "CI",
-        "Xamarin",
-        "Cake",
-        "Azure",
-        "DevOps"
-      ],
-      "authors": [
-        "Jonathan Peppers, Peter Collins"
-      ],
-      "totalDownloads": 64009,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0.291",
-          "downloads": 4844,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.0.291.json"
-        },
-        {
-          "version": "1.0.1.386",
-          "downloads": 4526,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.1.386.json"
-        },
-        {
-          "version": "1.0.2.421",
-          "downloads": 11532,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.2.421.json"
-        },
-        {
-          "version": "1.0.2.437",
-          "downloads": 18417,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.2.437.json"
-        },
-        {
-          "version": "1.0.2.482",
-          "downloads": 19858,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.2.482.json"
-        },
-        {
-          "version": "1.0.3.527",
-          "downloads": 3203,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.3.527.json"
         }
       ]
     },
@@ -31698,6 +31703,77 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fixie.console/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fixie.console/index.json",
+      "id": "Fixie.Console",
+      "version": "3.0.0-beta.1",
+      "description": "`dotnet fixie` console test runner for the Fixie test framework.",
+      "summary": "",
+      "title": "Fixie.Console",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fixie.console/3.0.0-beta.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Fixie.Console/3.0.0-beta.1/license",
+      "projectUrl": "https://fixie.github.io/",
+      "tags": [],
+      "authors": [
+        "Fixie, Patrick Lioi"
+      ],
+      "totalDownloads": 33126,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.0.0",
+          "downloads": 4356,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fixie.console/2.0.0.json"
+        },
+        {
+          "version": "2.0.1",
+          "downloads": 1087,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fixie.console/2.0.1.json"
+        },
+        {
+          "version": "2.0.2",
+          "downloads": 5486,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fixie.console/2.0.2.json"
+        },
+        {
+          "version": "2.0.3",
+          "downloads": 3424,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fixie.console/2.0.3.json"
+        },
+        {
+          "version": "2.0.4",
+          "downloads": 2531,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fixie.console/2.0.4.json"
+        },
+        {
+          "version": "2.1.1",
+          "downloads": 2481,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fixie.console/2.1.1.json"
+        },
+        {
+          "version": "2.2.0",
+          "downloads": 7217,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fixie.console/2.2.0.json"
+        },
+        {
+          "version": "2.2.1",
+          "downloads": 3082,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fixie.console/2.2.1.json"
+        },
+        {
+          "version": "3.0.0-beta.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fixie.console/3.0.0-beta.1.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.quantum.iqsharp/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.quantum.iqsharp/index.json",
@@ -31942,12 +32018,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/index.json",
       "id": "Libplanet.Tools",
-      "version": "0.11.0-nightly.20201113",
+      "version": "0.11.0-nightly.20201114",
       "description": "This CLI app is a collection of utilities for application  programmers who create decentralized games powered by Libplanet  (https://libplanet.io/).",
       "summary": "",
       "title": "planet: Libplanet CLI Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/0.11.0-nightly.20201113/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/0.11.0-nightly.20201113/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/0.11.0-nightly.20201114/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/0.11.0-nightly.20201114/license",
       "projectUrl": "https://libplanet.io/",
       "tags": [],
       "authors": [
@@ -33970,6 +34046,11 @@
           "version": "0.11.0-nightly.20201113",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.11.0-nightly.20201113.json"
+        },
+        {
+          "version": "0.11.0-nightly.20201114",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.11.0-nightly.20201114.json"
         }
       ]
     },
@@ -37098,6 +37179,137 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/index.json",
+      "id": "JetBrains.ReSharper.GlobalTools",
+      "version": "2020.3.0-eap07",
+      "description": "Standalone command line tools that enable running ReSharper inspections outside of Visual Studio",
+      "summary": "",
+      "title": "JetBrains ReSharper Command Line Tools 2020.3 EAP 7",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.resharper.globaltools/2020.3.0-eap07/icon",
+      "licenseUrl": "https://resources.jetbrains.com/sales-config/config/agreements/TB/euaEap.html",
+      "projectUrl": "http://www.jetbrains.com/resharper/features/command-line.html",
+      "tags": [],
+      "authors": [
+        "JetBrains"
+      ],
+      "totalDownloads": 24855,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2020.2.0-eap01",
+          "downloads": 114,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap01.json"
+        },
+        {
+          "version": "2020.2.0-eap02",
+          "downloads": 146,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap02.json"
+        },
+        {
+          "version": "2020.2.0-eap03",
+          "downloads": 268,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap03.json"
+        },
+        {
+          "version": "2020.2.0-eap04",
+          "downloads": 200,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap04.json"
+        },
+        {
+          "version": "2020.2.0-eap05",
+          "downloads": 2845,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap05.json"
+        },
+        {
+          "version": "2020.2.0-eap06",
+          "downloads": 231,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap06.json"
+        },
+        {
+          "version": "2020.2.0-eap07",
+          "downloads": 410,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap07.json"
+        },
+        {
+          "version": "2020.2.0-eap08",
+          "downloads": 647,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap08.json"
+        },
+        {
+          "version": "2020.2.0-eap09",
+          "downloads": 2535,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap09.json"
+        },
+        {
+          "version": "2020.2.0",
+          "downloads": 2126,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0.json"
+        },
+        {
+          "version": "2020.2.1",
+          "downloads": 3503,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.1.json"
+        },
+        {
+          "version": "2020.2.2",
+          "downloads": 1492,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.2.json"
+        },
+        {
+          "version": "2020.2.3",
+          "downloads": 1659,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.3.json"
+        },
+        {
+          "version": "2020.2.4",
+          "downloads": 8338,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.4.json"
+        },
+        {
+          "version": "2020.3.0-eap01",
+          "downloads": 61,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.3.0-eap01.json"
+        },
+        {
+          "version": "2020.3.0-eap02",
+          "downloads": 80,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.3.0-eap02.json"
+        },
+        {
+          "version": "2020.3.0-eap03",
+          "downloads": 51,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.3.0-eap03.json"
+        },
+        {
+          "version": "2020.3.0-eap04",
+          "downloads": 35,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.3.0-eap04.json"
+        },
+        {
+          "version": "2020.3.0-eap05",
+          "downloads": 44,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.3.0-eap05.json"
+        },
+        {
+          "version": "2020.3.0-eap06",
+          "downloads": 70,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.3.0-eap06.json"
+        },
+        {
+          "version": "2020.3.0-eap07",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.3.0-eap07.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/paket.bootstrapper/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/paket.bootstrapper/index.json",
@@ -37601,137 +37813,6 @@
           "version": "0.1.257",
           "downloads": 4452,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gpr/0.1.257.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/index.json",
-      "id": "JetBrains.ReSharper.GlobalTools",
-      "version": "2020.3.0-eap07",
-      "description": "Standalone command line tools that enable running ReSharper inspections outside of Visual Studio",
-      "summary": "",
-      "title": "JetBrains ReSharper Command Line Tools 2020.3 EAP 7",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.resharper.globaltools/2020.3.0-eap07/icon",
-      "licenseUrl": "https://resources.jetbrains.com/sales-config/config/agreements/TB/euaEap.html",
-      "projectUrl": "http://www.jetbrains.com/resharper/features/command-line.html",
-      "tags": [],
-      "authors": [
-        "JetBrains"
-      ],
-      "totalDownloads": 24855,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2020.2.0-eap01",
-          "downloads": 114,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap01.json"
-        },
-        {
-          "version": "2020.2.0-eap02",
-          "downloads": 146,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap02.json"
-        },
-        {
-          "version": "2020.2.0-eap03",
-          "downloads": 268,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap03.json"
-        },
-        {
-          "version": "2020.2.0-eap04",
-          "downloads": 200,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap04.json"
-        },
-        {
-          "version": "2020.2.0-eap05",
-          "downloads": 2845,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap05.json"
-        },
-        {
-          "version": "2020.2.0-eap06",
-          "downloads": 231,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap06.json"
-        },
-        {
-          "version": "2020.2.0-eap07",
-          "downloads": 410,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap07.json"
-        },
-        {
-          "version": "2020.2.0-eap08",
-          "downloads": 647,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap08.json"
-        },
-        {
-          "version": "2020.2.0-eap09",
-          "downloads": 2535,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0-eap09.json"
-        },
-        {
-          "version": "2020.2.0",
-          "downloads": 2126,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.0.json"
-        },
-        {
-          "version": "2020.2.1",
-          "downloads": 3503,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.1.json"
-        },
-        {
-          "version": "2020.2.2",
-          "downloads": 1492,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.2.json"
-        },
-        {
-          "version": "2020.2.3",
-          "downloads": 1659,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.3.json"
-        },
-        {
-          "version": "2020.2.4",
-          "downloads": 8338,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.2.4.json"
-        },
-        {
-          "version": "2020.3.0-eap01",
-          "downloads": 61,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.3.0-eap01.json"
-        },
-        {
-          "version": "2020.3.0-eap02",
-          "downloads": 80,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.3.0-eap02.json"
-        },
-        {
-          "version": "2020.3.0-eap03",
-          "downloads": 51,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.3.0-eap03.json"
-        },
-        {
-          "version": "2020.3.0-eap04",
-          "downloads": 35,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.3.0-eap04.json"
-        },
-        {
-          "version": "2020.3.0-eap05",
-          "downloads": 44,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.3.0-eap05.json"
-        },
-        {
-          "version": "2020.3.0-eap06",
-          "downloads": 70,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.3.0-eap06.json"
-        },
-        {
-          "version": "2020.3.0-eap07",
-          "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2020.3.0-eap07.json"
         }
       ]
     },
@@ -38663,622 +38744,6 @@
           "version": "2.0.0-preview1115",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/freesql.generator/2.0.0-preview1115.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/index.json",
-      "id": "Pimix.Apps.FileUtil",
-      "version": "12.1.8",
-      "description": "Utility to manage files.",
-      "summary": "",
-      "title": "Pimix.Apps.FileUtil",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/pimix.apps.fileutil/12.1.8/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Pimix.Apps.FileUtil/12.1.8/license",
-      "projectUrl": "https://github.com/Kimi-Arthur/Pimix",
-      "tags": [
-        "Pimix",
-        "Apps",
-        "FileUtil",
-        "app"
-      ],
-      "authors": [
-        "KimiArthur"
-      ],
-      "totalDownloads": 22760,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.2-alpha",
-          "downloads": 436,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/1.0.2-alpha.json"
-        },
-        {
-          "version": "1.0.3-alpha",
-          "downloads": 435,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/1.0.3-alpha.json"
-        },
-        {
-          "version": "1.0.4-alpha",
-          "downloads": 461,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/1.0.4-alpha.json"
-        },
-        {
-          "version": "1.0.5-alpha",
-          "downloads": 438,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/1.0.5-alpha.json"
-        },
-        {
-          "version": "1.1.0-alpha",
-          "downloads": 429,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/1.1.0-alpha.json"
-        },
-        {
-          "version": "1.1.1-alpha",
-          "downloads": 418,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/1.1.1-alpha.json"
-        },
-        {
-          "version": "1.1.2-alpha",
-          "downloads": 490,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/1.1.2-alpha.json"
-        },
-        {
-          "version": "1.1.3-alpha",
-          "downloads": 418,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/1.1.3-alpha.json"
-        },
-        {
-          "version": "1.1.4-alpha",
-          "downloads": 502,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/1.1.4-alpha.json"
-        },
-        {
-          "version": "2.2.0",
-          "downloads": 264,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.2.0.json"
-        },
-        {
-          "version": "2.2.1",
-          "downloads": 255,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.2.1.json"
-        },
-        {
-          "version": "2.2.2",
-          "downloads": 283,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.2.2.json"
-        },
-        {
-          "version": "2.3.0",
-          "downloads": 282,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.3.0.json"
-        },
-        {
-          "version": "2.4.0",
-          "downloads": 306,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.4.0.json"
-        },
-        {
-          "version": "2.4.1",
-          "downloads": 273,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.4.1.json"
-        },
-        {
-          "version": "2.4.2",
-          "downloads": 280,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.4.2.json"
-        },
-        {
-          "version": "2.4.3",
-          "downloads": 269,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.4.3.json"
-        },
-        {
-          "version": "2.5.0",
-          "downloads": 272,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.5.0.json"
-        },
-        {
-          "version": "2.5.1",
-          "downloads": 263,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.5.1.json"
-        },
-        {
-          "version": "2.5.2",
-          "downloads": 281,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.5.2.json"
-        },
-        {
-          "version": "2.5.3",
-          "downloads": 269,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.5.3.json"
-        },
-        {
-          "version": "2.5.4",
-          "downloads": 248,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.5.4.json"
-        },
-        {
-          "version": "2.5.5",
-          "downloads": 285,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.5.5.json"
-        },
-        {
-          "version": "2.5.6",
-          "downloads": 271,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.5.6.json"
-        },
-        {
-          "version": "2.5.7",
-          "downloads": 298,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.5.7.json"
-        },
-        {
-          "version": "2.6.0",
-          "downloads": 256,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.6.0.json"
-        },
-        {
-          "version": "2.6.1",
-          "downloads": 255,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.6.1.json"
-        },
-        {
-          "version": "2.6.2",
-          "downloads": 221,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.6.2.json"
-        },
-        {
-          "version": "2.6.3",
-          "downloads": 260,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.6.3.json"
-        },
-        {
-          "version": "2.7.0",
-          "downloads": 229,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.7.0.json"
-        },
-        {
-          "version": "2.7.1",
-          "downloads": 206,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.7.1.json"
-        },
-        {
-          "version": "2.7.2",
-          "downloads": 220,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.7.2.json"
-        },
-        {
-          "version": "2.7.3",
-          "downloads": 202,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.7.3.json"
-        },
-        {
-          "version": "2.7.4",
-          "downloads": 210,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.7.4.json"
-        },
-        {
-          "version": "2.7.5",
-          "downloads": 208,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.7.5.json"
-        },
-        {
-          "version": "2.7.6",
-          "downloads": 224,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.7.6.json"
-        },
-        {
-          "version": "2.7.7",
-          "downloads": 206,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.7.7.json"
-        },
-        {
-          "version": "2.7.8",
-          "downloads": 201,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.7.8.json"
-        },
-        {
-          "version": "2.7.9",
-          "downloads": 218,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.7.9.json"
-        },
-        {
-          "version": "2.7.10",
-          "downloads": 194,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/2.7.10.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 204,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/3.0.0.json"
-        },
-        {
-          "version": "3.0.2",
-          "downloads": 218,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/3.0.2.json"
-        },
-        {
-          "version": "4.2.0",
-          "downloads": 206,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/4.2.0.json"
-        },
-        {
-          "version": "4.3.0",
-          "downloads": 185,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/4.3.0.json"
-        },
-        {
-          "version": "4.3.1",
-          "downloads": 194,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/4.3.1.json"
-        },
-        {
-          "version": "4.3.2",
-          "downloads": 198,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/4.3.2.json"
-        },
-        {
-          "version": "4.3.3",
-          "downloads": 216,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/4.3.3.json"
-        },
-        {
-          "version": "4.3.4",
-          "downloads": 182,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/4.3.4.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 174,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/5.0.0.json"
-        },
-        {
-          "version": "5.0.1",
-          "downloads": 169,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/5.0.1.json"
-        },
-        {
-          "version": "5.0.2",
-          "downloads": 174,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/5.0.2.json"
-        },
-        {
-          "version": "5.0.3",
-          "downloads": 185,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/5.0.3.json"
-        },
-        {
-          "version": "5.0.4",
-          "downloads": 174,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/5.0.4.json"
-        },
-        {
-          "version": "5.1.0",
-          "downloads": 177,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/5.1.0.json"
-        },
-        {
-          "version": "5.1.1",
-          "downloads": 190,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/5.1.1.json"
-        },
-        {
-          "version": "5.1.2",
-          "downloads": 166,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/5.1.2.json"
-        },
-        {
-          "version": "5.2.0",
-          "downloads": 184,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/5.2.0.json"
-        },
-        {
-          "version": "5.3.0",
-          "downloads": 182,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/5.3.0.json"
-        },
-        {
-          "version": "5.3.1",
-          "downloads": 161,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/5.3.1.json"
-        },
-        {
-          "version": "5.3.2",
-          "downloads": 151,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/5.3.2.json"
-        },
-        {
-          "version": "5.3.3",
-          "downloads": 155,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/5.3.3.json"
-        },
-        {
-          "version": "6.0.1",
-          "downloads": 170,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/6.0.1.json"
-        },
-        {
-          "version": "6.0.2",
-          "downloads": 156,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/6.0.2.json"
-        },
-        {
-          "version": "6.0.4",
-          "downloads": 162,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/6.0.4.json"
-        },
-        {
-          "version": "6.0.5",
-          "downloads": 158,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/6.0.5.json"
-        },
-        {
-          "version": "6.1.0",
-          "downloads": 175,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/6.1.0.json"
-        },
-        {
-          "version": "6.1.1",
-          "downloads": 190,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/6.1.1.json"
-        },
-        {
-          "version": "6.1.2",
-          "downloads": 178,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/6.1.2.json"
-        },
-        {
-          "version": "6.1.3",
-          "downloads": 155,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/6.1.3.json"
-        },
-        {
-          "version": "6.1.4",
-          "downloads": 154,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/6.1.4.json"
-        },
-        {
-          "version": "6.1.5",
-          "downloads": 151,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/6.1.5.json"
-        },
-        {
-          "version": "6.1.6",
-          "downloads": 159,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/6.1.6.json"
-        },
-        {
-          "version": "6.1.7",
-          "downloads": 148,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/6.1.7.json"
-        },
-        {
-          "version": "6.1.8",
-          "downloads": 140,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/6.1.8.json"
-        },
-        {
-          "version": "6.1.9",
-          "downloads": 156,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/6.1.9.json"
-        },
-        {
-          "version": "7.0.0",
-          "downloads": 131,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/7.0.0.json"
-        },
-        {
-          "version": "7.0.1",
-          "downloads": 127,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/7.0.1.json"
-        },
-        {
-          "version": "8.0.0",
-          "downloads": 120,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.0.0.json"
-        },
-        {
-          "version": "8.0.1",
-          "downloads": 118,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.0.1.json"
-        },
-        {
-          "version": "8.1.1",
-          "downloads": 119,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.1.1.json"
-        },
-        {
-          "version": "8.2.0",
-          "downloads": 120,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.2.0.json"
-        },
-        {
-          "version": "8.2.1",
-          "downloads": 127,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.2.1.json"
-        },
-        {
-          "version": "8.2.2",
-          "downloads": 117,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.2.2.json"
-        },
-        {
-          "version": "8.2.3",
-          "downloads": 125,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.2.3.json"
-        },
-        {
-          "version": "8.2.4",
-          "downloads": 125,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.2.4.json"
-        },
-        {
-          "version": "8.2.5",
-          "downloads": 132,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.2.5.json"
-        },
-        {
-          "version": "8.2.7",
-          "downloads": 121,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.2.7.json"
-        },
-        {
-          "version": "8.2.8",
-          "downloads": 130,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.2.8.json"
-        },
-        {
-          "version": "8.2.10",
-          "downloads": 125,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.2.10.json"
-        },
-        {
-          "version": "8.2.11",
-          "downloads": 130,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.2.11.json"
-        },
-        {
-          "version": "8.2.12",
-          "downloads": 304,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.2.12.json"
-        },
-        {
-          "version": "8.2.13",
-          "downloads": 135,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.2.13.json"
-        },
-        {
-          "version": "8.2.14",
-          "downloads": 128,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.2.14.json"
-        },
-        {
-          "version": "8.2.15",
-          "downloads": 157,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/8.2.15.json"
-        },
-        {
-          "version": "9.0.0",
-          "downloads": 155,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/9.0.0.json"
-        },
-        {
-          "version": "9.0.1",
-          "downloads": 136,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/9.0.1.json"
-        },
-        {
-          "version": "9.0.2",
-          "downloads": 95,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/9.0.2.json"
-        },
-        {
-          "version": "9.0.3",
-          "downloads": 105,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/9.0.3.json"
-        },
-        {
-          "version": "9.0.4",
-          "downloads": 97,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/9.0.4.json"
-        },
-        {
-          "version": "9.0.6",
-          "downloads": 101,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/9.0.6.json"
-        },
-        {
-          "version": "9.0.7",
-          "downloads": 98,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/9.0.7.json"
-        },
-        {
-          "version": "9.0.8",
-          "downloads": 97,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/9.0.8.json"
-        },
-        {
-          "version": "9.0.9",
-          "downloads": 95,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/9.0.9.json"
-        },
-        {
-          "version": "10.0.0",
-          "downloads": 88,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/10.0.0.json"
-        },
-        {
-          "version": "10.1.0",
-          "downloads": 111,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/10.1.0.json"
-        },
-        {
-          "version": "11.1.0",
-          "downloads": 106,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/11.1.0.json"
-        },
-        {
-          "version": "11.1.1",
-          "downloads": 79,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/11.1.1.json"
-        },
-        {
-          "version": "12.0.0",
-          "downloads": 97,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/12.0.0.json"
-        },
-        {
-          "version": "12.0.1",
-          "downloads": 229,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/12.0.1.json"
-        },
-        {
-          "version": "12.1.0",
-          "downloads": 165,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/12.1.0.json"
-        },
-        {
-          "version": "12.1.2",
-          "downloads": 57,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/12.1.2.json"
-        },
-        {
-          "version": "12.1.3",
-          "downloads": 33,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/12.1.3.json"
-        },
-        {
-          "version": "12.1.4",
-          "downloads": 54,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/12.1.4.json"
-        },
-        {
-          "version": "12.1.5",
-          "downloads": 174,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/12.1.5.json"
-        },
-        {
-          "version": "12.1.6",
-          "downloads": 90,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/12.1.6.json"
-        },
-        {
-          "version": "12.1.7",
-          "downloads": 40,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/12.1.7.json"
-        },
-        {
-          "version": "12.1.8",
-          "downloads": 34,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pimix.apps.fileutil/12.1.8.json"
         }
       ]
     }
