@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 216020,
+  "totalHits": 216172,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -19060,12 +19060,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/npgsql/index.json",
       "id": "Npgsql",
-      "version": "5.0.0-preview1",
+      "version": "5.0.0",
       "description": "Npgsql is the open source .NET data provider for PostgreSQL.",
       "summary": "",
       "title": "Npgsql",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/npgsql/5.0.0-preview1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Npgsql/5.0.0-preview1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/npgsql/5.0.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Npgsql/5.0.0/license",
       "projectUrl": "https://github.com/npgsql/npgsql",
       "tags": [
         "npgsql",
@@ -19077,7 +19077,7 @@
         "sql"
       ],
       "authors": [
-        "Shay Rojansky,Yoh Deadfall,Austin Drenski,Emil Lenngren,Francisco Figueiredo Jr.,Kenji Uno"
+        "Shay Rojansky,Yoh Deadfall,Brar Piening,Nikita Kazmin,Austin Drenski,Emil Lenngren,Francisco Figueiredo Jr.,Kenji Uno"
       ],
       "totalDownloads": 41986951,
       "verified": true,
@@ -19518,6 +19518,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/npgsql/4.1.5.json"
         },
         {
+          "version": "4.1.6",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/npgsql/4.1.6.json"
+        },
+        {
           "version": "5.0.0-alpha1",
           "downloads": 14829,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/npgsql/5.0.0-alpha1.json"
@@ -19526,6 +19531,11 @@
           "version": "5.0.0-preview1",
           "downloads": 13622,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/npgsql/5.0.0-preview1.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/npgsql/5.0.0.json"
         }
       ]
     },
@@ -21456,331 +21466,6 @@
           "version": "6.2.1",
           "downloads": 536609,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/rabbitmq.client/6.2.1.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/index.json",
-      "id": "Serilog.AspNetCore",
-      "version": "3.4.1-dev-00188",
-      "description": "Serilog support for ASP.NET Core logging",
-      "summary": "",
-      "title": "Serilog.AspNetCore",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.1-dev-00188/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Serilog.AspNetCore/3.4.1-dev-00188/license",
-      "projectUrl": "https://github.com/serilog/serilog-aspnetcore",
-      "tags": [
-        "serilog",
-        "aspnet",
-        "aspnetcore"
-      ],
-      "authors": [
-        "Microsoft,Serilog Contributors"
-      ],
-      "totalDownloads": 37289236,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.0.0-dev-00001",
-          "downloads": 1274,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.0.0-dev-00001.json"
-        },
-        {
-          "version": "2.0.0-dev-00002",
-          "downloads": 3778,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.0.0-dev-00002.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 202091,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.0.0.json"
-        },
-        {
-          "version": "2.0.1-dev-00011",
-          "downloads": 424,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.0.1-dev-00011.json"
-        },
-        {
-          "version": "2.1.0-dev-00012",
-          "downloads": 650,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.0-dev-00012.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 1414645,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.0.json"
-        },
-        {
-          "version": "2.1.1-dev-00017",
-          "downloads": 5151,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.1-dev-00017.json"
-        },
-        {
-          "version": "2.1.1-dev-00021",
-          "downloads": 16417,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.1-dev-00021.json"
-        },
-        {
-          "version": "2.1.1-dev-00022",
-          "downloads": 26433,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.1-dev-00022.json"
-        },
-        {
-          "version": "2.1.1",
-          "downloads": 16497780,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.1.json"
-        },
-        {
-          "version": "2.1.2-dev-00024",
-          "downloads": 105171,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.2-dev-00024.json"
-        },
-        {
-          "version": "2.1.2-dev-00026",
-          "downloads": 41949,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.2-dev-00026.json"
-        },
-        {
-          "version": "2.1.2-dev-00028",
-          "downloads": 141548,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.2-dev-00028.json"
-        },
-        {
-          "version": "3.0.0-dev-00040",
-          "downloads": 342,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00040.json"
-        },
-        {
-          "version": "3.0.0-dev-00041",
-          "downloads": 944,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00041.json"
-        },
-        {
-          "version": "3.0.0-dev-00043",
-          "downloads": 8826,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00043.json"
-        },
-        {
-          "version": "3.0.0-dev-00046",
-          "downloads": 1314,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00046.json"
-        },
-        {
-          "version": "3.0.0-dev-00052",
-          "downloads": 512,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00052.json"
-        },
-        {
-          "version": "3.0.0-dev-00053",
-          "downloads": 2955,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00053.json"
-        },
-        {
-          "version": "3.0.0-dev-00057",
-          "downloads": 234,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00057.json"
-        },
-        {
-          "version": "3.0.0-dev-00058",
-          "downloads": 22751,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00058.json"
-        },
-        {
-          "version": "3.0.0-dev-00059",
-          "downloads": 33272,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00059.json"
-        },
-        {
-          "version": "3.0.0-dev-00067",
-          "downloads": 4404,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00067.json"
-        },
-        {
-          "version": "3.0.0-dev-00077",
-          "downloads": 220,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00077.json"
-        },
-        {
-          "version": "3.0.0-dev-00079",
-          "downloads": 194,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00079.json"
-        },
-        {
-          "version": "3.0.0-dev-00081",
-          "downloads": 224,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00081.json"
-        },
-        {
-          "version": "3.0.0-dev-00083",
-          "downloads": 241,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00083.json"
-        },
-        {
-          "version": "3.0.0-dev-00086",
-          "downloads": 222,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00086.json"
-        },
-        {
-          "version": "3.0.0-dev-00088",
-          "downloads": 10060,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00088.json"
-        },
-        {
-          "version": "3.0.0-dev-00093",
-          "downloads": 224,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00093.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 1916806,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0.json"
-        },
-        {
-          "version": "3.0.1-dev-00099",
-          "downloads": 39205,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.1-dev-00099.json"
-        },
-        {
-          "version": "3.0.1-dev-00109",
-          "downloads": 14731,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.1-dev-00109.json"
-        },
-        {
-          "version": "3.0.1-dev-00110",
-          "downloads": 203,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.1-dev-00110.json"
-        },
-        {
-          "version": "3.0.1-dev-00116",
-          "downloads": 6223,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.1-dev-00116.json"
-        },
-        {
-          "version": "3.1.0-dev-00118",
-          "downloads": 192,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.1.0-dev-00118.json"
-        },
-        {
-          "version": "3.1.0-dev-00119",
-          "downloads": 191,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.1.0-dev-00119.json"
-        },
-        {
-          "version": "3.1.0-dev-00122",
-          "downloads": 8811,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.1.0-dev-00122.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 1477754,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.1.0.json"
-        },
-        {
-          "version": "3.1.1-dev-00132",
-          "downloads": 196,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.1.1-dev-00132.json"
-        },
-        {
-          "version": "3.2.0-dev-00133",
-          "downloads": 1749,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.2.0-dev-00133.json"
-        },
-        {
-          "version": "3.2.0-dev-00135",
-          "downloads": 6517,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.2.0-dev-00135.json"
-        },
-        {
-          "version": "3.2.0",
-          "downloads": 12630137,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.2.0.json"
-        },
-        {
-          "version": "3.2.1-dev-00142",
-          "downloads": 33004,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.2.1-dev-00142.json"
-        },
-        {
-          "version": "3.2.1-dev-00147",
-          "downloads": 2167,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.2.1-dev-00147.json"
-        },
-        {
-          "version": "3.3.0-dev-00149",
-          "downloads": 17682,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.3.0-dev-00149.json"
-        },
-        {
-          "version": "3.3.0-dev-00152",
-          "downloads": 79661,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.3.0-dev-00152.json"
-        },
-        {
-          "version": "3.3.0-dev-00160",
-          "downloads": 140,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.3.0-dev-00160.json"
-        },
-        {
-          "version": "3.3.0-dev-00161",
-          "downloads": 13260,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.3.0-dev-00161.json"
-        },
-        {
-          "version": "3.4.0-dev-00167",
-          "downloads": 3951,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.0-dev-00167.json"
-        },
-        {
-          "version": "3.4.0-dev-00168",
-          "downloads": 6742,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.0-dev-00168.json"
-        },
-        {
-          "version": "3.4.0-dev-00171",
-          "downloads": 26673,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.0-dev-00171.json"
-        },
-        {
-          "version": "3.4.0-dev-00173",
-          "downloads": 30012,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.0-dev-00173.json"
-        },
-        {
-          "version": "3.4.0-dev-00174",
-          "downloads": 117,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.0-dev-00174.json"
-        },
-        {
-          "version": "3.4.0-dev-00176",
-          "downloads": 108,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.0-dev-00176.json"
-        },
-        {
-          "version": "3.4.0-dev-00177",
-          "downloads": 153,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.0-dev-00177.json"
-        },
-        {
-          "version": "3.4.0",
-          "downloads": 2415242,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.0.json"
-        },
-        {
-          "version": "3.4.1-dev-00180",
-          "downloads": 10444,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.1-dev-00180.json"
-        },
-        {
-          "version": "3.4.1-dev-00188",
-          "downloads": 2915,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.1-dev-00188.json"
         }
       ]
     },
@@ -24093,6 +23778,331 @@
           "version": "3.5.4.1",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.5.4.1.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/index.json",
+      "id": "Serilog.AspNetCore",
+      "version": "3.4.1-dev-00188",
+      "description": "Serilog support for ASP.NET Core logging",
+      "summary": "",
+      "title": "Serilog.AspNetCore",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.1-dev-00188/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Serilog.AspNetCore/3.4.1-dev-00188/license",
+      "projectUrl": "https://github.com/serilog/serilog-aspnetcore",
+      "tags": [
+        "serilog",
+        "aspnet",
+        "aspnetcore"
+      ],
+      "authors": [
+        "Microsoft,Serilog Contributors"
+      ],
+      "totalDownloads": 37289236,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.0.0-dev-00001",
+          "downloads": 1274,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.0.0-dev-00001.json"
+        },
+        {
+          "version": "2.0.0-dev-00002",
+          "downloads": 3778,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.0.0-dev-00002.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 202091,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.0.0.json"
+        },
+        {
+          "version": "2.0.1-dev-00011",
+          "downloads": 424,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.0.1-dev-00011.json"
+        },
+        {
+          "version": "2.1.0-dev-00012",
+          "downloads": 650,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.0-dev-00012.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 1414645,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.0.json"
+        },
+        {
+          "version": "2.1.1-dev-00017",
+          "downloads": 5151,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.1-dev-00017.json"
+        },
+        {
+          "version": "2.1.1-dev-00021",
+          "downloads": 16417,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.1-dev-00021.json"
+        },
+        {
+          "version": "2.1.1-dev-00022",
+          "downloads": 26433,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.1-dev-00022.json"
+        },
+        {
+          "version": "2.1.1",
+          "downloads": 16497780,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.1.json"
+        },
+        {
+          "version": "2.1.2-dev-00024",
+          "downloads": 105171,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.2-dev-00024.json"
+        },
+        {
+          "version": "2.1.2-dev-00026",
+          "downloads": 41949,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.2-dev-00026.json"
+        },
+        {
+          "version": "2.1.2-dev-00028",
+          "downloads": 141548,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/2.1.2-dev-00028.json"
+        },
+        {
+          "version": "3.0.0-dev-00040",
+          "downloads": 342,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00040.json"
+        },
+        {
+          "version": "3.0.0-dev-00041",
+          "downloads": 944,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00041.json"
+        },
+        {
+          "version": "3.0.0-dev-00043",
+          "downloads": 8826,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00043.json"
+        },
+        {
+          "version": "3.0.0-dev-00046",
+          "downloads": 1314,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00046.json"
+        },
+        {
+          "version": "3.0.0-dev-00052",
+          "downloads": 512,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00052.json"
+        },
+        {
+          "version": "3.0.0-dev-00053",
+          "downloads": 2955,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00053.json"
+        },
+        {
+          "version": "3.0.0-dev-00057",
+          "downloads": 234,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00057.json"
+        },
+        {
+          "version": "3.0.0-dev-00058",
+          "downloads": 22751,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00058.json"
+        },
+        {
+          "version": "3.0.0-dev-00059",
+          "downloads": 33272,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00059.json"
+        },
+        {
+          "version": "3.0.0-dev-00067",
+          "downloads": 4404,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00067.json"
+        },
+        {
+          "version": "3.0.0-dev-00077",
+          "downloads": 220,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00077.json"
+        },
+        {
+          "version": "3.0.0-dev-00079",
+          "downloads": 194,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00079.json"
+        },
+        {
+          "version": "3.0.0-dev-00081",
+          "downloads": 224,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00081.json"
+        },
+        {
+          "version": "3.0.0-dev-00083",
+          "downloads": 241,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00083.json"
+        },
+        {
+          "version": "3.0.0-dev-00086",
+          "downloads": 222,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00086.json"
+        },
+        {
+          "version": "3.0.0-dev-00088",
+          "downloads": 10060,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00088.json"
+        },
+        {
+          "version": "3.0.0-dev-00093",
+          "downloads": 224,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0-dev-00093.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 1916806,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.0.json"
+        },
+        {
+          "version": "3.0.1-dev-00099",
+          "downloads": 39205,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.1-dev-00099.json"
+        },
+        {
+          "version": "3.0.1-dev-00109",
+          "downloads": 14731,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.1-dev-00109.json"
+        },
+        {
+          "version": "3.0.1-dev-00110",
+          "downloads": 203,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.1-dev-00110.json"
+        },
+        {
+          "version": "3.0.1-dev-00116",
+          "downloads": 6223,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.0.1-dev-00116.json"
+        },
+        {
+          "version": "3.1.0-dev-00118",
+          "downloads": 192,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.1.0-dev-00118.json"
+        },
+        {
+          "version": "3.1.0-dev-00119",
+          "downloads": 191,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.1.0-dev-00119.json"
+        },
+        {
+          "version": "3.1.0-dev-00122",
+          "downloads": 8811,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.1.0-dev-00122.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 1477754,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.1.0.json"
+        },
+        {
+          "version": "3.1.1-dev-00132",
+          "downloads": 196,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.1.1-dev-00132.json"
+        },
+        {
+          "version": "3.2.0-dev-00133",
+          "downloads": 1749,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.2.0-dev-00133.json"
+        },
+        {
+          "version": "3.2.0-dev-00135",
+          "downloads": 6517,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.2.0-dev-00135.json"
+        },
+        {
+          "version": "3.2.0",
+          "downloads": 12630137,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.2.0.json"
+        },
+        {
+          "version": "3.2.1-dev-00142",
+          "downloads": 33004,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.2.1-dev-00142.json"
+        },
+        {
+          "version": "3.2.1-dev-00147",
+          "downloads": 2167,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.2.1-dev-00147.json"
+        },
+        {
+          "version": "3.3.0-dev-00149",
+          "downloads": 17682,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.3.0-dev-00149.json"
+        },
+        {
+          "version": "3.3.0-dev-00152",
+          "downloads": 79661,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.3.0-dev-00152.json"
+        },
+        {
+          "version": "3.3.0-dev-00160",
+          "downloads": 140,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.3.0-dev-00160.json"
+        },
+        {
+          "version": "3.3.0-dev-00161",
+          "downloads": 13260,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.3.0-dev-00161.json"
+        },
+        {
+          "version": "3.4.0-dev-00167",
+          "downloads": 3951,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.0-dev-00167.json"
+        },
+        {
+          "version": "3.4.0-dev-00168",
+          "downloads": 6742,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.0-dev-00168.json"
+        },
+        {
+          "version": "3.4.0-dev-00171",
+          "downloads": 26673,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.0-dev-00171.json"
+        },
+        {
+          "version": "3.4.0-dev-00173",
+          "downloads": 30012,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.0-dev-00173.json"
+        },
+        {
+          "version": "3.4.0-dev-00174",
+          "downloads": 117,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.0-dev-00174.json"
+        },
+        {
+          "version": "3.4.0-dev-00176",
+          "downloads": 108,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.0-dev-00176.json"
+        },
+        {
+          "version": "3.4.0-dev-00177",
+          "downloads": 153,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.0-dev-00177.json"
+        },
+        {
+          "version": "3.4.0",
+          "downloads": 2415242,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.0.json"
+        },
+        {
+          "version": "3.4.1-dev-00180",
+          "downloads": 10444,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.1-dev-00180.json"
+        },
+        {
+          "version": "3.4.1-dev-00188",
+          "downloads": 2915,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/3.4.1-dev-00188.json"
         }
       ]
     },
@@ -29434,197 +29444,6 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/index.json",
-      "id": "System.Diagnostics.EventLog",
-      "version": "5.0.0",
-      "description": "Provides the System.Diagnostics.EventLog class, which allows the applications to use the windows event log service.\n\nCommonly Used Types:\nSystem.Diagnostics.EventLog\n \nWhen using NuGet 3.x this package requires at least version 3.4.",
-      "summary": "",
-      "title": "System.Diagnostics.EventLog",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.diagnostics.eventlog/5.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Diagnostics.EventLog/5.0.0/license",
-      "projectUrl": "https://github.com/dotnet/runtime",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "totalDownloads": 30879257,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "4.5.0-preview1-25914-04",
-          "downloads": 93015,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.5.0-preview1-25914-04.json"
-        },
-        {
-          "version": "4.5.0-preview1-26216-02",
-          "downloads": 20841,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.5.0-preview1-26216-02.json"
-        },
-        {
-          "version": "4.5.0-preview2-26406-04",
-          "downloads": 16334,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.5.0-preview2-26406-04.json"
-        },
-        {
-          "version": "4.5.0-rc1",
-          "downloads": 33696,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.5.0-rc1.json"
-        },
-        {
-          "version": "4.5.0",
-          "downloads": 8047194,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.5.0.json"
-        },
-        {
-          "version": "4.6.0-preview.18571.3",
-          "downloads": 10395,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview.18571.3.json"
-        },
-        {
-          "version": "4.6.0-preview.19073.11",
-          "downloads": 16892,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview.19073.11.json"
-        },
-        {
-          "version": "4.6.0-preview3.19128.7",
-          "downloads": 6508,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview3.19128.7.json"
-        },
-        {
-          "version": "4.6.0-preview4.19212.13",
-          "downloads": 2830,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview4.19212.13.json"
-        },
-        {
-          "version": "4.6.0-preview5.19224.8",
-          "downloads": 7144,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview5.19224.8.json"
-        },
-        {
-          "version": "4.6.0-preview6.19264.9",
-          "downloads": 169,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview6.19264.9.json"
-        },
-        {
-          "version": "4.6.0-preview6.19303.8",
-          "downloads": 55116,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview6.19303.8.json"
-        },
-        {
-          "version": "4.6.0-preview7.19362.9",
-          "downloads": 26674,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview7.19362.9.json"
-        },
-        {
-          "version": "4.6.0-preview8.19405.3",
-          "downloads": 51851,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview8.19405.3.json"
-        },
-        {
-          "version": "4.6.0-preview9.19416.11",
-          "downloads": 163,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview9.19416.11.json"
-        },
-        {
-          "version": "4.6.0-preview9.19421.4",
-          "downloads": 23116,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview9.19421.4.json"
-        },
-        {
-          "version": "4.6.0-rc1.19456.4",
-          "downloads": 20092,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-rc1.19456.4.json"
-        },
-        {
-          "version": "4.6.0",
-          "downloads": 5778714,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0.json"
-        },
-        {
-          "version": "4.7.0-preview1.19504.10",
-          "downloads": 14572,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.7.0-preview1.19504.10.json"
-        },
-        {
-          "version": "4.7.0-preview2.19523.17",
-          "downloads": 6787,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.7.0-preview2.19523.17.json"
-        },
-        {
-          "version": "4.7.0-preview3.19551.4",
-          "downloads": 14804,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.7.0-preview3.19551.4.json"
-        },
-        {
-          "version": "4.7.0",
-          "downloads": 16447912,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.7.0.json"
-        },
-        {
-          "version": "5.0.0-preview.1.20120.5",
-          "downloads": 11510,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-preview.1.20120.5.json"
-        },
-        {
-          "version": "5.0.0-preview.2.20160.6",
-          "downloads": 14058,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-preview.2.20160.6.json"
-        },
-        {
-          "version": "5.0.0-preview.3.20214.6",
-          "downloads": 19872,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-preview.3.20214.6.json"
-        },
-        {
-          "version": "5.0.0-preview.4.20251.6",
-          "downloads": 16494,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-preview.4.20251.6.json"
-        },
-        {
-          "version": "5.0.0-preview.5.20278.1",
-          "downloads": 9787,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-preview.5.20278.1.json"
-        },
-        {
-          "version": "5.0.0-preview.6.20305.6",
-          "downloads": 15765,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-preview.6.20305.6.json"
-        },
-        {
-          "version": "5.0.0-preview.7.20364.11",
-          "downloads": 23165,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-preview.7.20364.11.json"
-        },
-        {
-          "version": "5.0.0-preview.8.20407.11",
-          "downloads": 11658,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-preview.8.20407.11.json"
-        },
-        {
-          "version": "5.0.0-rc.1.20451.14",
-          "downloads": 22889,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-rc.1.20451.14.json"
-        },
-        {
-          "version": "5.0.0-rc.2.20475.5",
-          "downloads": 26388,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-rc.2.20475.5.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 12852,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.core/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.core/index.json",
@@ -29989,6 +29808,197 @@
           "version": "1.49.0",
           "downloads": 301018,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.core/1.49.0.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/index.json",
+      "id": "System.Diagnostics.EventLog",
+      "version": "5.0.0",
+      "description": "Provides the System.Diagnostics.EventLog class, which allows the applications to use the windows event log service.\n\nCommonly Used Types:\nSystem.Diagnostics.EventLog\n \nWhen using NuGet 3.x this package requires at least version 3.4.",
+      "summary": "",
+      "title": "System.Diagnostics.EventLog",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.diagnostics.eventlog/5.0.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Diagnostics.EventLog/5.0.0/license",
+      "projectUrl": "https://github.com/dotnet/runtime",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "totalDownloads": 30879257,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "4.5.0-preview1-25914-04",
+          "downloads": 93015,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.5.0-preview1-25914-04.json"
+        },
+        {
+          "version": "4.5.0-preview1-26216-02",
+          "downloads": 20841,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.5.0-preview1-26216-02.json"
+        },
+        {
+          "version": "4.5.0-preview2-26406-04",
+          "downloads": 16334,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.5.0-preview2-26406-04.json"
+        },
+        {
+          "version": "4.5.0-rc1",
+          "downloads": 33696,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.5.0-rc1.json"
+        },
+        {
+          "version": "4.5.0",
+          "downloads": 8047194,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.5.0.json"
+        },
+        {
+          "version": "4.6.0-preview.18571.3",
+          "downloads": 10395,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview.18571.3.json"
+        },
+        {
+          "version": "4.6.0-preview.19073.11",
+          "downloads": 16892,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview.19073.11.json"
+        },
+        {
+          "version": "4.6.0-preview3.19128.7",
+          "downloads": 6508,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview3.19128.7.json"
+        },
+        {
+          "version": "4.6.0-preview4.19212.13",
+          "downloads": 2830,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview4.19212.13.json"
+        },
+        {
+          "version": "4.6.0-preview5.19224.8",
+          "downloads": 7144,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview5.19224.8.json"
+        },
+        {
+          "version": "4.6.0-preview6.19264.9",
+          "downloads": 169,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview6.19264.9.json"
+        },
+        {
+          "version": "4.6.0-preview6.19303.8",
+          "downloads": 55116,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview6.19303.8.json"
+        },
+        {
+          "version": "4.6.0-preview7.19362.9",
+          "downloads": 26674,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview7.19362.9.json"
+        },
+        {
+          "version": "4.6.0-preview8.19405.3",
+          "downloads": 51851,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview8.19405.3.json"
+        },
+        {
+          "version": "4.6.0-preview9.19416.11",
+          "downloads": 163,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview9.19416.11.json"
+        },
+        {
+          "version": "4.6.0-preview9.19421.4",
+          "downloads": 23116,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-preview9.19421.4.json"
+        },
+        {
+          "version": "4.6.0-rc1.19456.4",
+          "downloads": 20092,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0-rc1.19456.4.json"
+        },
+        {
+          "version": "4.6.0",
+          "downloads": 5778714,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.6.0.json"
+        },
+        {
+          "version": "4.7.0-preview1.19504.10",
+          "downloads": 14572,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.7.0-preview1.19504.10.json"
+        },
+        {
+          "version": "4.7.0-preview2.19523.17",
+          "downloads": 6787,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.7.0-preview2.19523.17.json"
+        },
+        {
+          "version": "4.7.0-preview3.19551.4",
+          "downloads": 14804,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.7.0-preview3.19551.4.json"
+        },
+        {
+          "version": "4.7.0",
+          "downloads": 16447912,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/4.7.0.json"
+        },
+        {
+          "version": "5.0.0-preview.1.20120.5",
+          "downloads": 11510,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-preview.1.20120.5.json"
+        },
+        {
+          "version": "5.0.0-preview.2.20160.6",
+          "downloads": 14058,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-preview.2.20160.6.json"
+        },
+        {
+          "version": "5.0.0-preview.3.20214.6",
+          "downloads": 19872,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-preview.3.20214.6.json"
+        },
+        {
+          "version": "5.0.0-preview.4.20251.6",
+          "downloads": 16494,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-preview.4.20251.6.json"
+        },
+        {
+          "version": "5.0.0-preview.5.20278.1",
+          "downloads": 9787,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-preview.5.20278.1.json"
+        },
+        {
+          "version": "5.0.0-preview.6.20305.6",
+          "downloads": 15765,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-preview.6.20305.6.json"
+        },
+        {
+          "version": "5.0.0-preview.7.20364.11",
+          "downloads": 23165,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-preview.7.20364.11.json"
+        },
+        {
+          "version": "5.0.0-preview.8.20407.11",
+          "downloads": 11658,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-preview.8.20407.11.json"
+        },
+        {
+          "version": "5.0.0-rc.1.20451.14",
+          "downloads": 22889,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-rc.1.20451.14.json"
+        },
+        {
+          "version": "5.0.0-rc.2.20475.5",
+          "downloads": 26388,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0-rc.2.20475.5.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 12852,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0.json"
         }
       ]
     },
