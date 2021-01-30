@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 225882,
+  "totalHits": 226023,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -5712,11 +5712,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "3.5.2.3",
+      "version": "3.5.2.4",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.5.2.3/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.5.2.4/icon",
       "licenseUrl": "http://aws.amazon.com/apache2.0/",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
@@ -8205,6 +8205,11 @@
           "version": "3.5.2.3",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.5.2.3.json"
+        },
+        {
+          "version": "3.5.2.4",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.5.2.4.json"
         }
       ]
     },
@@ -11264,6 +11269,49 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/index.json",
+      "id": "Newtonsoft.Json.Bson",
+      "version": "1.0.2",
+      "description": "Json.NET BSON adds support for reading and writing BSON",
+      "summary": "",
+      "title": "Newtonsoft.Json.Bson",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/newtonsoft.json.bson/1.0.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Newtonsoft.Json.Bson/1.0.2/license",
+      "projectUrl": "http://www.newtonsoft.com/json",
+      "tags": [
+        "bson"
+      ],
+      "authors": [
+        "James Newton-King"
+      ],
+      "totalDownloads": 77871734,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.1",
+          "downloads": 37132711,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.1.json"
+        },
+        {
+          "version": "1.0.2-beta1",
+          "downloads": 779,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.2-beta1.json"
+        },
+        {
+          "version": "1.0.2",
+          "downloads": 40736458,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.2.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/autofac/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/autofac/index.json",
@@ -11651,49 +11699,6 @@
           "version": "6.1.0",
           "downloads": 259253,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/autofac/6.1.0.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/index.json",
-      "id": "Newtonsoft.Json.Bson",
-      "version": "1.0.2",
-      "description": "Json.NET BSON adds support for reading and writing BSON",
-      "summary": "",
-      "title": "Newtonsoft.Json.Bson",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/newtonsoft.json.bson/1.0.2/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Newtonsoft.Json.Bson/1.0.2/license",
-      "projectUrl": "http://www.newtonsoft.com/json",
-      "tags": [
-        "bson"
-      ],
-      "authors": [
-        "James Newton-King"
-      ],
-      "totalDownloads": 77871734,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.1",
-          "downloads": 37132711,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.1.json"
-        },
-        {
-          "version": "1.0.2-beta1",
-          "downloads": 779,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.2-beta1.json"
-        },
-        {
-          "version": "1.0.2",
-          "downloads": 40736458,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.2.json"
         }
       ]
     },
@@ -13282,6 +13287,378 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/index.json",
+      "id": "log4net",
+      "version": "2.0.12",
+      "description": "log4net is a tool to help the programmer output log statements to a variety of output targets. In case of problems with an application, it is helpful to enable logging so that the problem can be located. With log4net it is possible to enable logging at runtime without modifying the application binary. The log4net package is designed so that log statements can remain in shipped code without incurring a high performance cost. It follows that the speed of logging (or rather not logging) is crucial.\n\n      At the same time, log output can be so voluminous that it quickly becomes overwhelming. One of the distinctive features of log4net is the notion of hierarchical loggers. Using these loggers it is possible to selectively control which log statements are output at arbitrary granularity.\n\n      log4net is designed with two distinct goals in mind: speed and flexibility",
+      "summary": "The Apache log4net library is a tool to help the programmer output log statements to a variety of output targets.",
+      "title": "Apache log4net",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/log4net/2.0.12/icon",
+      "licenseUrl": "https://www.nuget.org/packages/log4net/2.0.12/license",
+      "projectUrl": "https://logging.apache.org/log4net/",
+      "tags": [
+        "logging",
+        "log",
+        "tracing",
+        "logfiles"
+      ],
+      "authors": [
+        "The Apache Software Foundation"
+      ],
+      "totalDownloads": 69571666,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.2.10",
+          "downloads": 4091683,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/1.2.10.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 2367944,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.0.json"
+        },
+        {
+          "version": "2.0.1",
+          "downloads": 140842,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.1.json"
+        },
+        {
+          "version": "2.0.2",
+          "downloads": 330884,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.2.json"
+        },
+        {
+          "version": "2.0.3",
+          "downloads": 8377206,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.3.json"
+        },
+        {
+          "version": "2.0.4",
+          "downloads": 482947,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.4.json"
+        },
+        {
+          "version": "2.0.5",
+          "downloads": 8549068,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.5.json"
+        },
+        {
+          "version": "2.0.6",
+          "downloads": 525605,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.6.json"
+        },
+        {
+          "version": "2.0.7",
+          "downloads": 2078059,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.7.json"
+        },
+        {
+          "version": "2.0.8",
+          "downloads": 40790800,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.8.json"
+        },
+        {
+          "version": "2.0.9",
+          "downloads": 239333,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.9.json"
+        },
+        {
+          "version": "2.0.10",
+          "downloads": 221693,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.10.json"
+        },
+        {
+          "version": "2.0.11",
+          "downloads": 395285,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.11.json"
+        },
+        {
+          "version": "2.0.12",
+          "downloads": 550873,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.12.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/index.json",
+      "id": "Microsoft.Extensions.Http",
+      "version": "5.0.0",
+      "description": "The HttpClient factory is a pattern for configuring and retrieving named HttpClients in a composable way. The HttpClient factory provides extensibility to plug in DelegatingHandlers that address cross-cutting concerns such as service location, load balancing, and reliability. The default HttpClient factory provides built-in diagnostics and logging and manages the lifetimes of connections in a performant way.\n\nCommonly Used Types:\nSystem.Net.Http.IHttpClientFactory\n \nWhen using NuGet 3.x this package requires at least version 3.4.",
+      "summary": "",
+      "title": "Microsoft.Extensions.Http",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.http/5.0.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Http/5.0.0/license",
+      "projectUrl": "https://github.com/dotnet/runtime",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "totalDownloads": 69332885,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.1.0-preview1-final",
+          "downloads": 27635,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.1.0-preview1-final.json"
+        },
+        {
+          "version": "2.1.0-preview2-final",
+          "downloads": 17915,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.1.0-preview2-final.json"
+        },
+        {
+          "version": "2.1.0-rc1-final",
+          "downloads": 38002,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.1.0-rc1-final.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 8229588,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.1.0.json"
+        },
+        {
+          "version": "2.1.1",
+          "downloads": 12596414,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.1.1.json"
+        },
+        {
+          "version": "2.2.0-preview1-35029",
+          "downloads": 5613,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.2.0-preview1-35029.json"
+        },
+        {
+          "version": "2.2.0-preview2-35157",
+          "downloads": 10017,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.2.0-preview2-35157.json"
+        },
+        {
+          "version": "2.2.0-preview3-35497",
+          "downloads": 67877,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.2.0-preview3-35497.json"
+        },
+        {
+          "version": "2.2.0",
+          "downloads": 11993358,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.2.0.json"
+        },
+        {
+          "version": "3.0.0-preview.18572.1",
+          "downloads": 5376,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview.18572.1.json"
+        },
+        {
+          "version": "3.0.0-preview.19074.2",
+          "downloads": 3864,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview.19074.2.json"
+        },
+        {
+          "version": "3.0.0-preview3.19153.1",
+          "downloads": 4316,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview3.19153.1.json"
+        },
+        {
+          "version": "3.0.0-preview4.19216.2",
+          "downloads": 2742,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview4.19216.2.json"
+        },
+        {
+          "version": "3.0.0-preview5.19227.9",
+          "downloads": 13331,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview5.19227.9.json"
+        },
+        {
+          "version": "3.0.0-preview6.19304.6",
+          "downloads": 20443,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview6.19304.6.json"
+        },
+        {
+          "version": "3.0.0-preview7.19362.4",
+          "downloads": 8897,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview7.19362.4.json"
+        },
+        {
+          "version": "3.0.0-preview8.19405.4",
+          "downloads": 13722,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview8.19405.4.json"
+        },
+        {
+          "version": "3.0.0-preview9.19423.4",
+          "downloads": 9683,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview9.19423.4.json"
+        },
+        {
+          "version": "3.0.0-rc1.19456.10",
+          "downloads": 12952,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-rc1.19456.10.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 5128869,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0.json"
+        },
+        {
+          "version": "3.0.1",
+          "downloads": 480397,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.1.json"
+        },
+        {
+          "version": "3.0.2",
+          "downloads": 42113,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.2.json"
+        },
+        {
+          "version": "3.0.3",
+          "downloads": 829752,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.3.json"
+        },
+        {
+          "version": "3.1.0-preview1.19506.1",
+          "downloads": 4109,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.0-preview1.19506.1.json"
+        },
+        {
+          "version": "3.1.0-preview2.19525.4",
+          "downloads": 2183,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.0-preview2.19525.4.json"
+        },
+        {
+          "version": "3.1.0-preview3.19553.2",
+          "downloads": 9959,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.0-preview3.19553.2.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 2983058,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.0.json"
+        },
+        {
+          "version": "3.1.1",
+          "downloads": 2738721,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.1.json"
+        },
+        {
+          "version": "3.1.2",
+          "downloads": 3772483,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.2.json"
+        },
+        {
+          "version": "3.1.3",
+          "downloads": 5498274,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.3.json"
+        },
+        {
+          "version": "3.1.4",
+          "downloads": 2078181,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.4.json"
+        },
+        {
+          "version": "3.1.5",
+          "downloads": 2495938,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.5.json"
+        },
+        {
+          "version": "3.1.6",
+          "downloads": 2012058,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.6.json"
+        },
+        {
+          "version": "3.1.7",
+          "downloads": 2143369,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.7.json"
+        },
+        {
+          "version": "3.1.8",
+          "downloads": 2148543,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.8.json"
+        },
+        {
+          "version": "3.1.9",
+          "downloads": 1398394,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.9.json"
+        },
+        {
+          "version": "3.1.10",
+          "downloads": 608326,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.10.json"
+        },
+        {
+          "version": "3.1.11",
+          "downloads": 43255,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.11.json"
+        },
+        {
+          "version": "5.0.0-preview.1.20120.4",
+          "downloads": 20143,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-preview.1.20120.4.json"
+        },
+        {
+          "version": "5.0.0-preview.2.20160.3",
+          "downloads": 10153,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-preview.2.20160.3.json"
+        },
+        {
+          "version": "5.0.0-preview.3.20215.2",
+          "downloads": 12920,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-preview.3.20215.2.json"
+        },
+        {
+          "version": "5.0.0-preview.4.20251.6",
+          "downloads": 161683,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-preview.4.20251.6.json"
+        },
+        {
+          "version": "5.0.0-preview.5.20278.1",
+          "downloads": 7905,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-preview.5.20278.1.json"
+        },
+        {
+          "version": "5.0.0-preview.6.20305.6",
+          "downloads": 13198,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-preview.6.20305.6.json"
+        },
+        {
+          "version": "5.0.0-preview.7.20364.11",
+          "downloads": 14573,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-preview.7.20364.11.json"
+        },
+        {
+          "version": "5.0.0-preview.8.20407.11",
+          "downloads": 6712,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-preview.8.20407.11.json"
+        },
+        {
+          "version": "5.0.0-rc.1.20451.14",
+          "downloads": 19349,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-rc.1.20451.14.json"
+        },
+        {
+          "version": "5.0.0-rc.2.20475.5",
+          "downloads": 24423,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-rc.2.20475.5.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 1542099,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.logging/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.logging/index.json",
@@ -13652,378 +14029,6 @@
           "version": "3.0.2-dev-10284",
           "downloads": 1450,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.logging/3.0.2-dev-10284.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/index.json",
-      "id": "log4net",
-      "version": "2.0.12",
-      "description": "log4net is a tool to help the programmer output log statements to a variety of output targets. In case of problems with an application, it is helpful to enable logging so that the problem can be located. With log4net it is possible to enable logging at runtime without modifying the application binary. The log4net package is designed so that log statements can remain in shipped code without incurring a high performance cost. It follows that the speed of logging (or rather not logging) is crucial.\n\n      At the same time, log output can be so voluminous that it quickly becomes overwhelming. One of the distinctive features of log4net is the notion of hierarchical loggers. Using these loggers it is possible to selectively control which log statements are output at arbitrary granularity.\n\n      log4net is designed with two distinct goals in mind: speed and flexibility",
-      "summary": "The Apache log4net library is a tool to help the programmer output log statements to a variety of output targets.",
-      "title": "Apache log4net",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/log4net/2.0.12/icon",
-      "licenseUrl": "https://www.nuget.org/packages/log4net/2.0.12/license",
-      "projectUrl": "https://logging.apache.org/log4net/",
-      "tags": [
-        "logging",
-        "log",
-        "tracing",
-        "logfiles"
-      ],
-      "authors": [
-        "The Apache Software Foundation"
-      ],
-      "totalDownloads": 69571666,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.2.10",
-          "downloads": 4091683,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/1.2.10.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 2367944,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.0.json"
-        },
-        {
-          "version": "2.0.1",
-          "downloads": 140842,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.1.json"
-        },
-        {
-          "version": "2.0.2",
-          "downloads": 330884,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.2.json"
-        },
-        {
-          "version": "2.0.3",
-          "downloads": 8377206,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.3.json"
-        },
-        {
-          "version": "2.0.4",
-          "downloads": 482947,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.4.json"
-        },
-        {
-          "version": "2.0.5",
-          "downloads": 8549068,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.5.json"
-        },
-        {
-          "version": "2.0.6",
-          "downloads": 525605,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.6.json"
-        },
-        {
-          "version": "2.0.7",
-          "downloads": 2078059,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.7.json"
-        },
-        {
-          "version": "2.0.8",
-          "downloads": 40790800,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.8.json"
-        },
-        {
-          "version": "2.0.9",
-          "downloads": 239333,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.9.json"
-        },
-        {
-          "version": "2.0.10",
-          "downloads": 221693,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.10.json"
-        },
-        {
-          "version": "2.0.11",
-          "downloads": 395285,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.11.json"
-        },
-        {
-          "version": "2.0.12",
-          "downloads": 550873,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.12.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/index.json",
-      "id": "Microsoft.Extensions.Http",
-      "version": "5.0.0",
-      "description": "The HttpClient factory is a pattern for configuring and retrieving named HttpClients in a composable way. The HttpClient factory provides extensibility to plug in DelegatingHandlers that address cross-cutting concerns such as service location, load balancing, and reliability. The default HttpClient factory provides built-in diagnostics and logging and manages the lifetimes of connections in a performant way.\n\nCommonly Used Types:\nSystem.Net.Http.IHttpClientFactory\n \nWhen using NuGet 3.x this package requires at least version 3.4.",
-      "summary": "",
-      "title": "Microsoft.Extensions.Http",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.http/5.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Http/5.0.0/license",
-      "projectUrl": "https://github.com/dotnet/runtime",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "totalDownloads": 69332885,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.1.0-preview1-final",
-          "downloads": 27635,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.1.0-preview1-final.json"
-        },
-        {
-          "version": "2.1.0-preview2-final",
-          "downloads": 17915,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.1.0-preview2-final.json"
-        },
-        {
-          "version": "2.1.0-rc1-final",
-          "downloads": 38002,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.1.0-rc1-final.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 8229588,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.1.0.json"
-        },
-        {
-          "version": "2.1.1",
-          "downloads": 12596414,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.1.1.json"
-        },
-        {
-          "version": "2.2.0-preview1-35029",
-          "downloads": 5613,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.2.0-preview1-35029.json"
-        },
-        {
-          "version": "2.2.0-preview2-35157",
-          "downloads": 10017,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.2.0-preview2-35157.json"
-        },
-        {
-          "version": "2.2.0-preview3-35497",
-          "downloads": 67877,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.2.0-preview3-35497.json"
-        },
-        {
-          "version": "2.2.0",
-          "downloads": 11993358,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/2.2.0.json"
-        },
-        {
-          "version": "3.0.0-preview.18572.1",
-          "downloads": 5376,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview.18572.1.json"
-        },
-        {
-          "version": "3.0.0-preview.19074.2",
-          "downloads": 3864,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview.19074.2.json"
-        },
-        {
-          "version": "3.0.0-preview3.19153.1",
-          "downloads": 4316,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview3.19153.1.json"
-        },
-        {
-          "version": "3.0.0-preview4.19216.2",
-          "downloads": 2742,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview4.19216.2.json"
-        },
-        {
-          "version": "3.0.0-preview5.19227.9",
-          "downloads": 13331,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview5.19227.9.json"
-        },
-        {
-          "version": "3.0.0-preview6.19304.6",
-          "downloads": 20443,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview6.19304.6.json"
-        },
-        {
-          "version": "3.0.0-preview7.19362.4",
-          "downloads": 8897,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview7.19362.4.json"
-        },
-        {
-          "version": "3.0.0-preview8.19405.4",
-          "downloads": 13722,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview8.19405.4.json"
-        },
-        {
-          "version": "3.0.0-preview9.19423.4",
-          "downloads": 9683,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-preview9.19423.4.json"
-        },
-        {
-          "version": "3.0.0-rc1.19456.10",
-          "downloads": 12952,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0-rc1.19456.10.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 5128869,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.0.json"
-        },
-        {
-          "version": "3.0.1",
-          "downloads": 480397,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.1.json"
-        },
-        {
-          "version": "3.0.2",
-          "downloads": 42113,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.2.json"
-        },
-        {
-          "version": "3.0.3",
-          "downloads": 829752,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.0.3.json"
-        },
-        {
-          "version": "3.1.0-preview1.19506.1",
-          "downloads": 4109,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.0-preview1.19506.1.json"
-        },
-        {
-          "version": "3.1.0-preview2.19525.4",
-          "downloads": 2183,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.0-preview2.19525.4.json"
-        },
-        {
-          "version": "3.1.0-preview3.19553.2",
-          "downloads": 9959,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.0-preview3.19553.2.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 2983058,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.0.json"
-        },
-        {
-          "version": "3.1.1",
-          "downloads": 2738721,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.1.json"
-        },
-        {
-          "version": "3.1.2",
-          "downloads": 3772483,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.2.json"
-        },
-        {
-          "version": "3.1.3",
-          "downloads": 5498274,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.3.json"
-        },
-        {
-          "version": "3.1.4",
-          "downloads": 2078181,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.4.json"
-        },
-        {
-          "version": "3.1.5",
-          "downloads": 2495938,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.5.json"
-        },
-        {
-          "version": "3.1.6",
-          "downloads": 2012058,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.6.json"
-        },
-        {
-          "version": "3.1.7",
-          "downloads": 2143369,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.7.json"
-        },
-        {
-          "version": "3.1.8",
-          "downloads": 2148543,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.8.json"
-        },
-        {
-          "version": "3.1.9",
-          "downloads": 1398394,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.9.json"
-        },
-        {
-          "version": "3.1.10",
-          "downloads": 608326,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.10.json"
-        },
-        {
-          "version": "3.1.11",
-          "downloads": 43255,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/3.1.11.json"
-        },
-        {
-          "version": "5.0.0-preview.1.20120.4",
-          "downloads": 20143,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-preview.1.20120.4.json"
-        },
-        {
-          "version": "5.0.0-preview.2.20160.3",
-          "downloads": 10153,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-preview.2.20160.3.json"
-        },
-        {
-          "version": "5.0.0-preview.3.20215.2",
-          "downloads": 12920,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-preview.3.20215.2.json"
-        },
-        {
-          "version": "5.0.0-preview.4.20251.6",
-          "downloads": 161683,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-preview.4.20251.6.json"
-        },
-        {
-          "version": "5.0.0-preview.5.20278.1",
-          "downloads": 7905,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-preview.5.20278.1.json"
-        },
-        {
-          "version": "5.0.0-preview.6.20305.6",
-          "downloads": 13198,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-preview.6.20305.6.json"
-        },
-        {
-          "version": "5.0.0-preview.7.20364.11",
-          "downloads": 14573,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-preview.7.20364.11.json"
-        },
-        {
-          "version": "5.0.0-preview.8.20407.11",
-          "downloads": 6712,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-preview.8.20407.11.json"
-        },
-        {
-          "version": "5.0.0-rc.1.20451.14",
-          "downloads": 19349,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-rc.1.20451.14.json"
-        },
-        {
-          "version": "5.0.0-rc.2.20475.5",
-          "downloads": 24423,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0-rc.2.20475.5.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 1542099,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/5.0.0.json"
         }
       ]
     },
@@ -19458,7 +19463,7 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/index.json",
       "id": "jQuery.Validation",
-      "version": "1.19.2",
+      "version": "1.19.3",
       "description": "This jQuery plugin makes simple clientside form validation trivial, while offering lots of option for customization. That makes a good choice if you’re building something new from scratch, but also when you’re trying to integrate it into an existing application with lots of existing markup. The plugin comes bundled with a useful set of validation methods, including URL and email validation, while providing an API to write your own methods. All bundled methods come with default error messages in english and translations into 32 languages.\n    NOTE: This package is maintained on behalf of the library owners by the NuGet Community Packages project at http://nugetpackages.codeplex.com/",
       "summary": "",
       "title": "jQuery Validation",
@@ -19577,6 +19582,11 @@
           "version": "1.19.2",
           "downloads": 220528,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.19.2.json"
+        },
+        {
+          "version": "1.19.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.19.3.json"
         }
       ]
     },
@@ -19677,435 +19687,6 @@
           "version": "1.6.0",
           "downloads": 975278,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.services.appauthentication/1.6.0.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/index.json",
-      "id": "Serilog.Settings.Configuration",
-      "version": "3.2.0-dev-00264",
-      "description": "Microsoft.Extensions.Configuration (appsettings.json) support for Serilog.",
-      "summary": "",
-      "title": "Serilog.Settings.Configuration",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/serilog.settings.configuration/3.2.0-dev-00264/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Serilog.Settings.Configuration/3.2.0-dev-00264/license",
-      "projectUrl": "https://github.com/serilog/serilog-settings-configuration/",
-      "tags": [
-        "serilog",
-        "json"
-      ],
-      "authors": [
-        "Serilog Contributors"
-      ],
-      "totalDownloads": 49409351,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.0.0-beta-4",
-          "downloads": 552,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-beta-4.json"
-        },
-        {
-          "version": "2.0.0-beta-5",
-          "downloads": 601,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-beta-5.json"
-        },
-        {
-          "version": "2.0.0-beta-6",
-          "downloads": 1805,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-beta-6.json"
-        },
-        {
-          "version": "2.0.0-rc-13",
-          "downloads": 539,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-rc-13.json"
-        },
-        {
-          "version": "2.0.0-rc-15",
-          "downloads": 542,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-rc-15.json"
-        },
-        {
-          "version": "2.0.0-rc-17",
-          "downloads": 534,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-rc-17.json"
-        },
-        {
-          "version": "2.0.0-rc-19",
-          "downloads": 608,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-rc-19.json"
-        },
-        {
-          "version": "2.0.0-rc-21",
-          "downloads": 703,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-rc-21.json"
-        },
-        {
-          "version": "2.0.0-rc-8",
-          "downloads": 1010,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-rc-8.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 16406,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0.json"
-        },
-        {
-          "version": "2.1.0-dev-00026",
-          "downloads": 640,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.1.0-dev-00026.json"
-        },
-        {
-          "version": "2.1.0-dev-00028",
-          "downloads": 1375,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.1.0-dev-00028.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 39590,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.1.0.json"
-        },
-        {
-          "version": "2.2.0-dev-00035",
-          "downloads": 5920,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.2.0-dev-00035.json"
-        },
-        {
-          "version": "2.2.0",
-          "downloads": 228254,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.2.0.json"
-        },
-        {
-          "version": "2.2.1-dev-00041",
-          "downloads": 542,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.2.1-dev-00041.json"
-        },
-        {
-          "version": "2.3.0-dev-00042",
-          "downloads": 4169,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.3.0-dev-00042.json"
-        },
-        {
-          "version": "2.3.0-dev-00044",
-          "downloads": 2790,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.3.0-dev-00044.json"
-        },
-        {
-          "version": "2.3.0",
-          "downloads": 12983,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.3.0.json"
-        },
-        {
-          "version": "2.3.1-dev-00049",
-          "downloads": 547,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.3.1-dev-00049.json"
-        },
-        {
-          "version": "2.3.1",
-          "downloads": 103336,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.3.1.json"
-        },
-        {
-          "version": "2.3.2-dev-00054",
-          "downloads": 515,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.3.2-dev-00054.json"
-        },
-        {
-          "version": "2.4.0-dev-00055",
-          "downloads": 1003,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.4.0-dev-00055.json"
-        },
-        {
-          "version": "2.4.0-dev-00057",
-          "downloads": 4045,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.4.0-dev-00057.json"
-        },
-        {
-          "version": "2.4.0",
-          "downloads": 1646588,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.4.0.json"
-        },
-        {
-          "version": "2.4.1-dev-00061",
-          "downloads": 21468,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.4.1-dev-00061.json"
-        },
-        {
-          "version": "2.4.1-dev-00063",
-          "downloads": 11080,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.4.1-dev-00063.json"
-        },
-        {
-          "version": "2.4.1-dev-00070",
-          "downloads": 19802,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.4.1-dev-00070.json"
-        },
-        {
-          "version": "2.4.1-dev-00072",
-          "downloads": 3420,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.4.1-dev-00072.json"
-        },
-        {
-          "version": "2.5.0",
-          "downloads": 455459,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.5.0.json"
-        },
-        {
-          "version": "2.5.1-dev-00078",
-          "downloads": 493,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.5.1-dev-00078.json"
-        },
-        {
-          "version": "2.6.0-dev-00081",
-          "downloads": 7484,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.6.0-dev-00081.json"
-        },
-        {
-          "version": "2.6.0",
-          "downloads": 12446,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.6.0.json"
-        },
-        {
-          "version": "2.6.1",
-          "downloads": 5401391,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.6.1.json"
-        },
-        {
-          "version": "3.0.0-dev-00083",
-          "downloads": 20290,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00083.json"
-        },
-        {
-          "version": "3.0.0-dev-00093",
-          "downloads": 12252,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00093.json"
-        },
-        {
-          "version": "3.0.0-dev-00097",
-          "downloads": 3164,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00097.json"
-        },
-        {
-          "version": "3.0.0-dev-00103",
-          "downloads": 1510,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00103.json"
-        },
-        {
-          "version": "3.0.0-dev-00108",
-          "downloads": 2083,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00108.json"
-        },
-        {
-          "version": "3.0.0-dev-00111",
-          "downloads": 1278,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00111.json"
-        },
-        {
-          "version": "3.0.0-dev-00112",
-          "downloads": 41100,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00112.json"
-        },
-        {
-          "version": "3.0.0-dev-00113",
-          "downloads": 10273,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00113.json"
-        },
-        {
-          "version": "3.0.0-dev-00116",
-          "downloads": 5949,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00116.json"
-        },
-        {
-          "version": "3.0.0-dev-00119",
-          "downloads": 29011,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00119.json"
-        },
-        {
-          "version": "3.0.0-dev-00125",
-          "downloads": 3200,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00125.json"
-        },
-        {
-          "version": "3.0.0-dev-00128",
-          "downloads": 1422,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00128.json"
-        },
-        {
-          "version": "3.0.0-dev-00133",
-          "downloads": 2351,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00133.json"
-        },
-        {
-          "version": "3.0.0-dev-00139",
-          "downloads": 366,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00139.json"
-        },
-        {
-          "version": "3.0.0-dev-00142",
-          "downloads": 347,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00142.json"
-        },
-        {
-          "version": "3.0.0-dev-00147",
-          "downloads": 332,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00147.json"
-        },
-        {
-          "version": "3.0.0-dev-00149",
-          "downloads": 348,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00149.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 364869,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0.json"
-        },
-        {
-          "version": "3.0.1-dev-00160",
-          "downloads": 2984,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.1-dev-00160.json"
-        },
-        {
-          "version": "3.0.1-dev-00163",
-          "downloads": 599,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.1-dev-00163.json"
-        },
-        {
-          "version": "3.0.1",
-          "downloads": 7521824,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.1.json"
-        },
-        {
-          "version": "3.0.2-dev-00171",
-          "downloads": 528,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.2-dev-00171.json"
-        },
-        {
-          "version": "3.0.2-dev-00183",
-          "downloads": 363,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.2-dev-00183.json"
-        },
-        {
-          "version": "3.0.2-dev-00185",
-          "downloads": 367,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.2-dev-00185.json"
-        },
-        {
-          "version": "3.0.2-dev-00186",
-          "downloads": 413,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.2-dev-00186.json"
-        },
-        {
-          "version": "3.0.2-dev-00187",
-          "downloads": 55490,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.2-dev-00187.json"
-        },
-        {
-          "version": "3.0.2-dev-00195",
-          "downloads": 10857,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.2-dev-00195.json"
-        },
-        {
-          "version": "3.0.2-dev-00198",
-          "downloads": 1991,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.2-dev-00198.json"
-        },
-        {
-          "version": "3.1.0-dev-00200",
-          "downloads": 305,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.0-dev-00200.json"
-        },
-        {
-          "version": "3.1.0-dev-00202",
-          "downloads": 306,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.0-dev-00202.json"
-        },
-        {
-          "version": "3.1.0-dev-00204",
-          "downloads": 336,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.0-dev-00204.json"
-        },
-        {
-          "version": "3.1.0-dev-00206",
-          "downloads": 326,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.0-dev-00206.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 32645084,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.0.json"
-        },
-        {
-          "version": "3.1.1-dev-00209",
-          "downloads": 207114,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.1-dev-00209.json"
-        },
-        {
-          "version": "3.1.1-dev-00216",
-          "downloads": 267872,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.1-dev-00216.json"
-        },
-        {
-          "version": "3.1.1-dev-00224",
-          "downloads": 33789,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.1-dev-00224.json"
-        },
-        {
-          "version": "3.1.1-dev-00228",
-          "downloads": 369,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.1-dev-00228.json"
-        },
-        {
-          "version": "3.1.1-dev-00232",
-          "downloads": 473,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.1-dev-00232.json"
-        },
-        {
-          "version": "3.1.1-dev-00234",
-          "downloads": 530,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.1-dev-00234.json"
-        },
-        {
-          "version": "3.1.1-dev-00237",
-          "downloads": 5635,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.1-dev-00237.json"
-        },
-        {
-          "version": "3.2.0-dev-00239",
-          "downloads": 4934,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.2.0-dev-00239.json"
-        },
-        {
-          "version": "3.2.0-dev-00244",
-          "downloads": 120940,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.2.0-dev-00244.json"
-        },
-        {
-          "version": "3.2.0-dev-00249",
-          "downloads": 6573,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.2.0-dev-00249.json"
-        },
-        {
-          "version": "3.2.0-dev-00257",
-          "downloads": 349,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.2.0-dev-00257.json"
-        },
-        {
-          "version": "3.2.0-dev-00261",
-          "downloads": 291,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.2.0-dev-00261.json"
-        },
-        {
-          "version": "3.2.0-dev-00264",
-          "downloads": 9924,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.2.0-dev-00264.json"
         }
       ]
     },
@@ -21012,6 +20593,435 @@
           "version": "1.1.1-dev-00940",
           "downloads": 28715,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.1.1-dev-00940.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/index.json",
+      "id": "Serilog.Settings.Configuration",
+      "version": "3.2.0-dev-00264",
+      "description": "Microsoft.Extensions.Configuration (appsettings.json) support for Serilog.",
+      "summary": "",
+      "title": "Serilog.Settings.Configuration",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/serilog.settings.configuration/3.2.0-dev-00264/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Serilog.Settings.Configuration/3.2.0-dev-00264/license",
+      "projectUrl": "https://github.com/serilog/serilog-settings-configuration/",
+      "tags": [
+        "serilog",
+        "json"
+      ],
+      "authors": [
+        "Serilog Contributors"
+      ],
+      "totalDownloads": 49409351,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.0.0-beta-4",
+          "downloads": 552,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-beta-4.json"
+        },
+        {
+          "version": "2.0.0-beta-5",
+          "downloads": 601,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-beta-5.json"
+        },
+        {
+          "version": "2.0.0-beta-6",
+          "downloads": 1805,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-beta-6.json"
+        },
+        {
+          "version": "2.0.0-rc-13",
+          "downloads": 539,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-rc-13.json"
+        },
+        {
+          "version": "2.0.0-rc-15",
+          "downloads": 542,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-rc-15.json"
+        },
+        {
+          "version": "2.0.0-rc-17",
+          "downloads": 534,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-rc-17.json"
+        },
+        {
+          "version": "2.0.0-rc-19",
+          "downloads": 608,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-rc-19.json"
+        },
+        {
+          "version": "2.0.0-rc-21",
+          "downloads": 703,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-rc-21.json"
+        },
+        {
+          "version": "2.0.0-rc-8",
+          "downloads": 1010,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0-rc-8.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 16406,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.0.0.json"
+        },
+        {
+          "version": "2.1.0-dev-00026",
+          "downloads": 640,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.1.0-dev-00026.json"
+        },
+        {
+          "version": "2.1.0-dev-00028",
+          "downloads": 1375,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.1.0-dev-00028.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 39590,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.1.0.json"
+        },
+        {
+          "version": "2.2.0-dev-00035",
+          "downloads": 5920,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.2.0-dev-00035.json"
+        },
+        {
+          "version": "2.2.0",
+          "downloads": 228254,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.2.0.json"
+        },
+        {
+          "version": "2.2.1-dev-00041",
+          "downloads": 542,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.2.1-dev-00041.json"
+        },
+        {
+          "version": "2.3.0-dev-00042",
+          "downloads": 4169,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.3.0-dev-00042.json"
+        },
+        {
+          "version": "2.3.0-dev-00044",
+          "downloads": 2790,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.3.0-dev-00044.json"
+        },
+        {
+          "version": "2.3.0",
+          "downloads": 12983,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.3.0.json"
+        },
+        {
+          "version": "2.3.1-dev-00049",
+          "downloads": 547,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.3.1-dev-00049.json"
+        },
+        {
+          "version": "2.3.1",
+          "downloads": 103336,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.3.1.json"
+        },
+        {
+          "version": "2.3.2-dev-00054",
+          "downloads": 515,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.3.2-dev-00054.json"
+        },
+        {
+          "version": "2.4.0-dev-00055",
+          "downloads": 1003,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.4.0-dev-00055.json"
+        },
+        {
+          "version": "2.4.0-dev-00057",
+          "downloads": 4045,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.4.0-dev-00057.json"
+        },
+        {
+          "version": "2.4.0",
+          "downloads": 1646588,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.4.0.json"
+        },
+        {
+          "version": "2.4.1-dev-00061",
+          "downloads": 21468,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.4.1-dev-00061.json"
+        },
+        {
+          "version": "2.4.1-dev-00063",
+          "downloads": 11080,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.4.1-dev-00063.json"
+        },
+        {
+          "version": "2.4.1-dev-00070",
+          "downloads": 19802,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.4.1-dev-00070.json"
+        },
+        {
+          "version": "2.4.1-dev-00072",
+          "downloads": 3420,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.4.1-dev-00072.json"
+        },
+        {
+          "version": "2.5.0",
+          "downloads": 455459,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.5.0.json"
+        },
+        {
+          "version": "2.5.1-dev-00078",
+          "downloads": 493,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.5.1-dev-00078.json"
+        },
+        {
+          "version": "2.6.0-dev-00081",
+          "downloads": 7484,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.6.0-dev-00081.json"
+        },
+        {
+          "version": "2.6.0",
+          "downloads": 12446,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.6.0.json"
+        },
+        {
+          "version": "2.6.1",
+          "downloads": 5401391,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/2.6.1.json"
+        },
+        {
+          "version": "3.0.0-dev-00083",
+          "downloads": 20290,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00083.json"
+        },
+        {
+          "version": "3.0.0-dev-00093",
+          "downloads": 12252,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00093.json"
+        },
+        {
+          "version": "3.0.0-dev-00097",
+          "downloads": 3164,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00097.json"
+        },
+        {
+          "version": "3.0.0-dev-00103",
+          "downloads": 1510,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00103.json"
+        },
+        {
+          "version": "3.0.0-dev-00108",
+          "downloads": 2083,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00108.json"
+        },
+        {
+          "version": "3.0.0-dev-00111",
+          "downloads": 1278,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00111.json"
+        },
+        {
+          "version": "3.0.0-dev-00112",
+          "downloads": 41100,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00112.json"
+        },
+        {
+          "version": "3.0.0-dev-00113",
+          "downloads": 10273,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00113.json"
+        },
+        {
+          "version": "3.0.0-dev-00116",
+          "downloads": 5949,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00116.json"
+        },
+        {
+          "version": "3.0.0-dev-00119",
+          "downloads": 29011,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00119.json"
+        },
+        {
+          "version": "3.0.0-dev-00125",
+          "downloads": 3200,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00125.json"
+        },
+        {
+          "version": "3.0.0-dev-00128",
+          "downloads": 1422,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00128.json"
+        },
+        {
+          "version": "3.0.0-dev-00133",
+          "downloads": 2351,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00133.json"
+        },
+        {
+          "version": "3.0.0-dev-00139",
+          "downloads": 366,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00139.json"
+        },
+        {
+          "version": "3.0.0-dev-00142",
+          "downloads": 347,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00142.json"
+        },
+        {
+          "version": "3.0.0-dev-00147",
+          "downloads": 332,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00147.json"
+        },
+        {
+          "version": "3.0.0-dev-00149",
+          "downloads": 348,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0-dev-00149.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 364869,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.0.json"
+        },
+        {
+          "version": "3.0.1-dev-00160",
+          "downloads": 2984,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.1-dev-00160.json"
+        },
+        {
+          "version": "3.0.1-dev-00163",
+          "downloads": 599,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.1-dev-00163.json"
+        },
+        {
+          "version": "3.0.1",
+          "downloads": 7521824,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.1.json"
+        },
+        {
+          "version": "3.0.2-dev-00171",
+          "downloads": 528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.2-dev-00171.json"
+        },
+        {
+          "version": "3.0.2-dev-00183",
+          "downloads": 363,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.2-dev-00183.json"
+        },
+        {
+          "version": "3.0.2-dev-00185",
+          "downloads": 367,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.2-dev-00185.json"
+        },
+        {
+          "version": "3.0.2-dev-00186",
+          "downloads": 413,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.2-dev-00186.json"
+        },
+        {
+          "version": "3.0.2-dev-00187",
+          "downloads": 55490,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.2-dev-00187.json"
+        },
+        {
+          "version": "3.0.2-dev-00195",
+          "downloads": 10857,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.2-dev-00195.json"
+        },
+        {
+          "version": "3.0.2-dev-00198",
+          "downloads": 1991,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.0.2-dev-00198.json"
+        },
+        {
+          "version": "3.1.0-dev-00200",
+          "downloads": 305,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.0-dev-00200.json"
+        },
+        {
+          "version": "3.1.0-dev-00202",
+          "downloads": 306,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.0-dev-00202.json"
+        },
+        {
+          "version": "3.1.0-dev-00204",
+          "downloads": 336,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.0-dev-00204.json"
+        },
+        {
+          "version": "3.1.0-dev-00206",
+          "downloads": 326,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.0-dev-00206.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 32645084,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.0.json"
+        },
+        {
+          "version": "3.1.1-dev-00209",
+          "downloads": 207114,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.1-dev-00209.json"
+        },
+        {
+          "version": "3.1.1-dev-00216",
+          "downloads": 267872,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.1-dev-00216.json"
+        },
+        {
+          "version": "3.1.1-dev-00224",
+          "downloads": 33789,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.1-dev-00224.json"
+        },
+        {
+          "version": "3.1.1-dev-00228",
+          "downloads": 369,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.1-dev-00228.json"
+        },
+        {
+          "version": "3.1.1-dev-00232",
+          "downloads": 473,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.1-dev-00232.json"
+        },
+        {
+          "version": "3.1.1-dev-00234",
+          "downloads": 530,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.1-dev-00234.json"
+        },
+        {
+          "version": "3.1.1-dev-00237",
+          "downloads": 5635,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.1.1-dev-00237.json"
+        },
+        {
+          "version": "3.2.0-dev-00239",
+          "downloads": 4934,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.2.0-dev-00239.json"
+        },
+        {
+          "version": "3.2.0-dev-00244",
+          "downloads": 120940,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.2.0-dev-00244.json"
+        },
+        {
+          "version": "3.2.0-dev-00249",
+          "downloads": 6573,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.2.0-dev-00249.json"
+        },
+        {
+          "version": "3.2.0-dev-00257",
+          "downloads": 349,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.2.0-dev-00257.json"
+        },
+        {
+          "version": "3.2.0-dev-00261",
+          "downloads": 291,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.2.0-dev-00261.json"
+        },
+        {
+          "version": "3.2.0-dev-00264",
+          "downloads": 9924,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/3.2.0-dev-00264.json"
         }
       ]
     },
@@ -22926,181 +22936,15 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/index.json",
-      "id": "System.Windows.Extensions",
-      "version": "5.0.0",
-      "description": "Provides miscellaneous Windows-specific types\n\nCommonly Used Types:\nSystem.Security.Cryptography.X509Certificates.X509Certificate2UI\nSystem.Security.Cryptography.X509Certificates.X509SelectionFlag\n \nWhen using NuGet 3.x this package requires at least version 3.4.",
-      "summary": "",
-      "title": "System.Windows.Extensions",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.windows.extensions/5.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Windows.Extensions/5.0.0/license",
-      "projectUrl": "https://github.com/dotnet/runtime",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "totalDownloads": 42408720,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "4.6.0-preview.18571.3",
-          "downloads": 575,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview.18571.3.json"
-        },
-        {
-          "version": "4.6.0-preview.19073.11",
-          "downloads": 342,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview.19073.11.json"
-        },
-        {
-          "version": "4.6.0-preview3.19128.7",
-          "downloads": 425,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview3.19128.7.json"
-        },
-        {
-          "version": "4.6.0-preview4.19212.13",
-          "downloads": 611,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview4.19212.13.json"
-        },
-        {
-          "version": "4.6.0-preview5.19224.8",
-          "downloads": 328,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview5.19224.8.json"
-        },
-        {
-          "version": "4.6.0-preview6.19264.9",
-          "downloads": 149,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview6.19264.9.json"
-        },
-        {
-          "version": "4.6.0-preview6.19303.8",
-          "downloads": 467,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview6.19303.8.json"
-        },
-        {
-          "version": "4.6.0-preview7.19362.9",
-          "downloads": 430,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview7.19362.9.json"
-        },
-        {
-          "version": "4.6.0-preview8.19405.3",
-          "downloads": 39381,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview8.19405.3.json"
-        },
-        {
-          "version": "4.6.0-preview9.19416.11",
-          "downloads": 157,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview9.19416.11.json"
-        },
-        {
-          "version": "4.6.0-preview9.19421.4",
-          "downloads": 15799,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview9.19421.4.json"
-        },
-        {
-          "version": "4.6.0-rc1.19456.4",
-          "downloads": 10926,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-rc1.19456.4.json"
-        },
-        {
-          "version": "4.6.0",
-          "downloads": 9802201,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0.json"
-        },
-        {
-          "version": "4.7.0-preview1.19504.10",
-          "downloads": 15824,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.7.0-preview1.19504.10.json"
-        },
-        {
-          "version": "4.7.0-preview2.19523.17",
-          "downloads": 9026,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.7.0-preview2.19523.17.json"
-        },
-        {
-          "version": "4.7.0-preview3.19551.4",
-          "downloads": 17078,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.7.0-preview3.19551.4.json"
-        },
-        {
-          "version": "4.7.0",
-          "downloads": 30407508,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.7.0.json"
-        },
-        {
-          "version": "5.0.0-preview.1.20120.5",
-          "downloads": 17817,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-preview.1.20120.5.json"
-        },
-        {
-          "version": "5.0.0-preview.2.20160.6",
-          "downloads": 18978,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-preview.2.20160.6.json"
-        },
-        {
-          "version": "5.0.0-preview.3.20214.6",
-          "downloads": 24653,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-preview.3.20214.6.json"
-        },
-        {
-          "version": "5.0.0-preview.4.20251.6",
-          "downloads": 26936,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-preview.4.20251.6.json"
-        },
-        {
-          "version": "5.0.0-preview.5.20278.1",
-          "downloads": 15948,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-preview.5.20278.1.json"
-        },
-        {
-          "version": "5.0.0-preview.6.20305.6",
-          "downloads": 14030,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-preview.6.20305.6.json"
-        },
-        {
-          "version": "5.0.0-preview.7.20364.11",
-          "downloads": 35036,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-preview.7.20364.11.json"
-        },
-        {
-          "version": "5.0.0-preview.8.20407.11",
-          "downloads": 31904,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-preview.8.20407.11.json"
-        },
-        {
-          "version": "5.0.0-rc.1.20451.14",
-          "downloads": 23493,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-rc.1.20451.14.json"
-        },
-        {
-          "version": "5.0.0-rc.2.20475.5",
-          "downloads": 25612,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-rc.2.20475.5.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 1853086,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "id": "AWSSDK.S3",
-      "version": "3.5.7.11",
+      "version": "3.5.7.12",
       "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
       "summary": "",
       "title": "AWSSDK - Amazon Simple Storage Service",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.5.7.11/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.5.7.12/icon",
       "licenseUrl": "http://aws.amazon.com/apache2.0/",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
@@ -25535,6 +25379,177 @@
           "version": "3.5.7.11",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.5.7.11.json"
+        },
+        {
+          "version": "3.5.7.12",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.5.7.12.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/index.json",
+      "id": "System.Windows.Extensions",
+      "version": "5.0.0",
+      "description": "Provides miscellaneous Windows-specific types\n\nCommonly Used Types:\nSystem.Security.Cryptography.X509Certificates.X509Certificate2UI\nSystem.Security.Cryptography.X509Certificates.X509SelectionFlag\n \nWhen using NuGet 3.x this package requires at least version 3.4.",
+      "summary": "",
+      "title": "System.Windows.Extensions",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.windows.extensions/5.0.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Windows.Extensions/5.0.0/license",
+      "projectUrl": "https://github.com/dotnet/runtime",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "totalDownloads": 42408720,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "4.6.0-preview.18571.3",
+          "downloads": 575,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview.18571.3.json"
+        },
+        {
+          "version": "4.6.0-preview.19073.11",
+          "downloads": 342,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview.19073.11.json"
+        },
+        {
+          "version": "4.6.0-preview3.19128.7",
+          "downloads": 425,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview3.19128.7.json"
+        },
+        {
+          "version": "4.6.0-preview4.19212.13",
+          "downloads": 611,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview4.19212.13.json"
+        },
+        {
+          "version": "4.6.0-preview5.19224.8",
+          "downloads": 328,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview5.19224.8.json"
+        },
+        {
+          "version": "4.6.0-preview6.19264.9",
+          "downloads": 149,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview6.19264.9.json"
+        },
+        {
+          "version": "4.6.0-preview6.19303.8",
+          "downloads": 467,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview6.19303.8.json"
+        },
+        {
+          "version": "4.6.0-preview7.19362.9",
+          "downloads": 430,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview7.19362.9.json"
+        },
+        {
+          "version": "4.6.0-preview8.19405.3",
+          "downloads": 39381,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview8.19405.3.json"
+        },
+        {
+          "version": "4.6.0-preview9.19416.11",
+          "downloads": 157,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview9.19416.11.json"
+        },
+        {
+          "version": "4.6.0-preview9.19421.4",
+          "downloads": 15799,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-preview9.19421.4.json"
+        },
+        {
+          "version": "4.6.0-rc1.19456.4",
+          "downloads": 10926,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0-rc1.19456.4.json"
+        },
+        {
+          "version": "4.6.0",
+          "downloads": 9802201,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.6.0.json"
+        },
+        {
+          "version": "4.7.0-preview1.19504.10",
+          "downloads": 15824,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.7.0-preview1.19504.10.json"
+        },
+        {
+          "version": "4.7.0-preview2.19523.17",
+          "downloads": 9026,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.7.0-preview2.19523.17.json"
+        },
+        {
+          "version": "4.7.0-preview3.19551.4",
+          "downloads": 17078,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.7.0-preview3.19551.4.json"
+        },
+        {
+          "version": "4.7.0",
+          "downloads": 30407508,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/4.7.0.json"
+        },
+        {
+          "version": "5.0.0-preview.1.20120.5",
+          "downloads": 17817,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-preview.1.20120.5.json"
+        },
+        {
+          "version": "5.0.0-preview.2.20160.6",
+          "downloads": 18978,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-preview.2.20160.6.json"
+        },
+        {
+          "version": "5.0.0-preview.3.20214.6",
+          "downloads": 24653,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-preview.3.20214.6.json"
+        },
+        {
+          "version": "5.0.0-preview.4.20251.6",
+          "downloads": 26936,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-preview.4.20251.6.json"
+        },
+        {
+          "version": "5.0.0-preview.5.20278.1",
+          "downloads": 15948,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-preview.5.20278.1.json"
+        },
+        {
+          "version": "5.0.0-preview.6.20305.6",
+          "downloads": 14030,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-preview.6.20305.6.json"
+        },
+        {
+          "version": "5.0.0-preview.7.20364.11",
+          "downloads": 35036,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-preview.7.20364.11.json"
+        },
+        {
+          "version": "5.0.0-preview.8.20407.11",
+          "downloads": 31904,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-preview.8.20407.11.json"
+        },
+        {
+          "version": "5.0.0-rc.1.20451.14",
+          "downloads": 23493,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-rc.1.20451.14.json"
+        },
+        {
+          "version": "5.0.0-rc.2.20475.5",
+          "downloads": 25612,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0-rc.2.20475.5.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 1853086,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/5.0.0.json"
         }
       ]
     },
@@ -25970,6 +25985,131 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/index.json",
+      "id": "Pipelines.Sockets.Unofficial",
+      "version": "2.2.0",
+      "description": "Package Description",
+      "summary": "",
+      "title": "Pipelines.Sockets.Unofficial",
+      "licenseUrl": "https://www.nuget.org/packages/Pipelines.Sockets.Unofficial/2.2.0/license",
+      "projectUrl": "https://github.com/mgravell/Pipelines.Sockets.Unofficial",
+      "tags": [],
+      "authors": [
+        "Pipelines.Sockets.Unofficial"
+      ],
+      "totalDownloads": 40595017,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloads": 653378,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/1.0.0.json"
+        },
+        {
+          "version": "1.0.6",
+          "downloads": 32603,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/1.0.6.json"
+        },
+        {
+          "version": "1.0.7",
+          "downloads": 10039626,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/1.0.7.json"
+        },
+        {
+          "version": "1.0.9",
+          "downloads": 273171,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/1.0.9.json"
+        },
+        {
+          "version": "1.1.11",
+          "downloads": 20583,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/1.1.11.json"
+        },
+        {
+          "version": "1.1.14",
+          "downloads": 9367,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/1.1.14.json"
+        },
+        {
+          "version": "1.1.23",
+          "downloads": 13726,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/1.1.23.json"
+        },
+        {
+          "version": "2.0.7",
+          "downloads": 667745,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.0.7.json"
+        },
+        {
+          "version": "2.0.10",
+          "downloads": 1202,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.0.10.json"
+        },
+        {
+          "version": "2.0.11",
+          "downloads": 10909,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.0.11.json"
+        },
+        {
+          "version": "2.0.17",
+          "downloads": 6499238,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.0.17.json"
+        },
+        {
+          "version": "2.0.20",
+          "downloads": 5826,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.0.20.json"
+        },
+        {
+          "version": "2.0.22",
+          "downloads": 12971229,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.0.22.json"
+        },
+        {
+          "version": "2.0.25",
+          "downloads": 184093,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.0.25.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 183248,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.1.0.json"
+        },
+        {
+          "version": "2.1.1",
+          "downloads": 441642,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.1.1.json"
+        },
+        {
+          "version": "2.1.8",
+          "downloads": 262132,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.1.8.json"
+        },
+        {
+          "version": "2.1.11",
+          "downloads": 168498,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.1.11.json"
+        },
+        {
+          "version": "2.1.16",
+          "downloads": 4699424,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.1.16.json"
+        },
+        {
+          "version": "2.2.0",
+          "downloads": 619237,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.2.0.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/index.json",
@@ -26157,131 +26297,6 @@
           "version": "5.0.0",
           "downloads": 1801134,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/5.0.0.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/index.json",
-      "id": "Pipelines.Sockets.Unofficial",
-      "version": "2.2.0",
-      "description": "Package Description",
-      "summary": "",
-      "title": "Pipelines.Sockets.Unofficial",
-      "licenseUrl": "https://www.nuget.org/packages/Pipelines.Sockets.Unofficial/2.2.0/license",
-      "projectUrl": "https://github.com/mgravell/Pipelines.Sockets.Unofficial",
-      "tags": [],
-      "authors": [
-        "Pipelines.Sockets.Unofficial"
-      ],
-      "totalDownloads": 40595017,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "downloads": 653378,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/1.0.0.json"
-        },
-        {
-          "version": "1.0.6",
-          "downloads": 32603,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/1.0.6.json"
-        },
-        {
-          "version": "1.0.7",
-          "downloads": 10039626,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/1.0.7.json"
-        },
-        {
-          "version": "1.0.9",
-          "downloads": 273171,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/1.0.9.json"
-        },
-        {
-          "version": "1.1.11",
-          "downloads": 20583,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/1.1.11.json"
-        },
-        {
-          "version": "1.1.14",
-          "downloads": 9367,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/1.1.14.json"
-        },
-        {
-          "version": "1.1.23",
-          "downloads": 13726,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/1.1.23.json"
-        },
-        {
-          "version": "2.0.7",
-          "downloads": 667745,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.0.7.json"
-        },
-        {
-          "version": "2.0.10",
-          "downloads": 1202,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.0.10.json"
-        },
-        {
-          "version": "2.0.11",
-          "downloads": 10909,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.0.11.json"
-        },
-        {
-          "version": "2.0.17",
-          "downloads": 6499238,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.0.17.json"
-        },
-        {
-          "version": "2.0.20",
-          "downloads": 5826,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.0.20.json"
-        },
-        {
-          "version": "2.0.22",
-          "downloads": 12971229,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.0.22.json"
-        },
-        {
-          "version": "2.0.25",
-          "downloads": 184093,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.0.25.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 183248,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.1.0.json"
-        },
-        {
-          "version": "2.1.1",
-          "downloads": 441642,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.1.1.json"
-        },
-        {
-          "version": "2.1.8",
-          "downloads": 262132,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.1.8.json"
-        },
-        {
-          "version": "2.1.11",
-          "downloads": 168498,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.1.11.json"
-        },
-        {
-          "version": "2.1.16",
-          "downloads": 4699424,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.1.16.json"
-        },
-        {
-          "version": "2.2.0",
-          "downloads": 619237,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.2.0.json"
         }
       ]
     },
@@ -27332,12 +27347,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/csvhelper/index.json",
       "id": "CsvHelper",
-      "version": "21.3.0",
+      "version": "21.3.1",
       "description": "A library for reading and writing CSV files. Extremely fast, flexible, and easy to use. Supports reading and writing of custom class objects.",
       "summary": "",
       "title": "CsvHelper",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/csvhelper/21.3.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/CsvHelper/21.3.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/csvhelper/21.3.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/CsvHelper/21.3.1/license",
       "projectUrl": "https://joshclose.github.io/CsvHelper/",
       "tags": [
         "csv",
@@ -28292,6 +28307,11 @@
           "version": "21.3.0",
           "downloads": 828,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/csvhelper/21.3.0.json"
+        },
+        {
+          "version": "21.3.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/csvhelper/21.3.1.json"
         }
       ]
     },
@@ -28748,11 +28768,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/commonservicelocator/index.json",
       "id": "CommonServiceLocator",
-      "version": "2.0.5",
+      "version": "2.0.6",
       "description": "The library provides an abstraction over IoC containers and service locators. Using the library allows an application to indirectly access the capabilities without relying on hard references.",
       "summary": "",
       "title": "CommonServiceLocator",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/commonservicelocator/2.0.5/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/commonservicelocator/2.0.6/icon",
       "licenseUrl": "https://opensource.org/licenses/MS-PL",
       "projectUrl": "https://github.com/unitycontainer/commonservicelocator",
       "tags": [
@@ -28766,7 +28786,7 @@
         "Location"
       ],
       "authors": [
-        "Microsoft.Practices.ServiceLocation"
+        ".NET Foundation and Contributors"
       ],
       "totalDownloads": 37968205,
       "verified": true,
@@ -28820,6 +28840,11 @@
           "version": "2.0.5",
           "downloads": 1399917,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/commonservicelocator/2.0.5.json"
+        },
+        {
+          "version": "2.0.6",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/commonservicelocator/2.0.6.json"
         }
       ]
     },
@@ -31096,11 +31121,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/unity/index.json",
       "id": "Unity",
-      "version": "5.11.9",
+      "version": "5.11.10",
       "description": "This package contains Unity Container and Abstractions libraries as a single package.",
       "summary": "",
       "title": "Unity",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/unity/5.11.9/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/unity/5.11.10/icon",
       "licenseUrl": "https://github.com/unitycontainer/unity/blob/v5.x/LICENSE",
       "projectUrl": "https://github.com/unitycontainer/unity",
       "tags": [
@@ -31485,102 +31510,11 @@
           "version": "5.11.9",
           "downloads": 68423,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/unity/5.11.9.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/index.json",
-      "id": "Microsoft.Bcl.HashCode",
-      "version": "1.1.1",
-      "description": "Provides the HashCode type for .NET Standard 2.0. This package is not required starting with .NET Standard 2.1 and .NET Core 3.0.\n\nCommonly Used Types:\nSystem.HashCode\n \nWhen using NuGet 3.x this package requires at least version 3.4.",
-      "summary": "",
-      "title": "Microsoft.Bcl.HashCode",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.bcl.hashcode/1.1.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Bcl.HashCode/1.1.1/license",
-      "projectUrl": "https://github.com/dotnet/corefx",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "totalDownloads": 35364959,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0-preview6.19259.10",
-          "downloads": 2185,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/1.0.0-preview6.19259.10.json"
         },
         {
-          "version": "1.0.0-preview6.19264.9",
-          "downloads": 157,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/1.0.0-preview6.19264.9.json"
-        },
-        {
-          "version": "1.0.0-preview6.19303.8",
-          "downloads": 27866,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/1.0.0-preview6.19303.8.json"
-        },
-        {
-          "version": "1.0.0-preview7.19362.9",
-          "downloads": 1313,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/1.0.0-preview7.19362.9.json"
-        },
-        {
-          "version": "1.0.0-preview8.19405.3",
-          "downloads": 6688,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/1.0.0-preview8.19405.3.json"
-        },
-        {
-          "version": "1.0.0-preview9.19416.11",
-          "downloads": 152,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/1.0.0-preview9.19416.11.json"
-        },
-        {
-          "version": "1.0.0-preview9.19421.4",
-          "downloads": 258,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/1.0.0-preview9.19421.4.json"
-        },
-        {
-          "version": "1.0.0-rc1.19456.4",
-          "downloads": 1142,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/1.0.0-rc1.19456.4.json"
-        },
-        {
-          "version": "1.0.0",
-          "downloads": 52307,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/1.0.0.json"
-        },
-        {
-          "version": "1.1.0-preview1.19504.10",
-          "downloads": 181,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/1.1.0-preview1.19504.10.json"
-        },
-        {
-          "version": "1.1.0-preview2.19523.17",
-          "downloads": 25872,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/1.1.0-preview2.19523.17.json"
-        },
-        {
-          "version": "1.1.0-preview3.19551.4",
-          "downloads": 61683,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/1.1.0-preview3.19551.4.json"
-        },
-        {
-          "version": "1.1.0",
-          "downloads": 35094186,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/1.1.0.json"
-        },
-        {
-          "version": "1.1.1",
-          "downloads": 90969,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/1.1.1.json"
+          "version": "5.11.10",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/unity/5.11.10.json"
         }
       ]
     },
@@ -31979,6 +31913,384 @@
           "version": "1.49.0",
           "downloads": 923399,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis/1.49.0.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/index.json",
+      "id": "Google.Apis.Auth",
+      "version": "1.49.0",
+      "description": "The Google APIs Client Library is a runtime client for working with Google services.\n\nThis package includes auth components like user-credential, authorization code flow, etc. for making authenticated calls using the OAuth2 spec.\n\nSupported Platforms:\n- .NET Framework 4.5+\n- NetStandard1.3, providing .NET Core support",
+      "summary": "",
+      "title": "Google APIs Client Library",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/google.apis.auth/1.49.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Google.Apis.Auth/1.49.0/license",
+      "projectUrl": "https://github.com/googleapis/google-api-dotnet-client",
+      "tags": [
+        "Google"
+      ],
+      "authors": [
+        "Google Inc."
+      ],
+      "totalDownloads": 34926447,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.6.0-beta",
+          "downloads": 7698,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.6.0-beta.json"
+        },
+        {
+          "version": "1.6.0.1-beta",
+          "downloads": 5284,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.6.0.1-beta.json"
+        },
+        {
+          "version": "1.7.0-beta",
+          "downloads": 34786,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.7.0-beta.json"
+        },
+        {
+          "version": "1.8.0-rc",
+          "downloads": 7383,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.8.0-rc.json"
+        },
+        {
+          "version": "1.8.1",
+          "downloads": 99823,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.8.1.json"
+        },
+        {
+          "version": "1.8.2",
+          "downloads": 34038,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.8.2.json"
+        },
+        {
+          "version": "1.9.0",
+          "downloads": 289953,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.9.0.json"
+        },
+        {
+          "version": "1.9.1",
+          "downloads": 186576,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.9.1.json"
+        },
+        {
+          "version": "1.9.2",
+          "downloads": 155291,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.9.2.json"
+        },
+        {
+          "version": "1.9.3",
+          "downloads": 106058,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.9.3.json"
+        },
+        {
+          "version": "1.10.0",
+          "downloads": 291879,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.10.0.json"
+        },
+        {
+          "version": "1.10.1-rc1",
+          "downloads": 1029,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.10.1-rc1.json"
+        },
+        {
+          "version": "1.11.1",
+          "downloads": 120739,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.11.1.json"
+        },
+        {
+          "version": "1.13.0",
+          "downloads": 66750,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.13.0.json"
+        },
+        {
+          "version": "1.13.1",
+          "downloads": 69111,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.13.1.json"
+        },
+        {
+          "version": "1.14.0",
+          "downloads": 50496,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.14.0.json"
+        },
+        {
+          "version": "1.14.1",
+          "downloads": 10648,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.14.1.json"
+        },
+        {
+          "version": "1.15.0",
+          "downloads": 237778,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.15.0.json"
+        },
+        {
+          "version": "1.16.0",
+          "downloads": 237283,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.16.0.json"
+        },
+        {
+          "version": "1.17.0",
+          "downloads": 56612,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.17.0.json"
+        },
+        {
+          "version": "1.18.0",
+          "downloads": 59007,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.18.0.json"
+        },
+        {
+          "version": "1.19.0",
+          "downloads": 1368438,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.19.0.json"
+        },
+        {
+          "version": "1.20.0",
+          "downloads": 1658244,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.20.0.json"
+        },
+        {
+          "version": "1.21.0",
+          "downloads": 1050915,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.21.0.json"
+        },
+        {
+          "version": "1.22.0",
+          "downloads": 62665,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.22.0.json"
+        },
+        {
+          "version": "1.23.0",
+          "downloads": 10545,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.23.0.json"
+        },
+        {
+          "version": "1.24.1",
+          "downloads": 118755,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.24.1.json"
+        },
+        {
+          "version": "1.25.0",
+          "downloads": 599899,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.25.0.json"
+        },
+        {
+          "version": "1.26.2",
+          "downloads": 28115,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.26.2.json"
+        },
+        {
+          "version": "1.27.0",
+          "downloads": 22729,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.27.0.json"
+        },
+        {
+          "version": "1.27.1",
+          "downloads": 661445,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.27.1.json"
+        },
+        {
+          "version": "1.28.0",
+          "downloads": 394639,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.28.0.json"
+        },
+        {
+          "version": "1.29.0",
+          "downloads": 11213,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.29.0.json"
+        },
+        {
+          "version": "1.29.1",
+          "downloads": 668030,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.29.1.json"
+        },
+        {
+          "version": "1.29.2",
+          "downloads": 167407,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.29.2.json"
+        },
+        {
+          "version": "1.30.0-beta01",
+          "downloads": 1193,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.30.0-beta01.json"
+        },
+        {
+          "version": "1.30.0-beta02",
+          "downloads": 1700,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.30.0-beta02.json"
+        },
+        {
+          "version": "1.30.0",
+          "downloads": 899095,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.30.0.json"
+        },
+        {
+          "version": "1.31.0-beta01",
+          "downloads": 2561,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.31.0-beta01.json"
+        },
+        {
+          "version": "1.31.1",
+          "downloads": 80138,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.31.1.json"
+        },
+        {
+          "version": "1.32.0",
+          "downloads": 474165,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.32.0.json"
+        },
+        {
+          "version": "1.32.1",
+          "downloads": 73917,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.32.1.json"
+        },
+        {
+          "version": "1.32.2",
+          "downloads": 707907,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.32.2.json"
+        },
+        {
+          "version": "1.33.0",
+          "downloads": 92969,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.33.0.json"
+        },
+        {
+          "version": "1.33.1",
+          "downloads": 208880,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.33.1.json"
+        },
+        {
+          "version": "1.34.0",
+          "downloads": 1011794,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.34.0.json"
+        },
+        {
+          "version": "1.35.0",
+          "downloads": 7686,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.35.0.json"
+        },
+        {
+          "version": "1.35.1",
+          "downloads": 2752676,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.35.1.json"
+        },
+        {
+          "version": "1.35.2",
+          "downloads": 281829,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.35.2.json"
+        },
+        {
+          "version": "1.36.0",
+          "downloads": 66797,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.36.0.json"
+        },
+        {
+          "version": "1.36.1",
+          "downloads": 1088273,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.36.1.json"
+        },
+        {
+          "version": "1.37.0",
+          "downloads": 271290,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.37.0.json"
+        },
+        {
+          "version": "1.38.0",
+          "downloads": 1785862,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.38.0.json"
+        },
+        {
+          "version": "1.38.2",
+          "downloads": 425883,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.38.2.json"
+        },
+        {
+          "version": "1.39.0",
+          "downloads": 425076,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.39.0.json"
+        },
+        {
+          "version": "1.40.0",
+          "downloads": 1199143,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.40.0.json"
+        },
+        {
+          "version": "1.40.1",
+          "downloads": 24935,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.40.1.json"
+        },
+        {
+          "version": "1.40.2",
+          "downloads": 1068193,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.40.2.json"
+        },
+        {
+          "version": "1.40.3",
+          "downloads": 382787,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.40.3.json"
+        },
+        {
+          "version": "1.41.0",
+          "downloads": 24433,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.41.0.json"
+        },
+        {
+          "version": "1.41.1",
+          "downloads": 1906903,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.41.1.json"
+        },
+        {
+          "version": "1.42.0",
+          "downloads": 1344662,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.42.0.json"
+        },
+        {
+          "version": "1.43.0",
+          "downloads": 678579,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.43.0.json"
+        },
+        {
+          "version": "1.44.0",
+          "downloads": 112730,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.44.0.json"
+        },
+        {
+          "version": "1.44.1",
+          "downloads": 3386844,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.44.1.json"
+        },
+        {
+          "version": "1.45.0",
+          "downloads": 2771116,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.45.0.json"
+        },
+        {
+          "version": "1.46.0",
+          "downloads": 503129,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.46.0.json"
+        },
+        {
+          "version": "1.47.0",
+          "downloads": 245292,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.47.0.json"
+        },
+        {
+          "version": "1.48.0",
+          "downloads": 722844,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.48.0.json"
+        },
+        {
+          "version": "1.49.0",
+          "downloads": 899393,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.apis.auth/1.49.0.json"
         }
       ]
     }

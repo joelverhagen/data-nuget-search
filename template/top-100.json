@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 937,
+  "totalHits": 939,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.webjobs.projecttemplates/index.json",
@@ -1995,11 +1995,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/uno.projecttemplates.dotnet/index.json",
       "id": "Uno.ProjectTemplates.Dotnet",
-      "version": "3.5.0-dev.254",
+      "version": "3.5.0-dev.258",
       "description": "Package Description",
       "summary": "",
       "title": "Uno.ProjectTemplates.Dotnet",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/uno.projecttemplates.dotnet/3.5.0-dev.254/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/uno.projecttemplates.dotnet/3.5.0-dev.258/icon",
       "projectUrl": "https://github.com/unoplatform/uno",
       "tags": [
         "dotnet-new",
@@ -7411,6 +7411,16 @@
           "version": "3.5.0-dev.254",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.projecttemplates.dotnet/3.5.0-dev.254.json"
+        },
+        {
+          "version": "3.5.0-dev.256",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.projecttemplates.dotnet/3.5.0-dev.256.json"
+        },
+        {
+          "version": "3.5.0-dev.258",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.projecttemplates.dotnet/3.5.0-dev.258.json"
         }
       ]
     },
@@ -9894,6 +9904,16 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.starwars/11.0.9.json"
         },
         {
+          "version": "11.0.10-preview.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.starwars/11.0.10-preview.2.json"
+        },
+        {
+          "version": "11.0.10-preview.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.starwars/11.0.10-preview.3.json"
+        },
+        {
           "version": "11.1.0-preview.8",
           "downloads": 61,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.starwars/11.1.0-preview.8.json"
@@ -10206,6 +10226,16 @@
           "version": "11.0.9",
           "downloads": 28,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.server/11.0.9.json"
+        },
+        {
+          "version": "11.0.10-preview.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.server/11.0.10-preview.2.json"
+        },
+        {
+          "version": "11.0.10-preview.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.server/11.0.10-preview.3.json"
         },
         {
           "version": "11.1.0-preview.8",
@@ -13205,12 +13235,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.quantum.projecttemplates/index.json",
       "id": "Microsoft.Quantum.ProjectTemplates",
-      "version": "0.15.2101125897",
+      "version": "0.15.2101126940",
       "description": ".NET Core templates pack for Q#, part of the Microsoft Quantum Development Kit.",
       "summary": "",
       "title": "Microsoft Quantum Project Templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.quantum.projecttemplates/0.15.2101125897/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Quantum.ProjectTemplates/0.15.2101125897/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.quantum.projecttemplates/0.15.2101126940/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Quantum.ProjectTemplates/0.15.2101126940/license",
       "projectUrl": "https://docs.microsoft.com/en-us/quantum",
       "tags": [
         "Quantum",
@@ -13537,6 +13567,11 @@
           "version": "0.15.2101125897",
           "downloads": 76,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.quantum.projecttemplates/0.15.2101125897.json"
+        },
+        {
+          "version": "0.15.2101126940",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.quantum.projecttemplates/0.15.2101126940.json"
         }
       ]
     },
@@ -15181,6 +15216,101 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/index.json",
+      "id": "Microsoft.DotNet.Web.Spa.ProjectTemplates.5.0",
+      "version": "5.0.2",
+      "description": "Single Page Application templates for ASP.NET Core\n\nTo install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.Spa.ProjectTemplates.5.0::5.0.2'.\n    \n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/2670c128d522473e146ff9f8159bfffdfe694cd9",
+      "summary": "",
+      "title": "Microsoft.DotNet.Web.Spa.ProjectTemplates.5.0",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.DotNet.Web.Spa.ProjectTemplates.5.0/5.0.2/license",
+      "projectUrl": "https://asp.net/",
+      "tags": [
+        "aspnet",
+        "templates",
+        "spa"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "totalDownloads": 25120,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Template"
+        }
+      ],
+      "versions": [
+        {
+          "version": "5.0.0-preview.1.20124.5",
+          "downloads": 155,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-preview.1.20124.5.json"
+        },
+        {
+          "version": "5.0.0-preview.2.20167.3",
+          "downloads": 137,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-preview.2.20167.3.json"
+        },
+        {
+          "version": "5.0.0-preview.3.20215.14",
+          "downloads": 108,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-preview.3.20215.14.json"
+        },
+        {
+          "version": "5.0.0-preview.4.20257.10",
+          "downloads": 371,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-preview.4.20257.10.json"
+        },
+        {
+          "version": "5.0.0-preview.5.20279.2",
+          "downloads": 113,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-preview.5.20279.2.json"
+        },
+        {
+          "version": "5.0.0-preview.6.20312.15",
+          "downloads": 101,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-preview.6.20312.15.json"
+        },
+        {
+          "version": "5.0.0-preview.7.20365.19",
+          "downloads": 205,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-preview.7.20365.19.json"
+        },
+        {
+          "version": "5.0.0-preview.8.20414.8",
+          "downloads": 1906,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-preview.8.20414.8.json"
+        },
+        {
+          "version": "5.0.0-rc.1.20451.17",
+          "downloads": 728,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-rc.1.20451.17.json"
+        },
+        {
+          "version": "5.0.0-rc.2.20475.17",
+          "downloads": 53,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-rc.2.20475.17.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 4165,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0.json"
+        },
+        {
+          "version": "5.0.1",
+          "downloads": 10141,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.1.json"
+        },
+        {
+          "version": "5.0.2",
+          "downloads": 6937,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.2.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boxed.templates/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/boxed.templates/index.json",
@@ -15483,101 +15613,6 @@
           "version": "5.2.0+build.628",
           "downloads": 75,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boxed.templates/5.2.0.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/index.json",
-      "id": "Microsoft.DotNet.Web.Spa.ProjectTemplates.5.0",
-      "version": "5.0.2",
-      "description": "Single Page Application templates for ASP.NET Core\n\nTo install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.Spa.ProjectTemplates.5.0::5.0.2'.\n    \n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/2670c128d522473e146ff9f8159bfffdfe694cd9",
-      "summary": "",
-      "title": "Microsoft.DotNet.Web.Spa.ProjectTemplates.5.0",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.2/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.DotNet.Web.Spa.ProjectTemplates.5.0/5.0.2/license",
-      "projectUrl": "https://asp.net/",
-      "tags": [
-        "aspnet",
-        "templates",
-        "spa"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "totalDownloads": 25120,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Template"
-        }
-      ],
-      "versions": [
-        {
-          "version": "5.0.0-preview.1.20124.5",
-          "downloads": 155,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-preview.1.20124.5.json"
-        },
-        {
-          "version": "5.0.0-preview.2.20167.3",
-          "downloads": 137,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-preview.2.20167.3.json"
-        },
-        {
-          "version": "5.0.0-preview.3.20215.14",
-          "downloads": 108,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-preview.3.20215.14.json"
-        },
-        {
-          "version": "5.0.0-preview.4.20257.10",
-          "downloads": 371,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-preview.4.20257.10.json"
-        },
-        {
-          "version": "5.0.0-preview.5.20279.2",
-          "downloads": 113,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-preview.5.20279.2.json"
-        },
-        {
-          "version": "5.0.0-preview.6.20312.15",
-          "downloads": 101,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-preview.6.20312.15.json"
-        },
-        {
-          "version": "5.0.0-preview.7.20365.19",
-          "downloads": 205,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-preview.7.20365.19.json"
-        },
-        {
-          "version": "5.0.0-preview.8.20414.8",
-          "downloads": 1906,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-preview.8.20414.8.json"
-        },
-        {
-          "version": "5.0.0-rc.1.20451.17",
-          "downloads": 728,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-rc.1.20451.17.json"
-        },
-        {
-          "version": "5.0.0-rc.2.20475.17",
-          "downloads": 53,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0-rc.2.20475.17.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 4165,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.0.json"
-        },
-        {
-          "version": "5.0.1",
-          "downloads": 10141,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.1.json"
-        },
-        {
-          "version": "5.0.2",
-          "downloads": 6937,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.2.json"
         }
       ]
     },
@@ -19402,150 +19437,6 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/index.json",
-      "id": "Fable.Template.Elmish.React",
-      "version": "0.5.0",
-      "description": "Simple elmish application using React as a renderer",
-      "summary": "",
-      "title": "Fable.Template.Elmish.React",
-      "licenseUrl": "https://github.com/fable-elmish/elmish/blob/master/LICENSE.md",
-      "projectUrl": "https://github.com/fable-elmish/elmish",
-      "tags": [
-        "fable",
-        "template",
-        "fsharp"
-      ],
-      "authors": [
-        "Maxime Mangel"
-      ],
-      "totalDownloads": 14523,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "Template"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.1.0",
-          "downloads": 418,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.1.0.json"
-        },
-        {
-          "version": "0.1.1",
-          "downloads": 418,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.1.1.json"
-        },
-        {
-          "version": "0.1.2",
-          "downloads": 448,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.1.2.json"
-        },
-        {
-          "version": "0.1.4",
-          "downloads": 434,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.1.4.json"
-        },
-        {
-          "version": "0.1.5",
-          "downloads": 614,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.1.5.json"
-        },
-        {
-          "version": "0.1.6",
-          "downloads": 435,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.1.6.json"
-        },
-        {
-          "version": "0.1.7",
-          "downloads": 419,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.1.7.json"
-        },
-        {
-          "version": "0.1.8",
-          "downloads": 509,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.1.8.json"
-        },
-        {
-          "version": "0.2.0",
-          "downloads": 441,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.2.0.json"
-        },
-        {
-          "version": "0.2.1",
-          "downloads": 500,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.2.1.json"
-        },
-        {
-          "version": "0.2.2",
-          "downloads": 528,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.2.2.json"
-        },
-        {
-          "version": "0.2.3",
-          "downloads": 548,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.2.3.json"
-        },
-        {
-          "version": "0.2.4",
-          "downloads": 476,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.2.4.json"
-        },
-        {
-          "version": "0.2.5",
-          "downloads": 557,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.2.5.json"
-        },
-        {
-          "version": "0.2.6",
-          "downloads": 621,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.2.6.json"
-        },
-        {
-          "version": "0.3.0",
-          "downloads": 614,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.3.0.json"
-        },
-        {
-          "version": "0.3.1",
-          "downloads": 711,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.3.1.json"
-        },
-        {
-          "version": "0.3.2",
-          "downloads": 643,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.3.2.json"
-        },
-        {
-          "version": "0.3.3",
-          "downloads": 896,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.3.3.json"
-        },
-        {
-          "version": "0.3.4",
-          "downloads": 679,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.3.4.json"
-        },
-        {
-          "version": "0.3.5",
-          "downloads": 1624,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.3.5.json"
-        },
-        {
-          "version": "0.4.0",
-          "downloads": 1231,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.4.0.json"
-        },
-        {
-          "version": "0.5.0",
-          "downloads": 759,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.5.0.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ppy.osu.framework.templates/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/ppy.osu.framework.templates/index.json",
@@ -20168,6 +20059,150 @@
           "version": "2021.128.0",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ppy.osu.framework.templates/2021.128.0.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/index.json",
+      "id": "Fable.Template.Elmish.React",
+      "version": "0.5.0",
+      "description": "Simple elmish application using React as a renderer",
+      "summary": "",
+      "title": "Fable.Template.Elmish.React",
+      "licenseUrl": "https://github.com/fable-elmish/elmish/blob/master/LICENSE.md",
+      "projectUrl": "https://github.com/fable-elmish/elmish",
+      "tags": [
+        "fable",
+        "template",
+        "fsharp"
+      ],
+      "authors": [
+        "Maxime Mangel"
+      ],
+      "totalDownloads": 14523,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "Template"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.1.0",
+          "downloads": 418,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.1.0.json"
+        },
+        {
+          "version": "0.1.1",
+          "downloads": 418,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.1.1.json"
+        },
+        {
+          "version": "0.1.2",
+          "downloads": 448,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.1.2.json"
+        },
+        {
+          "version": "0.1.4",
+          "downloads": 434,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.1.4.json"
+        },
+        {
+          "version": "0.1.5",
+          "downloads": 614,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.1.5.json"
+        },
+        {
+          "version": "0.1.6",
+          "downloads": 435,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.1.6.json"
+        },
+        {
+          "version": "0.1.7",
+          "downloads": 419,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.1.7.json"
+        },
+        {
+          "version": "0.1.8",
+          "downloads": 509,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.1.8.json"
+        },
+        {
+          "version": "0.2.0",
+          "downloads": 441,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.2.0.json"
+        },
+        {
+          "version": "0.2.1",
+          "downloads": 500,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.2.1.json"
+        },
+        {
+          "version": "0.2.2",
+          "downloads": 528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.2.2.json"
+        },
+        {
+          "version": "0.2.3",
+          "downloads": 548,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.2.3.json"
+        },
+        {
+          "version": "0.2.4",
+          "downloads": 476,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.2.4.json"
+        },
+        {
+          "version": "0.2.5",
+          "downloads": 557,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.2.5.json"
+        },
+        {
+          "version": "0.2.6",
+          "downloads": 621,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.2.6.json"
+        },
+        {
+          "version": "0.3.0",
+          "downloads": 614,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.3.0.json"
+        },
+        {
+          "version": "0.3.1",
+          "downloads": 711,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.3.1.json"
+        },
+        {
+          "version": "0.3.2",
+          "downloads": 643,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.3.2.json"
+        },
+        {
+          "version": "0.3.3",
+          "downloads": 896,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.3.3.json"
+        },
+        {
+          "version": "0.3.4",
+          "downloads": 679,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.3.4.json"
+        },
+        {
+          "version": "0.3.5",
+          "downloads": 1624,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.3.5.json"
+        },
+        {
+          "version": "0.4.0",
+          "downloads": 1231,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.4.0.json"
+        },
+        {
+          "version": "0.5.0",
+          "downloads": 759,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable.template.elmish.react/0.5.0.json"
         }
       ]
     },
@@ -22049,133 +22084,6 @@
           "version": "5.1.0",
           "downloads": 41,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/identityserver4aspnetcoreidentitytemplate/5.1.0.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/index.json",
-      "id": "Alza.Konzole.Templates.Microservice.Simple",
-      "version": "2.0.0.54",
-      "description": "Alza Konzole template for creating a new simple microservice",
-      "summary": "",
-      "title": "Alza - Konzole - simple microservice",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/alza.konzole.templates.microservice.simple/2.0.0.54/icon",
-      "projectUrl": "https://gitlab.alz.lcl/konzole2",
-      "tags": [
-        "konzole",
-        "microservice",
-        "csharp",
-        "dotnet",
-        "aspnet",
-        "core",
-        "template",
-        "web",
-        "http",
-        "rest",
-        "api"
-      ],
-      "authors": [
-        "Mariusz Kotas"
-      ],
-      "totalDownloads": 10754,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "Template"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "downloads": 566,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/1.0.0.json"
-        },
-        {
-          "version": "1.0.0.1",
-          "downloads": 566,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/1.0.0.1.json"
-        },
-        {
-          "version": "1.0.0.2",
-          "downloads": 719,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/1.0.0.2.json"
-        },
-        {
-          "version": "1.0.0.3",
-          "downloads": 561,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/1.0.0.3.json"
-        },
-        {
-          "version": "1.0.0.4",
-          "downloads": 497,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/1.0.0.4.json"
-        },
-        {
-          "version": "1.0.0.5",
-          "downloads": 608,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/1.0.0.5.json"
-        },
-        {
-          "version": "1.0.0.6",
-          "downloads": 502,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/1.0.0.6.json"
-        },
-        {
-          "version": "1.0.0.7",
-          "downloads": 596,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/1.0.0.7.json"
-        },
-        {
-          "version": "1.0.0.9",
-          "downloads": 529,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/1.0.0.9.json"
-        },
-        {
-          "version": "1.0.0.10",
-          "downloads": 923,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/1.0.0.10.json"
-        },
-        {
-          "version": "2.0.0.21",
-          "downloads": 428,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/2.0.0.21.json"
-        },
-        {
-          "version": "2.0.0.23",
-          "downloads": 514,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/2.0.0.23.json"
-        },
-        {
-          "version": "2.0.0.24",
-          "downloads": 466,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/2.0.0.24.json"
-        },
-        {
-          "version": "2.0.0.25",
-          "downloads": 500,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/2.0.0.25.json"
-        },
-        {
-          "version": "2.0.0.26",
-          "downloads": 508,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/2.0.0.26.json"
-        },
-        {
-          "version": "2.0.0.27",
-          "downloads": 435,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/2.0.0.27.json"
-        },
-        {
-          "version": "2.0.0.28",
-          "downloads": 1401,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/2.0.0.28.json"
-        },
-        {
-          "version": "2.0.0.54",
-          "downloads": 435,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/alza.konzole.templates.microservice.simple/2.0.0.54.json"
         }
       ]
     },
@@ -26362,6 +26270,100 @@
           "version": "2.5.10",
           "downloads": 109,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/eto.forms.templates/2.5.10.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/particulartemplates/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/particulartemplates/index.json",
+      "id": "ParticularTemplates",
+      "version": "4.1.0",
+      "description": "dotnet new templates targeting Particular tools and libraries",
+      "summary": "",
+      "title": "ParticularTemplates",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/particulartemplates/4.1.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/ParticularTemplates/4.1.0/license",
+      "projectUrl": "https://docs.particular.net/nuget/ParticularTemplates",
+      "tags": [
+        "nservicebus",
+        "messaging"
+      ],
+      "authors": [
+        "Particular Software"
+      ],
+      "totalDownloads": 7245,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "Template"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0-alpha0001",
+          "downloads": 334,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/particulartemplates/1.0.0-alpha0001.json"
+        },
+        {
+          "version": "1.0.0-alpha0002",
+          "downloads": 362,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/particulartemplates/1.0.0-alpha0002.json"
+        },
+        {
+          "version": "1.0.0-alpha0003",
+          "downloads": 368,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/particulartemplates/1.0.0-alpha0003.json"
+        },
+        {
+          "version": "1.0.0-alpha0004",
+          "downloads": 353,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/particulartemplates/1.0.0-alpha0004.json"
+        },
+        {
+          "version": "1.0.0-alpha0006",
+          "downloads": 554,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/particulartemplates/1.0.0-alpha0006.json"
+        },
+        {
+          "version": "1.0.0",
+          "downloads": 760,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/particulartemplates/1.0.0.json"
+        },
+        {
+          "version": "1.1.0-alpha0005",
+          "downloads": 626,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/particulartemplates/1.1.0-alpha0005.json"
+        },
+        {
+          "version": "2.0.0-beta0001",
+          "downloads": 528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/particulartemplates/2.0.0-beta0001.json"
+        },
+        {
+          "version": "2.0.0-rc0001",
+          "downloads": 476,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/particulartemplates/2.0.0-rc0001.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 812,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/particulartemplates/2.0.0.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 1416,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/particulartemplates/3.0.0.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 337,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/particulartemplates/4.0.0.json"
+        },
+        {
+          "version": "4.1.0",
+          "downloads": 319,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/particulartemplates/4.1.0.json"
         }
       ]
     }
