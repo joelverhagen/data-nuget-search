@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 230631,
+  "totalHits": 230853,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -21641,7 +21641,7 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/index.json",
       "id": "Google.Protobuf",
-      "version": "3.15.3",
+      "version": "3.15.4",
       "description": "C# runtime library for Protocol Buffers - Google's data interchange format.",
       "summary": "",
       "title": "Google.Protobuf",
@@ -21927,6 +21927,11 @@
           "version": "3.15.3",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/3.15.3.json"
+        },
+        {
+          "version": "3.15.4",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/3.15.4.json"
         }
       ]
     },
@@ -22761,12 +22766,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/index.json",
       "id": "Serilog.AspNetCore",
-      "version": "4.0.0-dev-00204",
+      "version": "4.0.0",
       "description": "Serilog support for ASP.NET Core logging",
       "summary": "",
       "title": "Serilog.AspNetCore",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0-dev-00204/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Serilog.AspNetCore/4.0.0-dev-00204/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Serilog.AspNetCore/4.0.0/license",
       "projectUrl": "https://github.com/serilog/serilog-aspnetcore",
       "tags": [
         "serilog",
@@ -23098,6 +23103,26 @@
           "version": "4.0.0-dev-00204",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/4.0.0-dev-00204.json"
+        },
+        {
+          "version": "4.0.0-dev-00206",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/4.0.0-dev-00206.json"
+        },
+        {
+          "version": "4.0.0-dev-00208",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/4.0.0-dev-00208.json"
+        },
+        {
+          "version": "4.0.0-dev-00210",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/4.0.0-dev-00210.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.aspnetcore/4.0.0.json"
         }
       ]
     },
@@ -26745,12 +26770,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/index.json",
       "id": "Microsoft.Data.SqlClient",
-      "version": "2.1.1",
+      "version": "2.1.2",
       "description": "Provides the data provider for SQL Server. These classes provide access to versions of SQL Server and encapsulate database-specific protocols, including tabular data stream (TDS)\n\nCommonly Used Types:\nMicrosoft.Data.SqlClient.SqlConnection\nMicrosoft.Data.SqlClient.SqlException\nMicrosoft.Data.SqlClient.SqlParameter\nMicrosoft.Data.SqlClient.SqlDataReader\nMicrosoft.Data.SqlClient.SqlCommand\nMicrosoft.Data.SqlClient.SqlTransaction\nMicrosoft.Data.SqlClient.SqlParameterCollection\nMicrosoft.Data.SqlClient.SqlClientFactory\n\nWhen using NuGet 3.x this package requires at least version 3.4.",
       "summary": "",
       "title": "Microsoft.Data.SqlClient",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.data.sqlclient/2.1.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Data.SqlClient/2.1.1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.data.sqlclient/2.1.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Data.SqlClient/2.1.2/license",
       "projectUrl": "https://aka.ms/sqlclientproject",
       "tags": [
         "sqlclient",
@@ -26881,6 +26906,11 @@
           "version": "2.1.1",
           "downloads": 465303,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.1.json"
+        },
+        {
+          "version": "2.1.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.2.json"
         }
       ]
     },
@@ -27246,13 +27276,13 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/mongodb.bson/index.json",
       "id": "MongoDB.Bson",
-      "version": "2.12.0-beta1",
+      "version": "2.12.0",
       "description": "MongoDB's Official Bson Library.",
       "summary": "",
       "title": "MongoDB.Bson",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/mongodb.bson/2.12.0-beta1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/MongoDB.Bson/2.12.0-beta1/license",
-      "projectUrl": "http://www.mongodb.org/display/DOCS/CSharp+Language+Center",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/mongodb.bson/2.12.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/MongoDB.Bson/2.12.0/license",
+      "projectUrl": "https://docs.mongodb.com/drivers/csharp/",
       "tags": [
         "mongodb",
         "mongo",
@@ -27260,7 +27290,7 @@
         "bson"
       ],
       "authors": [
-        "vincentkam,dmitry_lukyanov,rstam,craiggwilson"
+        "MongoDB Inc."
       ],
       "totalDownloads": 41284491,
       "verified": false,
@@ -27569,6 +27599,11 @@
           "version": "2.12.0-beta1",
           "downloads": 23140,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mongodb.bson/2.12.0-beta1.json"
+        },
+        {
+          "version": "2.12.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mongodb.bson/2.12.0.json"
         }
       ]
     },
@@ -27577,12 +27612,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/csvhelper/index.json",
       "id": "CsvHelper",
-      "version": "25.0.0",
+      "version": "26.0.0",
       "description": "A library for reading and writing CSV files. Extremely fast, flexible, and easy to use. Supports reading and writing of custom class objects.",
       "summary": "",
       "title": "CsvHelper",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/csvhelper/25.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/CsvHelper/25.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/csvhelper/26.0.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/CsvHelper/26.0.0/license",
       "projectUrl": "https://joshclose.github.io/CsvHelper/",
       "tags": [
         "csv",
@@ -28582,6 +28617,11 @@
           "version": "25.0.0",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/csvhelper/25.0.0.json"
+        },
+        {
+          "version": "26.0.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/csvhelper/26.0.0.json"
         }
       ]
     },
@@ -28590,11 +28630,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/htmlagilitypack/index.json",
       "id": "HtmlAgilityPack",
-      "version": "1.11.30",
+      "version": "1.11.31",
       "description": "This is an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT (you actually don't HAVE to understand XPATH nor XSLT to use it, don't worry...). It is a .NET code library that allows you to parse \"out of the web\" HTML files. The parser is very tolerant with \"real world\" malformed HTML. The object model is very similar to what proposes System.Xml, but for HTML documents (or streams).",
       "summary": "This is an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT (you actually don't HAVE to understand XPATH nor XSLT to use it, don't worry...). It is a .NET code library that allows you to parse \"out of the web\" HTML files. The parser is very tolerant with \"real world\" malformed HTML. The object model is very similar to what proposes System.Xml, but for HTML documents (or streams).",
       "title": "HtmlAgilityPack",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/htmlagilitypack/1.11.30/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/htmlagilitypack/1.11.31/icon",
       "licenseUrl": "https://github.com/zzzprojects/html-agility-pack/blob/master/LICENSE",
       "projectUrl": "http://html-agility-pack.net/",
       "tags": [
@@ -29149,6 +29189,11 @@
           "version": "1.11.30",
           "downloads": 122785,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/htmlagilitypack/1.11.30.json"
+        },
+        {
+          "version": "1.11.31",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/htmlagilitypack/1.11.31.json"
         }
       ]
     },
@@ -30513,20 +30558,20 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/mongodb.driver.core/index.json",
       "id": "MongoDB.Driver.Core",
-      "version": "2.12.0-beta1",
+      "version": "2.12.0",
       "description": "Core Component of the Official MongoDB .NET Driver.",
       "summary": "",
       "title": "MongoDB.Driver.Core",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/mongodb.driver.core/2.12.0-beta1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/MongoDB.Driver.Core/2.12.0-beta1/license",
-      "projectUrl": "http://www.mongodb.org/display/DOCS/CSharp+Language+Center",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/mongodb.driver.core/2.12.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/MongoDB.Driver.Core/2.12.0/license",
+      "projectUrl": "https://docs.mongodb.com/drivers/csharp/",
       "tags": [
         "mongodb",
         "mongo",
         "nosql"
       ],
       "authors": [
-        "vincentkam,dmitry_lukyanov,rstam,craiggwilson"
+        "MongoDB Inc."
       ],
       "totalDownloads": 38807481,
       "verified": false,
@@ -30835,6 +30880,11 @@
           "version": "2.12.0-beta1",
           "downloads": 22257,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mongodb.driver.core/2.12.0-beta1.json"
+        },
+        {
+          "version": "2.12.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mongodb.driver.core/2.12.0.json"
         }
       ]
     },
@@ -30843,20 +30893,20 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/mongodb.driver/index.json",
       "id": "MongoDB.Driver",
-      "version": "2.12.0-beta1",
+      "version": "2.12.0",
       "description": "Official .NET driver for MongoDB.",
       "summary": "",
       "title": "MongoDB.Driver",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/mongodb.driver/2.12.0-beta1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/MongoDB.Driver/2.12.0-beta1/license",
-      "projectUrl": "http://www.mongodb.org/display/DOCS/CSharp+Language+Center",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/mongodb.driver/2.12.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/MongoDB.Driver/2.12.0/license",
+      "projectUrl": "https://docs.mongodb.com/drivers/csharp/",
       "tags": [
         "mongodb",
         "mongo",
         "nosql"
       ],
       "authors": [
-        "vincentkam,dmitry_lukyanov,rstam,craiggwilson"
+        "MongoDB Inc."
       ],
       "totalDownloads": 38393853,
       "verified": false,
@@ -31165,6 +31215,11 @@
           "version": "2.12.0-beta1",
           "downloads": 22174,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mongodb.driver/2.12.0-beta1.json"
+        },
+        {
+          "version": "2.12.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mongodb.driver/2.12.0.json"
         }
       ]
     },
