@@ -40,12 +40,12 @@
     "version": "2.17.0"
   },
   {
-    "id": "xunit",
-    "version": "2.4.1"
+    "id": "AWSSDK.Core",
+    "version": "3.7.0.13"
   },
   {
-    "id": "AWSSDK.Core",
-    "version": "3.7.0.12"
+    "id": "xunit",
+    "version": "2.4.1"
   },
   {
     "id": "Microsoft.IdentityModel.Clients.ActiveDirectory",
@@ -108,12 +108,12 @@
     "version": "5.0.0-dev-00909"
   },
   {
-    "id": "Polly",
-    "version": "7.2.2"
-  },
-  {
     "id": "NLog",
     "version": "4.7.9"
+  },
+  {
+    "id": "Polly",
+    "version": "7.2.2"
   },
   {
     "id": "Microsoft.AspNetCore.Mvc",
@@ -136,12 +136,12 @@
     "version": "5.2.7"
   },
   {
-    "id": "Microsoft.Data.OData",
-    "version": "5.8.4"
-  },
-  {
     "id": "System.Diagnostics.PerformanceCounter",
     "version": "6.0.0-preview.3.21201.4"
+  },
+  {
+    "id": "Microsoft.Data.OData",
+    "version": "5.8.4"
   },
   {
     "id": "Azure.Storage.Queues",
@@ -177,7 +177,7 @@
   },
   {
     "id": "FluentValidation",
-    "version": "10.0.2"
+    "version": "10.0.3"
   },
   {
     "id": "System.Security.Cryptography.Pkcs",
@@ -232,12 +232,12 @@
     "version": "1.6.1"
   },
   {
-    "id": "Azure.Security.KeyVault.Keys",
-    "version": "4.2.0-beta.5"
-  },
-  {
     "id": "Serilog.Formatting.Compact",
     "version": "1.1.1-dev-00940"
+  },
+  {
+    "id": "Azure.Security.KeyVault.Keys",
+    "version": "4.2.0-beta.5"
   },
   {
     "id": "Serilog.Settings.Configuration",
@@ -253,11 +253,7 @@
   },
   {
     "id": "Npgsql",
-    "version": "6.0.0-preview2"
-  },
-  {
-    "id": "Google.Protobuf",
-    "version": "3.16.0-rc1"
+    "version": "6.0.0-preview3"
   },
   {
     "id": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
@@ -270,6 +266,10 @@
   {
     "id": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
     "version": "4.4.0"
+  },
+  {
+    "id": "Google.Protobuf",
+    "version": "3.16.0-rc1"
   },
   {
     "id": "Microsoft.AspNetCore.Mvc.NewtonsoftJson",
@@ -316,6 +316,10 @@
     "version": "4.1.1"
   },
   {
+    "id": "Serilog.Sinks.PeriodicBatching",
+    "version": "2.3.1-dev-00780"
+  },
+  {
     "id": "Pipelines.Sockets.Unofficial",
     "version": "2.2.0"
   },
@@ -324,12 +328,8 @@
     "version": "2.4.13"
   },
   {
-    "id": "Serilog.Sinks.PeriodicBatching",
-    "version": "2.3.1-dev-00780"
-  },
-  {
     "id": "AWSSDK.S3",
-    "version": "3.7.0.13"
+    "version": "3.7.0.14"
   },
   {
     "id": "WebActivatorEx",
@@ -356,12 +356,12 @@
     "version": "8.1.1"
   },
   {
-    "id": "Portable.BouncyCastle",
-    "version": "1.8.10"
-  },
-  {
     "id": "SQLitePCLRaw.core",
     "version": "2.0.5-pre20210119130047"
+  },
+  {
+    "id": "Portable.BouncyCastle",
+    "version": "1.8.10"
   },
   {
     "id": "Elasticsearch.Net",
