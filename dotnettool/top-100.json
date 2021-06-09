@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 2360,
+  "totalHits": 2364,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-interactive/index.json",
@@ -1287,6 +1287,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/3.1.15.json"
         },
         {
+          "version": "3.1.16",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/3.1.16.json"
+        },
+        {
           "version": "5.0.0-preview.2.20120.8",
           "downloads": 682,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/5.0.0-preview.2.20120.8.json"
@@ -1370,6 +1375,11 @@
           "version": "5.0.6",
           "downloads": 191719,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/5.0.6.json"
+        },
+        {
+          "version": "5.0.7",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/5.0.7.json"
         },
         {
           "version": "6.0.0-preview.1.21102.2",
@@ -17511,12 +17521,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/index.json",
       "id": "Octopus.DotNet.Cli",
-      "version": "7.4.3238",
+      "version": "7.4.3239",
       "description": "Octopus Deploy is an automated release management tool for modern developers and DevOps teams.\n\n      This package contains the dotnet tool version of the CLI library for interacting with the HTTP API in Octopus.",
       "summary": "",
       "title": "Octopus.DotNet.Cli",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/octopus.dotnet.cli/7.4.3238/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Octopus.DotNet.Cli/7.4.3238/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/octopus.dotnet.cli/7.4.3239/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Octopus.DotNet.Cli/7.4.3239/license",
       "projectUrl": "http://octopusdeploy.com/",
       "tags": [],
       "authors": [
@@ -18514,6 +18524,11 @@
           "version": "7.4.3238",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/7.4.3238.json"
+        },
+        {
+          "version": "7.4.3239",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/7.4.3239.json"
         }
       ]
     },
@@ -30768,12 +30783,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/index.json",
       "id": "Libplanet.Tools",
-      "version": "0.12.0-nightly.20210607",
+      "version": "0.12.0-nightly.20210608",
       "description": "This CLI app is a collection of utilities for application  programmers who create decentralized games powered by Libplanet  (https://libplanet.io/).",
       "summary": "",
       "title": "planet: Libplanet CLI Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/0.12.0-nightly.20210607/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/0.12.0-nightly.20210607/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/0.12.0-nightly.20210608/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/0.12.0-nightly.20210608/license",
       "projectUrl": "https://libplanet.io/",
       "tags": [],
       "authors": [
@@ -34228,6 +34243,16 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.12.0-dev.20210607072235.json"
         },
         {
+          "version": "0.12.0-dev.20210608010836",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.12.0-dev.20210608010836.json"
+        },
+        {
+          "version": "0.12.0-dev.20210608013302",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.12.0-dev.20210608013302.json"
+        },
+        {
           "version": "0.12.0-nightly.20210331",
           "downloads": 39,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.12.0-nightly.20210331.json"
@@ -34556,6 +34581,11 @@
           "version": "0.12.0-nightly.20210607",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.12.0-nightly.20210607.json"
+        },
+        {
+          "version": "0.12.0-nightly.20210608",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.12.0-nightly.20210608.json"
         }
       ]
     },
@@ -39678,19 +39708,9 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/11.2.2.json"
         },
         {
-          "version": "11.3.0-preview.7",
-          "downloads": 37,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/11.3.0-preview.7.json"
-        },
-        {
-          "version": "12.0.0-preview.11",
-          "downloads": 39,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/12.0.0-preview.11.json"
-        },
-        {
-          "version": "12.0.0-preview.12",
+          "version": "11.3.0-rc.0",
           "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/12.0.0-preview.12.json"
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/11.3.0-rc.0.json"
         },
         {
           "version": "12.0.0-preview.14",
@@ -40842,6 +40862,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-sql-cache/3.1.15.json"
         },
         {
+          "version": "3.1.16",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-sql-cache/3.1.16.json"
+        },
+        {
           "version": "5.0.0-preview.1.20124.5",
           "downloads": 173,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-sql-cache/5.0.0-preview.1.20124.5.json"
@@ -40925,6 +40950,11 @@
           "version": "5.0.6",
           "downloads": 1273,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-sql-cache/5.0.6.json"
+        },
+        {
+          "version": "5.0.7",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-sql-cache/5.0.7.json"
         },
         {
           "version": "6.0.0-preview.1.21103.6",
