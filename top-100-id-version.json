@@ -4,11 +4,11 @@
     "version": "13.0.1"
   },
   {
-    "id": "Microsoft.Extensions.DependencyInjection",
+    "id": "Microsoft.Extensions.Logging",
     "version": "6.0.0-preview.6.21352.12"
   },
   {
-    "id": "Microsoft.Extensions.Logging",
+    "id": "Microsoft.Extensions.DependencyInjection",
     "version": "6.0.0-preview.6.21352.12"
   },
   {
@@ -24,32 +24,28 @@
     "version": "6.0.0-preview.6.21352.1"
   },
   {
-    "id": "System.Drawing.Common",
-    "version": "6.0.0-preview.6.21352.12"
-  },
-  {
     "id": "Moq",
     "version": "4.16.1"
-  },
-  {
-    "id": "Microsoft.Win32.SystemEvents",
-    "version": "6.0.0-preview.6.21352.12"
   },
   {
     "id": "Microsoft.Bcl.AsyncInterfaces",
     "version": "6.0.0-preview.6.21352.12"
   },
   {
-    "id": "Microsoft.ApplicationInsights",
-    "version": "2.18.0-beta3"
-  },
-  {
     "id": "AutoMapper",
     "version": "10.1.1"
   },
   {
+    "id": "Microsoft.ApplicationInsights",
+    "version": "2.18.0"
+  },
+  {
     "id": "AWSSDK.Core",
     "version": "3.7.1.1"
+  },
+  {
+    "id": "System.Drawing.Common",
+    "version": "6.0.0-preview.6.21352.12"
   },
   {
     "id": "System.Text.Json",
@@ -64,8 +60,8 @@
     "version": "5.2.9"
   },
   {
-    "id": "EntityFramework",
-    "version": "6.4.4"
+    "id": "Microsoft.Win32.SystemEvents",
+    "version": "6.0.0-preview.6.21352.12"
   },
   {
     "id": "Swashbuckle.AspNetCore.Swagger",
@@ -80,12 +76,8 @@
     "version": "12.10.0-beta.2"
   },
   {
-    "id": "jQuery",
-    "version": "3.6.0"
-  },
-  {
-    "id": "Microsoft.Extensions.ApiDescription.Server",
-    "version": "6.0.0-preview.6.21355.2"
+    "id": "EntityFramework",
+    "version": "6.4.4"
   },
   {
     "id": "NUnit",
@@ -120,20 +112,16 @@
     "version": "7.2.2"
   },
   {
+    "id": "jQuery",
+    "version": "3.6.0"
+  },
+  {
     "id": "System.Diagnostics.PerformanceCounter",
     "version": "6.0.0-preview.6.21352.12"
   },
   {
-    "id": "Microsoft.Data.OData",
-    "version": "5.8.4"
-  },
-  {
     "id": "NLog",
     "version": "4.7.10"
-  },
-  {
-    "id": "Microsoft.AspNetCore.Mvc",
-    "version": "2.2.0"
   },
   {
     "id": "Microsoft.Identity.Client",
@@ -164,6 +152,10 @@
     "version": "12.8.0-beta.2"
   },
   {
+    "id": "Microsoft.AspNetCore.Mvc",
+    "version": "2.2.0"
+  },
+  {
     "id": "System.Security.Cryptography.Pkcs",
     "version": "6.0.0-preview.6.21352.12"
   },
@@ -180,16 +172,16 @@
     "version": "2.0.90"
   },
   {
+    "id": "Microsoft.Data.OData",
+    "version": "5.8.4"
+  },
+  {
     "id": "System.Runtime.Caching",
     "version": "6.0.0-preview.6.21352.12"
   },
   {
     "id": "FluentValidation",
     "version": "10.3.0"
-  },
-  {
-    "id": "Microsoft.Azure.Services.AppAuthentication",
-    "version": "1.6.1"
   },
   {
     "id": "RestSharp",
@@ -204,10 +196,6 @@
     "version": "2.2.62"
   },
   {
-    "id": "Microsoft.OpenApi",
-    "version": "1.3.0-preview"
-  },
-  {
     "id": "IdentityModel",
     "version": "5.1.0"
   },
@@ -220,8 +208,8 @@
     "version": "4.2.0"
   },
   {
-    "id": "Microsoft.Data.SqlClient",
-    "version": "3.0.0"
+    "id": "Microsoft.OpenApi",
+    "version": "1.3.0-preview"
   },
   {
     "id": "System.Threading.Channels",
@@ -232,10 +220,6 @@
     "version": "1.6.0"
   },
   {
-    "id": "Microsoft.AspNetCore.Mvc.NewtonsoftJson",
-    "version": "6.0.0-preview.6.21355.2"
-  },
-  {
     "id": "Serilog.Formatting.Compact",
     "version": "1.1.1-dev-00944"
   },
@@ -244,12 +228,24 @@
     "version": "4.0.0"
   },
   {
-    "id": "bootstrap",
-    "version": "5.0.2"
+    "id": "Microsoft.Data.SqlClient",
+    "version": "3.0.0"
   },
   {
     "id": "Serilog.Settings.Configuration",
     "version": "3.2.0-dev-00272"
+  },
+  {
+    "id": "Microsoft.Azure.Services.AppAuthentication",
+    "version": "1.6.1"
+  },
+  {
+    "id": "RabbitMQ.Client",
+    "version": "6.2.2"
+  },
+  {
+    "id": "Microsoft.AspNetCore.Mvc.NewtonsoftJson",
+    "version": "6.0.0-preview.6.21355.2"
   },
   {
     "id": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
@@ -276,6 +272,10 @@
     "version": "6.0.0-preview5"
   },
   {
+    "id": "Microsoft.Extensions.ApiDescription.Server",
+    "version": "6.0.0-preview.6.21355.2"
+  },
+  {
     "id": "Antlr",
     "version": "3.5.0.2"
   },
@@ -296,16 +296,8 @@
     "version": "4.1.1-dev-00229"
   },
   {
-    "id": "Serilog.Sinks.PeriodicBatching",
-    "version": "2.3.1-dev-00780"
-  },
-  {
     "id": "Azure.Messaging.ServiceBus",
     "version": "7.2.1"
-  },
-  {
-    "id": "Microsoft.Azure.Amqp",
-    "version": "2.4.13"
   },
   {
     "id": "Pipelines.Sockets.Unofficial",
@@ -316,16 +308,20 @@
     "version": "1.1.1"
   },
   {
-    "id": "RabbitMQ.Client",
-    "version": "6.2.2"
+    "id": "Microsoft.Azure.Amqp",
+    "version": "2.4.13"
   },
   {
-    "id": "Modernizr",
-    "version": "2.8.3"
+    "id": "Serilog.Sinks.PeriodicBatching",
+    "version": "2.3.1-dev-00780"
   },
   {
     "id": "AWSSDK.S3",
     "version": "3.7.1.17"
+  },
+  {
+    "id": "Modernizr",
+    "version": "2.8.3"
   },
   {
     "id": "Remotion.Linq",
@@ -344,6 +340,10 @@
     "version": "1.16.0"
   },
   {
+    "id": "bootstrap",
+    "version": "5.0.2"
+  },
+  {
     "id": "Portable.BouncyCastle",
     "version": "1.8.10"
   },
@@ -354,6 +354,10 @@
   {
     "id": "MongoDB.Bson",
     "version": "2.13.0"
+  },
+  {
+    "id": "SQLitePCLRaw.core",
+    "version": "2.0.5-pre20210521085756"
   },
   {
     "id": "Microsoft.Owin.Security.OAuth",
@@ -372,16 +376,12 @@
     "version": "7.14.0-beta.1"
   },
   {
-    "id": "SQLitePCLRaw.core",
-    "version": "2.0.5-pre20210521085756"
+    "id": "MongoDB.Driver.Core",
+    "version": "2.13.0"
   },
   {
     "id": "WebActivatorEx",
     "version": "2.2.0"
-  },
-  {
-    "id": "MongoDB.Driver.Core",
-    "version": "2.13.0"
   },
   {
     "id": "Serilog.Extensions.Hosting",
@@ -392,11 +392,11 @@
     "version": "6.0.0-preview.6.21355.2"
   },
   {
-    "id": "MongoDB.Driver",
-    "version": "2.13.0"
-  },
-  {
     "id": "System.CodeDom",
     "version": "6.0.0-preview.6.21352.12"
+  },
+  {
+    "id": "MongoDB.Driver",
+    "version": "2.13.0"
   }
 ]
