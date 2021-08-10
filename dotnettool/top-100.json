@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 2465,
+  "totalHits": 2464,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-interactive/index.json",
@@ -26,6 +26,10 @@
         "PowerShell"
       ],
       "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
         "Microsoft"
       ],
       "totalDownloads": 31723335,
@@ -165,6 +169,9 @@
       ],
       "authors": [
         "Daniel Palme"
+      ],
+      "owners": [
+        "danielpalme"
       ],
       "totalDownloads": 8291240,
       "verified": false,
@@ -661,6 +668,9 @@
       "authors": [
         "Amazon Web Services"
       ],
+      "owners": [
+        "awsdotnet"
+      ],
       "totalDownloads": 6647944,
       "verified": true,
       "packageTypes": [
@@ -936,6 +946,19 @@
       "authors": [
         "Patrik Svensson, Mattias Karlsson, Gary Ewan Park, Alistair Chapman, Martin Björkström, Dave Glick, Pascal Berger, Jérémie Desautels, Enrico Campidoglio, C. Augusto Proiete, Nils Andresen, and contributors"
       ],
+      "owners": [
+        "augustoproiete",
+        "cake-build",
+        "daveaglick",
+        "devlead",
+        "dotnetfoundation",
+        "gep13",
+        "Jericho",
+        "mholo65",
+        "nils-andresen",
+        "pascalberger",
+        "patrik"
+      ],
       "totalDownloads": 6356681,
       "verified": true,
       "packageTypes": [
@@ -1076,6 +1099,10 @@
         "EFCore"
       ],
       "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "aspnet",
         "Microsoft"
       ],
       "totalDownloads": 5656190,
@@ -1491,6 +1518,9 @@
       ],
       "authors": [
         "GitTools and Contributors"
+      ],
+      "owners": [
+        "gittools"
       ],
       "totalDownloads": 5472669,
       "verified": false,
@@ -3722,6 +3752,9 @@
       "authors": [
         "SonarSource,Microsoft"
       ],
+      "owners": [
+        "SonarSource"
+      ],
       "totalDownloads": 4414755,
       "verified": false,
       "packageTypes": [
@@ -3861,6 +3894,10 @@
       "authors": [
         "WiX Toolset Team"
       ],
+      "owners": [
+        "robmen",
+        "wixtoolset"
+      ],
       "totalDownloads": 3795316,
       "verified": false,
       "packageTypes": [
@@ -3956,11 +3993,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/paket/index.json",
       "id": "Paket",
-      "version": "6.0.0-rc011",
+      "version": "6.0.3",
       "description": "A dependency manager for .NET with support for NuGet packages and git repositories.",
       "summary": "",
       "title": "Paket",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/paket/6.0.0-rc011/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/paket/6.0.3/icon",
       "licenseUrl": "http://fsprojects.github.io/Paket/license.html",
       "tags": [
         "nuget",
@@ -3969,6 +4006,13 @@
       ],
       "authors": [
         "paket"
+      ],
+      "owners": [
+        "agross",
+        "fsprojects",
+        "matthid",
+        "mavnn",
+        "sforkmann"
       ],
       "totalDownloads": 3650891,
       "verified": false,
@@ -16217,6 +16261,26 @@
           "version": "6.0.0-rc011",
           "downloads": 68,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/paket/6.0.0-rc011.json"
+        },
+        {
+          "version": "6.0.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/paket/6.0.0.json"
+        },
+        {
+          "version": "6.0.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/paket/6.0.1.json"
+        },
+        {
+          "version": "6.0.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/paket/6.0.2.json"
+        },
+        {
+          "version": "6.0.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/paket/6.0.3.json"
         }
       ]
     },
@@ -16236,6 +16300,10 @@
         "Diagnostic"
       ],
       "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
         "Microsoft"
       ],
       "totalDownloads": 2450185,
@@ -16359,6 +16427,10 @@
         "Diagnostic"
       ],
       "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
         "Microsoft"
       ],
       "totalDownloads": 2446216,
@@ -16489,6 +16561,10 @@
       "authors": [
         "Microsoft"
       ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
       "totalDownloads": 2398255,
       "verified": false,
       "packageTypes": [
@@ -16615,6 +16691,11 @@
         "quality"
       ],
       "authors": [
+        "tonerdo"
+      ],
+      "owners": [
+        "dotnetfoundation",
+        "MarcoRossignoli",
         "tonerdo"
       ],
       "totalDownloads": 2383334,
@@ -16750,6 +16831,10 @@
       "authors": [
         "Microsoft"
       ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
       "totalDownloads": 2303206,
       "verified": false,
       "packageTypes": [
@@ -16828,6 +16913,9 @@
       "tags": [],
       "authors": [
         "dotnet-swagger"
+      ],
+      "owners": [
+        "domaindrivendev"
       ],
       "totalDownloads": 2146488,
       "verified": false,
@@ -17070,6 +17158,11 @@
       "authors": [
         "Microsoft"
       ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft",
+        "RoslynTeam"
+      ],
       "totalDownloads": 1355305,
       "verified": false,
       "packageTypes": [
@@ -17148,6 +17241,9 @@
         "ci"
       ],
       "authors": [
+        "gfoidl"
+      ],
+      "owners": [
         "gfoidl"
       ],
       "totalDownloads": 1258258,
@@ -17265,6 +17361,11 @@
       ],
       "authors": [
         "Andrew Arnott"
+      ],
+      "owners": [
+        "aarnott",
+        "dotnetfoundation",
+        "Nerdbank"
       ],
       "totalDownloads": 1051849,
       "verified": false,
@@ -17631,6 +17732,9 @@
       "authors": [
         "Amazon Web Services"
       ],
+      "owners": [
+        "awsdotnet"
+      ],
       "totalDownloads": 1000128,
       "verified": true,
       "packageTypes": [
@@ -17706,16 +17810,20 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/index.json",
       "id": "Octopus.DotNet.Cli",
-      "version": "7.4.3347",
+      "version": "7.4.3352",
       "description": "Octopus Deploy is an automated release management tool for modern developers and DevOps teams.\n\n      This package contains the dotnet tool version of the CLI library for interacting with the HTTP API in Octopus.",
       "summary": "",
       "title": "Octopus.DotNet.Cli",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/octopus.dotnet.cli/7.4.3347/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Octopus.DotNet.Cli/7.4.3347/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/octopus.dotnet.cli/7.4.3352/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Octopus.DotNet.Cli/7.4.3352/license",
       "projectUrl": "http://octopusdeploy.com/",
       "tags": [],
       "authors": [
         "Octopus Deploy"
+      ],
+      "owners": [
+        "OctopusDeploy",
+        "paulstovell"
       ],
       "totalDownloads": 944854,
       "verified": false,
@@ -19044,6 +19152,21 @@
           "version": "7.4.3347",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/7.4.3347.json"
+        },
+        {
+          "version": "7.4.3349",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/7.4.3349.json"
+        },
+        {
+          "version": "7.4.3351",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/7.4.3351.json"
+        },
+        {
+          "version": "7.4.3352",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/7.4.3352.json"
         }
       ]
     },
@@ -19064,6 +19187,10 @@
       ],
       "authors": [
         "Microsoft"
+      ],
+      "owners": [
+        "Microsoft",
+        "PowerShellTeam"
       ],
       "totalDownloads": 872600,
       "verified": true,
@@ -19199,6 +19326,10 @@
       ],
       "authors": [
         "Steffen Forkmann,Mauricio Scheffer,Colin Bull,Matthias Dittrich"
+      ],
+      "owners": [
+        "FAKE",
+        "sforkmann"
       ],
       "totalDownloads": 827056,
       "verified": false,
@@ -19597,6 +19728,9 @@
       ],
       "authors": [
         "Lucas Lorentz"
+      ],
+      "owners": [
+        "lucaslorentz"
       ],
       "totalDownloads": 597317,
       "verified": false,
@@ -19998,6 +20132,9 @@
       "authors": [
         "Amazon Web Services"
       ],
+      "owners": [
+        "awsdotnet"
+      ],
       "totalDownloads": 570008,
       "verified": true,
       "packageTypes": [
@@ -20058,6 +20195,10 @@
         "WCF"
       ],
       "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
         "Microsoft"
       ],
       "totalDownloads": 542382,
@@ -20148,6 +20289,9 @@
       ],
       "authors": [
         "NuKeeper"
+      ],
+      "owners": [
+        "AnthonySteele"
       ],
       "totalDownloads": 464439,
       "verified": false,
@@ -20489,6 +20633,9 @@
       "authors": [
         "csMACnz"
       ],
+      "owners": [
+        "csmacnz"
+      ],
       "totalDownloads": 456112,
       "verified": false,
       "packageTypes": [
@@ -20682,6 +20829,10 @@
       ],
       "authors": [
         "Ahoo Wang"
+      ],
+      "owners": [
+        "Ahoo",
+        "ncc"
       ],
       "totalDownloads": 455966,
       "verified": false,
@@ -21202,6 +21353,9 @@
       ],
       "authors": [
         "Rico Suter"
+      ],
+      "owners": [
+        "rsuter"
       ],
       "totalDownloads": 432471,
       "verified": false,
@@ -22392,6 +22546,9 @@
       "authors": [
         "Kevin Jones"
       ],
+      "owners": [
+        "vcsjones"
+      ],
       "totalDownloads": 346860,
       "verified": false,
       "packageTypes": [
@@ -22421,6 +22578,9 @@
       "tags": [],
       "authors": [
         "Nate McMaster"
+      ],
+      "owners": [
+        "natemcmaster"
       ],
       "totalDownloads": 342210,
       "verified": false,
@@ -22650,6 +22810,10 @@
       "authors": [
         "filipw"
       ],
+      "owners": [
+        "bernhard richter",
+        "filipw"
+      ],
       "totalDownloads": 333824,
       "verified": false,
       "packageTypes": [
@@ -22782,6 +22946,10 @@
         "aspnet-codegenerator"
       ],
       "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "aspnet",
         "Microsoft"
       ],
       "totalDownloads": 302225,
@@ -23079,6 +23247,9 @@
       "authors": [
         "Amazon Web Services"
       ],
+      "owners": [
+        "awsdotnet"
+      ],
       "totalDownloads": 287629,
       "verified": true,
       "packageTypes": [
@@ -23198,6 +23369,10 @@
       ],
       "authors": [
         "Marco Cecconi"
+      ],
+      "owners": [
+        "IntelligentHack",
+        "sklivvz1971"
       ],
       "totalDownloads": 275250,
       "verified": false,
@@ -23338,6 +23513,9 @@
       "authors": [
         "admiringworm,mathphysics"
       ],
+      "owners": [
+        "admiringworm"
+      ],
       "totalDownloads": 270073,
       "verified": false,
       "packageTypes": [
@@ -23468,6 +23646,9 @@
       "tags": [],
       "authors": [
         "JetBrains"
+      ],
+      "owners": [
+        "jetbrains"
       ],
       "totalDownloads": 264126,
       "verified": true,
@@ -23780,6 +23961,10 @@
       ],
       "authors": [
         "Matthias Koch, Ulrich Buchgraber, Sebastian Karasek"
+      ],
+      "owners": [
+        "matkoch",
+        "nukebuild"
       ],
       "totalDownloads": 251509,
       "verified": true,
@@ -24471,6 +24656,9 @@
       "authors": [
         "Steve Springett"
       ],
+      "owners": [
+        "CycloneDX"
+      ],
       "totalDownloads": 237760,
       "verified": false,
       "packageTypes": [
@@ -24667,6 +24855,9 @@
       "authors": [
         "Sean Chambers,Josh Coffman,Tom Marien,Mark Junker"
       ],
+      "owners": [
+        "fluent-migrator"
+      ],
       "totalDownloads": 190080,
       "verified": true,
       "packageTypes": [
@@ -24823,6 +25014,9 @@
       "authors": [
         "nil4 <https://github.com/nil4>"
       ],
+      "owners": [
+        "nil4"
+      ],
       "totalDownloads": 188396,
       "verified": false,
       "packageTypes": [
@@ -24880,6 +25074,9 @@
       ],
       "authors": [
         "Rob Reynolds, Andy Davis, Erik A. Brandstadmoen"
+      ],
+      "owners": [
+        "erikbra"
       ],
       "totalDownloads": 183864,
       "verified": false,
@@ -24945,6 +25142,9 @@
       "tags": [],
       "authors": [
         "ThymineC,Skulblaka"
+      ],
+      "owners": [
+        "davidfallah"
       ],
       "totalDownloads": 167576,
       "verified": false,
@@ -25032,6 +25232,10 @@
       "authors": [
         "Microsoft"
       ],
+      "owners": [
+        "aspnet",
+        "Microsoft"
+      ],
       "totalDownloads": 149822,
       "verified": true,
       "packageTypes": [
@@ -25096,6 +25300,10 @@
       "tags": [],
       "authors": [
         "SignClient"
+      ],
+      "owners": [
+        "clairernovotny",
+        "dotnetfoundation"
       ],
       "totalDownloads": 146340,
       "verified": false,
@@ -25248,6 +25456,9 @@
         "dotnet-core"
       ],
       "authors": [
+        "pjbgf"
+      ],
+      "owners": [
         "pjbgf"
       ],
       "totalDownloads": 143608,
@@ -25734,6 +25945,15 @@
       ],
       "authors": [
         "Tomas Petricek,Oleg Pestov,Anh-Dung Phan,Xiang Zhang,Matthias Dittrich"
+      ],
+      "owners": [
+        "dsyme",
+        "eirik",
+        "fsprojects",
+        "matthid",
+        "Mutagene",
+        "sforkmann",
+        "tomasp"
       ],
       "totalDownloads": 133755,
       "verified": false,
@@ -26581,6 +26801,9 @@
       "authors": [
         "minver-cli"
       ],
+      "owners": [
+        "adamralph"
+      ],
       "totalDownloads": 132163,
       "verified": false,
       "packageTypes": [
@@ -26797,6 +27020,9 @@
       "authors": [
         "John Korsnes"
       ],
+      "owners": [
+        "johnkors"
+      ],
       "totalDownloads": 126514,
       "verified": false,
       "packageTypes": [
@@ -26922,6 +27148,9 @@
       "tags": [],
       "authors": [
         "Richard Werkman, Rouke Broersma"
+      ],
+      "owners": [
+        "stryker-mutator"
       ],
       "totalDownloads": 126071,
       "verified": false,
@@ -27102,6 +27331,9 @@
       "authors": [
         "GSoft.CertificateTool"
       ],
+      "owners": [
+        "yohanb"
+      ],
       "totalDownloads": 124449,
       "verified": false,
       "packageTypes": [
@@ -27185,6 +27417,11 @@
       "tags": [],
       "authors": [
         "Boogie"
+      ],
+      "owners": [
+        "boogie-org",
+        "michael-emmi",
+        "shaz_qadeer"
       ],
       "totalDownloads": 123773,
       "verified": false,
@@ -27912,6 +28149,9 @@
       "authors": [
         "Amazon Web Services"
       ],
+      "owners": [
+        "awsdotnet"
+      ],
       "totalDownloads": 118156,
       "verified": true,
       "packageTypes": [
@@ -28024,6 +28264,10 @@
       "authors": [
         "GitTools Contributors"
       ],
+      "owners": [
+        "gep13",
+        "gittools"
+      ],
       "totalDownloads": 118225,
       "verified": false,
       "packageTypes": [
@@ -28091,6 +28335,9 @@
       ],
       "authors": [
         "Jonathan Peppers, Peter Collins"
+      ],
+      "owners": [
+        "jonathanpeppers"
       ],
       "totalDownloads": 115253,
       "verified": false,
@@ -28172,6 +28419,10 @@
       ],
       "authors": [
         "Spec Solutions"
+      ],
+      "owners": [
+        "gasparnagy",
+        "specsolutions"
       ],
       "totalDownloads": 110327,
       "verified": false,
@@ -28396,6 +28647,9 @@
       "tags": [],
       "authors": [
         "Rnwood.Smtp4dev"
+      ],
+      "owners": [
+        "rnwood"
       ],
       "totalDownloads": 105334,
       "verified": false,
@@ -30367,15 +30621,18 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/index.json",
       "id": "Libplanet.Tools",
-      "version": "0.15.0-nightly.20210808",
+      "version": "0.15.0-nightly.20210809",
       "description": "This CLI app is a collection of utilities for application  programmers who create decentralized games powered by Libplanet  (https://libplanet.io/).",
       "summary": "",
       "title": "planet: Libplanet CLI Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/0.15.0-nightly.20210808/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/0.15.0-nightly.20210808/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/0.15.0-nightly.20210809/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/0.15.0-nightly.20210809/license",
       "projectUrl": "https://libplanet.io/",
       "tags": [],
       "authors": [
+        "Planetarium"
+      ],
+      "owners": [
         "Planetarium"
       ],
       "totalDownloads": 104219,
@@ -34002,6 +34259,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.12.0-dev.20210806080410.json"
         },
         {
+          "version": "0.12.0-dev.20210809015110",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.12.0-dev.20210809015110.json"
+        },
+        {
           "version": "0.12.0-nightly.20210331",
           "downloads": 46,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.12.0-nightly.20210331.json"
@@ -34750,6 +35012,11 @@
           "version": "0.15.0-nightly.20210808",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.15.0-nightly.20210808.json"
+        },
+        {
+          "version": "0.15.0-nightly.20210809",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.15.0-nightly.20210809.json"
         }
       ]
     },
@@ -34768,6 +35035,9 @@
       "tags": [],
       "authors": [
         "dawnx.net"
+      ],
+      "owners": [
+        "zmjack"
       ],
       "totalDownloads": 103967,
       "verified": false,
@@ -36034,6 +36304,9 @@
       "authors": [
         "Cameron Taggart"
       ],
+      "owners": [
+        "ctaggart"
+      ],
       "totalDownloads": 94361,
       "verified": false,
       "packageTypes": [
@@ -36137,6 +36410,10 @@
       ],
       "authors": [
         "Gregor Biswanger, Robert Muehsig"
+      ],
+      "owners": [
+        "GregorBiswanger",
+        "Robert.Muehsig"
       ],
       "totalDownloads": 93752,
       "verified": false,
@@ -36278,6 +36555,10 @@
       "tags": [],
       "authors": [
         "Volo.Abp.Cli"
+      ],
+      "owners": [
+        "hikalkan",
+        "volosoft"
       ],
       "totalDownloads": 93152,
       "verified": true,
@@ -36696,6 +36977,9 @@
       "tags": [],
       "authors": [
         "Omnia Team"
+      ],
+      "owners": [
+        "preciofishbone"
       ],
       "totalDownloads": 91766,
       "verified": false,
@@ -37271,6 +37555,9 @@
       "authors": [
         "nover"
       ],
+      "owners": [
+        "nover"
+      ],
       "totalDownloads": 91011,
       "verified": false,
       "packageTypes": [
@@ -37405,6 +37692,9 @@
         "sleet"
       ],
       "authors": [
+        "emgarten"
+      ],
+      "owners": [
         "emgarten"
       ],
       "totalDownloads": 89039,
@@ -37645,6 +37935,10 @@
       "authors": [
         "Microsoft"
       ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
       "totalDownloads": 85351,
       "verified": false,
       "packageTypes": [
@@ -37774,6 +38068,10 @@
       "authors": [
         "Apache Software Foundation, Confluent Inc."
       ],
+      "owners": [
+        "confluent",
+        "math"
+      ],
       "totalDownloads": 80235,
       "verified": false,
       "packageTypes": [
@@ -37803,6 +38101,9 @@
       "tags": [],
       "authors": [
         ".NET Team"
+      ],
+      "owners": [
+        "richlander"
       ],
       "totalDownloads": 79263,
       "verified": false,
@@ -37885,6 +38186,9 @@
       ],
       "authors": [
         "https://github.com/SimonCropp/MarkdownSnippets/graphs/contributors"
+      ],
+      "owners": [
+        "simoncropp"
       ],
       "totalDownloads": 77330,
       "verified": false,
@@ -38599,6 +38903,10 @@
       "authors": [
         "Florian Verdonck Jindřich Ivánek"
       ],
+      "owners": [
+        "jindraivanek",
+        "nojaf"
+      ],
       "totalDownloads": 74264,
       "verified": false,
       "packageTypes": [
@@ -39141,6 +39449,9 @@
       "authors": [
         "solacens"
       ],
+      "owners": [
+        "solacens"
+      ],
       "totalDownloads": 71102,
       "verified": false,
       "packageTypes": [
@@ -39192,6 +39503,10 @@
       ],
       "authors": [
         "Microsoft"
+      ],
+      "owners": [
+        "Microsoft",
+        "TSE-SecurityTools"
       ],
       "totalDownloads": 70669,
       "verified": true,
@@ -39574,6 +39889,9 @@
       "authors": [
         "Petabridge"
       ],
+      "owners": [
+        "Petabridge"
+      ],
       "totalDownloads": 68328,
       "verified": false,
       "packageTypes": [
@@ -39709,6 +40027,9 @@
       ],
       "authors": [
         "Frederik Carlier"
+      ],
+      "owners": [
+        "quamotion"
       ],
       "totalDownloads": 66954,
       "verified": false,
@@ -40128,6 +40449,9 @@
       "authors": [
         "Gabriel Weyer"
       ],
+      "owners": [
+        "gabrielweyer"
+      ],
       "totalDownloads": 66520,
       "verified": false,
       "packageTypes": [
@@ -40207,6 +40531,9 @@
       ],
       "authors": [
         "Frederik Carlier"
+      ],
+      "owners": [
+        "quamotion"
       ],
       "totalDownloads": 65974,
       "verified": false,
@@ -40631,6 +40958,9 @@
       "authors": [
         "Frederik Carlier"
       ],
+      "owners": [
+        "quamotion"
+      ],
       "totalDownloads": 64969,
       "verified": false,
       "packageTypes": [
@@ -41005,6 +41335,9 @@
       "authors": [
         "ChilliCream authors and contributors"
       ],
+      "owners": [
+        "ChilliCream"
+      ],
       "totalDownloads": 63193,
       "verified": false,
       "packageTypes": [
@@ -41088,6 +41421,9 @@
       "authors": [
         "mhutch"
       ],
+      "owners": [
+        "mhutch"
+      ],
       "totalDownloads": 62524,
       "verified": false,
       "packageTypes": [
@@ -41156,6 +41492,9 @@
       ],
       "authors": [
         "Michael Ganss"
+      ],
+      "owners": [
+        "mganss"
       ],
       "totalDownloads": 62606,
       "verified": false,
@@ -41601,6 +41940,9 @@
       "authors": [
         "Steve Gilham"
       ],
+      "owners": [
+        "SteveGilham"
+      ],
       "totalDownloads": 61802,
       "verified": false,
       "packageTypes": [
@@ -41679,6 +42021,9 @@
       "tags": [],
       "authors": [
         "Jamie Cansdale"
+      ],
+      "owners": [
+        "jcansdale"
       ],
       "totalDownloads": 61181,
       "verified": false,
@@ -41976,6 +42321,9 @@
       "authors": [
         "Yevhen Bobrov"
       ],
+      "owners": [
+        "yevhen"
+      ],
       "totalDownloads": 60438,
       "verified": false,
       "packageTypes": [
@@ -42018,6 +42366,9 @@
       "tags": [],
       "authors": [
         "CodeFileSanity"
+      ],
+      "owners": [
+        "ppy"
       ],
       "totalDownloads": 60057,
       "verified": false,
@@ -42089,6 +42440,9 @@
       "tags": [],
       "authors": [
         "Petabridge"
+      ],
+      "owners": [
+        "aaronontheweb"
       ],
       "totalDownloads": 59835,
       "verified": false,
@@ -42183,6 +42537,9 @@
       "authors": [
         "Mariusz Bojkowski"
       ],
+      "owners": [
+        "mbojkowski"
+      ],
       "totalDownloads": 59131,
       "verified": false,
       "packageTypes": [
@@ -42238,11 +42595,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
       "id": "Credfeto.ChangeLog.Cmd",
-      "version": "1.6.1.342-master",
+      "version": "1.6.1.345-master",
       "description": "Changelog manager dotnet tool.",
       "summary": "",
       "title": "Credfeto.ChangeLog.Cmd",
-      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.6.1.342-master/license",
+      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.6.1.345-master/license",
       "tags": [
         "Changelog",
         "tool",
@@ -42251,6 +42608,9 @@
       ],
       "authors": [
         "Mark Ridgwell"
+      ],
+      "owners": [
+        "credfeto"
       ],
       "totalDownloads": 58605,
       "verified": false,
@@ -43794,6 +44154,16 @@
           "version": "1.6.1.342-master",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.6.1.342-master.json"
+        },
+        {
+          "version": "1.6.1.344-c234050ac489b46",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.6.1.344-c234050ac489b46.json"
+        },
+        {
+          "version": "1.6.1.345-master",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.6.1.345-master.json"
         }
       ]
     },
@@ -43811,6 +44181,9 @@
       "tags": [],
       "authors": [
         "dotnet-outdated Team & Contributors"
+      ],
+      "owners": [
+        "dotnet-outdated"
       ],
       "totalDownloads": 57812,
       "verified": false,
@@ -43870,6 +44243,9 @@
       ],
       "authors": [
         "SpecFlow Team"
+      ],
+      "owners": [
+        "specflow"
       ],
       "totalDownloads": 57933,
       "verified": true,
@@ -44005,6 +44381,9 @@
       "authors": [
         "Tom Chavakis"
       ],
+      "owners": [
+        "tomsmyn1"
+      ],
       "totalDownloads": 57284,
       "verified": false,
       "packageTypes": [
@@ -44123,6 +44502,10 @@
         "sqlserver"
       ],
       "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "aspnet",
         "Microsoft"
       ],
       "totalDownloads": 55126,
@@ -44459,6 +44842,10 @@
       "authors": [
         "Microsoft"
       ],
+      "owners": [
+        "Microsoft",
+        "nugettwcsecurity"
+      ],
       "totalDownloads": 54587,
       "verified": true,
       "packageTypes": [
@@ -44749,6 +45136,10 @@
       ],
       "authors": [
         "Stefan Lörwald"
+      ],
+      "owners": [
+        "excubo",
+        "stefanloerwald"
       ],
       "totalDownloads": 52652,
       "verified": false,
@@ -45091,6 +45482,10 @@
       "authors": [
         "Fixie, Patrick Lioi"
       ],
+      "owners": [
+        "Fixie",
+        "plioi"
+      ],
       "totalDownloads": 52349,
       "verified": true,
       "packageTypes": [
@@ -45176,6 +45571,9 @@
       "authors": [
         "Amazon Web Services"
       ],
+      "owners": [
+        "awsdotnet"
+      ],
       "totalDownloads": 50693,
       "verified": true,
       "packageTypes": [
@@ -45206,6 +45604,9 @@
       "tags": [],
       "authors": [
         "Christian Resma Helle"
+      ],
+      "owners": [
+        "christian.helle"
       ],
       "totalDownloads": 50820,
       "verified": false,
@@ -45496,6 +45897,10 @@
       ],
       "authors": [
         "Microsoft"
+      ],
+      "owners": [
+        "Microsoft",
+        "QuantumEngineering"
       ],
       "totalDownloads": 50168,
       "verified": true,
@@ -45842,6 +46247,9 @@
       "authors": [
         "Marc Gravell"
       ],
+      "owners": [
+        "marc.gravell"
+      ],
       "totalDownloads": 50054,
       "verified": true,
       "packageTypes": [
@@ -45989,6 +46397,9 @@
       ],
       "authors": [
         "FreeSql,ncc,YeXiangQin"
+      ],
+      "owners": [
+        "2881099"
       ],
       "totalDownloads": 49231,
       "verified": false,
@@ -46306,6 +46717,9 @@
       ],
       "authors": [
         "Matthew Mcveigh"
+      ],
+      "owners": [
+        "duckmatt"
       ],
       "totalDownloads": 48883,
       "verified": false,
