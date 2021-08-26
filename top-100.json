@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 252021,
+  "totalHits": 252227,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -5708,11 +5708,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "3.7.2.6",
+      "version": "3.7.2.7",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.2.6/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.2.7/icon",
       "licenseUrl": "http://aws.amazon.com/apache2.0/",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
@@ -8579,6 +8579,11 @@
           "version": "3.7.2.6",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.2.6.json"
+        },
+        {
+          "version": "3.7.2.7",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.2.7.json"
         }
       ]
     },
@@ -13868,12 +13873,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/nlog/index.json",
       "id": "NLog",
-      "version": "4.7.11",
-      "description": "NLog is a logging platform for .NET with rich log routing and management capabilities.\nNLog supports traditional logging, structured logging and the combination of both.\n\nSupported platforms:\n\n- .NET 5\n- .NET Core 1, 2 and 3\n- .NET Standard 1.3+ and 2.0+;\n- .NET Framework 3.5, 4, 4.5, 4.6, 4.7 & 4.8\n- .NET Framework 4 client profile\n- Xamarin Android, Xamarin iOs\n- UWP\n- Windows Phone 8\n- Silverlight 4 and 5\n- Mono 4\n\nFor ASP.NET Core, check: https://www.nuget.org/packages/NLog.Web.AspNetCore",
+      "version": "5.0.0-preview.1",
+      "description": "NLog is a logging platform for .NET with rich log routing and management capabilities.\nNLog supports traditional logging, structured logging and the combination of both.\n\nSupported platforms:\n\n- .NET 5 and 6\n- .NET Core 1, 2 and 3\n- .NET Standard 1.3+ and 2.0+\n- .NET Framework 3.5, 4, 4.5, 4.6, 4.7 & 4.8\n- Mono 4\n\nFor ASP.NET Core, check: https://www.nuget.org/packages/NLog.Web.AspNetCore",
       "summary": "",
       "title": "NLog for .NET Framework and .NET Standard",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/nlog/4.7.11/icon",
-      "licenseUrl": "https://github.com/NLog/NLog/blob/master/LICENSE.txt",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/nlog/5.0.0-preview.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/NLog/5.0.0-preview.1/license",
       "projectUrl": "https://nlog-project.org/",
       "tags": [
         "NLog",
@@ -13884,9 +13889,8 @@
         "logfiles",
         "database",
         "eventlog",
-        "email",
-        "wcf",
-        "console"
+        "console",
+        "email"
       ],
       "authors": [
         "Jarek Kowalski,Kim Christensen,Julian Verdurmen"
@@ -14281,6 +14285,11 @@
           "version": "4.7.11",
           "downloads": 11150,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nlog/4.7.11.json"
+        },
+        {
+          "version": "5.0.0-preview.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nlog/5.0.0-preview.1.json"
         }
       ]
     },
@@ -21619,12 +21628,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/index.json",
       "id": "Microsoft.Data.SqlClient",
-      "version": "3.0.0",
+      "version": "4.0.0-preview1.21237.2",
       "description": "Provides the data provider for SQL Server. These classes provide access to versions of SQL Server and encapsulate database-specific protocols, including tabular data stream (TDS)\n\nCommonly Used Types:\nMicrosoft.Data.SqlClient.SqlConnection\nMicrosoft.Data.SqlClient.SqlException\nMicrosoft.Data.SqlClient.SqlParameter\nMicrosoft.Data.SqlClient.SqlDataReader\nMicrosoft.Data.SqlClient.SqlCommand\nMicrosoft.Data.SqlClient.SqlTransaction\nMicrosoft.Data.SqlClient.SqlParameterCollection\nMicrosoft.Data.SqlClient.SqlClientFactory\n\nWhen using NuGet 3.x this package requires at least version 3.4.",
       "summary": "",
       "title": "Microsoft.Data.SqlClient",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.data.sqlclient/3.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Data.SqlClient/3.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.data.sqlclient/4.0.0-preview1.21237.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Data.SqlClient/4.0.0-preview1.21237.2/license",
       "projectUrl": "https://aka.ms/sqlclientproject",
       "tags": [
         "sqlclient",
@@ -21794,6 +21803,11 @@
           "version": "3.0.0",
           "downloads": 575414,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.0.0.json"
+        },
+        {
+          "version": "4.0.0-preview1.21237.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.0.0-preview1.21237.2.json"
         }
       ]
     },
@@ -26527,11 +26541,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "id": "AWSSDK.S3",
-      "version": "3.7.1.26",
+      "version": "3.7.1.27",
       "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
       "summary": "",
       "title": "AWSSDK - Amazon Simple Storage Service",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.1.26/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.1.27/icon",
       "licenseUrl": "http://aws.amazon.com/apache2.0/",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
@@ -29379,6 +29393,11 @@
           "version": "3.7.1.26",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.1.26.json"
+        },
+        {
+          "version": "3.7.1.27",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.1.27.json"
         }
       ]
     },
