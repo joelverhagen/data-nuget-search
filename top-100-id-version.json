@@ -32,6 +32,10 @@
     "version": "4.16.1"
   },
   {
+    "id": "Microsoft.ApplicationInsights",
+    "version": "2.18.0"
+  },
+  {
     "id": "System.Drawing.Common",
     "version": "6.0.0-rc.1.21451.13"
   },
@@ -44,12 +48,8 @@
     "version": "10.1.1"
   },
   {
-    "id": "Microsoft.ApplicationInsights",
-    "version": "2.18.0"
-  },
-  {
     "id": "AWSSDK.Core",
-    "version": "3.7.3.13"
+    "version": "3.7.3.14"
   },
   {
     "id": "Microsoft.Win32.SystemEvents",
@@ -64,11 +64,11 @@
     "version": "5.2.9"
   },
   {
-    "id": "Swashbuckle.AspNetCore.Swagger",
+    "id": "Swashbuckle.AspNetCore.SwaggerGen",
     "version": "6.2.2"
   },
   {
-    "id": "Swashbuckle.AspNetCore.SwaggerGen",
+    "id": "Swashbuckle.AspNetCore.Swagger",
     "version": "6.2.2"
   },
   {
@@ -84,16 +84,16 @@
     "version": "6.2.2"
   },
   {
+    "id": "Microsoft.Extensions.Http",
+    "version": "6.0.0-rc.1.21451.13"
+  },
+  {
     "id": "EntityFramework",
     "version": "6.4.4"
   },
   {
     "id": "NUnit",
     "version": "3.13.2"
-  },
-  {
-    "id": "Microsoft.Extensions.Http",
-    "version": "6.0.0-rc.1.21451.13"
   },
   {
     "id": "Swashbuckle.AspNetCore",
@@ -120,7 +120,15 @@
     "version": "5.2.7"
   },
   {
+    "id": "FluentAssertions",
+    "version": "6.1.0"
+  },
+  {
     "id": "System.Windows.Extensions",
+    "version": "6.0.0-rc.1.21451.13"
+  },
+  {
+    "id": "Microsoft.Extensions.Hosting",
     "version": "6.0.0-rc.1.21451.13"
   },
   {
@@ -132,16 +140,16 @@
     "version": "5.0.0-preview.1"
   },
   {
+    "id": "Microsoft.Data.OData",
+    "version": "5.8.4"
+  },
+  {
     "id": "Serilog.Extensions.Logging",
     "version": "3.0.2-dev-10289"
   },
   {
     "id": "System.Security.Cryptography.Pkcs",
     "version": "6.0.0-rc.1.21451.13"
-  },
-  {
-    "id": "FluentAssertions",
-    "version": "6.1.0"
   },
   {
     "id": "Serilog.Sinks.Console",
@@ -160,16 +168,12 @@
     "version": "12.8.0"
   },
   {
-    "id": "Microsoft.Extensions.Hosting",
-    "version": "6.0.0-rc.1.21451.13"
+    "id": "Dapper",
+    "version": "2.0.90"
   },
   {
     "id": "Microsoft.AspNetCore.Mvc",
     "version": "2.2.0"
-  },
-  {
-    "id": "Dapper",
-    "version": "2.0.90"
   },
   {
     "id": "FluentValidation",
@@ -184,8 +188,8 @@
     "version": "2.2.50"
   },
   {
-    "id": "Microsoft.Data.OData",
-    "version": "5.8.4"
+    "id": "RestSharp",
+    "version": "106.12.0"
   },
   {
     "id": "Microsoft.OpenApi",
@@ -200,8 +204,8 @@
     "version": "2.0.12"
   },
   {
-    "id": "RestSharp",
-    "version": "106.12.0"
+    "id": "Azure.Security.KeyVault.Secrets",
+    "version": "4.3.0-beta.1"
   },
   {
     "id": "Microsoft.Azure.WebJobs",
@@ -212,16 +216,16 @@
     "version": "5.1.0"
   },
   {
-    "id": "Azure.Security.KeyVault.Secrets",
-    "version": "4.3.0-beta.1"
-  },
-  {
-    "id": "Serilog.Formatting.Compact",
-    "version": "1.1.1-dev-00944"
+    "id": "Microsoft.Data.SqlClient",
+    "version": "4.0.0-preview2.21264.2"
   },
   {
     "id": "Microsoft.AspNetCore.Mvc.NewtonsoftJson",
     "version": "6.0.0-rc.1.21452.15"
+  },
+  {
+    "id": "Serilog.Formatting.Compact",
+    "version": "1.1.1-dev-00944"
   },
   {
     "id": "Serilog.Settings.Configuration",
@@ -260,36 +264,28 @@
     "version": "1.6.0"
   },
   {
-    "id": "Npgsql",
-    "version": "6.0.0-rc.1"
-  },
-  {
     "id": "Azure.Security.KeyVault.Certificates",
     "version": "4.3.0-beta.1"
+  },
+  {
+    "id": "Npgsql",
+    "version": "6.0.0-rc.1"
   },
   {
     "id": "Google.Protobuf",
     "version": "3.18.0"
   },
   {
-    "id": "Microsoft.Data.SqlClient",
-    "version": "4.0.0-preview2.21264.2"
-  },
-  {
     "id": "Azure.Core",
     "version": "1.19.0"
-  },
-  {
-    "id": "Serilog.AspNetCore",
-    "version": "4.1.1-dev-00229"
   },
   {
     "id": "Azure.Security.KeyVault.Keys",
     "version": "4.3.0-beta.1"
   },
   {
-    "id": "System.Interactive.Async",
-    "version": "5.0.0"
+    "id": "Serilog.AspNetCore",
+    "version": "4.1.1-dev-00229"
   },
   {
     "id": "Pipelines.Sockets.Unofficial",
@@ -312,20 +308,24 @@
     "version": "2.5.5"
   },
   {
-    "id": "Serilog.Sinks.PeriodicBatching",
-    "version": "2.3.1-dev-00780"
-  },
-  {
     "id": "Microsoft.Extensions.Logging.EventLog",
     "version": "6.0.0-rc.1.21451.13"
+  },
+  {
+    "id": "Serilog.Sinks.PeriodicBatching",
+    "version": "2.3.1-dev-00780"
   },
   {
     "id": "RabbitMQ.Client",
     "version": "6.2.2"
   },
   {
+    "id": "System.Interactive.Async",
+    "version": "5.0.0"
+  },
+  {
     "id": "AWSSDK.S3",
-    "version": "3.7.3.6"
+    "version": "3.7.3.7"
   },
   {
     "id": "coverlet.collector",
@@ -360,16 +360,12 @@
     "version": "4.1.2"
   },
   {
-    "id": "Polly.Extensions.Http",
-    "version": "3.0.0"
+    "id": "Microsoft.Extensions.Diagnostics.HealthChecks",
+    "version": "6.0.0-rc.1.21452.15"
   },
   {
     "id": "jQuery.Validation",
     "version": "1.19.3"
-  },
-  {
-    "id": "Microsoft.Extensions.Diagnostics.HealthChecks",
-    "version": "6.0.0-rc.1.21452.15"
   },
   {
     "id": "Elasticsearch.Net",
@@ -398,5 +394,9 @@
   {
     "id": "Microsoft.Owin.Security.OAuth",
     "version": "4.2.0"
+  },
+  {
+    "id": "MongoDB.Driver.Core",
+    "version": "2.13.1"
   }
 ]
