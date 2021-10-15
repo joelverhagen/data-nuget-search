@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 257873,
+  "totalHits": 257992,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -5813,11 +5813,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "3.7.3.21",
+      "version": "3.7.3.22",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.3.21/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.3.22/icon",
       "licenseUrl": "http://aws.amazon.com/apache2.0/",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
@@ -8819,6 +8819,11 @@
           "version": "3.7.3.21",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.3.21.json"
+        },
+        {
+          "version": "3.7.3.22",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.3.22.json"
         }
       ]
     },
@@ -20062,161 +20067,6 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/index.json",
-      "id": "Microsoft.AspNet.WebApi",
-      "version": "5.2.7",
-      "description": "This package contains everything you need to host ASP.NET Web API on IIS. ASP.NET Web API is a framework that makes it easy to build HTTP services that reach a broad range of clients, including browsers and mobile devices. ASP.NET Web API is an ideal platform for building RESTful applications on the .NET Framework.",
-      "summary": "This package contains everything you need to host ASP.NET Web API on IIS.",
-      "title": "Microsoft ASP.NET Web API 2.2",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.webapi/5.2.7/icon",
-      "licenseUrl": "http://www.microsoft.com/web/webpi/eula/net_library_eula_ENU.htm",
-      "projectUrl": "https://www.asp.net/web-api",
-      "tags": [
-        "Microsoft",
-        "AspNet",
-        "WebApi",
-        "AspNetWebApi"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "aspnet",
-        "Microsoft"
-      ],
-      "totalDownloads": 96971104,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "4.0.20505",
-          "downloads": 394295,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/4.0.20505.json"
-        },
-        {
-          "version": "4.0.20710",
-          "downloads": 4489116,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/4.0.20710.json"
-        },
-        {
-          "version": "4.0.30506",
-          "downloads": 6717035,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/4.0.30506.json"
-        },
-        {
-          "version": "5.0.0-beta1",
-          "downloads": 27763,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.0.0-beta1.json"
-        },
-        {
-          "version": "5.0.0-beta2",
-          "downloads": 50932,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.0.0-beta2.json"
-        },
-        {
-          "version": "5.0.0-rc1",
-          "downloads": 51389,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.0.0-rc1.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 2496857,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.0.0.json"
-        },
-        {
-          "version": "5.0.1",
-          "downloads": 315492,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.0.1.json"
-        },
-        {
-          "version": "5.1.0-rc1",
-          "downloads": 37070,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.1.0-rc1.json"
-        },
-        {
-          "version": "5.1.0",
-          "downloads": 486338,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.1.0.json"
-        },
-        {
-          "version": "5.1.1",
-          "downloads": 733335,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.1.1.json"
-        },
-        {
-          "version": "5.1.2",
-          "downloads": 1213049,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.1.2.json"
-        },
-        {
-          "version": "5.2.0-rc",
-          "downloads": 49723,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.0-rc.json"
-        },
-        {
-          "version": "5.2.0",
-          "downloads": 2017711,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.0.json"
-        },
-        {
-          "version": "5.2.2-rc",
-          "downloads": 25313,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.2-rc.json"
-        },
-        {
-          "version": "5.2.2",
-          "downloads": 4255897,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.2.json"
-        },
-        {
-          "version": "5.2.3-beta1",
-          "downloads": 44558,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.3-beta1.json"
-        },
-        {
-          "version": "5.2.3",
-          "downloads": 40751905,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.3.json"
-        },
-        {
-          "version": "5.2.4-preview1",
-          "downloads": 21826,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.4-preview1.json"
-        },
-        {
-          "version": "5.2.4",
-          "downloads": 6329633,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.4.json"
-        },
-        {
-          "version": "5.2.5-preview1",
-          "downloads": 22133,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.5-preview1.json"
-        },
-        {
-          "version": "5.2.5",
-          "downloads": 414761,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.5.json"
-        },
-        {
-          "version": "5.2.6",
-          "downloads": 7722032,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.6.json"
-        },
-        {
-          "version": "5.2.7",
-          "downloads": 18302627,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.7.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.threading.channels/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.threading.channels/index.json",
@@ -20453,6 +20303,161 @@
           "version": "6.0.0-rc.2.21480.5",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.threading.channels/6.0.0-rc.2.21480.5.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/index.json",
+      "id": "Microsoft.AspNet.WebApi",
+      "version": "5.2.7",
+      "description": "This package contains everything you need to host ASP.NET Web API on IIS. ASP.NET Web API is a framework that makes it easy to build HTTP services that reach a broad range of clients, including browsers and mobile devices. ASP.NET Web API is an ideal platform for building RESTful applications on the .NET Framework.",
+      "summary": "This package contains everything you need to host ASP.NET Web API on IIS.",
+      "title": "Microsoft ASP.NET Web API 2.2",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.webapi/5.2.7/icon",
+      "licenseUrl": "http://www.microsoft.com/web/webpi/eula/net_library_eula_ENU.htm",
+      "projectUrl": "https://www.asp.net/web-api",
+      "tags": [
+        "Microsoft",
+        "AspNet",
+        "WebApi",
+        "AspNetWebApi"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "aspnet",
+        "Microsoft"
+      ],
+      "totalDownloads": 96971104,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "4.0.20505",
+          "downloads": 394295,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/4.0.20505.json"
+        },
+        {
+          "version": "4.0.20710",
+          "downloads": 4489116,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/4.0.20710.json"
+        },
+        {
+          "version": "4.0.30506",
+          "downloads": 6717035,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/4.0.30506.json"
+        },
+        {
+          "version": "5.0.0-beta1",
+          "downloads": 27763,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.0.0-beta1.json"
+        },
+        {
+          "version": "5.0.0-beta2",
+          "downloads": 50932,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.0.0-beta2.json"
+        },
+        {
+          "version": "5.0.0-rc1",
+          "downloads": 51389,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.0.0-rc1.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 2496857,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.0.0.json"
+        },
+        {
+          "version": "5.0.1",
+          "downloads": 315492,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.0.1.json"
+        },
+        {
+          "version": "5.1.0-rc1",
+          "downloads": 37070,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.1.0-rc1.json"
+        },
+        {
+          "version": "5.1.0",
+          "downloads": 486338,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.1.0.json"
+        },
+        {
+          "version": "5.1.1",
+          "downloads": 733335,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.1.1.json"
+        },
+        {
+          "version": "5.1.2",
+          "downloads": 1213049,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.1.2.json"
+        },
+        {
+          "version": "5.2.0-rc",
+          "downloads": 49723,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.0-rc.json"
+        },
+        {
+          "version": "5.2.0",
+          "downloads": 2017711,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.0.json"
+        },
+        {
+          "version": "5.2.2-rc",
+          "downloads": 25313,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.2-rc.json"
+        },
+        {
+          "version": "5.2.2",
+          "downloads": 4255897,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.2.json"
+        },
+        {
+          "version": "5.2.3-beta1",
+          "downloads": 44558,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.3-beta1.json"
+        },
+        {
+          "version": "5.2.3",
+          "downloads": 40751905,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.3.json"
+        },
+        {
+          "version": "5.2.4-preview1",
+          "downloads": 21826,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.4-preview1.json"
+        },
+        {
+          "version": "5.2.4",
+          "downloads": 6329633,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.4.json"
+        },
+        {
+          "version": "5.2.5-preview1",
+          "downloads": 22133,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.5-preview1.json"
+        },
+        {
+          "version": "5.2.5",
+          "downloads": 414761,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.5.json"
+        },
+        {
+          "version": "5.2.6",
+          "downloads": 7722032,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.6.json"
+        },
+        {
+          "version": "5.2.7",
+          "downloads": 18302627,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.webapi/5.2.7.json"
         }
       ]
     },
@@ -22030,13 +22035,13 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/index.json",
       "id": "Azure.Security.KeyVault.Secrets",
-      "version": "4.3.0-beta.1",
+      "version": "4.3.0-beta.2",
       "description": "This is the Microsoft Azure Key Vault Secrets client library",
       "summary": "",
       "title": "Azure.Security.KeyVault.Secrets",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.security.keyvault.secrets/4.3.0-beta.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Azure.Security.KeyVault.Secrets/4.3.0-beta.1/license",
-      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Security.KeyVault.Secrets_4.3.0-beta.1/sdk/keyvault/Azure.Security.KeyVault.Secrets/README.md",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.security.keyvault.secrets/4.3.0-beta.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Azure.Security.KeyVault.Secrets/4.3.0-beta.2/license",
+      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Security.KeyVault.Secrets_4.3.0-beta.2/sdk/keyvault/Azure.Security.KeyVault.Secrets/README.md",
       "tags": [
         "Microsoft",
         "Azure",
@@ -22150,6 +22155,11 @@
           "version": "4.3.0-beta.1",
           "downloads": 3364,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.3.0-beta.1.json"
+        },
+        {
+          "version": "4.3.0-beta.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.3.0-beta.2.json"
         }
       ]
     },
@@ -24456,12 +24466,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/npgsql/index.json",
       "id": "Npgsql",
-      "version": "6.0.0-rc.1",
+      "version": "6.0.0-rc.2",
       "description": "Npgsql is the open source .NET data provider for PostgreSQL.",
       "summary": "",
       "title": "Npgsql",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/npgsql/6.0.0-rc.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Npgsql/6.0.0-rc.1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/npgsql/6.0.0-rc.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Npgsql/6.0.0-rc.2/license",
       "projectUrl": "https://github.com/npgsql/npgsql",
       "tags": [
         "npgsql",
@@ -25026,6 +25036,11 @@
           "version": "6.0.0-rc.1",
           "downloads": 6913,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/npgsql/6.0.0-rc.1.json"
+        },
+        {
+          "version": "6.0.0-rc.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/npgsql/6.0.0-rc.2.json"
         }
       ]
     },
@@ -25421,13 +25436,13 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/index.json",
       "id": "Azure.Security.KeyVault.Certificates",
-      "version": "4.3.0-beta.1",
+      "version": "4.3.0-beta.2",
       "description": "This is the Microsoft Azure Key Vault Certificates client library",
       "summary": "",
       "title": "Azure.Security.KeyVault.Certificates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.security.keyvault.certificates/4.3.0-beta.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Azure.Security.KeyVault.Certificates/4.3.0-beta.1/license",
-      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Security.KeyVault.Certificates_4.3.0-beta.1/sdk/keyvault/Azure.Security.KeyVault.Certificates/README.md",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.security.keyvault.certificates/4.3.0-beta.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Azure.Security.KeyVault.Certificates/4.3.0-beta.2/license",
+      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Security.KeyVault.Certificates_4.3.0-beta.2/sdk/keyvault/Azure.Security.KeyVault.Certificates/README.md",
       "tags": [
         "Microsoft",
         "Azure",
@@ -25546,6 +25561,11 @@
           "version": "4.3.0-beta.1",
           "downloads": 644,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.3.0-beta.1.json"
+        },
+        {
+          "version": "4.3.0-beta.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.3.0-beta.2.json"
         }
       ]
     },
@@ -25952,13 +25972,13 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/index.json",
       "id": "Azure.Security.KeyVault.Keys",
-      "version": "4.3.0-beta.1",
+      "version": "4.3.0-beta.2",
       "description": "This is the Microsoft Azure Key Vault Keys client library",
       "summary": "",
       "title": "Azure.Security.KeyVault.Keys",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.security.keyvault.keys/4.3.0-beta.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Azure.Security.KeyVault.Keys/4.3.0-beta.1/license",
-      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Security.KeyVault.Keys_4.3.0-beta.1/sdk/keyvault/Azure.Security.KeyVault.Keys/README.md",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.security.keyvault.keys/4.3.0-beta.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Azure.Security.KeyVault.Keys/4.3.0-beta.2/license",
+      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Security.KeyVault.Keys_4.3.0-beta.2/sdk/keyvault/Azure.Security.KeyVault.Keys/README.md",
       "tags": [
         "Microsoft",
         "Azure",
@@ -26077,112 +26097,11 @@
           "version": "4.3.0-beta.1",
           "downloads": 937,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.1.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/index.json",
-      "id": "System.Interactive.Async",
-      "version": "5.0.0",
-      "description": "Interactive Extensions Async Library used to express queries over asynchronous enumerable sequences.",
-      "summary": "",
-      "title": "System.Interactive.Async",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.interactive.async/5.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Interactive.Async/5.0.0/license",
-      "projectUrl": "https://github.com/dotnet/reactive",
-      "tags": [
-        "Ix",
-        "Interactive",
-        "Extensions",
-        "Enumerable",
-        "Asynchronous"
-      ],
-      "authors": [
-        ".NET Foundation and Contributors"
-      ],
-      "owners": [
-        "dotnetfoundation",
-        "rxteam"
-      ],
-      "totalDownloads": 75596102,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "3.0.0",
-          "downloads": 9365143,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/3.0.0.json"
         },
         {
-          "version": "3.1.0-rc",
-          "downloads": 2008,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/3.1.0-rc.json"
-        },
-        {
-          "version": "3.1.0-rc2",
-          "downloads": 9207,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/3.1.0-rc2.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 1369104,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/3.1.0.json"
-        },
-        {
-          "version": "3.1.1",
-          "downloads": 34159610,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/3.1.1.json"
-        },
-        {
-          "version": "3.2.0-preview.620",
-          "downloads": 559,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/3.2.0-preview.620.json"
-        },
-        {
-          "version": "3.2.0-preview.635",
-          "downloads": 858,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/3.2.0-preview.635.json"
-        },
-        {
-          "version": "3.2.0",
-          "downloads": 27299643,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/3.2.0.json"
-        },
-        {
-          "version": "4.0.0-preview.1.build.745",
-          "downloads": 6326,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/4.0.0-preview.1.build.745.json"
-        },
-        {
-          "version": "4.0.0-preview.6.build.801",
-          "downloads": 15399,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/4.0.0-preview.6.build.801.json"
-        },
-        {
-          "version": "4.0.0-preview.8.build.9",
-          "downloads": 5820,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/4.0.0-preview.8.build.9.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 1443591,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/4.0.0.json"
-        },
-        {
-          "version": "4.1.1",
-          "downloads": 1326940,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/4.1.1.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 590942,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/5.0.0.json"
+          "version": "4.3.0-beta.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.2.json"
         }
       ]
     },
@@ -26315,26 +26234,32 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/antlr/index.json",
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/index.json",
       "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/antlr/index.json",
-      "id": "Antlr",
-      "version": "3.5.0.2",
-      "description": "ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions containing actions in a variety of target languages.",
-      "summary": "ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions containing actions in a variety of target languages.",
-      "title": "ANTLRv3",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/antlr/3.5.0.2/icon",
-      "licenseUrl": "http://www.antlr3.org/license.html",
-      "projectUrl": "https://github.com/antlr/antlrcs",
-      "tags": [],
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/index.json",
+      "id": "System.Interactive.Async",
+      "version": "5.0.0",
+      "description": "Interactive Extensions Async Library used to express queries over asynchronous enumerable sequences.",
+      "summary": "",
+      "title": "System.Interactive.Async",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.interactive.async/5.0.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Interactive.Async/5.0.0/license",
+      "projectUrl": "https://github.com/dotnet/reactive",
+      "tags": [
+        "Ix",
+        "Interactive",
+        "Extensions",
+        "Enumerable",
+        "Asynchronous"
+      ],
       "authors": [
-        "Sam Harwell, Terence Parr"
+        ".NET Foundation and Contributors"
       ],
       "owners": [
-        "howard",
-        "sharwell"
+        "dotnetfoundation",
+        "rxteam"
       ],
-      "totalDownloads": 73886368,
+      "totalDownloads": 75596102,
       "verified": true,
       "packageTypes": [
         {
@@ -26343,29 +26268,74 @@
       ],
       "versions": [
         {
+          "version": "3.0.0",
+          "downloads": 9365143,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/3.0.0.json"
+        },
+        {
+          "version": "3.1.0-rc",
+          "downloads": 2008,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/3.1.0-rc.json"
+        },
+        {
+          "version": "3.1.0-rc2",
+          "downloads": 9207,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/3.1.0-rc2.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 1369104,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/3.1.0.json"
+        },
+        {
           "version": "3.1.1",
-          "downloads": 120907,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/antlr/3.1.1.json"
+          "downloads": 34159610,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/3.1.1.json"
         },
         {
-          "version": "3.1.3.42154",
-          "downloads": 257443,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/antlr/3.1.3.42154.json"
+          "version": "3.2.0-preview.620",
+          "downloads": 559,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/3.2.0-preview.620.json"
         },
         {
-          "version": "3.4.1.9004-pre",
-          "downloads": 11493,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/antlr/3.4.1.9004-pre.json"
+          "version": "3.2.0-preview.635",
+          "downloads": 858,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/3.2.0-preview.635.json"
         },
         {
-          "version": "3.4.1.9004",
-          "downloads": 32373652,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/antlr/3.4.1.9004.json"
+          "version": "3.2.0",
+          "downloads": 27299643,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/3.2.0.json"
         },
         {
-          "version": "3.5.0.2",
-          "downloads": 41122860,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/antlr/3.5.0.2.json"
+          "version": "4.0.0-preview.1.build.745",
+          "downloads": 6326,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/4.0.0-preview.1.build.745.json"
+        },
+        {
+          "version": "4.0.0-preview.6.build.801",
+          "downloads": 15399,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/4.0.0-preview.6.build.801.json"
+        },
+        {
+          "version": "4.0.0-preview.8.build.9",
+          "downloads": 5820,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/4.0.0-preview.8.build.9.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 1443591,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/4.0.0.json"
+        },
+        {
+          "version": "4.1.1",
+          "downloads": 1326940,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/4.1.1.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 590942,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.interactive.async/5.0.0.json"
         }
       ]
     },
@@ -26466,6 +26436,61 @@
           "version": "1.1.1",
           "downloads": 7539326,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.hashcode/1.1.1.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/antlr/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/antlr/index.json",
+      "id": "Antlr",
+      "version": "3.5.0.2",
+      "description": "ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions containing actions in a variety of target languages.",
+      "summary": "ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions containing actions in a variety of target languages.",
+      "title": "ANTLRv3",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/antlr/3.5.0.2/icon",
+      "licenseUrl": "http://www.antlr3.org/license.html",
+      "projectUrl": "https://github.com/antlr/antlrcs",
+      "tags": [],
+      "authors": [
+        "Sam Harwell, Terence Parr"
+      ],
+      "owners": [
+        "howard",
+        "sharwell"
+      ],
+      "totalDownloads": 73886368,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "3.1.1",
+          "downloads": 120907,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/antlr/3.1.1.json"
+        },
+        {
+          "version": "3.1.3.42154",
+          "downloads": 257443,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/antlr/3.1.3.42154.json"
+        },
+        {
+          "version": "3.4.1.9004-pre",
+          "downloads": 11493,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/antlr/3.4.1.9004-pre.json"
+        },
+        {
+          "version": "3.4.1.9004",
+          "downloads": 32373652,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/antlr/3.4.1.9004.json"
+        },
+        {
+          "version": "3.5.0.2",
+          "downloads": 41122860,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/antlr/3.5.0.2.json"
         }
       ]
     },
@@ -27597,11 +27622,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "id": "AWSSDK.S3",
-      "version": "3.7.3.14",
+      "version": "3.7.3.15",
       "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
       "summary": "",
       "title": "AWSSDK - Amazon Simple Storage Service",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.3.14/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.3.15/icon",
       "licenseUrl": "http://aws.amazon.com/apache2.0/",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
@@ -30584,6 +30609,11 @@
           "version": "3.7.3.14",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.3.14.json"
+        },
+        {
+          "version": "3.7.3.15",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.3.15.json"
         }
       ]
     },
@@ -32800,82 +32830,6 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/index.json",
-      "id": "Modernizr",
-      "version": "2.8.3",
-      "description": "Modernizr adds classes to the <html> element which allow you to target specific browser functionality in your stylesheet. You don't actually need to write any Javascript to use it.\n        Modernizr is a small and simple JavaScript library that helps you take advantage of emerging web technologies (CSS3, HTML5) while still maintaining a fine level of control over older browsers that may not yet support these new technologies.\n        NOTE: This package is maintained on behalf of the library owners by the NuGet Community Packages project at http://nugetpackages.codeplex.com/",
-      "summary": "Modernizr is a small and simple JavaScript library that helps you take advantage of emerging web technologies (CSS3, HTML 5) while still maintaining a fine level of control over older browsers that may not yet support these new technologies.",
-      "title": "Modernizr",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/modernizr/2.8.3/icon",
-      "licenseUrl": "http://www.modernizr.com/license/",
-      "projectUrl": "http://www.modernizr.com/",
-      "tags": [
-        "JavaScript",
-        "HTML",
-        "HTML5",
-        "CSS",
-        "CSS3",
-        "SVG"
-      ],
-      "authors": [
-        "Faruk Ateş,  Paul Irish,  Alex Sexton"
-      ],
-      "owners": [
-        "outercurve"
-      ],
-      "totalDownloads": 61100574,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.6.0",
-          "downloads": 5106,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/1.6.0.json"
-        },
-        {
-          "version": "1.7.0",
-          "downloads": 1303550,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/1.7.0.json"
-        },
-        {
-          "version": "2.0.6",
-          "downloads": 1010270,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/2.0.6.json"
-        },
-        {
-          "version": "2.5.3",
-          "downloads": 2760955,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/2.5.3.json"
-        },
-        {
-          "version": "2.6.2",
-          "downloads": 29347239,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/2.6.2.json"
-        },
-        {
-          "version": "2.7.1",
-          "downloads": 600313,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/2.7.1.json"
-        },
-        {
-          "version": "2.7.2",
-          "downloads": 1085343,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/2.7.2.json"
-        },
-        {
-          "version": "2.8.3",
-          "downloads": 24987795,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/2.8.3.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks/index.json",
@@ -33275,6 +33229,82 @@
           "version": "6.0.0-rc.2.21480.10",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks/6.0.0-rc.2.21480.10.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/index.json",
+      "id": "Modernizr",
+      "version": "2.8.3",
+      "description": "Modernizr adds classes to the <html> element which allow you to target specific browser functionality in your stylesheet. You don't actually need to write any Javascript to use it.\n        Modernizr is a small and simple JavaScript library that helps you take advantage of emerging web technologies (CSS3, HTML5) while still maintaining a fine level of control over older browsers that may not yet support these new technologies.\n        NOTE: This package is maintained on behalf of the library owners by the NuGet Community Packages project at http://nugetpackages.codeplex.com/",
+      "summary": "Modernizr is a small and simple JavaScript library that helps you take advantage of emerging web technologies (CSS3, HTML 5) while still maintaining a fine level of control over older browsers that may not yet support these new technologies.",
+      "title": "Modernizr",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/modernizr/2.8.3/icon",
+      "licenseUrl": "http://www.modernizr.com/license/",
+      "projectUrl": "http://www.modernizr.com/",
+      "tags": [
+        "JavaScript",
+        "HTML",
+        "HTML5",
+        "CSS",
+        "CSS3",
+        "SVG"
+      ],
+      "authors": [
+        "Faruk Ateş,  Paul Irish,  Alex Sexton"
+      ],
+      "owners": [
+        "outercurve"
+      ],
+      "totalDownloads": 61100574,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.6.0",
+          "downloads": 5106,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/1.6.0.json"
+        },
+        {
+          "version": "1.7.0",
+          "downloads": 1303550,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/1.7.0.json"
+        },
+        {
+          "version": "2.0.6",
+          "downloads": 1010270,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/2.0.6.json"
+        },
+        {
+          "version": "2.5.3",
+          "downloads": 2760955,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/2.5.3.json"
+        },
+        {
+          "version": "2.6.2",
+          "downloads": 29347239,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/2.6.2.json"
+        },
+        {
+          "version": "2.7.1",
+          "downloads": 600313,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/2.7.1.json"
+        },
+        {
+          "version": "2.7.2",
+          "downloads": 1085343,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/2.7.2.json"
+        },
+        {
+          "version": "2.8.3",
+          "downloads": 24987795,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/modernizr/2.8.3.json"
         }
       ]
     },
@@ -34483,141 +34513,6 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/index.json",
-      "id": "jQuery.Validation",
-      "version": "1.19.3",
-      "description": "This jQuery plugin makes simple clientside form validation trivial, while offering lots of option for customization. That makes a good choice if you’re building something new from scratch, but also when you’re trying to integrate it into an existing application with lots of existing markup. The plugin comes bundled with a useful set of validation methods, including URL and email validation, while providing an API to write your own methods. All bundled methods come with default error messages in english and translations into 32 languages.\n    NOTE: This package is maintained on behalf of the library owners by the NuGet Community Packages project at http://nugetpackages.codeplex.com/",
-      "summary": "",
-      "title": "jQuery Validation",
-      "projectUrl": "http://bassistance.de/jquery-plugins/jquery-plugin-validation/",
-      "tags": [
-        "jQuery",
-        "plugins"
-      ],
-      "authors": [
-        "Jörn Zaefferer"
-      ],
-      "owners": [
-        "outercurve"
-      ],
-      "totalDownloads": 59412497,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.6.0",
-          "downloads": 23012,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.6.0.json"
-        },
-        {
-          "version": "1.7.0",
-          "downloads": 6921,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.7.0.json"
-        },
-        {
-          "version": "1.8.0",
-          "downloads": 1176600,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.8.0.json"
-        },
-        {
-          "version": "1.8.0.1",
-          "downloads": 1649290,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.8.0.1.json"
-        },
-        {
-          "version": "1.8.1",
-          "downloads": 1582699,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.8.1.json"
-        },
-        {
-          "version": "1.9.0",
-          "downloads": 648923,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.9.0.json"
-        },
-        {
-          "version": "1.9.0.1",
-          "downloads": 2553561,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.9.0.1.json"
-        },
-        {
-          "version": "1.10.0",
-          "downloads": 6653873,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.10.0.json"
-        },
-        {
-          "version": "1.11.0",
-          "downloads": 652123,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.11.0.json"
-        },
-        {
-          "version": "1.11.1",
-          "downloads": 17210693,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.11.1.json"
-        },
-        {
-          "version": "1.12.0",
-          "downloads": 998233,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.12.0.json"
-        },
-        {
-          "version": "1.13.0",
-          "downloads": 1752096,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.13.0.json"
-        },
-        {
-          "version": "1.13.1",
-          "downloads": 2704121,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.13.1.json"
-        },
-        {
-          "version": "1.14.0",
-          "downloads": 3286890,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.14.0.json"
-        },
-        {
-          "version": "1.15.0",
-          "downloads": 1765939,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.15.0.json"
-        },
-        {
-          "version": "1.15.1",
-          "downloads": 1754637,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.15.1.json"
-        },
-        {
-          "version": "1.16.0",
-          "downloads": 4828472,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.16.0.json"
-        },
-        {
-          "version": "1.17.0",
-          "downloads": 7979250,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.17.0.json"
-        },
-        {
-          "version": "1.19.1",
-          "downloads": 1277088,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.19.1.json"
-        },
-        {
-          "version": "1.19.2",
-          "downloads": 524089,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.19.2.json"
-        },
-        {
-          "version": "1.19.3",
-          "downloads": 383931,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.19.3.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.codedom/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.codedom/index.json",
@@ -34869,6 +34764,141 @@
           "version": "6.0.0-rc.2.21480.5",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.codedom/6.0.0-rc.2.21480.5.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/index.json",
+      "id": "jQuery.Validation",
+      "version": "1.19.3",
+      "description": "This jQuery plugin makes simple clientside form validation trivial, while offering lots of option for customization. That makes a good choice if you’re building something new from scratch, but also when you’re trying to integrate it into an existing application with lots of existing markup. The plugin comes bundled with a useful set of validation methods, including URL and email validation, while providing an API to write your own methods. All bundled methods come with default error messages in english and translations into 32 languages.\n    NOTE: This package is maintained on behalf of the library owners by the NuGet Community Packages project at http://nugetpackages.codeplex.com/",
+      "summary": "",
+      "title": "jQuery Validation",
+      "projectUrl": "http://bassistance.de/jquery-plugins/jquery-plugin-validation/",
+      "tags": [
+        "jQuery",
+        "plugins"
+      ],
+      "authors": [
+        "Jörn Zaefferer"
+      ],
+      "owners": [
+        "outercurve"
+      ],
+      "totalDownloads": 59412497,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.6.0",
+          "downloads": 23012,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.6.0.json"
+        },
+        {
+          "version": "1.7.0",
+          "downloads": 6921,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.7.0.json"
+        },
+        {
+          "version": "1.8.0",
+          "downloads": 1176600,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.8.0.json"
+        },
+        {
+          "version": "1.8.0.1",
+          "downloads": 1649290,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.8.0.1.json"
+        },
+        {
+          "version": "1.8.1",
+          "downloads": 1582699,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.8.1.json"
+        },
+        {
+          "version": "1.9.0",
+          "downloads": 648923,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.9.0.json"
+        },
+        {
+          "version": "1.9.0.1",
+          "downloads": 2553561,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.9.0.1.json"
+        },
+        {
+          "version": "1.10.0",
+          "downloads": 6653873,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.10.0.json"
+        },
+        {
+          "version": "1.11.0",
+          "downloads": 652123,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.11.0.json"
+        },
+        {
+          "version": "1.11.1",
+          "downloads": 17210693,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.11.1.json"
+        },
+        {
+          "version": "1.12.0",
+          "downloads": 998233,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.12.0.json"
+        },
+        {
+          "version": "1.13.0",
+          "downloads": 1752096,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.13.0.json"
+        },
+        {
+          "version": "1.13.1",
+          "downloads": 2704121,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.13.1.json"
+        },
+        {
+          "version": "1.14.0",
+          "downloads": 3286890,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.14.0.json"
+        },
+        {
+          "version": "1.15.0",
+          "downloads": 1765939,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.15.0.json"
+        },
+        {
+          "version": "1.15.1",
+          "downloads": 1754637,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.15.1.json"
+        },
+        {
+          "version": "1.16.0",
+          "downloads": 4828472,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.16.0.json"
+        },
+        {
+          "version": "1.17.0",
+          "downloads": 7979250,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.17.0.json"
+        },
+        {
+          "version": "1.19.1",
+          "downloads": 1277088,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.19.1.json"
+        },
+        {
+          "version": "1.19.2",
+          "downloads": 524089,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.19.2.json"
+        },
+        {
+          "version": "1.19.3",
+          "downloads": 383931,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jquery.validation/1.19.3.json"
         }
       ]
     },
