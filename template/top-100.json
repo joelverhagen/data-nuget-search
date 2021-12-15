@@ -1018,6 +1018,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.itemtemplates/3.1.21.json"
         },
         {
+          "version": "3.1.22",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.itemtemplates/3.1.22.json"
+        },
+        {
           "version": "5.0.0-preview.1.20124.5",
           "downloads": 189,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.itemtemplates/5.0.0-preview.1.20124.5.json"
@@ -1131,6 +1136,11 @@
           "version": "5.0.12",
           "downloads": 171,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.itemtemplates/5.0.12.json"
+        },
+        {
+          "version": "5.0.13",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.itemtemplates/5.0.13.json"
         },
         {
           "version": "6.0.0-preview.1.21103.6",
@@ -1610,11 +1620,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/uno.projecttemplates.dotnet/index.json",
       "id": "Uno.ProjectTemplates.Dotnet",
-      "version": "4.1.0-dev.68",
+      "version": "4.1.0-dev.108",
       "description": "Package Description",
       "summary": "",
       "title": "Uno.ProjectTemplates.Dotnet",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/uno.projecttemplates.dotnet/4.1.0-dev.68/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/uno.projecttemplates.dotnet/4.1.0-dev.108/icon",
       "projectUrl": "https://github.com/unoplatform/uno",
       "tags": [
         "dotnet-new",
@@ -10610,6 +10620,21 @@
           "version": "4.1.0-dev.68",
           "downloads": 17,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.projecttemplates.dotnet/4.1.0-dev.68.json"
+        },
+        {
+          "version": "4.1.0-dev.70",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.projecttemplates.dotnet/4.1.0-dev.70.json"
+        },
+        {
+          "version": "4.1.0-dev.73",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.projecttemplates.dotnet/4.1.0-dev.73.json"
+        },
+        {
+          "version": "4.1.0-dev.108",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.projecttemplates.dotnet/4.1.0-dev.108.json"
         }
       ]
     },
@@ -12599,12 +12624,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.5.0/index.json",
       "id": "Microsoft.DotNet.Web.ProjectTemplates.5.0",
-      "version": "5.0.12",
-      "description": "ASP.NET Core Web Template Pack for Microsoft Template Engine\n\nTo install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.ProjectTemplates.5.0::5.0.12'.\n    \n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/0bc3c376f0cd14335e8b3afca69596acabeb1f80",
+      "version": "5.0.13",
+      "description": "ASP.NET Core Web Template Pack for Microsoft Template Engine\n\nTo install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.ProjectTemplates.5.0::5.0.13'.\n    \n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/55738ff96b832439076e25584cfe0eb3bace9b01",
       "summary": "",
       "title": "Microsoft.DotNet.Web.ProjectTemplates.5.0",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.web.projecttemplates.5.0/5.0.12/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.DotNet.Web.ProjectTemplates.5.0/5.0.12/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.web.projecttemplates.5.0/5.0.13/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.DotNet.Web.ProjectTemplates.5.0/5.0.13/license",
       "projectUrl": "https://asp.net/",
       "tags": [
         "aspnet",
@@ -12739,6 +12764,11 @@
           "version": "5.0.12",
           "downloads": 8827,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.5.0/5.0.12.json"
+        },
+        {
+          "version": "5.0.13",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.5.0/5.0.13.json"
         }
       ]
     },
@@ -12747,12 +12777,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.3.1/index.json",
       "id": "Microsoft.DotNet.Web.ProjectTemplates.3.1",
-      "version": "3.1.21",
-      "description": "ASP.NET Core Web Template Pack for Microsoft Template Engine\n\nTo install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.ProjectTemplates.3.1::3.1.21'.\n    \n\nThis package was built from the source code at https://github.com/aspnet/AspNetCore/tree/458d97420a173fe87487b58ec4aa47a4c9dc4710",
+      "version": "3.1.22",
+      "description": "ASP.NET Core Web Template Pack for Microsoft Template Engine\n\nTo install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.ProjectTemplates.3.1::3.1.22'.\n    \n\nThis package was built from the source code at https://github.com/aspnet/AspNetCore/tree/7b22a279ec975335bbb0a7cbadef2e45ee15aa9c",
       "summary": "",
       "title": "Microsoft.DotNet.Web.ProjectTemplates.3.1",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.web.projecttemplates.3.1/3.1.21/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.DotNet.Web.ProjectTemplates.3.1/3.1.21/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.web.projecttemplates.3.1/3.1.22/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.DotNet.Web.ProjectTemplates.3.1/3.1.22/license",
       "projectUrl": "https://asp.net/",
       "tags": [
         "aspnet",
@@ -12897,6 +12927,11 @@
           "version": "3.1.21",
           "downloads": 826,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.3.1/3.1.21.json"
+        },
+        {
+          "version": "3.1.22",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.3.1/3.1.22.json"
         }
       ]
     },
@@ -13153,12 +13188,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.3.1/index.json",
       "id": "Microsoft.DotNet.Web.Spa.ProjectTemplates.3.1",
-      "version": "3.1.21",
-      "description": "Single Page Application templates for ASP.NET Core\n\nTo install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.Spa.ProjectTemplates.3.1::3.1.21'.\n    \n\nThis package was built from the source code at https://github.com/aspnet/AspNetCore/tree/458d97420a173fe87487b58ec4aa47a4c9dc4710",
+      "version": "3.1.22",
+      "description": "Single Page Application templates for ASP.NET Core\n\nTo install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.Spa.ProjectTemplates.3.1::3.1.22'.\n    \n\nThis package was built from the source code at https://github.com/aspnet/AspNetCore/tree/7b22a279ec975335bbb0a7cbadef2e45ee15aa9c",
       "summary": "",
       "title": "Microsoft.DotNet.Web.Spa.ProjectTemplates.3.1",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.web.spa.projecttemplates.3.1/3.1.21/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.DotNet.Web.Spa.ProjectTemplates.3.1/3.1.21/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.web.spa.projecttemplates.3.1/3.1.22/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.DotNet.Web.Spa.ProjectTemplates.3.1/3.1.22/license",
       "projectUrl": "https://asp.net/",
       "tags": [
         "aspnet",
@@ -13304,6 +13339,11 @@
           "version": "3.1.21",
           "downloads": 98,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.3.1/3.1.21.json"
+        },
+        {
+          "version": "3.1.22",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.3.1/3.1.22.json"
         }
       ]
     },
@@ -13769,11 +13809,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.starwars/index.json",
       "id": "HotChocolate.Templates.StarWars",
-      "version": "12.4.0-rc.3",
+      "version": "12.4.0",
       "description": "Creates a GraphQL Star Wars Demo",
       "summary": "",
       "title": "HotChocolate.Templates.StarWars",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/hotchocolate.templates.starwars/12.4.0-rc.3/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/hotchocolate.templates.starwars/12.4.0/icon",
       "tags": [],
       "authors": [
         "Michael Staib"
@@ -14185,24 +14225,9 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.starwars/12.3.2.json"
         },
         {
-          "version": "12.4.0-preview.15",
-          "downloads": 28,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.starwars/12.4.0-preview.15.json"
-        },
-        {
-          "version": "12.4.0-rc.1",
-          "downloads": 20,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.starwars/12.4.0-rc.1.json"
-        },
-        {
-          "version": "12.4.0-rc.2",
-          "downloads": 20,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.starwars/12.4.0-rc.2.json"
-        },
-        {
-          "version": "12.4.0-rc.3",
+          "version": "12.4.0",
           "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.starwars/12.4.0-rc.3.json"
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.starwars/12.4.0.json"
         }
       ]
     },
@@ -14211,11 +14236,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.server/index.json",
       "id": "HotChocolate.Templates.Server",
-      "version": "12.4.0-rc.3",
+      "version": "12.4.0",
       "description": "Hot Chocolate GraphQL server templates.",
       "summary": "",
       "title": "HotChocolate.Templates.Server",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/hotchocolate.templates.server/12.4.0-rc.3/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/hotchocolate.templates.server/12.4.0/icon",
       "tags": [],
       "authors": [
         "Michael Staib"
@@ -14622,24 +14647,9 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.server/12.3.2.json"
         },
         {
-          "version": "12.4.0-preview.15",
-          "downloads": 25,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.server/12.4.0-preview.15.json"
-        },
-        {
-          "version": "12.4.0-rc.1",
-          "downloads": 23,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.server/12.4.0-rc.1.json"
-        },
-        {
-          "version": "12.4.0-rc.2",
-          "downloads": 21,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.server/12.4.0-rc.2.json"
-        },
-        {
-          "version": "12.4.0-rc.3",
+          "version": "12.4.0",
           "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.server/12.4.0-rc.3.json"
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates.server/12.4.0.json"
         }
       ]
     },
@@ -18781,12 +18791,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.quantum.projecttemplates/index.json",
       "id": "Microsoft.Quantum.ProjectTemplates",
-      "version": "0.21.2112180657-beta",
+      "version": "0.21.2112180703",
       "description": ".NET Core templates pack for Q#, part of the Microsoft Quantum Development Kit.",
       "summary": "",
       "title": "Microsoft Quantum Project Templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.quantum.projecttemplates/0.21.2112180657-beta/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Quantum.ProjectTemplates/0.21.2112180657-beta/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.quantum.projecttemplates/0.21.2112180703/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Quantum.ProjectTemplates/0.21.2112180703/license",
       "projectUrl": "https://docs.microsoft.com/azure/quantum",
       "tags": [
         "Quantum",
@@ -19242,6 +19252,11 @@
           "version": "0.21.2112180657-beta",
           "downloads": 30,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.quantum.projecttemplates/0.21.2112180657-beta.json"
+        },
+        {
+          "version": "0.21.2112180703",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.quantum.projecttemplates/0.21.2112180703.json"
         }
       ]
     },
@@ -21939,12 +21954,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.client.itemtemplates/index.json",
       "id": "Microsoft.DotNet.Web.Client.ItemTemplates",
-      "version": "6.0.0",
-      "description": "Web Client-Side File Templates for Microsoft Template Engine\n\nTo install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.Client.ItemTemplates::6.0.0'.\n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/ae1a6cbe225b99c0bf38b7e31bf60cb653b73a52",
+      "version": "6.0.1",
+      "description": "Web Client-Side File Templates for Microsoft Template Engine\n\nTo install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.Client.ItemTemplates::6.0.1'.\n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/4e7d976438b0fc17f435804e801d5d68d193ec33",
       "summary": "",
       "title": "Microsoft.DotNet.Web.Client.ItemTemplates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.web.client.itemtemplates/6.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.DotNet.Web.Client.ItemTemplates/6.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.web.client.itemtemplates/6.0.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.DotNet.Web.Client.ItemTemplates/6.0.1/license",
       "projectUrl": "https://asp.net/",
       "tags": [
         "aspnet",
@@ -22306,6 +22321,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.client.itemtemplates/3.1.21.json"
         },
         {
+          "version": "3.1.22",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.client.itemtemplates/3.1.22.json"
+        },
+        {
           "version": "5.0.0-preview.1.20124.5",
           "downloads": 183,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.client.itemtemplates/5.0.0-preview.1.20124.5.json"
@@ -22421,6 +22441,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.client.itemtemplates/5.0.12.json"
         },
         {
+          "version": "5.0.13",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.client.itemtemplates/5.0.13.json"
+        },
+        {
           "version": "6.0.0-preview.1.21103.6",
           "downloads": 51,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.client.itemtemplates/6.0.0-preview.1.21103.6.json"
@@ -22469,6 +22494,11 @@
           "version": "6.0.0",
           "downloads": 467,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.client.itemtemplates/6.0.0.json"
+        },
+        {
+          "version": "6.0.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.client.itemtemplates/6.0.1.json"
         }
       ]
     },
@@ -22541,12 +22571,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/index.json",
       "id": "Microsoft.DotNet.Web.Spa.ProjectTemplates.5.0",
-      "version": "5.0.12",
-      "description": "Single Page Application templates for ASP.NET Core\n\nTo install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.Spa.ProjectTemplates.5.0::5.0.12'.\n    \n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/0bc3c376f0cd14335e8b3afca69596acabeb1f80",
+      "version": "5.0.13",
+      "description": "Single Page Application templates for ASP.NET Core\n\nTo install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.Spa.ProjectTemplates.5.0::5.0.13'.\n    \n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/55738ff96b832439076e25584cfe0eb3bace9b01",
       "summary": "",
       "title": "Microsoft.DotNet.Web.Spa.ProjectTemplates.5.0",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.12/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.DotNet.Web.Spa.ProjectTemplates.5.0/5.0.12/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.13/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.DotNet.Web.Spa.ProjectTemplates.5.0/5.0.13/license",
       "projectUrl": "https://asp.net/",
       "tags": [
         "aspnet",
@@ -22682,6 +22712,11 @@
           "version": "5.0.12",
           "downloads": 103,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.12.json"
+        },
+        {
+          "version": "5.0.13",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.spa.projecttemplates.5.0/5.0.13.json"
         }
       ]
     },
@@ -24789,11 +24824,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates/index.json",
       "id": "HotChocolate.Templates",
-      "version": "12.4.0-rc.3",
+      "version": "12.4.0",
       "description": "Hot Chocolate GraphQL templates.",
       "summary": "",
       "title": "HotChocolate.Templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/hotchocolate.templates/12.4.0-rc.3/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/hotchocolate.templates/12.4.0/icon",
       "tags": [],
       "authors": [
         "Michael Staib"
@@ -24845,24 +24880,9 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates/12.3.2.json"
         },
         {
-          "version": "12.4.0-preview.15",
-          "downloads": 36,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates/12.4.0-preview.15.json"
-        },
-        {
-          "version": "12.4.0-rc.1",
-          "downloads": 27,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates/12.4.0-rc.1.json"
-        },
-        {
-          "version": "12.4.0-rc.2",
-          "downloads": 17,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates/12.4.0-rc.2.json"
-        },
-        {
-          "version": "12.4.0-rc.3",
+          "version": "12.4.0",
           "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates/12.4.0-rc.3.json"
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates/12.4.0.json"
         }
       ]
     },
