@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 2810,
+  "totalHits": 2815,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-interactive/index.json",
@@ -18331,12 +18331,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/index.json",
       "id": "Octopus.DotNet.Cli",
-      "version": "7.4.3574",
+      "version": "7.4.3575",
       "description": "Octopus Deploy is an automated release management tool for modern developers and DevOps teams.\n\n      This package contains the dotnet tool version of the CLI library for interacting with the HTTP API in Octopus.",
       "summary": "",
       "title": "Octopus.DotNet.Cli",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/octopus.dotnet.cli/7.4.3574/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Octopus.DotNet.Cli/7.4.3574/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/octopus.dotnet.cli/7.4.3575/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Octopus.DotNet.Cli/7.4.3575/license",
       "projectUrl": "http://octopusdeploy.com/",
       "tags": [],
       "authors": [
@@ -20208,6 +20208,11 @@
           "version": "7.4.3574",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/7.4.3574.json"
+        },
+        {
+          "version": "7.4.3575",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/7.4.3575.json"
         }
       ]
     },
@@ -20301,6 +20306,74 @@
           "version": "0.11.3",
           "downloads": 113350,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-2.1/0.11.3.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/index.json",
+      "id": "Amazon.Lambda.TestTool-3.1",
+      "version": "0.11.4",
+      "description": "A tool to help debug and test your .NET Core 3.1 AWS Lambda functions locally.",
+      "summary": "",
+      "title": "Amazon.Lambda.TestTool-3.1",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/amazon.lambda.testtool-3.1/0.11.4/icon",
+      "licenseUrl": "http://aws.amazon.com/apache2.0/",
+      "projectUrl": "https://github.com/aws/aws-lambda-dotnet",
+      "tags": [
+        "AWS",
+        "Amazon",
+        "Lambda"
+      ],
+      "authors": [
+        "Amazon Web Services"
+      ],
+      "owners": [
+        "awsdotnet"
+      ],
+      "totalDownloads": 966140,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.10.0",
+          "downloads": 88307,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.10.0.json"
+        },
+        {
+          "version": "0.10.1",
+          "downloads": 157893,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.10.1.json"
+        },
+        {
+          "version": "0.11.0",
+          "downloads": 45190,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.0.json"
+        },
+        {
+          "version": "0.11.1",
+          "downloads": 98764,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.1.json"
+        },
+        {
+          "version": "0.11.2",
+          "downloads": 15072,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.2.json"
+        },
+        {
+          "version": "0.11.3",
+          "downloads": 510550,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.3.json"
+        },
+        {
+          "version": "0.11.4",
+          "downloads": 50364,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.4.json"
         }
       ]
     },
@@ -20725,74 +20798,6 @@
           "version": "5.21.0-alpha004",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.21.0-alpha004.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/index.json",
-      "id": "Amazon.Lambda.TestTool-3.1",
-      "version": "0.11.4",
-      "description": "A tool to help debug and test your .NET Core 3.1 AWS Lambda functions locally.",
-      "summary": "",
-      "title": "Amazon.Lambda.TestTool-3.1",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/amazon.lambda.testtool-3.1/0.11.4/icon",
-      "licenseUrl": "http://aws.amazon.com/apache2.0/",
-      "projectUrl": "https://github.com/aws/aws-lambda-dotnet",
-      "tags": [
-        "AWS",
-        "Amazon",
-        "Lambda"
-      ],
-      "authors": [
-        "Amazon Web Services"
-      ],
-      "owners": [
-        "awsdotnet"
-      ],
-      "totalDownloads": 966140,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.10.0",
-          "downloads": 88307,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.10.0.json"
-        },
-        {
-          "version": "0.10.1",
-          "downloads": 157893,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.10.1.json"
-        },
-        {
-          "version": "0.11.0",
-          "downloads": 45190,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.0.json"
-        },
-        {
-          "version": "0.11.1",
-          "downloads": 98764,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.1.json"
-        },
-        {
-          "version": "0.11.2",
-          "downloads": 15072,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.2.json"
-        },
-        {
-          "version": "0.11.3",
-          "downloads": 510550,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.3.json"
-        },
-        {
-          "version": "0.11.4",
-          "downloads": 50364,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.4.json"
         }
       ]
     },
@@ -23330,6 +23335,48 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azuresigntool/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azuresigntool/index.json",
+      "id": "AzureSignTool",
+      "version": "3.0.0",
+      "description": "Azure Sign Tool is similar to signtool in the Windows SDK, with the major difference being that it uses Azure Key Vault for performing the signing process. The usage is like signtool, except with a limited set of options for signing and options for authenticating to Azure Key Vault.",
+      "summary": "",
+      "title": "AzureSignTool",
+      "projectUrl": "https://github.com/vcsjones/AzureSignTool",
+      "tags": [
+        "azuresigntool",
+        "azure",
+        "keyvault",
+        "codesign"
+      ],
+      "authors": [
+        "Kevin Jones"
+      ],
+      "owners": [
+        "vcsjones"
+      ],
+      "totalDownloads": 494741,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.0.17",
+          "downloads": 450582,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azuresigntool/2.0.17.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 44159,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azuresigntool/3.0.0.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-script/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-script/index.json",
@@ -23488,48 +23535,6 @@
           "version": "1.3.1",
           "downloads": 11013,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-script/1.3.1.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azuresigntool/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azuresigntool/index.json",
-      "id": "AzureSignTool",
-      "version": "3.0.0",
-      "description": "Azure Sign Tool is similar to signtool in the Windows SDK, with the major difference being that it uses Azure Key Vault for performing the signing process. The usage is like signtool, except with a limited set of options for signing and options for authenticating to Azure Key Vault.",
-      "summary": "",
-      "title": "AzureSignTool",
-      "projectUrl": "https://github.com/vcsjones/AzureSignTool",
-      "tags": [
-        "azuresigntool",
-        "azure",
-        "keyvault",
-        "codesign"
-      ],
-      "authors": [
-        "Kevin Jones"
-      ],
-      "owners": [
-        "vcsjones"
-      ],
-      "totalDownloads": 494741,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.0.17",
-          "downloads": 450582,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azuresigntool/2.0.17.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 44159,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azuresigntool/3.0.0.json"
         }
       ]
     },
@@ -27539,12 +27544,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/index.json",
       "id": "Libplanet.Tools",
-      "version": "0.26.0-nightly.20220107+f5fd3ba",
+      "version": "0.26.0-nightly.20220108+f5fd3ba",
       "description": "This CLI app is a collection of utilities for application  programmers who create decentralized games powered by Libplanet  (https://libplanet.io/).",
       "summary": "",
       "title": "planet: Libplanet CLI Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/0.26.0-nightly.20220107/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/0.26.0-nightly.20220107/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/0.26.0-nightly.20220108/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/0.26.0-nightly.20220108/license",
       "projectUrl": "https://libplanet.io/",
       "tags": [],
       "authors": [
@@ -33500,6 +33505,11 @@
           "version": "0.26.0-nightly.20220107+f5fd3ba",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.26.0-nightly.20220107.json"
+        },
+        {
+          "version": "0.26.0-nightly.20220108+f5fd3ba",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.26.0-nightly.20220108.json"
         }
       ]
     },
@@ -36161,6 +36171,44 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/index.json",
+      "id": "AWS.CodeArtifact.NuGet.CredentialProvider",
+      "version": "1.0.0",
+      "description": "A tool to configure NuGet credential provider for AWS CodeArtifact sources.",
+      "summary": "",
+      "title": "AWS.CodeArtifact.NuGet.CredentialProvider",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/aws.codeartifact.nuget.credentialprovider/1.0.0/icon",
+      "licenseUrl": "https://aws.amazon.com/apache-2-0/",
+      "projectUrl": "https://aws.amazon.com/codeartifact/",
+      "tags": [
+        "AWS",
+        "Amazon",
+        "CodeArtifact"
+      ],
+      "authors": [
+        "Amazon Web Services"
+      ],
+      "owners": [
+        "awsdotnet"
+      ],
+      "totalDownloads": 144179,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloads": 144179,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/1.0.0.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-retire/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-retire/index.json",
@@ -36291,44 +36339,6 @@
           "version": "5.0.0",
           "downloads": 23978,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-retire/5.0.0.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/index.json",
-      "id": "AWS.CodeArtifact.NuGet.CredentialProvider",
-      "version": "1.0.0",
-      "description": "A tool to configure NuGet credential provider for AWS CodeArtifact sources.",
-      "summary": "",
-      "title": "AWS.CodeArtifact.NuGet.CredentialProvider",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/aws.codeartifact.nuget.credentialprovider/1.0.0/icon",
-      "licenseUrl": "https://aws.amazon.com/apache-2-0/",
-      "projectUrl": "https://aws.amazon.com/codeartifact/",
-      "tags": [
-        "AWS",
-        "Amazon",
-        "CodeArtifact"
-      ],
-      "authors": [
-        "Amazon Web Services"
-      ],
-      "owners": [
-        "awsdotnet"
-      ],
-      "totalDownloads": 144179,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "downloads": 144179,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/1.0.0.json"
         }
       ]
     },
@@ -40094,102 +40104,16 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/boots/index.json",
-      "id": "boots",
-      "version": "1.1.0.682-preview1",
-      "description": "boots is a dotnet global tool for \"bootstrapping\" vsix & pkg files.",
-      "summary": "",
-      "title": "boots",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/boots/1.1.0.682-preview1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/boots/1.1.0.682-preview1/license",
-      "projectUrl": "https://github.com/jonathanpeppers/boots",
-      "tags": [
-        "Bootstrap",
-        "CI",
-        "Xamarin",
-        "Cake",
-        "Azure",
-        "DevOps"
-      ],
-      "authors": [
-        "Jonathan Peppers, Peter Collins"
-      ],
-      "owners": [
-        "jonathanpeppers"
-      ],
-      "totalDownloads": 132752,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0.291",
-          "downloads": 4962,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.0.291.json"
-        },
-        {
-          "version": "1.0.1.386",
-          "downloads": 4657,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.1.386.json"
-        },
-        {
-          "version": "1.0.2.421",
-          "downloads": 21507,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.2.421.json"
-        },
-        {
-          "version": "1.0.2.437",
-          "downloads": 18559,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.2.437.json"
-        },
-        {
-          "version": "1.0.2.482",
-          "downloads": 20022,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.2.482.json"
-        },
-        {
-          "version": "1.0.3.527",
-          "downloads": 15141,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.3.527.json"
-        },
-        {
-          "version": "1.0.3.556",
-          "downloads": 20705,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.3.556.json"
-        },
-        {
-          "version": "1.0.4.600-preview1",
-          "downloads": 90,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.4.600-preview1.json"
-        },
-        {
-          "version": "1.0.4.624",
-          "downloads": 23917,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.4.624.json"
-        },
-        {
-          "version": "1.1.0.682-preview1",
-          "downloads": 49,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.1.0.682-preview1.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/index.json",
       "id": "fantomas-tool",
-      "version": "4.6.0-alpha-011",
+      "version": "4.6.0-beta-001",
       "description": "This library aims at formatting F# source files based on a given configuration.\nFantomas will ensure correct indentation and consistent spacing between elements in the source files.\nSome common use cases include\n(1) Reformatting a code base to conform a universal page width\n(2) Converting legacy code from verbose syntax to light syntax\n(3) Formatting auto-generated F# signatures.",
       "summary": "",
       "title": "Fantomas.CoreGlobalTool",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fantomas-tool/4.6.0-alpha-011/icon",
-      "licenseUrl": "https://www.nuget.org/packages/fantomas-tool/4.6.0-alpha-011/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fantomas-tool/4.6.0-beta-001/icon",
+      "licenseUrl": "https://www.nuget.org/packages/fantomas-tool/4.6.0-beta-001/license",
       "projectUrl": "https://github.com/fsprojects/fantomas",
       "tags": [
         "F#",
@@ -40780,6 +40704,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.11.json"
         },
         {
+          "version": "4.5.12",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.12.json"
+        },
+        {
           "version": "4.6.0-alpha-001",
           "downloads": 91,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-001.json"
@@ -40833,6 +40762,97 @@
           "version": "4.6.0-alpha-011",
           "downloads": 104,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-011.json"
+        },
+        {
+          "version": "4.6.0-beta-001",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-beta-001.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/boots/index.json",
+      "id": "boots",
+      "version": "1.1.0.682-preview1",
+      "description": "boots is a dotnet global tool for \"bootstrapping\" vsix & pkg files.",
+      "summary": "",
+      "title": "boots",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/boots/1.1.0.682-preview1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/boots/1.1.0.682-preview1/license",
+      "projectUrl": "https://github.com/jonathanpeppers/boots",
+      "tags": [
+        "Bootstrap",
+        "CI",
+        "Xamarin",
+        "Cake",
+        "Azure",
+        "DevOps"
+      ],
+      "authors": [
+        "Jonathan Peppers, Peter Collins"
+      ],
+      "owners": [
+        "jonathanpeppers"
+      ],
+      "totalDownloads": 132752,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0.291",
+          "downloads": 4962,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.0.291.json"
+        },
+        {
+          "version": "1.0.1.386",
+          "downloads": 4657,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.1.386.json"
+        },
+        {
+          "version": "1.0.2.421",
+          "downloads": 21507,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.2.421.json"
+        },
+        {
+          "version": "1.0.2.437",
+          "downloads": 18559,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.2.437.json"
+        },
+        {
+          "version": "1.0.2.482",
+          "downloads": 20022,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.2.482.json"
+        },
+        {
+          "version": "1.0.3.527",
+          "downloads": 15141,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.3.527.json"
+        },
+        {
+          "version": "1.0.3.556",
+          "downloads": 20705,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.3.556.json"
+        },
+        {
+          "version": "1.0.4.600-preview1",
+          "downloads": 90,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.4.600-preview1.json"
+        },
+        {
+          "version": "1.0.4.624",
+          "downloads": 23917,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.0.4.624.json"
+        },
+        {
+          "version": "1.1.0.682-preview1",
+          "downloads": 49,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/boots/1.1.0.682-preview1.json"
         }
       ]
     },
@@ -41293,6 +41313,79 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/index.json",
+      "id": "dotnet-outdated-tool",
+      "version": "4.1.0",
+      "description": "A .NET Core global tool to update project dependencies.",
+      "summary": "",
+      "title": "dotnet-outdated-tool",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-outdated-tool/4.1.0/license",
+      "projectUrl": "https://github.com/dotnet-outdated/dotnet-outdated",
+      "tags": [],
+      "authors": [
+        "dotnet-outdated Team & Contributors"
+      ],
+      "owners": [
+        "dotnet-outdated"
+      ],
+      "totalDownloads": 122963,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "3.0.0",
+          "downloads": 1238,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.0.0.json"
+        },
+        {
+          "version": "3.0.1",
+          "downloads": 3371,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.0.1.json"
+        },
+        {
+          "version": "3.0.2",
+          "downloads": 1400,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.0.2.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 4167,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.1.0.json"
+        },
+        {
+          "version": "3.1.1",
+          "downloads": 13703,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.1.1.json"
+        },
+        {
+          "version": "3.2.0",
+          "downloads": 48377,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.2.0.json"
+        },
+        {
+          "version": "3.2.1",
+          "downloads": 33492,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.2.1.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 1285,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/4.0.0.json"
+        },
+        {
+          "version": "4.1.0",
+          "downloads": 15930,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/4.1.0.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-version-cli/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-version-cli/index.json",
@@ -41441,79 +41534,6 @@
           "version": "2.3.0",
           "downloads": 3206,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-version-cli/2.3.0.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/index.json",
-      "id": "dotnet-outdated-tool",
-      "version": "4.1.0",
-      "description": "A .NET Core global tool to update project dependencies.",
-      "summary": "",
-      "title": "dotnet-outdated-tool",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-outdated-tool/4.1.0/license",
-      "projectUrl": "https://github.com/dotnet-outdated/dotnet-outdated",
-      "tags": [],
-      "authors": [
-        "dotnet-outdated Team & Contributors"
-      ],
-      "owners": [
-        "dotnet-outdated"
-      ],
-      "totalDownloads": 122963,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "3.0.0",
-          "downloads": 1238,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.0.0.json"
-        },
-        {
-          "version": "3.0.1",
-          "downloads": 3371,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.0.1.json"
-        },
-        {
-          "version": "3.0.2",
-          "downloads": 1400,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.0.2.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 4167,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.1.0.json"
-        },
-        {
-          "version": "3.1.1",
-          "downloads": 13703,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.1.1.json"
-        },
-        {
-          "version": "3.2.0",
-          "downloads": 48377,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.2.0.json"
-        },
-        {
-          "version": "3.2.1",
-          "downloads": 33492,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.2.1.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 1285,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/4.0.0.json"
-        },
-        {
-          "version": "4.1.0",
-          "downloads": 15930,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/4.1.0.json"
         }
       ]
     },
@@ -43448,333 +43468,6 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/index.json",
-      "id": "dotnetsay",
-      "version": "2.1.7",
-      "description": "A simple .NET Core tool called \"dotnetsay\".",
-      "summary": "",
-      "title": "dotnetsay",
-      "licenseUrl": "https://www.nuget.org/packages/dotnetsay/2.1.7/license",
-      "projectUrl": "https://github.com/dotnet/core/blob/master/samples/dotnetsay/README.md",
-      "tags": [],
-      "authors": [
-        ".NET Team"
-      ],
-      "owners": [
-        "richlander"
-      ],
-      "totalDownloads": 102322,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "downloads": 929,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/1.0.0.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 989,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.0.0.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 720,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.0.json"
-        },
-        {
-          "version": "2.1.1",
-          "downloads": 679,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.1.json"
-        },
-        {
-          "version": "2.1.2",
-          "downloads": 743,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.2.json"
-        },
-        {
-          "version": "2.1.3",
-          "downloads": 937,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.3.json"
-        },
-        {
-          "version": "2.1.4",
-          "downloads": 44956,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.4.json"
-        },
-        {
-          "version": "2.1.5",
-          "downloads": 227,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.5.json"
-        },
-        {
-          "version": "2.1.6",
-          "downloads": 205,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.6.json"
-        },
-        {
-          "version": "2.1.7",
-          "downloads": 51937,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.7.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/index.json",
-      "id": "Sleet",
-      "version": "5.0.1+git.c5cf40c",
-      "description": "Sleet is a static NuGet package feed generator.",
-      "summary": "",
-      "title": "Sleet",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/sleet/5.0.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Sleet/5.0.1/license",
-      "projectUrl": "https://github.com/emgarten/Sleet",
-      "tags": [
-        "nuget",
-        "nugetserver",
-        "nugetfeed",
-        "sleet"
-      ],
-      "authors": [
-        "emgarten"
-      ],
-      "owners": [
-        "emgarten"
-      ],
-      "totalDownloads": 101569,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.1.0-alpha-01",
-          "downloads": 1085,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/0.1.0-alpha-01.json"
-        },
-        {
-          "version": "1.0.0",
-          "downloads": 1672,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/1.0.0.json"
-        },
-        {
-          "version": "1.0.1",
-          "downloads": 4982,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/1.0.1.json"
-        },
-        {
-          "version": "2.0.0+git.5106315",
-          "downloads": 619,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.0.0.json"
-        },
-        {
-          "version": "2.1.0+git.57bb67c",
-          "downloads": 3919,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.1.0.json"
-        },
-        {
-          "version": "2.2.0+git.6973dc7",
-          "downloads": 350,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.0.json"
-        },
-        {
-          "version": "2.2.1+git.e11393a",
-          "downloads": 346,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.1.json"
-        },
-        {
-          "version": "2.2.3+git.98f8237",
-          "downloads": 426,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.3.json"
-        },
-        {
-          "version": "2.2.7+git.393c301",
-          "downloads": 344,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.7.json"
-        },
-        {
-          "version": "2.2.9+git.4a81f0c",
-          "downloads": 1025,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.9.json"
-        },
-        {
-          "version": "2.2.13+git.e657e80",
-          "downloads": 546,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.13.json"
-        },
-        {
-          "version": "2.2.16+git.c6be4b4",
-          "downloads": 405,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.16.json"
-        },
-        {
-          "version": "2.2.18+git.4d361d8",
-          "downloads": 393,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.18.json"
-        },
-        {
-          "version": "2.2.24+git.f2a0cb6",
-          "downloads": 567,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.24.json"
-        },
-        {
-          "version": "2.2.26+git.a82a214",
-          "downloads": 428,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.26.json"
-        },
-        {
-          "version": "2.2.27+git.f9cc2c3",
-          "downloads": 726,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.27.json"
-        },
-        {
-          "version": "2.3.12+git.41def09",
-          "downloads": 418,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.12.json"
-        },
-        {
-          "version": "2.3.17+git.1f957f9",
-          "downloads": 376,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.17.json"
-        },
-        {
-          "version": "2.3.19+git.fac2e3b",
-          "downloads": 335,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.19.json"
-        },
-        {
-          "version": "2.3.22+git.ed45aa9",
-          "downloads": 389,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.22.json"
-        },
-        {
-          "version": "2.3.25+git.3a77194",
-          "downloads": 387,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.25.json"
-        },
-        {
-          "version": "2.3.32+git.7e0c397",
-          "downloads": 366,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.32.json"
-        },
-        {
-          "version": "2.3.33+git.9eb1829",
-          "downloads": 1972,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.33.json"
-        },
-        {
-          "version": "2.3.34+git.544c788",
-          "downloads": 616,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.34.json"
-        },
-        {
-          "version": "2.3.49+git.823cdef",
-          "downloads": 310,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.49.json"
-        },
-        {
-          "version": "2.3.70+git.06106a4",
-          "downloads": 267,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.70.json"
-        },
-        {
-          "version": "2.3.75+git.980f640",
-          "downloads": 247,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.75.json"
-        },
-        {
-          "version": "2.3.77+git.ea79e77",
-          "downloads": 259,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.77.json"
-        },
-        {
-          "version": "2.3.79+git.b417e3e",
-          "downloads": 2735,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.79.json"
-        },
-        {
-          "version": "3.0.0+git.e9eb642",
-          "downloads": 665,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.0.0.json"
-        },
-        {
-          "version": "3.0.5+git.c108d2d",
-          "downloads": 489,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.0.5.json"
-        },
-        {
-          "version": "3.0.6+git.ad8ff4b",
-          "downloads": 248,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.0.6.json"
-        },
-        {
-          "version": "3.0.7+git.cca830f",
-          "downloads": 268,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.0.7.json"
-        },
-        {
-          "version": "3.0.13+git.3258b45",
-          "downloads": 470,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.0.13.json"
-        },
-        {
-          "version": "3.0.18+git.aaba0f4",
-          "downloads": 1445,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.0.18.json"
-        },
-        {
-          "version": "3.0.20+git.96f2923",
-          "downloads": 15832,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.0.20.json"
-        },
-        {
-          "version": "3.1.8+git.0c22077",
-          "downloads": 4574,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.1.8.json"
-        },
-        {
-          "version": "3.1.11+git.d19f2ea",
-          "downloads": 11687,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.1.11.json"
-        },
-        {
-          "version": "3.1.30+git.10b3c3d",
-          "downloads": 1425,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.1.30.json"
-        },
-        {
-          "version": "3.2.0+git.118aff9",
-          "downloads": 25911,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.2.0.json"
-        },
-        {
-          "version": "4.0.18+git.5d48358",
-          "downloads": 5227,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/4.0.18.json"
-        },
-        {
-          "version": "4.1.6+git.d5bfaeb",
-          "downloads": 4592,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/4.1.6.json"
-        },
-        {
-          "version": "5.0.1+git.c5cf40c",
-          "downloads": 758,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/5.0.1.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/index.json",
@@ -44129,6 +43822,333 @@
           "version": "0.6.5",
           "downloads": 6996,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.5.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/index.json",
+      "id": "dotnetsay",
+      "version": "2.1.7",
+      "description": "A simple .NET Core tool called \"dotnetsay\".",
+      "summary": "",
+      "title": "dotnetsay",
+      "licenseUrl": "https://www.nuget.org/packages/dotnetsay/2.1.7/license",
+      "projectUrl": "https://github.com/dotnet/core/blob/master/samples/dotnetsay/README.md",
+      "tags": [],
+      "authors": [
+        ".NET Team"
+      ],
+      "owners": [
+        "richlander"
+      ],
+      "totalDownloads": 102322,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloads": 929,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/1.0.0.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 989,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.0.0.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 720,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.0.json"
+        },
+        {
+          "version": "2.1.1",
+          "downloads": 679,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.1.json"
+        },
+        {
+          "version": "2.1.2",
+          "downloads": 743,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.2.json"
+        },
+        {
+          "version": "2.1.3",
+          "downloads": 937,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.3.json"
+        },
+        {
+          "version": "2.1.4",
+          "downloads": 44956,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.4.json"
+        },
+        {
+          "version": "2.1.5",
+          "downloads": 227,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.5.json"
+        },
+        {
+          "version": "2.1.6",
+          "downloads": 205,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.6.json"
+        },
+        {
+          "version": "2.1.7",
+          "downloads": 51937,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.7.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/index.json",
+      "id": "Sleet",
+      "version": "5.0.1+git.c5cf40c",
+      "description": "Sleet is a static NuGet package feed generator.",
+      "summary": "",
+      "title": "Sleet",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/sleet/5.0.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Sleet/5.0.1/license",
+      "projectUrl": "https://github.com/emgarten/Sleet",
+      "tags": [
+        "nuget",
+        "nugetserver",
+        "nugetfeed",
+        "sleet"
+      ],
+      "authors": [
+        "emgarten"
+      ],
+      "owners": [
+        "emgarten"
+      ],
+      "totalDownloads": 101569,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.1.0-alpha-01",
+          "downloads": 1085,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/0.1.0-alpha-01.json"
+        },
+        {
+          "version": "1.0.0",
+          "downloads": 1672,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/1.0.0.json"
+        },
+        {
+          "version": "1.0.1",
+          "downloads": 4982,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/1.0.1.json"
+        },
+        {
+          "version": "2.0.0+git.5106315",
+          "downloads": 619,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.0.0.json"
+        },
+        {
+          "version": "2.1.0+git.57bb67c",
+          "downloads": 3919,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.1.0.json"
+        },
+        {
+          "version": "2.2.0+git.6973dc7",
+          "downloads": 350,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.0.json"
+        },
+        {
+          "version": "2.2.1+git.e11393a",
+          "downloads": 346,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.1.json"
+        },
+        {
+          "version": "2.2.3+git.98f8237",
+          "downloads": 426,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.3.json"
+        },
+        {
+          "version": "2.2.7+git.393c301",
+          "downloads": 344,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.7.json"
+        },
+        {
+          "version": "2.2.9+git.4a81f0c",
+          "downloads": 1025,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.9.json"
+        },
+        {
+          "version": "2.2.13+git.e657e80",
+          "downloads": 546,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.13.json"
+        },
+        {
+          "version": "2.2.16+git.c6be4b4",
+          "downloads": 405,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.16.json"
+        },
+        {
+          "version": "2.2.18+git.4d361d8",
+          "downloads": 393,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.18.json"
+        },
+        {
+          "version": "2.2.24+git.f2a0cb6",
+          "downloads": 567,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.24.json"
+        },
+        {
+          "version": "2.2.26+git.a82a214",
+          "downloads": 428,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.26.json"
+        },
+        {
+          "version": "2.2.27+git.f9cc2c3",
+          "downloads": 726,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.2.27.json"
+        },
+        {
+          "version": "2.3.12+git.41def09",
+          "downloads": 418,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.12.json"
+        },
+        {
+          "version": "2.3.17+git.1f957f9",
+          "downloads": 376,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.17.json"
+        },
+        {
+          "version": "2.3.19+git.fac2e3b",
+          "downloads": 335,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.19.json"
+        },
+        {
+          "version": "2.3.22+git.ed45aa9",
+          "downloads": 389,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.22.json"
+        },
+        {
+          "version": "2.3.25+git.3a77194",
+          "downloads": 387,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.25.json"
+        },
+        {
+          "version": "2.3.32+git.7e0c397",
+          "downloads": 366,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.32.json"
+        },
+        {
+          "version": "2.3.33+git.9eb1829",
+          "downloads": 1972,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.33.json"
+        },
+        {
+          "version": "2.3.34+git.544c788",
+          "downloads": 616,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.34.json"
+        },
+        {
+          "version": "2.3.49+git.823cdef",
+          "downloads": 310,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.49.json"
+        },
+        {
+          "version": "2.3.70+git.06106a4",
+          "downloads": 267,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.70.json"
+        },
+        {
+          "version": "2.3.75+git.980f640",
+          "downloads": 247,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.75.json"
+        },
+        {
+          "version": "2.3.77+git.ea79e77",
+          "downloads": 259,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.77.json"
+        },
+        {
+          "version": "2.3.79+git.b417e3e",
+          "downloads": 2735,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/2.3.79.json"
+        },
+        {
+          "version": "3.0.0+git.e9eb642",
+          "downloads": 665,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.0.0.json"
+        },
+        {
+          "version": "3.0.5+git.c108d2d",
+          "downloads": 489,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.0.5.json"
+        },
+        {
+          "version": "3.0.6+git.ad8ff4b",
+          "downloads": 248,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.0.6.json"
+        },
+        {
+          "version": "3.0.7+git.cca830f",
+          "downloads": 268,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.0.7.json"
+        },
+        {
+          "version": "3.0.13+git.3258b45",
+          "downloads": 470,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.0.13.json"
+        },
+        {
+          "version": "3.0.18+git.aaba0f4",
+          "downloads": 1445,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.0.18.json"
+        },
+        {
+          "version": "3.0.20+git.96f2923",
+          "downloads": 15832,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.0.20.json"
+        },
+        {
+          "version": "3.1.8+git.0c22077",
+          "downloads": 4574,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.1.8.json"
+        },
+        {
+          "version": "3.1.11+git.d19f2ea",
+          "downloads": 11687,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.1.11.json"
+        },
+        {
+          "version": "3.1.30+git.10b3c3d",
+          "downloads": 1425,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.1.30.json"
+        },
+        {
+          "version": "3.2.0+git.118aff9",
+          "downloads": 25911,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/3.2.0.json"
+        },
+        {
+          "version": "4.0.18+git.5d48358",
+          "downloads": 5227,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/4.0.18.json"
+        },
+        {
+          "version": "4.1.6+git.d5bfaeb",
+          "downloads": 4592,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/4.1.6.json"
+        },
+        {
+          "version": "5.0.1+git.c5cf40c",
+          "downloads": 758,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sleet/5.0.1.json"
         }
       ]
     },
@@ -44651,61 +44671,6 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/index.json",
-      "id": "dotnet-linux-cert",
-      "version": "0.0.6",
-      "description": "Dotnet linux cert helper: Install and list PKCS#12 certificates for *nix system",
-      "summary": "",
-      "title": "dotnet-linux-cert",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-linux-cert/0.0.6/license",
-      "projectUrl": "https://github.com/solacens/dotnet-linux-cert",
-      "tags": [
-        "tools"
-      ],
-      "authors": [
-        "solacens"
-      ],
-      "owners": [
-        "solacens"
-      ],
-      "totalDownloads": 98411,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.0.2",
-          "downloads": 1037,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/0.0.2.json"
-        },
-        {
-          "version": "0.0.3",
-          "downloads": 53613,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/0.0.3.json"
-        },
-        {
-          "version": "0.0.4",
-          "downloads": 4948,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/0.0.4.json"
-        },
-        {
-          "version": "0.0.5",
-          "downloads": 37568,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/0.0.5.json"
-        },
-        {
-          "version": "0.0.6",
-          "downloads": 810,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/0.0.6.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-t4/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-t4/index.json",
@@ -44773,6 +44738,61 @@
           "version": "2.2.1",
           "downloads": 42905,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-t4/2.2.1.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/index.json",
+      "id": "dotnet-linux-cert",
+      "version": "0.0.6",
+      "description": "Dotnet linux cert helper: Install and list PKCS#12 certificates for *nix system",
+      "summary": "",
+      "title": "dotnet-linux-cert",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-linux-cert/0.0.6/license",
+      "projectUrl": "https://github.com/solacens/dotnet-linux-cert",
+      "tags": [
+        "tools"
+      ],
+      "authors": [
+        "solacens"
+      ],
+      "owners": [
+        "solacens"
+      ],
+      "totalDownloads": 98411,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.0.2",
+          "downloads": 1037,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/0.0.2.json"
+        },
+        {
+          "version": "0.0.3",
+          "downloads": 53613,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/0.0.3.json"
+        },
+        {
+          "version": "0.0.4",
+          "downloads": 4948,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/0.0.4.json"
+        },
+        {
+          "version": "0.0.5",
+          "downloads": 37568,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/0.0.5.json"
+        },
+        {
+          "version": "0.0.6",
+          "downloads": 810,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/0.0.6.json"
         }
       ]
     },
@@ -48773,44 +48793,6 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/confluent.apache.avro.avrogen/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/confluent.apache.avro.avrogen/index.json",
-      "id": "Confluent.Apache.Avro.AvroGen",
-      "version": "1.7.7.5",
-      "description": "Fork of the Apache Avro avrogen.exe tool, maintained by Confluent",
-      "summary": "",
-      "title": "Confluent.Apache.Avro.AvroGen",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/confluent.apache.avro.avrogen/1.7.7.5/icon",
-      "tags": [
-        "apache",
-        "avro",
-        "avrogen",
-        "avrogen.exe"
-      ],
-      "authors": [
-        "Apache Software Foundation, Confluent Inc."
-      ],
-      "owners": [
-        "confluent",
-        "math"
-      ],
-      "totalDownloads": 84209,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.7.7.5",
-          "downloads": 84209,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/confluent.apache.avro.avrogen/1.7.7.5.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xunit-to-junit/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xunit-to-junit/index.json",
@@ -48903,6 +48885,44 @@
           "version": "3.0.2",
           "downloads": 3402,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xunit-to-junit/3.0.2.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/confluent.apache.avro.avrogen/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/confluent.apache.avro.avrogen/index.json",
+      "id": "Confluent.Apache.Avro.AvroGen",
+      "version": "1.7.7.5",
+      "description": "Fork of the Apache Avro avrogen.exe tool, maintained by Confluent",
+      "summary": "",
+      "title": "Confluent.Apache.Avro.AvroGen",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/confluent.apache.avro.avrogen/1.7.7.5/icon",
+      "tags": [
+        "apache",
+        "avro",
+        "avrogen",
+        "avrogen.exe"
+      ],
+      "authors": [
+        "Apache Software Foundation, Confluent Inc."
+      ],
+      "owners": [
+        "confluent",
+        "math"
+      ],
+      "totalDownloads": 84209,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.7.7.5",
+          "downloads": 84209,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/confluent.apache.avro.avrogen/1.7.7.5.json"
         }
       ]
     },
@@ -53405,77 +53425,6 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/index.json",
-      "id": "CodeFileSanity",
-      "version": "0.0.36",
-      "description": "Package Description",
-      "summary": "",
-      "title": "CodeFileSanity",
-      "tags": [],
-      "authors": [
-        "CodeFileSanity"
-      ],
-      "owners": [
-        "ppy"
-      ],
-      "totalDownloads": 75323,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.0.16",
-          "downloads": 4516,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.16.json"
-        },
-        {
-          "version": "0.0.21",
-          "downloads": 13646,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.21.json"
-        },
-        {
-          "version": "0.0.24",
-          "downloads": 452,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.24.json"
-        },
-        {
-          "version": "0.0.27",
-          "downloads": 537,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.27.json"
-        },
-        {
-          "version": "0.0.29",
-          "downloads": 341,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.29.json"
-        },
-        {
-          "version": "0.0.33",
-          "downloads": 9472,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.33.json"
-        },
-        {
-          "version": "0.0.34",
-          "downloads": 430,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.34.json"
-        },
-        {
-          "version": "0.0.35",
-          "downloads": 272,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.35.json"
-        },
-        {
-          "version": "0.0.36",
-          "downloads": 38728,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.36.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-delice/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-delice/index.json",
@@ -53549,6 +53498,77 @@
           "version": "1.7.0",
           "downloads": 1184,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-delice/1.7.0.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/index.json",
+      "id": "CodeFileSanity",
+      "version": "0.0.36",
+      "description": "Package Description",
+      "summary": "",
+      "title": "CodeFileSanity",
+      "tags": [],
+      "authors": [
+        "CodeFileSanity"
+      ],
+      "owners": [
+        "ppy"
+      ],
+      "totalDownloads": 75323,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.0.16",
+          "downloads": 4516,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.16.json"
+        },
+        {
+          "version": "0.0.21",
+          "downloads": 13646,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.21.json"
+        },
+        {
+          "version": "0.0.24",
+          "downloads": 452,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.24.json"
+        },
+        {
+          "version": "0.0.27",
+          "downloads": 537,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.27.json"
+        },
+        {
+          "version": "0.0.29",
+          "downloads": 341,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.29.json"
+        },
+        {
+          "version": "0.0.33",
+          "downloads": 9472,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.33.json"
+        },
+        {
+          "version": "0.0.34",
+          "downloads": 430,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.34.json"
+        },
+        {
+          "version": "0.0.35",
+          "downloads": 272,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.35.json"
+        },
+        {
+          "version": "0.0.36",
+          "downloads": 38728,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codefilesanity/0.0.36.json"
         }
       ]
     },
