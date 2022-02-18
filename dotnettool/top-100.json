@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 2904,
+  "totalHits": 2911,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-interactive/index.json",
@@ -3168,12 +3168,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/index.json",
       "id": "dotnet-ef",
-      "version": "6.0.2",
+      "version": "7.0.0-preview.1.22076.6",
       "description": "Entity Framework Core Tools for the .NET Command-Line Interface.\n\nEnables these commonly used dotnet-ef commands:\ndotnet ef migrations add\ndotnet ef migrations list\ndotnet ef migrations script\ndotnet ef dbcontext info\ndotnet ef dbcontext scaffold\ndotnet ef database drop\ndotnet ef database update",
       "summary": "",
       "title": "dotnet-ef",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-ef/6.0.2/icon",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-ef/6.0.2/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-ef/7.0.0-preview.1.22076.6/icon",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-ef/7.0.0-preview.1.22076.6/license",
       "projectUrl": "https://docs.microsoft.com/ef/core/",
       "tags": [
         "Entity",
@@ -3666,6 +3666,11 @@
           "version": "6.0.2",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/6.0.2.json"
+        },
+        {
+          "version": "7.0.0-preview.1.22076.6",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/7.0.0-preview.1.22076.6.json"
         }
       ]
     },
@@ -4268,12 +4273,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/paket/index.json",
       "id": "Paket",
-      "version": "7.0.0-alpha016",
+      "version": "7.0.0-alpha018",
       "description": "A dependency manager for .NET with support for NuGet packages and git repositories.",
       "summary": "",
       "title": "Paket",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/paket/7.0.0-alpha016/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Paket/7.0.0-alpha016/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/paket/7.0.0-alpha018/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Paket/7.0.0-alpha018/license",
       "projectUrl": "http://fsprojects.github.io/Paket",
       "tags": [
         "nuget",
@@ -16707,6 +16712,16 @@
           "version": "7.0.0-alpha016",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/paket/7.0.0-alpha016.json"
+        },
+        {
+          "version": "7.0.0-alpha017",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/paket/7.0.0-alpha017.json"
+        },
+        {
+          "version": "7.0.0-alpha018",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/paket/7.0.0-alpha018.json"
         }
       ]
     },
@@ -17878,11 +17893,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/nbgv/index.json",
       "id": "nbgv",
-      "version": "3.5.73-alpha",
+      "version": "3.5.85-alpha",
       "description": "A .NET Core Tool that can install, read and set version information based on git history, using Nerdbank.GitVersioning.",
       "summary": "",
       "title": "nbgv",
-      "licenseUrl": "https://www.nuget.org/packages/nbgv/3.5.73-alpha/license",
+      "licenseUrl": "https://www.nuget.org/packages/nbgv/3.5.85-alpha/license",
       "projectUrl": "https://github.com/dotnet/Nerdbank.GitVersioning",
       "tags": [
         "git",
@@ -18281,6 +18296,11 @@
           "version": "3.5.73-alpha",
           "downloads": 79,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nbgv/3.5.73-alpha.json"
+        },
+        {
+          "version": "3.5.85-alpha",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nbgv/3.5.85-alpha.json"
         }
       ]
     },
@@ -18456,12 +18476,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/index.json",
       "id": "Octopus.DotNet.Cli",
-      "version": "7.4.3647",
+      "version": "7.4.3649",
       "description": "Octopus Deploy is an automated release management tool for modern developers and DevOps teams.\n\n      This package contains the dotnet tool version of the CLI library for interacting with the HTTP API in Octopus.",
       "summary": "",
       "title": "Octopus.DotNet.Cli",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/octopus.dotnet.cli/7.4.3647/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Octopus.DotNet.Cli/7.4.3647/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/octopus.dotnet.cli/7.4.3649/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Octopus.DotNet.Cli/7.4.3649/license",
       "projectUrl": "http://octopusdeploy.com/",
       "tags": [],
       "authors": [
@@ -20408,6 +20428,11 @@
           "version": "7.4.3647",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/7.4.3647.json"
+        },
+        {
+          "version": "7.4.3649",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/7.4.3649.json"
         }
       ]
     },
@@ -23574,12 +23599,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/index.json",
       "id": "JetBrains.ReSharper.GlobalTools",
-      "version": "2022.1.0-eap02",
+      "version": "2022.1.0-eap03",
       "description": "Standalone command line tools that enable running ReSharper inspections outside of Visual Studio",
       "summary": "",
-      "title": "JetBrains ReSharper Command Line Tools 2022.1 EAP 2",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.resharper.globaltools/2022.1.0-eap02/icon",
-      "licenseUrl": "https://www.nuget.org/packages/JetBrains.ReSharper.GlobalTools/2022.1.0-eap02/license",
+      "title": "JetBrains ReSharper Command Line Tools 2022.1 EAP 3",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.resharper.globaltools/2022.1.0-eap03/icon",
+      "licenseUrl": "https://www.nuget.org/packages/JetBrains.ReSharper.GlobalTools/2022.1.0-eap03/license",
       "projectUrl": "http://www.jetbrains.com/resharper/features/command-line.html",
       "tags": [],
       "authors": [
@@ -23970,6 +23995,11 @@
           "version": "2022.1.0-eap02",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2022.1.0-eap02.json"
+        },
+        {
+          "version": "2022.1.0-eap03",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2022.1.0-eap03.json"
         }
       ]
     },
@@ -25141,12 +25171,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-aspnet-codegenerator/index.json",
       "id": "dotnet-aspnet-codegenerator",
-      "version": "6.0.2",
+      "version": "7.0.0-preview.1.22116.2",
       "description": "Code Generation tool for ASP.NET Core. Contains the dotnet-aspnet-codegenerator command used for generating controllers and views.",
       "summary": "",
       "title": "dotnet-aspnet-codegenerator",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-aspnet-codegenerator/6.0.2/icon",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-aspnet-codegenerator/6.0.2/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-aspnet-codegenerator/7.0.0-preview.1.22116.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-aspnet-codegenerator/7.0.0-preview.1.22116.2/license",
       "projectUrl": "https://github.com/dotnet/Scaffolding",
       "tags": [
         "dotnet",
@@ -25471,6 +25501,11 @@
           "version": "6.0.2",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-aspnet-codegenerator/6.0.2.json"
+        },
+        {
+          "version": "7.0.0-preview.1.22116.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-aspnet-codegenerator/7.0.0-preview.1.22116.2.json"
         }
       ]
     },
@@ -27914,12 +27949,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/index.json",
       "id": "Libplanet.Tools",
-      "version": "0.28.0-nightly.20220216+a9ebb66",
+      "version": "0.28.0-nightly.20220217+a9ebb66",
       "description": "This CLI app is a collection of utilities for application  programmers who create decentralized games powered by Libplanet  (https://libplanet.io/).",
       "summary": "",
       "title": "planet: Libplanet CLI Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/0.28.0-nightly.20220216/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/0.28.0-nightly.20220216/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/0.28.0-nightly.20220217/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/0.28.0-nightly.20220217/license",
       "projectUrl": "https://libplanet.io/",
       "tags": [],
       "authors": [
@@ -34127,6 +34162,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.26.4.json"
         },
         {
+          "version": "0.26.5-dev.20220217070405+898fd7e",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.26.5-dev.20220217070405.json"
+        },
+        {
           "version": "0.27.0-dev.20220118100203+efddc27",
           "downloads": 16,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.27.0-dev.20220118100203.json"
@@ -34510,6 +34550,11 @@
           "version": "0.28.0-nightly.20220216+a9ebb66",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.28.0-nightly.20220216.json"
+        },
+        {
+          "version": "0.28.0-nightly.20220217+a9ebb66",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.28.0-nightly.20220217.json"
         }
       ]
     },
@@ -37209,12 +37254,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/index.json",
       "id": "StrawberryShake.Tools",
-      "version": "12.7.0-preview.28",
+      "version": "12.7.0-preview.40",
       "description": "Package Description",
       "summary": "",
       "title": "StrawberryShake.Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/strawberryshake.tools/12.7.0-preview.28/icon",
-      "licenseUrl": "https://www.nuget.org/packages/StrawberryShake.Tools/12.7.0-preview.28/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/strawberryshake.tools/12.7.0-preview.40/icon",
+      "licenseUrl": "https://www.nuget.org/packages/StrawberryShake.Tools/12.7.0-preview.40/license",
       "projectUrl": "https://chillicream.com/",
       "tags": [
         "GraphQL",
@@ -37365,24 +37410,14 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/12.6.0.json"
         },
         {
-          "version": "12.7.0-preview.24",
+          "version": "12.7.0-preview.39",
           "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/12.7.0-preview.24.json"
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/12.7.0-preview.39.json"
         },
         {
-          "version": "12.7.0-preview.26",
+          "version": "12.7.0-preview.40",
           "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/12.7.0-preview.26.json"
-        },
-        {
-          "version": "12.7.0-preview.27",
-          "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/12.7.0-preview.27.json"
-        },
-        {
-          "version": "12.7.0-preview.28",
-          "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/12.7.0-preview.28.json"
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/12.7.0-preview.40.json"
         }
       ]
     },
@@ -45041,12 +45076,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fable/index.json",
       "id": "Fable",
-      "version": "3.7.0",
+      "version": "3.7.1",
       "description": "F# to JS compiler",
       "summary": "",
       "title": "Fable",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fable/3.7.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Fable/3.7.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fable/3.7.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Fable/3.7.1/license",
       "projectUrl": "http://fable.io/",
       "tags": [
         "fsharp",
@@ -45601,6 +45636,11 @@
           "version": "3.7.0",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable/3.7.0.json"
+        },
+        {
+          "version": "3.7.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable/3.7.1.json"
         }
       ]
     },
@@ -47753,11 +47793,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
       "id": "Credfeto.ChangeLog.Cmd",
-      "version": "1.8.1.453-master",
+      "version": "1.8.2.28",
       "description": "Changelog manager dotnet tool.",
       "summary": "",
       "title": "Credfeto.ChangeLog.Cmd",
-      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.8.1.453-master/license",
+      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.8.2.28/license",
       "tags": [
         "Changelog",
         "tool",
@@ -49757,6 +49797,11 @@
           "version": "1.8.1.453-master",
           "downloads": 23,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.8.1.453-master.json"
+        },
+        {
+          "version": "1.8.2.28",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.8.2.28.json"
         }
       ]
     },
@@ -50169,12 +50214,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/rapicgen/index.json",
       "id": "rapicgen",
-      "version": "1.5.45",
+      "version": "1.5.46",
       "description": "A collection of code generators for Swagger / OpenAPI specification files",
       "summary": "",
       "title": "rapicgen",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/rapicgen/1.5.45/icon",
-      "licenseUrl": "https://www.nuget.org/packages/rapicgen/1.5.45/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/rapicgen/1.5.46/icon",
+      "licenseUrl": "https://www.nuget.org/packages/rapicgen/1.5.46/license",
       "projectUrl": "https://github.com/christianhelle/apiclientcodegen",
       "tags": [],
       "authors": [
@@ -50570,6 +50615,11 @@
           "version": "1.5.45",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/rapicgen/1.5.45.json"
+        },
+        {
+          "version": "1.5.46",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/rapicgen/1.5.46.json"
         }
       ]
     },
