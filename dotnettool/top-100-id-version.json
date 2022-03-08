@@ -32,16 +32,16 @@
     "version": "4.0.0-preview.0"
   },
   {
-    "id": "Paket",
-    "version": "7.0.2"
-  },
-  {
     "id": "dotnet-trace",
     "version": "6.0.257301"
   },
   {
     "id": "dotnet-dump",
     "version": "6.0.257301"
+  },
+  {
+    "id": "Paket",
+    "version": "7.0.2"
   },
   {
     "id": "dotnet-counters",
@@ -52,12 +52,12 @@
     "version": "6.0.257301"
   },
   {
-    "id": "coverlet.console",
-    "version": "3.1.2"
+    "id": "Swashbuckle.AspNetCore.Cli",
+    "version": "6.3.0"
   },
   {
-    "id": "Swashbuckle.AspNetCore.Cli",
-    "version": "6.2.3"
+    "id": "coverlet.console",
+    "version": "3.1.2"
   },
   {
     "id": "dotnet-format",
@@ -113,15 +113,15 @@
   },
   {
     "id": "JetBrains.ReSharper.GlobalTools",
-    "version": "2022.1.0-eap03"
-  },
-  {
-    "id": "dotnet-script",
-    "version": "1.3.1"
+    "version": "2022.1.0-eap05"
   },
   {
     "id": "AzureSignTool",
     "version": "3.0.0"
+  },
+  {
+    "id": "dotnet-script",
+    "version": "1.3.1"
   },
   {
     "id": "coveralls.net",
@@ -176,16 +176,16 @@
     "version": "2.2.1"
   },
   {
-    "id": "dotnet-roundhouse",
-    "version": "1.3.1"
-  },
-  {
     "id": "minver-cli",
     "version": "3.0.0-rc.2"
   },
   {
+    "id": "dotnet-roundhouse",
+    "version": "1.3.1"
+  },
+  {
     "id": "Libplanet.Tools",
-    "version": "0.29.0-nightly.20220306+a250796"
+    "version": "0.29.0-nightly.20220307+a250796"
   },
   {
     "id": "Microsoft.Web.LibraryManager.Cli",
@@ -196,20 +196,24 @@
     "version": "2.5.0"
   },
   {
-    "id": "dotnet-appsettings",
-    "version": "0.2.0"
-  },
-  {
     "id": "AWS.CodeArtifact.NuGet.CredentialProvider",
     "version": "1.0.0"
+  },
+  {
+    "id": "StrawberryShake.Tools",
+    "version": "13.0.0-preview.9"
+  },
+  {
+    "id": "dotnet-appsettings",
+    "version": "0.2.0"
   },
   {
     "id": "SignClient",
     "version": "1.3.155"
   },
   {
-    "id": "StrawberryShake.Tools",
-    "version": "13.0.0-preview.8"
+    "id": "SpecFlow.Plus.LivingDoc.CLI",
+    "version": "3.9.57"
   },
   {
     "id": "FSharp.Formatting.CommandTool",
@@ -218,18 +222,6 @@
   {
     "id": "dotnet-ildasm",
     "version": "0.12.2"
-  },
-  {
-    "id": "SpecFlow.Plus.LivingDoc.CLI",
-    "version": "3.9.57"
-  },
-  {
-    "id": "Boogie",
-    "version": "2.12.1"
-  },
-  {
-    "id": "SpecSync.AzureDevOps",
-    "version": "3.3.1-pre20220304-1"
   },
   {
     "id": "fantomas-tool",
@@ -244,6 +236,14 @@
     "version": "4.1.0"
   },
   {
+    "id": "SpecSync.AzureDevOps",
+    "version": "3.3.1-pre20220304-1"
+  },
+  {
+    "id": "Boogie",
+    "version": "2.12.1"
+  },
+  {
     "id": "dotnet-retire",
     "version": "5.0.0"
   },
@@ -252,12 +252,16 @@
     "version": "1.34.0.1"
   },
   {
-    "id": "Rnwood.Smtp4dev",
-    "version": "3.1.3.2"
+    "id": "Microsoft.Playwright.CLI",
+    "version": "1.2.3-next-1"
   },
   {
     "id": "Amazon.ECS.Tools",
     "version": "3.5.0"
+  },
+  {
+    "id": "Rnwood.Smtp4dev",
+    "version": "3.1.3.2"
   },
   {
     "id": "GitReleaseManager.Tool",
@@ -268,24 +272,20 @@
     "version": "1.1.0.682-preview1"
   },
   {
+    "id": "Sarif.Multitool",
+    "version": "2.4.13"
+  },
+  {
     "id": "dotnet-version-cli",
     "version": "2.3.1"
   },
   {
-    "id": "Microsoft.Playwright.CLI",
-    "version": "1.2.3-next-1"
-  },
-  {
-    "id": "Sarif.Multitool",
-    "version": "2.4.12"
+    "id": "Volo.Abp.Cli",
+    "version": "5.1.4"
   },
   {
     "id": "SourceLink",
     "version": "3.1.1"
-  },
-  {
-    "id": "Volo.Abp.Cli",
-    "version": "5.1.4"
   },
   {
     "id": "Microsoft.CST.DevSkim.CLI",
@@ -296,16 +296,16 @@
     "version": "2.3.11"
   },
   {
-    "id": "ElectronNET.CLI",
-    "version": "13.5.1"
-  },
-  {
     "id": "Fable",
     "version": "3.7.5"
   },
   {
     "id": "dotnet-t4",
     "version": "2.2.1"
+  },
+  {
+    "id": "ElectronNET.CLI",
+    "version": "13.5.1"
   },
   {
     "id": "Omnia",
@@ -316,28 +316,28 @@
     "version": "3.3.10-preview.1"
   },
   {
-    "id": "dotnetsay",
-    "version": "2.1.7"
-  },
-  {
     "id": "dotnet-linux-cert",
     "version": "0.0.6"
+  },
+  {
+    "id": "dotnetsay",
+    "version": "2.1.7"
   },
   {
     "id": "Sleet",
     "version": "5.0.1+git.c5cf40c"
   },
   {
-    "id": "MarkdownSnippets.Tool",
-    "version": "24.3.0"
+    "id": "security-scan",
+    "version": "5.6.2"
   },
   {
     "id": "gpr",
     "version": "0.1.281"
   },
   {
-    "id": "security-scan",
-    "version": "5.6.2"
+    "id": "MarkdownSnippets.Tool",
+    "version": "24.3.0"
   },
   {
     "id": "pbm",
@@ -348,24 +348,24 @@
     "version": "1.8.3.511-master"
   },
   {
-    "id": "Redth.Net.Maui.Check",
-    "version": "0.10.0"
+    "id": "dotnet-delice",
+    "version": "1.7.0"
   },
   {
-    "id": "dotnet-xunit-to-junit",
-    "version": "3.1.0"
+    "id": "Redth.Net.Maui.Check",
+    "version": "0.10.0"
   },
   {
     "id": "rapicgen",
     "version": "1.5.47"
   },
   {
-    "id": "dotnet-delice",
-    "version": "1.7.0"
+    "id": "dotnet-xunit-to-junit",
+    "version": "3.1.0"
   },
   {
     "id": "Hopex.ApplicationServer.Tool",
-    "version": "15.3.0"
+    "version": "15.3.0.1"
   },
   {
     "id": "dotnet-xscgen",
@@ -384,12 +384,8 @@
     "version": "0.1.220"
   },
   {
-    "id": "dotnet-deb",
-    "version": "0.1.220"
-  },
-  {
-    "id": "DataBoss",
-    "version": "0.0.101"
+    "id": "AWS.Deploy.CLI",
+    "version": "0.35.4"
   },
   {
     "id": "CodeFileSanity",
@@ -398,5 +394,9 @@
   {
     "id": "Incrementalist.Cmd",
     "version": "0.6.0"
+  },
+  {
+    "id": "dotnet-deb",
+    "version": "0.1.220"
   }
 ]
