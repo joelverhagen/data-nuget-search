@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 3360,
+  "totalHits": 3361,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-interactive/index.json",
@@ -21913,12 +21913,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/index.json",
       "id": "JetBrains.ReSharper.GlobalTools",
-      "version": "2022.2.3",
+      "version": "2022.3.0-eap01",
       "description": "Standalone command line tools that enable running ReSharper inspections outside of Visual Studio",
       "summary": "",
-      "title": "JetBrains ReSharper Command Line Tools 2022.2.3",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.resharper.globaltools/2022.2.3/icon",
-      "licenseUrl": "https://www.nuget.org/packages/JetBrains.ReSharper.GlobalTools/2022.2.3/license",
+      "title": "JetBrains ReSharper Command Line Tools 2022.3 EAP 1",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.resharper.globaltools/2022.3.0-eap01/icon",
+      "licenseUrl": "https://www.nuget.org/packages/JetBrains.ReSharper.GlobalTools/2022.3.0-eap01/license",
       "projectUrl": "http://www.jetbrains.com/resharper/features/command-line.html",
       "tags": [],
       "authors": [
@@ -22439,6 +22439,11 @@
           "version": "2022.2.3",
           "downloads": 4216,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2022.2.3.json"
+        },
+        {
+          "version": "2022.3.0-eap01",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2022.3.0-eap01.json"
         }
       ]
     },
@@ -30205,79 +30210,6 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/index.json",
-      "id": "dotnet-outdated-tool",
-      "version": "4.1.0",
-      "description": "A .NET Core global tool to update project dependencies.",
-      "summary": "",
-      "title": "dotnet-outdated-tool",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-outdated-tool/4.1.0/license",
-      "projectUrl": "https://github.com/dotnet-outdated/dotnet-outdated",
-      "tags": [],
-      "authors": [
-        "dotnet-outdated Team & Contributors"
-      ],
-      "owners": [
-        "dotnet-outdated"
-      ],
-      "totalDownloads": 345476,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "3.0.0",
-          "downloads": 1313,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.0.0.json"
-        },
-        {
-          "version": "3.0.1",
-          "downloads": 3592,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.0.1.json"
-        },
-        {
-          "version": "3.0.2",
-          "downloads": 1478,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.0.2.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 4258,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.1.0.json"
-        },
-        {
-          "version": "3.1.1",
-          "downloads": 13817,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.1.1.json"
-        },
-        {
-          "version": "3.2.0",
-          "downloads": 68045,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.2.0.json"
-        },
-        {
-          "version": "3.2.1",
-          "downloads": 43064,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.2.1.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 1464,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/4.0.0.json"
-        },
-        {
-          "version": "4.1.0",
-          "downloads": 208445,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/4.1.0.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-coverage/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-coverage/index.json",
@@ -30399,6 +30331,84 @@
           "version": "17.4.4",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-coverage/17.4.4.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/index.json",
+      "id": "dotnet-outdated-tool",
+      "version": "4.2.0",
+      "description": "A .NET Core global tool to update project dependencies.",
+      "summary": "",
+      "title": "dotnet-outdated-tool",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-outdated-tool/4.2.0/license",
+      "projectUrl": "https://github.com/dotnet-outdated/dotnet-outdated",
+      "tags": [],
+      "authors": [
+        "dotnet-outdated Team & Contributors"
+      ],
+      "owners": [
+        "dotnet-outdated"
+      ],
+      "totalDownloads": 345476,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "3.0.0",
+          "downloads": 1313,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.0.0.json"
+        },
+        {
+          "version": "3.0.1",
+          "downloads": 3592,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.0.1.json"
+        },
+        {
+          "version": "3.0.2",
+          "downloads": 1478,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.0.2.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 4258,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.1.0.json"
+        },
+        {
+          "version": "3.1.1",
+          "downloads": 13817,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.1.1.json"
+        },
+        {
+          "version": "3.2.0",
+          "downloads": 68045,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.2.0.json"
+        },
+        {
+          "version": "3.2.1",
+          "downloads": 43064,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/3.2.1.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 1464,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/4.0.0.json"
+        },
+        {
+          "version": "4.1.0",
+          "downloads": 208445,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/4.1.0.json"
+        },
+        {
+          "version": "4.2.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/4.2.0.json"
         }
       ]
     },
@@ -31284,12 +31294,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/index.json",
       "id": "Libplanet.Tools",
-      "version": "0.43.0-nightly.20220925+bd458a4",
+      "version": "0.43.0-nightly.20220926+bd458a4",
       "description": "This CLI app is a collection of utilities for application  programmers who create decentralized games powered by Libplanet  (https://libplanet.io/).",
       "summary": "",
       "title": "planet: Libplanet CLI Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/0.43.0-nightly.20220925/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/0.43.0-nightly.20220925/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/0.43.0-nightly.20220926/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/0.43.0-nightly.20220926/license",
       "projectUrl": "https://libplanet.io/",
       "tags": [],
       "authors": [
@@ -40105,6 +40115,11 @@
           "version": "0.43.0-nightly.20220925+bd458a4",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.43.0-nightly.20220925.json"
+        },
+        {
+          "version": "0.43.0-nightly.20220926+bd458a4",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/0.43.0-nightly.20220926.json"
         }
       ]
     },
@@ -40439,12 +40454,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dotcover.globaltool/index.json",
       "id": "JetBrains.dotCover.GlobalTool",
-      "version": "2022.2.3",
+      "version": "2022.3.0-eap01",
       "description": "A cross-platform .NET tool for code coverage. Supported OSs: Windows, Linux x64/ARM64, macOS x64/ARM64.\n\nInstallation:\n  dotnet tool install JetBrains.dotCover.GlobalTool [-g|--global] [--tool-path <PATH>]\n  For more information, see `dotnet tool install` command help\n\nUsage:\n  To run any dotnet command under coverage analysis (for example, 'test' to run tests in the solution or 'exec' to run the application):\n    dotnet dotcover <dotnet-command> [dotcover-parameters] [dotnet-parameters]\n    To get help, run 'dotnet dotcover <dotnet-command> -h|--help'\n  \n  To merge several coverage snapshots:\n    dotnet dotcover merge <dotcover-parameters>\n    To get help, run 'dotnet dotcover merge -h|--help'\n\n  To generate a coverage analysis report for the specified snapshot:\n    dotnet dotcover report <dotcover-parameters>\n    To get help, run 'dotnet dotcover report -h|--help'\n\n\nExamples:\n  dotnet dotcover test\n  Executes and covers unit tests found in a project or solution file in the current directory. Saves the results to dotCover.Output.dcvr\n  \n  dotnet dotcover merge --source=Snapshot1.dcvr;Snapshot2.dcvr\n  Merges Snapshot1.dcvr and Snapshot2.dcvr located in the current directory into dotCover.Output.dcvr\n\n  dotnet dotcover report --source=Snapshot.dcvr --reportType=XML,JSON\n  Generates XML and JSON reports for Snapshot.dcvr located in the current directory. Saves the results to dotCover.Output.xml and dotCover.Output.json",
       "summary": "",
-      "title": "JetBrains dotCover Command Line Tools 2022.2.3",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.dotcover.globaltool/2022.2.3/icon",
-      "licenseUrl": "https://www.nuget.org/packages/JetBrains.dotCover.GlobalTool/2022.2.3/license",
+      "title": "JetBrains dotCover Command Line Tools 2022.3 EAP 1",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.dotcover.globaltool/2022.3.0-eap01/icon",
+      "licenseUrl": "https://www.nuget.org/packages/JetBrains.dotCover.GlobalTool/2022.3.0-eap01/license",
       "projectUrl": "http://www.jetbrains.com/dotcover/",
       "tags": [],
       "authors": [
@@ -40805,6 +40820,11 @@
           "version": "2022.2.3",
           "downloads": 4811,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dotcover.globaltool/2022.2.3.json"
+        },
+        {
+          "version": "2022.3.0-eap01",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dotcover.globaltool/2022.3.0-eap01.json"
         }
       ]
     },
@@ -41368,6 +41388,74 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/index.json",
+      "id": "Amazon.Lambda.TestTool-6.0",
+      "version": "0.12.4",
+      "description": "A tool to help debug and test your .NET 6.0 AWS Lambda functions locally.",
+      "summary": "",
+      "title": "Amazon.Lambda.TestTool-6.0",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/amazon.lambda.testtool-6.0/0.12.4/icon",
+      "licenseUrl": "http://aws.amazon.com/apache2.0/",
+      "projectUrl": "https://github.com/aws/aws-lambda-dotnet",
+      "tags": [
+        "AWS",
+        "Amazon",
+        "Lambda"
+      ],
+      "authors": [
+        "Amazon Web Services"
+      ],
+      "owners": [
+        "awsdotnet"
+      ],
+      "totalDownloads": 251092,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.11.3",
+          "downloads": 331,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/0.11.3.json"
+        },
+        {
+          "version": "0.11.4",
+          "downloads": 8295,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/0.11.4.json"
+        },
+        {
+          "version": "0.12.0",
+          "downloads": 7951,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/0.12.0.json"
+        },
+        {
+          "version": "0.12.1",
+          "downloads": 35393,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/0.12.1.json"
+        },
+        {
+          "version": "0.12.2",
+          "downloads": 67117,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/0.12.2.json"
+        },
+        {
+          "version": "0.12.3",
+          "downloads": 123582,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/0.12.3.json"
+        },
+        {
+          "version": "0.12.4",
+          "downloads": 8423,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/0.12.4.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/index.json",
@@ -41467,74 +41555,6 @@
           "version": "2.5.0",
           "downloads": 20095,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-setversion/2.5.0.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/index.json",
-      "id": "Amazon.Lambda.TestTool-6.0",
-      "version": "0.12.4",
-      "description": "A tool to help debug and test your .NET 6.0 AWS Lambda functions locally.",
-      "summary": "",
-      "title": "Amazon.Lambda.TestTool-6.0",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/amazon.lambda.testtool-6.0/0.12.4/icon",
-      "licenseUrl": "http://aws.amazon.com/apache2.0/",
-      "projectUrl": "https://github.com/aws/aws-lambda-dotnet",
-      "tags": [
-        "AWS",
-        "Amazon",
-        "Lambda"
-      ],
-      "authors": [
-        "Amazon Web Services"
-      ],
-      "owners": [
-        "awsdotnet"
-      ],
-      "totalDownloads": 251092,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.11.3",
-          "downloads": 331,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/0.11.3.json"
-        },
-        {
-          "version": "0.11.4",
-          "downloads": 8295,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/0.11.4.json"
-        },
-        {
-          "version": "0.12.0",
-          "downloads": 7951,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/0.12.0.json"
-        },
-        {
-          "version": "0.12.1",
-          "downloads": 35393,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/0.12.1.json"
-        },
-        {
-          "version": "0.12.2",
-          "downloads": 67117,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/0.12.2.json"
-        },
-        {
-          "version": "0.12.3",
-          "downloads": 123582,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/0.12.3.json"
-        },
-        {
-          "version": "0.12.4",
-          "downloads": 8423,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/0.12.4.json"
         }
       ]
     },
@@ -56526,7 +56546,7 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/index.json",
       "id": "Hopex.ApplicationServer.Tool",
-      "version": "15.4.0.31",
+      "version": "15.4.0.32",
       "description": "Package Description",
       "summary": "",
       "title": "Hopex.ApplicationServer.Tool",
@@ -59035,6 +59055,11 @@
           "version": "15.4.0.31",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/15.4.0.31.json"
+        },
+        {
+          "version": "15.4.0.32",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/15.4.0.32.json"
         }
       ]
     },
