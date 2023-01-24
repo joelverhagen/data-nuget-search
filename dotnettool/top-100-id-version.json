@@ -44,12 +44,12 @@
     "version": "6.0.351802"
   },
   {
-    "id": "wix",
-    "version": "4.0.0-rc.2"
-  },
-  {
     "id": "Paket",
     "version": "7.2.0"
+  },
+  {
+    "id": "wix",
+    "version": "4.0.0-rc.2"
   },
   {
     "id": "Swashbuckle.AspNetCore.Cli",
@@ -112,10 +112,6 @@
     "version": "1.4.0"
   },
   {
-    "id": "dotnet-coverage",
-    "version": "17.6.0"
-  },
-  {
     "id": "CycloneDX",
     "version": "2.7.0"
   },
@@ -124,12 +120,16 @@
     "version": "2.1.0"
   },
   {
-    "id": "dotnet-stryker",
-    "version": "3.4.0"
+    "id": "dotnet-coverage",
+    "version": "17.6.0"
   },
   {
     "id": "MiniCover",
     "version": "3.6.0"
+  },
+  {
+    "id": "dotnet-stryker",
+    "version": "3.4.0"
   },
   {
     "id": "NSwag.ConsoleCore",
@@ -152,16 +152,20 @@
     "version": "4.0.1"
   },
   {
-    "id": "dotnet-aspnet-codegenerator",
-    "version": "7.0.2"
-  },
-  {
     "id": "AWS.CodeArtifact.NuGet.CredentialProvider",
     "version": "1.0.1"
   },
   {
+    "id": "dotnet-aspnet-codegenerator",
+    "version": "7.0.2"
+  },
+  {
     "id": "Amazon.Lambda.TestTool-6.0",
     "version": "0.12.7"
+  },
+  {
+    "id": "Badgie.Migrator",
+    "version": "1.1.0.345"
   },
   {
     "id": "JetBrains.dotCover.GlobalTool",
@@ -172,40 +176,28 @@
     "version": "4.3.2"
   },
   {
-    "id": "Badgie.Migrator",
-    "version": "1.1.0.345"
+    "id": "SmartCode.CLI",
+    "version": "3.0.1"
   },
   {
     "id": "minver-cli",
     "version": "4.3.0-beta.1"
   },
   {
-    "id": "SmartCode.CLI",
-    "version": "3.0.1"
+    "id": "Nuke.GlobalTool",
+    "version": "6.3.0"
   },
   {
     "id": "Microsoft.Playwright.CLI",
     "version": "1.2.3"
   },
   {
-    "id": "Nuke.GlobalTool",
-    "version": "6.3.0"
-  },
-  {
     "id": "fantomas",
     "version": "5.2.0"
   },
   {
-    "id": "StrawberryShake.Tools",
-    "version": "13.0.0-rc.1"
-  },
-  {
     "id": "FluentMigrator.DotNet.Cli",
     "version": "3.3.2"
-  },
-  {
-    "id": "Microsoft.CST.DevSkim.CLI",
-    "version": "0.8.10-alpha"
   },
   {
     "id": "Amazon.ElasticBeanstalk.Tools",
@@ -216,12 +208,20 @@
     "version": "1.13.0"
   },
   {
-    "id": "fantomas-tool",
-    "version": "5.0.0-alpha-002"
+    "id": "StrawberryShake.Tools",
+    "version": "13.0.0-rc.1"
+  },
+  {
+    "id": "Microsoft.CST.DevSkim.CLI",
+    "version": "0.8.11-alpha"
   },
   {
     "id": "CSharpier",
     "version": "0.22.1"
+  },
+  {
+    "id": "fantomas-tool",
+    "version": "5.0.0-alpha-002"
   },
   {
     "id": "Libplanet.Tools",
@@ -240,12 +240,12 @@
     "version": "6.0.351802"
   },
   {
-    "id": "dotnet-project-licenses",
-    "version": "3.0.0-alpha.9"
-  },
-  {
     "id": "Microsoft.Web.LibraryManager.Cli",
     "version": "2.1.175"
+  },
+  {
+    "id": "dotnet-project-licenses",
+    "version": "3.0.0-alpha.9"
   },
   {
     "id": "Excubo.WebCompiler",
@@ -280,12 +280,12 @@
     "version": "5.6.7"
   },
   {
-    "id": "Microsoft.dotnet-msidentity",
-    "version": "2.0.1"
-  },
-  {
     "id": "docfx",
     "version": "2.60.2"
+  },
+  {
+    "id": "Microsoft.dotnet-msidentity",
+    "version": "2.0.1"
   },
   {
     "id": "Sarif.Multitool",
@@ -312,16 +312,16 @@
     "version": "0.12.2"
   },
   {
+    "id": "dotnet-version-cli",
+    "version": "2.3.1"
+  },
+  {
     "id": "dotnet-delice",
     "version": "1.8.0"
   },
   {
     "id": "upgrade-assistant",
     "version": "0.4.355802"
-  },
-  {
-    "id": "dotnet-version-cli",
-    "version": "2.3.1"
   },
   {
     "id": "Hopex.ApplicationServer.Tool",
@@ -336,12 +336,12 @@
     "version": "9.4.1"
   },
   {
-    "id": "dotnet-fsharplint",
-    "version": "0.21.3"
-  },
-  {
     "id": "CocoR",
     "version": "2014.12.24"
+  },
+  {
+    "id": "dotnet-fsharplint",
+    "version": "0.21.3"
   },
   {
     "id": "Amazon.ECS.Tools",
@@ -356,20 +356,16 @@
     "version": "1.10.4"
   },
   {
-    "id": "OctoVersion.Tool",
-    "version": "0.3.59"
-  },
-  {
-    "id": "Husky",
-    "version": "0.5.4"
-  },
-  {
     "id": "Dawnx.Tools",
     "version": "1.34.0.1"
   },
   {
     "id": "boots",
     "version": "1.1.0.712-preview2"
+  },
+  {
+    "id": "OctoVersion.Tool",
+    "version": "0.3.59"
   },
   {
     "id": "GitReleaseManager.Tool",
@@ -380,16 +376,20 @@
     "version": "5.0.0"
   },
   {
-    "id": "gpr",
-    "version": "0.1.285"
+    "id": "altcover.global",
+    "version": "8.6.14"
   },
   {
     "id": "snapx",
     "version": "5.0.1-prerelease0029"
   },
   {
-    "id": "altcover.global",
-    "version": "8.6.14"
+    "id": "gpr",
+    "version": "0.1.287"
+  },
+  {
+    "id": "Husky",
+    "version": "0.5.4"
   },
   {
     "id": "AWS.Deploy.CLI",
