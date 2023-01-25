@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 315216,
+  "totalHits": 315355,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -1965,12 +1965,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/serilog/index.json",
       "id": "Serilog",
-      "version": "2.12.1-dev-01635",
+      "version": "3.0.0-dev-01671",
       "description": "Simple .NET logging with fully-structured events",
       "summary": "",
       "title": "Serilog",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/serilog/2.12.1-dev-01635/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Serilog/2.12.1-dev-01635/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/serilog/3.0.0-dev-01671/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Serilog/3.0.0-dev-01671/license",
       "projectUrl": "https://serilog.net/",
       "tags": [
         "serilog",
@@ -4116,6 +4116,41 @@
           "version": "2.12.1-dev-01635",
           "downloads": 9656,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog/2.12.1-dev-01635.json"
+        },
+        {
+          "version": "3.0.0-dev-01645",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog/3.0.0-dev-01645.json"
+        },
+        {
+          "version": "3.0.0-dev-01666",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog/3.0.0-dev-01666.json"
+        },
+        {
+          "version": "3.0.0-dev-01667",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog/3.0.0-dev-01667.json"
+        },
+        {
+          "version": "3.0.0-dev-01668",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog/3.0.0-dev-01668.json"
+        },
+        {
+          "version": "3.0.0-dev-01669",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog/3.0.0-dev-01669.json"
+        },
+        {
+          "version": "3.0.0-dev-01670",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog/3.0.0-dev-01670.json"
+        },
+        {
+          "version": "3.0.0-dev-01671",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog/3.0.0-dev-01671.json"
         }
       ]
     },
@@ -6913,11 +6948,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "3.7.103.21",
+      "version": "3.7.103.22",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.103.21/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.103.22/icon",
       "licenseUrl": "http://aws.amazon.com/apache2.0/",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
@@ -10959,6 +10994,11 @@
           "version": "3.7.103.21",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.103.21.json"
+        },
+        {
+          "version": "3.7.103.22",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.103.22.json"
         }
       ]
     },
@@ -13833,6 +13873,294 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/index.json",
+      "id": "Azure.Storage.Blobs",
+      "version": "12.14.1",
+      "description": "This client library enables working with the Microsoft Azure Storage Blob service for storing binary and text data.\n      For this release see notes - https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/storage/Azure.Storage.Blobs/README.md and https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/storage/Azure.Storage.Blobs/CHANGELOG.md\n      in addition to the breaking changes https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/storage/Azure.Storage.Blobs/BreakingChanges.txt\n      Microsoft Azure Storage quickstarts and tutorials - https://docs.microsoft.com/en-us/azure/storage/\n      Microsoft Azure Storage REST API Reference - https://docs.microsoft.com/en-us/rest/api/storageservices/\n      REST API Reference for Blob Service - https://docs.microsoft.com/en-us/rest/api/storageservices/blob-service-rest-api",
+      "summary": "",
+      "title": "Azure.Storage.Blobs",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.storage.blobs/12.14.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Azure.Storage.Blobs/12.14.1/license",
+      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Storage.Blobs_12.14.1/sdk/storage/Azure.Storage.Blobs/README.md",
+      "tags": [
+        "Microsoft",
+        "Azure",
+        "Storage",
+        "Blobs",
+        "Microsoft",
+        "Azure",
+        "Blobs",
+        "Blob",
+        "Storage",
+        "StorageScalable",
+        "windowsazureofficial",
+        "azureofficial"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "azure-sdk",
+        "Microsoft"
+      ],
+      "totalDownloads": 93895393,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0-preview.1",
+          "downloads": 4785,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/1.0.0-preview.1.json"
+        },
+        {
+          "version": "12.0.0-preview.1",
+          "downloads": 2191,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.0.0-preview.1.json"
+        },
+        {
+          "version": "12.0.0-preview.2",
+          "downloads": 2929,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.0.0-preview.2.json"
+        },
+        {
+          "version": "12.0.0-preview.3",
+          "downloads": 5824,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.0.0-preview.3.json"
+        },
+        {
+          "version": "12.0.0-preview.4",
+          "downloads": 5074,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.0.0-preview.4.json"
+        },
+        {
+          "version": "12.0.0",
+          "downloads": 1086791,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.0.0.json"
+        },
+        {
+          "version": "12.1.0",
+          "downloads": 521200,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.1.0.json"
+        },
+        {
+          "version": "12.2.0",
+          "downloads": 965043,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.2.0.json"
+        },
+        {
+          "version": "12.3.0",
+          "downloads": 924178,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.3.0.json"
+        },
+        {
+          "version": "12.4.0",
+          "downloads": 943649,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.4.0.json"
+        },
+        {
+          "version": "12.4.1",
+          "downloads": 1422002,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.4.1.json"
+        },
+        {
+          "version": "12.4.2",
+          "downloads": 1648627,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.4.2.json"
+        },
+        {
+          "version": "12.4.3",
+          "downloads": 296153,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.4.3.json"
+        },
+        {
+          "version": "12.4.4",
+          "downloads": 5074173,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.4.4.json"
+        },
+        {
+          "version": "12.5.0-preview.1",
+          "downloads": 5472,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.5.0-preview.1.json"
+        },
+        {
+          "version": "12.5.0-preview.4",
+          "downloads": 6475,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.5.0-preview.4.json"
+        },
+        {
+          "version": "12.5.0-preview.5",
+          "downloads": 28646,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.5.0-preview.5.json"
+        },
+        {
+          "version": "12.5.0-preview.6",
+          "downloads": 34599,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.5.0-preview.6.json"
+        },
+        {
+          "version": "12.5.1",
+          "downloads": 784990,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.5.1.json"
+        },
+        {
+          "version": "12.6.0",
+          "downloads": 8208034,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.6.0.json"
+        },
+        {
+          "version": "12.7.0-preview.1",
+          "downloads": 57786,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.7.0-preview.1.json"
+        },
+        {
+          "version": "12.7.0",
+          "downloads": 5846898,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.7.0.json"
+        },
+        {
+          "version": "12.8.0-beta.1",
+          "downloads": 38207,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.8.0-beta.1.json"
+        },
+        {
+          "version": "12.8.0",
+          "downloads": 10293254,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.8.0.json"
+        },
+        {
+          "version": "12.8.1",
+          "downloads": 2738879,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.8.1.json"
+        },
+        {
+          "version": "12.8.2",
+          "downloads": 28530,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.8.2.json"
+        },
+        {
+          "version": "12.8.3",
+          "downloads": 2322941,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.8.3.json"
+        },
+        {
+          "version": "12.8.4",
+          "downloads": 1654092,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.8.4.json"
+        },
+        {
+          "version": "12.9.0-beta.1",
+          "downloads": 76782,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.9.0-beta.1.json"
+        },
+        {
+          "version": "12.9.0-beta.2",
+          "downloads": 61397,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.9.0-beta.2.json"
+        },
+        {
+          "version": "12.9.0-beta.3",
+          "downloads": 17417,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.9.0-beta.3.json"
+        },
+        {
+          "version": "12.9.0-beta.4",
+          "downloads": 125322,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.9.0-beta.4.json"
+        },
+        {
+          "version": "12.9.0",
+          "downloads": 2474154,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.9.0.json"
+        },
+        {
+          "version": "12.9.1",
+          "downloads": 6256627,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.9.1.json"
+        },
+        {
+          "version": "12.10.0-beta.1",
+          "downloads": 3234,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.10.0-beta.1.json"
+        },
+        {
+          "version": "12.10.0-beta.2",
+          "downloads": 19743,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.10.0-beta.2.json"
+        },
+        {
+          "version": "12.10.0",
+          "downloads": 18937993,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.10.0.json"
+        },
+        {
+          "version": "12.11.0-beta.1",
+          "downloads": 20174,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.11.0-beta.1.json"
+        },
+        {
+          "version": "12.11.0-beta.2",
+          "downloads": 85046,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.11.0-beta.2.json"
+        },
+        {
+          "version": "12.11.0-beta.3",
+          "downloads": 33438,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.11.0-beta.3.json"
+        },
+        {
+          "version": "12.11.0",
+          "downloads": 3739764,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.11.0.json"
+        },
+        {
+          "version": "12.12.0-beta.1",
+          "downloads": 12372,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.12.0-beta.1.json"
+        },
+        {
+          "version": "12.12.0",
+          "downloads": 5989341,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.12.0.json"
+        },
+        {
+          "version": "12.13.0-beta.1",
+          "downloads": 9697,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.13.0-beta.1.json"
+        },
+        {
+          "version": "12.13.0",
+          "downloads": 4415167,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.13.0.json"
+        },
+        {
+          "version": "12.13.1",
+          "downloads": 3664603,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.13.1.json"
+        },
+        {
+          "version": "12.14.0-beta.1",
+          "downloads": 23388,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.14.0-beta.1.json"
+        },
+        {
+          "version": "12.14.0",
+          "downloads": 598648,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.14.0.json"
+        },
+        {
+          "version": "12.14.1",
+          "downloads": 2216139,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.14.1.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/swashbuckle.aspnetcore.swaggerui/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/swashbuckle.aspnetcore.swaggerui/index.json",
@@ -14155,294 +14483,6 @@
           "version": "6.5.0",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/swashbuckle.aspnetcore.swaggerui/6.5.0.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/index.json",
-      "id": "Azure.Storage.Blobs",
-      "version": "12.14.1",
-      "description": "This client library enables working with the Microsoft Azure Storage Blob service for storing binary and text data.\n      For this release see notes - https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/storage/Azure.Storage.Blobs/README.md and https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/storage/Azure.Storage.Blobs/CHANGELOG.md\n      in addition to the breaking changes https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/storage/Azure.Storage.Blobs/BreakingChanges.txt\n      Microsoft Azure Storage quickstarts and tutorials - https://docs.microsoft.com/en-us/azure/storage/\n      Microsoft Azure Storage REST API Reference - https://docs.microsoft.com/en-us/rest/api/storageservices/\n      REST API Reference for Blob Service - https://docs.microsoft.com/en-us/rest/api/storageservices/blob-service-rest-api",
-      "summary": "",
-      "title": "Azure.Storage.Blobs",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.storage.blobs/12.14.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Azure.Storage.Blobs/12.14.1/license",
-      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Storage.Blobs_12.14.1/sdk/storage/Azure.Storage.Blobs/README.md",
-      "tags": [
-        "Microsoft",
-        "Azure",
-        "Storage",
-        "Blobs",
-        "Microsoft",
-        "Azure",
-        "Blobs",
-        "Blob",
-        "Storage",
-        "StorageScalable",
-        "windowsazureofficial",
-        "azureofficial"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "azure-sdk",
-        "Microsoft"
-      ],
-      "totalDownloads": 93895393,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0-preview.1",
-          "downloads": 4785,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/1.0.0-preview.1.json"
-        },
-        {
-          "version": "12.0.0-preview.1",
-          "downloads": 2191,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.0.0-preview.1.json"
-        },
-        {
-          "version": "12.0.0-preview.2",
-          "downloads": 2929,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.0.0-preview.2.json"
-        },
-        {
-          "version": "12.0.0-preview.3",
-          "downloads": 5824,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.0.0-preview.3.json"
-        },
-        {
-          "version": "12.0.0-preview.4",
-          "downloads": 5074,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.0.0-preview.4.json"
-        },
-        {
-          "version": "12.0.0",
-          "downloads": 1086791,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.0.0.json"
-        },
-        {
-          "version": "12.1.0",
-          "downloads": 521200,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.1.0.json"
-        },
-        {
-          "version": "12.2.0",
-          "downloads": 965043,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.2.0.json"
-        },
-        {
-          "version": "12.3.0",
-          "downloads": 924178,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.3.0.json"
-        },
-        {
-          "version": "12.4.0",
-          "downloads": 943649,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.4.0.json"
-        },
-        {
-          "version": "12.4.1",
-          "downloads": 1422002,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.4.1.json"
-        },
-        {
-          "version": "12.4.2",
-          "downloads": 1648627,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.4.2.json"
-        },
-        {
-          "version": "12.4.3",
-          "downloads": 296153,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.4.3.json"
-        },
-        {
-          "version": "12.4.4",
-          "downloads": 5074173,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.4.4.json"
-        },
-        {
-          "version": "12.5.0-preview.1",
-          "downloads": 5472,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.5.0-preview.1.json"
-        },
-        {
-          "version": "12.5.0-preview.4",
-          "downloads": 6475,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.5.0-preview.4.json"
-        },
-        {
-          "version": "12.5.0-preview.5",
-          "downloads": 28646,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.5.0-preview.5.json"
-        },
-        {
-          "version": "12.5.0-preview.6",
-          "downloads": 34599,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.5.0-preview.6.json"
-        },
-        {
-          "version": "12.5.1",
-          "downloads": 784990,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.5.1.json"
-        },
-        {
-          "version": "12.6.0",
-          "downloads": 8208034,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.6.0.json"
-        },
-        {
-          "version": "12.7.0-preview.1",
-          "downloads": 57786,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.7.0-preview.1.json"
-        },
-        {
-          "version": "12.7.0",
-          "downloads": 5846898,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.7.0.json"
-        },
-        {
-          "version": "12.8.0-beta.1",
-          "downloads": 38207,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.8.0-beta.1.json"
-        },
-        {
-          "version": "12.8.0",
-          "downloads": 10293254,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.8.0.json"
-        },
-        {
-          "version": "12.8.1",
-          "downloads": 2738879,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.8.1.json"
-        },
-        {
-          "version": "12.8.2",
-          "downloads": 28530,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.8.2.json"
-        },
-        {
-          "version": "12.8.3",
-          "downloads": 2322941,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.8.3.json"
-        },
-        {
-          "version": "12.8.4",
-          "downloads": 1654092,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.8.4.json"
-        },
-        {
-          "version": "12.9.0-beta.1",
-          "downloads": 76782,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.9.0-beta.1.json"
-        },
-        {
-          "version": "12.9.0-beta.2",
-          "downloads": 61397,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.9.0-beta.2.json"
-        },
-        {
-          "version": "12.9.0-beta.3",
-          "downloads": 17417,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.9.0-beta.3.json"
-        },
-        {
-          "version": "12.9.0-beta.4",
-          "downloads": 125322,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.9.0-beta.4.json"
-        },
-        {
-          "version": "12.9.0",
-          "downloads": 2474154,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.9.0.json"
-        },
-        {
-          "version": "12.9.1",
-          "downloads": 6256627,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.9.1.json"
-        },
-        {
-          "version": "12.10.0-beta.1",
-          "downloads": 3234,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.10.0-beta.1.json"
-        },
-        {
-          "version": "12.10.0-beta.2",
-          "downloads": 19743,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.10.0-beta.2.json"
-        },
-        {
-          "version": "12.10.0",
-          "downloads": 18937993,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.10.0.json"
-        },
-        {
-          "version": "12.11.0-beta.1",
-          "downloads": 20174,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.11.0-beta.1.json"
-        },
-        {
-          "version": "12.11.0-beta.2",
-          "downloads": 85046,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.11.0-beta.2.json"
-        },
-        {
-          "version": "12.11.0-beta.3",
-          "downloads": 33438,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.11.0-beta.3.json"
-        },
-        {
-          "version": "12.11.0",
-          "downloads": 3739764,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.11.0.json"
-        },
-        {
-          "version": "12.12.0-beta.1",
-          "downloads": 12372,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.12.0-beta.1.json"
-        },
-        {
-          "version": "12.12.0",
-          "downloads": 5989341,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.12.0.json"
-        },
-        {
-          "version": "12.13.0-beta.1",
-          "downloads": 9697,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.13.0-beta.1.json"
-        },
-        {
-          "version": "12.13.0",
-          "downloads": 4415167,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.13.0.json"
-        },
-        {
-          "version": "12.13.1",
-          "downloads": 3664603,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.13.1.json"
-        },
-        {
-          "version": "12.14.0-beta.1",
-          "downloads": 23388,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.14.0-beta.1.json"
-        },
-        {
-          "version": "12.14.0",
-          "downloads": 598648,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.14.0.json"
-        },
-        {
-          "version": "12.14.1",
-          "downloads": 2216139,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.14.1.json"
         }
       ]
     },
@@ -34754,11 +34794,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "id": "AWSSDK.S3",
-      "version": "3.7.101.59",
+      "version": "3.7.101.60",
       "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
       "summary": "",
       "title": "AWSSDK - S3",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.101.59/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.101.60/icon",
       "licenseUrl": "http://aws.amazon.com/apache2.0/",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
@@ -38816,6 +38856,11 @@
           "version": "3.7.101.59",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.101.59.json"
+        },
+        {
+          "version": "3.7.101.60",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.101.60.json"
         }
       ]
     },
@@ -40019,131 +40064,6 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/index.json",
-      "id": "Microsoft.Extensions.Logging.ApplicationInsights",
-      "version": "2.22.0-beta1",
-      "description": "Application Insights ILogger allows forwarding events from ILogger to Application Insights. Application Insights will collect your logs from multiple sources and provide rich powerful search capabilities. Privacy statement: https://go.microsoft.com/fwlink/?LinkId=512156",
-      "summary": "",
-      "title": "Microsoft Logging Extensions for ApplicationInsights",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.applicationinsights/2.22.0-beta1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Logging.ApplicationInsights/2.22.0-beta1/license",
-      "projectUrl": "https://go.microsoft.com/fwlink/?LinkId=392727",
-      "tags": [
-        "Analytics",
-        "Azure",
-        "ApplicationInsights",
-        "Telemetry",
-        "Monitoring",
-        "SDK",
-        "ILogger",
-        "ILoggerBuilder",
-        "ILoggerProvider"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "AppInsightsSdk",
-        "Microsoft"
-      ],
-      "totalDownloads": 125703058,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.9.1",
-          "downloads": 1281763,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.9.1.json"
-        },
-        {
-          "version": "2.10.0",
-          "downloads": 5932025,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.10.0.json"
-        },
-        {
-          "version": "2.11.0",
-          "downloads": 6651039,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.11.0.json"
-        },
-        {
-          "version": "2.12.0",
-          "downloads": 5930245,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.12.0.json"
-        },
-        {
-          "version": "2.12.1",
-          "downloads": 2942594,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.12.1.json"
-        },
-        {
-          "version": "2.12.2",
-          "downloads": 83069,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.12.2.json"
-        },
-        {
-          "version": "2.13.0",
-          "downloads": 311853,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.13.0.json"
-        },
-        {
-          "version": "2.13.1",
-          "downloads": 7061040,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.13.1.json"
-        },
-        {
-          "version": "2.14.0",
-          "downloads": 16778145,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.14.0.json"
-        },
-        {
-          "version": "2.15.0",
-          "downloads": 10187673,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.15.0.json"
-        },
-        {
-          "version": "2.16.0",
-          "downloads": 10927442,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.16.0.json"
-        },
-        {
-          "version": "2.17.0",
-          "downloads": 16342204,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.17.0.json"
-        },
-        {
-          "version": "2.18.0",
-          "downloads": 8379275,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.18.0.json"
-        },
-        {
-          "version": "2.19.0",
-          "downloads": 4087045,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.19.0.json"
-        },
-        {
-          "version": "2.20.0",
-          "downloads": 19514824,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.20.0.json"
-        },
-        {
-          "version": "2.21.0",
-          "downloads": 8073659,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.21.0.json"
-        },
-        {
-          "version": "2.22.0-beta1",
-          "downloads": 12812,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.22.0-beta1.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/csvhelper/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/csvhelper/index.json",
@@ -41241,6 +41161,131 @@
           "version": "30.0.1",
           "downloads": 753887,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/csvhelper/30.0.1.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/index.json",
+      "id": "Microsoft.Extensions.Logging.ApplicationInsights",
+      "version": "2.22.0-beta1",
+      "description": "Application Insights ILogger allows forwarding events from ILogger to Application Insights. Application Insights will collect your logs from multiple sources and provide rich powerful search capabilities. Privacy statement: https://go.microsoft.com/fwlink/?LinkId=512156",
+      "summary": "",
+      "title": "Microsoft Logging Extensions for ApplicationInsights",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.applicationinsights/2.22.0-beta1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Logging.ApplicationInsights/2.22.0-beta1/license",
+      "projectUrl": "https://go.microsoft.com/fwlink/?LinkId=392727",
+      "tags": [
+        "Analytics",
+        "Azure",
+        "ApplicationInsights",
+        "Telemetry",
+        "Monitoring",
+        "SDK",
+        "ILogger",
+        "ILoggerBuilder",
+        "ILoggerProvider"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "AppInsightsSdk",
+        "Microsoft"
+      ],
+      "totalDownloads": 125703058,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.9.1",
+          "downloads": 1281763,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.9.1.json"
+        },
+        {
+          "version": "2.10.0",
+          "downloads": 5932025,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.10.0.json"
+        },
+        {
+          "version": "2.11.0",
+          "downloads": 6651039,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.11.0.json"
+        },
+        {
+          "version": "2.12.0",
+          "downloads": 5930245,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.12.0.json"
+        },
+        {
+          "version": "2.12.1",
+          "downloads": 2942594,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.12.1.json"
+        },
+        {
+          "version": "2.12.2",
+          "downloads": 83069,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.12.2.json"
+        },
+        {
+          "version": "2.13.0",
+          "downloads": 311853,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.13.0.json"
+        },
+        {
+          "version": "2.13.1",
+          "downloads": 7061040,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.13.1.json"
+        },
+        {
+          "version": "2.14.0",
+          "downloads": 16778145,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.14.0.json"
+        },
+        {
+          "version": "2.15.0",
+          "downloads": 10187673,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.15.0.json"
+        },
+        {
+          "version": "2.16.0",
+          "downloads": 10927442,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.16.0.json"
+        },
+        {
+          "version": "2.17.0",
+          "downloads": 16342204,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.17.0.json"
+        },
+        {
+          "version": "2.18.0",
+          "downloads": 8379275,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.18.0.json"
+        },
+        {
+          "version": "2.19.0",
+          "downloads": 4087045,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.19.0.json"
+        },
+        {
+          "version": "2.20.0",
+          "downloads": 19514824,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.20.0.json"
+        },
+        {
+          "version": "2.21.0",
+          "downloads": 8073659,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.21.0.json"
+        },
+        {
+          "version": "2.22.0-beta1",
+          "downloads": 12812,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.applicationinsights/2.22.0-beta1.json"
         }
       ]
     },
