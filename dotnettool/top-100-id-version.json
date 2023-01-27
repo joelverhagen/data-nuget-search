@@ -44,12 +44,12 @@
     "version": "6.0.351802"
   },
   {
-    "id": "Paket",
-    "version": "7.2.0"
-  },
-  {
     "id": "wix",
     "version": "4.0.0-rc.2"
+  },
+  {
+    "id": "Paket",
+    "version": "7.2.0"
   },
   {
     "id": "Swashbuckle.AspNetCore.Cli",
@@ -140,12 +140,12 @@
     "version": "0.35.0"
   },
   {
-    "id": "dotnet-sos",
-    "version": "6.0.351802"
-  },
-  {
     "id": "SpecFlow.Plus.LivingDoc.CLI",
     "version": "3.9.57"
+  },
+  {
+    "id": "dotnet-sos",
+    "version": "6.0.351802"
   },
   {
     "id": "coveralls.net",
@@ -164,6 +164,10 @@
     "version": "0.12.7"
   },
   {
+    "id": "JetBrains.dotCover.GlobalTool",
+    "version": "2023.1.0-eap01"
+  },
+  {
     "id": "dotnet-outdated-tool",
     "version": "4.3.2"
   },
@@ -172,32 +176,36 @@
     "version": "1.1.0.345"
   },
   {
-    "id": "JetBrains.dotCover.GlobalTool",
-    "version": "2023.1.0-eap01"
-  },
-  {
-    "id": "SmartCode.CLI",
-    "version": "3.0.1"
-  },
-  {
     "id": "minver-cli",
     "version": "4.3.0-beta.1"
-  },
-  {
-    "id": "Nuke.GlobalTool",
-    "version": "6.3.0"
   },
   {
     "id": "Microsoft.Playwright.CLI",
     "version": "1.2.3"
   },
   {
+    "id": "SmartCode.CLI",
+    "version": "3.0.1"
+  },
+  {
+    "id": "Nuke.GlobalTool",
+    "version": "6.3.0"
+  },
+  {
     "id": "fantomas",
     "version": "6.0.0-alpha-001"
   },
   {
+    "id": "StrawberryShake.Tools",
+    "version": "13.0.0-rc.1"
+  },
+  {
     "id": "FluentMigrator.DotNet.Cli",
     "version": "3.3.2"
+  },
+  {
+    "id": "Microsoft.CST.DevSkim.CLI",
+    "version": "0.8.11-alpha"
   },
   {
     "id": "Amazon.ElasticBeanstalk.Tools",
@@ -208,32 +216,24 @@
     "version": "1.13.0"
   },
   {
-    "id": "StrawberryShake.Tools",
-    "version": "13.0.0-rc.1"
+    "id": "fantomas-tool",
+    "version": "5.0.0-alpha-002"
   },
   {
     "id": "CSharpier",
     "version": "0.22.1"
   },
   {
-    "id": "Microsoft.CST.DevSkim.CLI",
-    "version": "0.8.11-alpha"
-  },
-  {
-    "id": "fantomas-tool",
-    "version": "5.0.0-alpha-002"
-  },
-  {
     "id": "Libplanet.Tools",
     "version": "0.47.0-dev.20230121050500+a993bb7"
   },
   {
-    "id": "dotnet-xdt",
-    "version": "2.2.1"
-  },
-  {
     "id": "dotnet-t4",
     "version": "2.3.1"
+  },
+  {
+    "id": "dotnet-xdt",
+    "version": "2.2.1"
   },
   {
     "id": "dotnet-stack",
@@ -280,20 +280,16 @@
     "version": "5.6.7"
   },
   {
-    "id": "docfx",
-    "version": "2.60.2"
-  },
-  {
     "id": "Microsoft.dotnet-msidentity",
     "version": "2.0.1"
   },
   {
-    "id": "Sarif.Multitool",
-    "version": "3.1.0"
+    "id": "docfx",
+    "version": "2.60.2"
   },
   {
-    "id": "dotnet-linux-cert",
-    "version": "0.0.9"
+    "id": "Sarif.Multitool",
+    "version": "3.1.0"
   },
   {
     "id": "SourceLink",
@@ -304,12 +300,20 @@
     "version": "1.3.155"
   },
   {
+    "id": "dotnet-linux-cert",
+    "version": "0.0.9"
+  },
+  {
     "id": "FSharp.Formatting.CommandTool",
     "version": "11.5.1"
   },
   {
     "id": "dotnet-delice",
     "version": "1.8.0"
+  },
+  {
+    "id": "upgrade-assistant",
+    "version": "0.4.355802"
   },
   {
     "id": "dotnet-ildasm",
@@ -320,12 +324,8 @@
     "version": "2.3.1"
   },
   {
-    "id": "upgrade-assistant",
-    "version": "0.4.355802"
-  },
-  {
     "id": "Hopex.ApplicationServer.Tool",
-    "version": "15.5.0.79"
+    "version": "15.6.0.1"
   },
   {
     "id": "Rnwood.Smtp4dev",
@@ -356,6 +356,14 @@
     "version": "0.2.2"
   },
   {
+    "id": "Husky",
+    "version": "0.5.4"
+  },
+  {
+    "id": "OctoVersion.Tool",
+    "version": "0.3.59"
+  },
+  {
     "id": "Dawnx.Tools",
     "version": "1.34.0.1"
   },
@@ -364,12 +372,12 @@
     "version": "1.1.0.712-preview2"
   },
   {
-    "id": "OctoVersion.Tool",
-    "version": "0.3.59"
-  },
-  {
     "id": "GitReleaseManager.Tool",
     "version": "0.13.0"
+  },
+  {
+    "id": "gpr",
+    "version": "0.1.289"
   },
   {
     "id": "dotnet-retire",
@@ -384,19 +392,11 @@
     "version": "5.0.1-prerelease0029"
   },
   {
-    "id": "gpr",
-    "version": "0.1.287"
-  },
-  {
     "id": "AWS.Deploy.CLI",
     "version": "0.40.18"
   },
   {
-    "id": "Husky",
-    "version": "0.5.4"
-  },
-  {
-    "id": "dotnetsay",
-    "version": "2.1.7"
+    "id": "rapicgen",
+    "version": "1.6.89"
   }
 ]
