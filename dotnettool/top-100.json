@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 3715,
+  "totalHits": 3719,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cake.tool/index.json",
@@ -26909,49 +26909,6 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/index.json",
-      "id": "AWS.CodeArtifact.NuGet.CredentialProvider",
-      "version": "1.0.1",
-      "description": "A tool to configure NuGet credential provider for AWS CodeArtifact sources.",
-      "summary": "",
-      "title": "AWS.CodeArtifact.NuGet.CredentialProvider",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/aws.codeartifact.nuget.credentialprovider/1.0.1/icon",
-      "licenseUrl": "https://aws.amazon.com/apache-2-0/",
-      "projectUrl": "https://aws.amazon.com/codeartifact/",
-      "tags": [
-        "AWS",
-        "Amazon",
-        "CodeArtifact"
-      ],
-      "authors": [
-        "Amazon Web Services"
-      ],
-      "owners": [
-        "awsdotnet"
-      ],
-      "totalDownloads": 613342,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "downloads": 217461,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/1.0.0.json"
-        },
-        {
-          "version": "1.0.1",
-          "downloads": 395881,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/1.0.1.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/index.json",
@@ -27031,6 +26988,49 @@
           "version": "0.12.7",
           "downloads": 241874,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/0.12.7.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/index.json",
+      "id": "AWS.CodeArtifact.NuGet.CredentialProvider",
+      "version": "1.0.1",
+      "description": "A tool to configure NuGet credential provider for AWS CodeArtifact sources.",
+      "summary": "",
+      "title": "AWS.CodeArtifact.NuGet.CredentialProvider",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/aws.codeartifact.nuget.credentialprovider/1.0.1/icon",
+      "licenseUrl": "https://aws.amazon.com/apache-2-0/",
+      "projectUrl": "https://aws.amazon.com/codeartifact/",
+      "tags": [
+        "AWS",
+        "Amazon",
+        "CodeArtifact"
+      ],
+      "authors": [
+        "Amazon Web Services"
+      ],
+      "owners": [
+        "awsdotnet"
+      ],
+      "totalDownloads": 613342,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloads": 217461,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/1.0.0.json"
+        },
+        {
+          "version": "1.0.1",
+          "downloads": 395881,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/1.0.1.json"
         }
       ]
     },
@@ -27484,219 +27484,6 @@
           "version": "7.0.4",
           "downloads": 256,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-aspnet-codegenerator/7.0.4.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/index.json",
-      "id": "coveralls.net",
-      "version": "4.0.1",
-      "description": "Coveralls.io uploader for .NET Code Coverage. Supports opencover and visual studio's codecoverage.exe on windows, and monocov for mono",
-      "summary": "",
-      "title": "coveralls.net - Coveralls.io uploader for .NET Code Coverage",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/coveralls.net/4.0.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/coveralls.net/4.0.1/license",
-      "projectUrl": "https://github.com/csmacnz/coveralls.net",
-      "tags": [
-        "Code-Coverage",
-        "Coveralls",
-        "opencover",
-        "monocov",
-        "codecoverage.exe",
-        "coveralls.io",
-        "Reporting",
-        "Runner"
-      ],
-      "authors": [
-        "csMACnz"
-      ],
-      "owners": [
-        "csmacnz"
-      ],
-      "totalDownloads": 579256,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.1.50",
-          "downloads": 2151,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.1.50.json"
-        },
-        {
-          "version": "0.1.62",
-          "downloads": 1133,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.1.62.json"
-        },
-        {
-          "version": "0.2.95",
-          "downloads": 1086,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.2.95.json"
-        },
-        {
-          "version": "0.3.106",
-          "downloads": 1477,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.3.106.json"
-        },
-        {
-          "version": "0.4.0-beta0001",
-          "downloads": 1151,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.4.0-beta0001.json"
-        },
-        {
-          "version": "0.4.0-beta0002",
-          "downloads": 1141,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.4.0-beta0002.json"
-        },
-        {
-          "version": "0.4.0",
-          "downloads": 1307,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.4.0.json"
-        },
-        {
-          "version": "0.5.0-beta0001",
-          "downloads": 1130,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0-beta0001.json"
-        },
-        {
-          "version": "0.5.0-beta0002",
-          "downloads": 1137,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0-beta0002.json"
-        },
-        {
-          "version": "0.5.0-beta0003",
-          "downloads": 1076,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0-beta0003.json"
-        },
-        {
-          "version": "0.5.0-beta0004",
-          "downloads": 1120,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0-beta0004.json"
-        },
-        {
-          "version": "0.5.0",
-          "downloads": 7115,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0.json"
-        },
-        {
-          "version": "0.6.0-beta0001",
-          "downloads": 1203,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.6.0-beta0001.json"
-        },
-        {
-          "version": "0.6.0-beta0003",
-          "downloads": 1042,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.6.0-beta0003.json"
-        },
-        {
-          "version": "0.6.0-beta0004",
-          "downloads": 1041,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.6.0-beta0004.json"
-        },
-        {
-          "version": "0.6.0",
-          "downloads": 44257,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.6.0.json"
-        },
-        {
-          "version": "0.7.0-beta0001",
-          "downloads": 12445,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.7.0-beta0001.json"
-        },
-        {
-          "version": "0.7.0",
-          "downloads": 255016,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.7.0.json"
-        },
-        {
-          "version": "0.8.0-beta0001",
-          "downloads": 936,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.8.0-beta0001.json"
-        },
-        {
-          "version": "0.8.0-unstable0008",
-          "downloads": 1108,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.8.0-unstable0008.json"
-        },
-        {
-          "version": "0.8.0-unstable0013",
-          "downloads": 9407,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.8.0-unstable0013.json"
-        },
-        {
-          "version": "0.9.0-unstable0001",
-          "downloads": 780,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0001.json"
-        },
-        {
-          "version": "0.9.0-unstable0002",
-          "downloads": 908,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0002.json"
-        },
-        {
-          "version": "0.9.0-unstable0003",
-          "downloads": 933,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0003.json"
-        },
-        {
-          "version": "0.9.0-unstable0004",
-          "downloads": 819,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0004.json"
-        },
-        {
-          "version": "0.9.0-unstable0005",
-          "downloads": 807,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0005.json"
-        },
-        {
-          "version": "1.0.0-beta0001",
-          "downloads": 849,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/1.0.0-beta0001.json"
-        },
-        {
-          "version": "1.0.0-beta0002",
-          "downloads": 939,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/1.0.0-beta0002.json"
-        },
-        {
-          "version": "1.0.0-beta0003",
-          "downloads": 813,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/1.0.0-beta0003.json"
-        },
-        {
-          "version": "1.0.0",
-          "downloads": 87947,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/1.0.0.json"
-        },
-        {
-          "version": "2.0.0-beta0002",
-          "downloads": 9888,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/2.0.0-beta0002.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 34343,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/2.0.0.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 34757,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/3.0.0.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 5720,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/4.0.0.json"
-        },
-        {
-          "version": "4.0.1",
-          "downloads": 20284,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/4.0.1.json"
         }
       ]
     },
@@ -28161,6 +27948,219 @@
           "version": "2023.1.0-eap05",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dotcover.globaltool/2023.1.0-eap05.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/index.json",
+      "id": "coveralls.net",
+      "version": "4.0.1",
+      "description": "Coveralls.io uploader for .NET Code Coverage. Supports opencover and visual studio's codecoverage.exe on windows, and monocov for mono",
+      "summary": "",
+      "title": "coveralls.net - Coveralls.io uploader for .NET Code Coverage",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/coveralls.net/4.0.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/coveralls.net/4.0.1/license",
+      "projectUrl": "https://github.com/csmacnz/coveralls.net",
+      "tags": [
+        "Code-Coverage",
+        "Coveralls",
+        "opencover",
+        "monocov",
+        "codecoverage.exe",
+        "coveralls.io",
+        "Reporting",
+        "Runner"
+      ],
+      "authors": [
+        "csMACnz"
+      ],
+      "owners": [
+        "csmacnz"
+      ],
+      "totalDownloads": 579256,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.1.50",
+          "downloads": 2151,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.1.50.json"
+        },
+        {
+          "version": "0.1.62",
+          "downloads": 1133,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.1.62.json"
+        },
+        {
+          "version": "0.2.95",
+          "downloads": 1086,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.2.95.json"
+        },
+        {
+          "version": "0.3.106",
+          "downloads": 1477,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.3.106.json"
+        },
+        {
+          "version": "0.4.0-beta0001",
+          "downloads": 1151,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.4.0-beta0001.json"
+        },
+        {
+          "version": "0.4.0-beta0002",
+          "downloads": 1141,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.4.0-beta0002.json"
+        },
+        {
+          "version": "0.4.0",
+          "downloads": 1307,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.4.0.json"
+        },
+        {
+          "version": "0.5.0-beta0001",
+          "downloads": 1130,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0-beta0001.json"
+        },
+        {
+          "version": "0.5.0-beta0002",
+          "downloads": 1137,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0-beta0002.json"
+        },
+        {
+          "version": "0.5.0-beta0003",
+          "downloads": 1076,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0-beta0003.json"
+        },
+        {
+          "version": "0.5.0-beta0004",
+          "downloads": 1120,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0-beta0004.json"
+        },
+        {
+          "version": "0.5.0",
+          "downloads": 7115,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0.json"
+        },
+        {
+          "version": "0.6.0-beta0001",
+          "downloads": 1203,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.6.0-beta0001.json"
+        },
+        {
+          "version": "0.6.0-beta0003",
+          "downloads": 1042,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.6.0-beta0003.json"
+        },
+        {
+          "version": "0.6.0-beta0004",
+          "downloads": 1041,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.6.0-beta0004.json"
+        },
+        {
+          "version": "0.6.0",
+          "downloads": 44257,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.6.0.json"
+        },
+        {
+          "version": "0.7.0-beta0001",
+          "downloads": 12445,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.7.0-beta0001.json"
+        },
+        {
+          "version": "0.7.0",
+          "downloads": 255016,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.7.0.json"
+        },
+        {
+          "version": "0.8.0-beta0001",
+          "downloads": 936,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.8.0-beta0001.json"
+        },
+        {
+          "version": "0.8.0-unstable0008",
+          "downloads": 1108,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.8.0-unstable0008.json"
+        },
+        {
+          "version": "0.8.0-unstable0013",
+          "downloads": 9407,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.8.0-unstable0013.json"
+        },
+        {
+          "version": "0.9.0-unstable0001",
+          "downloads": 780,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0001.json"
+        },
+        {
+          "version": "0.9.0-unstable0002",
+          "downloads": 908,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0002.json"
+        },
+        {
+          "version": "0.9.0-unstable0003",
+          "downloads": 933,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0003.json"
+        },
+        {
+          "version": "0.9.0-unstable0004",
+          "downloads": 819,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0004.json"
+        },
+        {
+          "version": "0.9.0-unstable0005",
+          "downloads": 807,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0005.json"
+        },
+        {
+          "version": "1.0.0-beta0001",
+          "downloads": 849,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/1.0.0-beta0001.json"
+        },
+        {
+          "version": "1.0.0-beta0002",
+          "downloads": 939,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/1.0.0-beta0002.json"
+        },
+        {
+          "version": "1.0.0-beta0003",
+          "downloads": 813,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/1.0.0-beta0003.json"
+        },
+        {
+          "version": "1.0.0",
+          "downloads": 87947,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/1.0.0.json"
+        },
+        {
+          "version": "2.0.0-beta0002",
+          "downloads": 9888,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/2.0.0-beta0002.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 34343,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/2.0.0.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 34757,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/3.0.0.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 5720,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/4.0.0.json"
+        },
+        {
+          "version": "4.0.1",
+          "downloads": 20284,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/4.0.1.json"
         }
       ]
     },
@@ -49642,6 +49642,46 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/index.json",
+      "id": "dotnet-linux-cert",
+      "version": "0.0.9",
+      "description": "Dotnet linux cert helper: Install and list PKCS#12 certificates for *nix system",
+      "summary": "",
+      "title": "dotnet-linux-cert",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-linux-cert/0.0.9/license",
+      "projectUrl": "https://github.com/solacens/dotnet-linux-cert",
+      "tags": [
+        "tools"
+      ],
+      "authors": [
+        "solacens"
+      ],
+      "owners": [
+        "solacens"
+      ],
+      "totalDownloads": 227640,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.0.7",
+          "downloads": 79451,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/0.0.7.json"
+        },
+        {
+          "version": "0.0.9",
+          "downloads": 21240,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/0.0.9.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/index.json",
@@ -52690,46 +52730,6 @@
           "version": "15.6.0.15",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/15.6.0.15.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/index.json",
-      "id": "dotnet-linux-cert",
-      "version": "0.0.9",
-      "description": "Dotnet linux cert helper: Install and list PKCS#12 certificates for *nix system",
-      "summary": "",
-      "title": "dotnet-linux-cert",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-linux-cert/0.0.9/license",
-      "projectUrl": "https://github.com/solacens/dotnet-linux-cert",
-      "tags": [
-        "tools"
-      ],
-      "authors": [
-        "solacens"
-      ],
-      "owners": [
-        "solacens"
-      ],
-      "totalDownloads": 227640,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.0.7",
-          "downloads": 79451,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/0.0.7.json"
-        },
-        {
-          "version": "0.0.9",
-          "downloads": 21240,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-linux-cert/0.0.9.json"
         }
       ]
     },
@@ -57912,6 +57912,145 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/index.json",
+      "id": "AWS.Deploy.Tools",
+      "version": "1.10.4",
+      "description": "Opinionated tooling that simplifies deployment of .NET applications with minimum AWS knowledge.",
+      "summary": "",
+      "title": "AWS.Deploy.Tools",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/aws.deploy.tools/1.10.4/icon",
+      "projectUrl": "https://github.com/aws/aws-dotnet-deploy",
+      "tags": [
+        "AWS",
+        "Amazon",
+        "ElasticBeanstalk",
+        "ECS",
+        "Deploy"
+      ],
+      "authors": [
+        "AWS.Deploy.CLI"
+      ],
+      "owners": [
+        "awsdotnet"
+      ],
+      "totalDownloads": 203466,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.41.4",
+          "downloads": 1282,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.41.4.json"
+        },
+        {
+          "version": "0.42.10",
+          "downloads": 1374,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.42.10.json"
+        },
+        {
+          "version": "0.43.6",
+          "downloads": 2131,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.43.6.json"
+        },
+        {
+          "version": "0.44.9",
+          "downloads": 27484,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.44.9.json"
+        },
+        {
+          "version": "0.45.9",
+          "downloads": 15234,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.45.9.json"
+        },
+        {
+          "version": "0.46.16",
+          "downloads": 20066,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.46.16.json"
+        },
+        {
+          "version": "0.47.26",
+          "downloads": 13235,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.47.26.json"
+        },
+        {
+          "version": "0.48.15",
+          "downloads": 331,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.48.15.json"
+        },
+        {
+          "version": "0.49.14",
+          "downloads": 308,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.49.14.json"
+        },
+        {
+          "version": "0.50.2",
+          "downloads": 8048,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.50.2.json"
+        },
+        {
+          "version": "1.0.3",
+          "downloads": 30749,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.0.3.json"
+        },
+        {
+          "version": "1.1.15",
+          "downloads": 473,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.1.15.json"
+        },
+        {
+          "version": "1.2.4",
+          "downloads": 29064,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.2.4.json"
+        },
+        {
+          "version": "1.3.7",
+          "downloads": 333,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.3.7.json"
+        },
+        {
+          "version": "1.4.10",
+          "downloads": 273,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.4.10.json"
+        },
+        {
+          "version": "1.5.4",
+          "downloads": 10561,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.5.4.json"
+        },
+        {
+          "version": "1.6.4",
+          "downloads": 32500,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.6.4.json"
+        },
+        {
+          "version": "1.7.3",
+          "downloads": 478,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.7.3.json"
+        },
+        {
+          "version": "1.8.8",
+          "downloads": 463,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.8.8.json"
+        },
+        {
+          "version": "1.9.4",
+          "downloads": 681,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.9.4.json"
+        },
+        {
+          "version": "1.10.4",
+          "downloads": 8398,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.10.4.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-fsharplint/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-fsharplint/index.json",
@@ -58189,145 +58328,6 @@
           "version": "0.21.3",
           "downloads": 4347,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-fsharplint/0.21.3.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/index.json",
-      "id": "AWS.Deploy.Tools",
-      "version": "1.10.4",
-      "description": "Opinionated tooling that simplifies deployment of .NET applications with minimum AWS knowledge.",
-      "summary": "",
-      "title": "AWS.Deploy.Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/aws.deploy.tools/1.10.4/icon",
-      "projectUrl": "https://github.com/aws/aws-dotnet-deploy",
-      "tags": [
-        "AWS",
-        "Amazon",
-        "ElasticBeanstalk",
-        "ECS",
-        "Deploy"
-      ],
-      "authors": [
-        "AWS.Deploy.CLI"
-      ],
-      "owners": [
-        "awsdotnet"
-      ],
-      "totalDownloads": 203466,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.41.4",
-          "downloads": 1282,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.41.4.json"
-        },
-        {
-          "version": "0.42.10",
-          "downloads": 1374,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.42.10.json"
-        },
-        {
-          "version": "0.43.6",
-          "downloads": 2131,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.43.6.json"
-        },
-        {
-          "version": "0.44.9",
-          "downloads": 27484,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.44.9.json"
-        },
-        {
-          "version": "0.45.9",
-          "downloads": 15234,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.45.9.json"
-        },
-        {
-          "version": "0.46.16",
-          "downloads": 20066,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.46.16.json"
-        },
-        {
-          "version": "0.47.26",
-          "downloads": 13235,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.47.26.json"
-        },
-        {
-          "version": "0.48.15",
-          "downloads": 331,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.48.15.json"
-        },
-        {
-          "version": "0.49.14",
-          "downloads": 308,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.49.14.json"
-        },
-        {
-          "version": "0.50.2",
-          "downloads": 8048,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/0.50.2.json"
-        },
-        {
-          "version": "1.0.3",
-          "downloads": 30749,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.0.3.json"
-        },
-        {
-          "version": "1.1.15",
-          "downloads": 473,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.1.15.json"
-        },
-        {
-          "version": "1.2.4",
-          "downloads": 29064,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.2.4.json"
-        },
-        {
-          "version": "1.3.7",
-          "downloads": 333,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.3.7.json"
-        },
-        {
-          "version": "1.4.10",
-          "downloads": 273,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.4.10.json"
-        },
-        {
-          "version": "1.5.4",
-          "downloads": 10561,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.5.4.json"
-        },
-        {
-          "version": "1.6.4",
-          "downloads": 32500,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.6.4.json"
-        },
-        {
-          "version": "1.7.3",
-          "downloads": 478,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.7.3.json"
-        },
-        {
-          "version": "1.8.8",
-          "downloads": 463,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.8.8.json"
-        },
-        {
-          "version": "1.9.4",
-          "downloads": 681,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.9.4.json"
-        },
-        {
-          "version": "1.10.4",
-          "downloads": 8398,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.10.4.json"
         }
       ]
     },
