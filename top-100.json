@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 318517,
+  "totalHits": 318583,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -26623,6 +26623,634 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/index.json",
+      "id": "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions",
+      "version": "7.0.3",
+      "description": "Abstractions for defining health checks in .NET applications\n\nCommonly Used Types\nMicrosoft.Extensions.Diagnostics.HealthChecks.IHealthCheck\n    \n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/febee99db845fd8766a13bdb391a07c3ee90b4ba",
+      "summary": "",
+      "title": "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.3/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions/7.0.3/license",
+      "projectUrl": "https://asp.net/",
+      "tags": [
+        "diagnostics",
+        "healthchecks"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "aspnet",
+        "Microsoft"
+      ],
+      "totalDownloads": 188604906,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.2.0-preview1-35029",
+          "downloads": 7304,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/2.2.0-preview1-35029.json"
+        },
+        {
+          "version": "2.2.0-preview2-35157",
+          "downloads": 38969,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/2.2.0-preview2-35157.json"
+        },
+        {
+          "version": "2.2.0-preview3-35497",
+          "downloads": 91720,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/2.2.0-preview3-35497.json"
+        },
+        {
+          "version": "2.2.0",
+          "downloads": 35148581,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/2.2.0.json"
+        },
+        {
+          "version": "3.0.0-preview.18572.1",
+          "downloads": 617,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview.18572.1.json"
+        },
+        {
+          "version": "3.0.0-preview.19074.2",
+          "downloads": 615,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview.19074.2.json"
+        },
+        {
+          "version": "3.0.0-preview3.19153.1",
+          "downloads": 706,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview3.19153.1.json"
+        },
+        {
+          "version": "3.0.0-preview4.19216.2",
+          "downloads": 1060,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview4.19216.2.json"
+        },
+        {
+          "version": "3.0.0-preview5.19227.9",
+          "downloads": 76887,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview5.19227.9.json"
+        },
+        {
+          "version": "3.0.0-preview6.19304.6",
+          "downloads": 16454,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview6.19304.6.json"
+        },
+        {
+          "version": "3.0.0-preview7.19362.4",
+          "downloads": 2458,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview7.19362.4.json"
+        },
+        {
+          "version": "3.0.0-preview8.19405.4",
+          "downloads": 20014,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview8.19405.4.json"
+        },
+        {
+          "version": "3.0.0-preview9.19423.4",
+          "downloads": 3339,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview9.19423.4.json"
+        },
+        {
+          "version": "3.0.0-rc1.19456.10",
+          "downloads": 6640,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-rc1.19456.10.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 7395802,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0.json"
+        },
+        {
+          "version": "3.0.1",
+          "downloads": 126585,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.1.json"
+        },
+        {
+          "version": "3.0.2",
+          "downloads": 10701,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.2.json"
+        },
+        {
+          "version": "3.0.3",
+          "downloads": 40036,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.3.json"
+        },
+        {
+          "version": "3.1.0-preview1.19506.1",
+          "downloads": 2874,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.0-preview1.19506.1.json"
+        },
+        {
+          "version": "3.1.0-preview2.19525.4",
+          "downloads": 765,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.0-preview2.19525.4.json"
+        },
+        {
+          "version": "3.1.0-preview3.19553.2",
+          "downloads": 2790,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.0-preview3.19553.2.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 2560098,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.0.json"
+        },
+        {
+          "version": "3.1.1",
+          "downloads": 1401934,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.1.json"
+        },
+        {
+          "version": "3.1.2",
+          "downloads": 1639528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.2.json"
+        },
+        {
+          "version": "3.1.3",
+          "downloads": 20224246,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.3.json"
+        },
+        {
+          "version": "3.1.4",
+          "downloads": 1391059,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.4.json"
+        },
+        {
+          "version": "3.1.5",
+          "downloads": 5399064,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.5.json"
+        },
+        {
+          "version": "3.1.6",
+          "downloads": 1367695,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.6.json"
+        },
+        {
+          "version": "3.1.7",
+          "downloads": 1214989,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.7.json"
+        },
+        {
+          "version": "3.1.8",
+          "downloads": 2196970,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.8.json"
+        },
+        {
+          "version": "3.1.9",
+          "downloads": 2269745,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.9.json"
+        },
+        {
+          "version": "3.1.10",
+          "downloads": 2557462,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.10.json"
+        },
+        {
+          "version": "3.1.11",
+          "downloads": 5319633,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.11.json"
+        },
+        {
+          "version": "3.1.12",
+          "downloads": 728005,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.12.json"
+        },
+        {
+          "version": "3.1.13",
+          "downloads": 420394,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.13.json"
+        },
+        {
+          "version": "3.1.14",
+          "downloads": 802636,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.14.json"
+        },
+        {
+          "version": "3.1.15",
+          "downloads": 554063,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.15.json"
+        },
+        {
+          "version": "3.1.16",
+          "downloads": 471926,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.16.json"
+        },
+        {
+          "version": "3.1.17",
+          "downloads": 460932,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.17.json"
+        },
+        {
+          "version": "3.1.18",
+          "downloads": 9928233,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.18.json"
+        },
+        {
+          "version": "3.1.19",
+          "downloads": 219174,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.19.json"
+        },
+        {
+          "version": "3.1.20",
+          "downloads": 174715,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.20.json"
+        },
+        {
+          "version": "3.1.21",
+          "downloads": 384671,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.21.json"
+        },
+        {
+          "version": "3.1.22",
+          "downloads": 423721,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.22.json"
+        },
+        {
+          "version": "3.1.23",
+          "downloads": 182040,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.23.json"
+        },
+        {
+          "version": "3.1.24",
+          "downloads": 95443,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.24.json"
+        },
+        {
+          "version": "3.1.25",
+          "downloads": 78333,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.25.json"
+        },
+        {
+          "version": "3.1.26",
+          "downloads": 64709,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.26.json"
+        },
+        {
+          "version": "3.1.27",
+          "downloads": 56917,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.27.json"
+        },
+        {
+          "version": "3.1.28",
+          "downloads": 69158,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.28.json"
+        },
+        {
+          "version": "3.1.29",
+          "downloads": 39013,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.29.json"
+        },
+        {
+          "version": "3.1.30",
+          "downloads": 31641,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.30.json"
+        },
+        {
+          "version": "3.1.31",
+          "downloads": 15281,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.31.json"
+        },
+        {
+          "version": "3.1.32",
+          "downloads": 17057,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.32.json"
+        },
+        {
+          "version": "5.0.0-preview.1.20120.4",
+          "downloads": 4226,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-preview.1.20120.4.json"
+        },
+        {
+          "version": "5.0.0-preview.2.20167.3",
+          "downloads": 9944,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-preview.2.20167.3.json"
+        },
+        {
+          "version": "5.0.0-preview.3.20215.14",
+          "downloads": 2918,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-preview.3.20215.14.json"
+        },
+        {
+          "version": "5.0.0-preview.4.20257.10",
+          "downloads": 1898,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-preview.4.20257.10.json"
+        },
+        {
+          "version": "5.0.0-preview.5.20279.2",
+          "downloads": 1359,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-preview.5.20279.2.json"
+        },
+        {
+          "version": "5.0.0-preview.6.20312.15",
+          "downloads": 8169,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-preview.6.20312.15.json"
+        },
+        {
+          "version": "5.0.0-preview.7.20365.19",
+          "downloads": 5794,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-preview.7.20365.19.json"
+        },
+        {
+          "version": "5.0.0-preview.8.20414.8",
+          "downloads": 6890,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-preview.8.20414.8.json"
+        },
+        {
+          "version": "5.0.0-rc.1.20451.17",
+          "downloads": 8192,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-rc.1.20451.17.json"
+        },
+        {
+          "version": "5.0.0-rc.2.20475.17",
+          "downloads": 6327,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-rc.2.20475.17.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 1611614,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0.json"
+        },
+        {
+          "version": "5.0.1",
+          "downloads": 15556048,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.1.json"
+        },
+        {
+          "version": "5.0.2",
+          "downloads": 1392553,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.2.json"
+        },
+        {
+          "version": "5.0.3",
+          "downloads": 1298790,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.3.json"
+        },
+        {
+          "version": "5.0.4",
+          "downloads": 1181355,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.4.json"
+        },
+        {
+          "version": "5.0.5",
+          "downloads": 1536444,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.5.json"
+        },
+        {
+          "version": "5.0.6",
+          "downloads": 1347284,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.6.json"
+        },
+        {
+          "version": "5.0.7",
+          "downloads": 2126650,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.7.json"
+        },
+        {
+          "version": "5.0.8",
+          "downloads": 1039507,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.8.json"
+        },
+        {
+          "version": "5.0.9",
+          "downloads": 1306290,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.9.json"
+        },
+        {
+          "version": "5.0.10",
+          "downloads": 1198994,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.10.json"
+        },
+        {
+          "version": "5.0.11",
+          "downloads": 1419028,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.11.json"
+        },
+        {
+          "version": "5.0.12",
+          "downloads": 476550,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.12.json"
+        },
+        {
+          "version": "5.0.13",
+          "downloads": 588236,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.13.json"
+        },
+        {
+          "version": "5.0.14",
+          "downloads": 139352,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.14.json"
+        },
+        {
+          "version": "5.0.15",
+          "downloads": 160830,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.15.json"
+        },
+        {
+          "version": "5.0.16",
+          "downloads": 86370,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.16.json"
+        },
+        {
+          "version": "5.0.17",
+          "downloads": 388498,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.17.json"
+        },
+        {
+          "version": "6.0.0-preview.1.21103.6",
+          "downloads": 10647,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-preview.1.21103.6.json"
+        },
+        {
+          "version": "6.0.0-preview.2.21154.6",
+          "downloads": 4010,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-preview.2.21154.6.json"
+        },
+        {
+          "version": "6.0.0-preview.3.21201.13",
+          "downloads": 7232,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-preview.3.21201.13.json"
+        },
+        {
+          "version": "6.0.0-preview.4.21253.5",
+          "downloads": 2530,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-preview.4.21253.5.json"
+        },
+        {
+          "version": "6.0.0-preview.5.21301.17",
+          "downloads": 7258,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-preview.5.21301.17.json"
+        },
+        {
+          "version": "6.0.0-preview.6.21355.2",
+          "downloads": 3742,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-preview.6.21355.2.json"
+        },
+        {
+          "version": "6.0.0-preview.7.21378.6",
+          "downloads": 63020,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-preview.7.21378.6.json"
+        },
+        {
+          "version": "6.0.0-rc.1.21452.15",
+          "downloads": 17535,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-rc.1.21452.15.json"
+        },
+        {
+          "version": "6.0.0-rc.2.21480.10",
+          "downloads": 487639,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-rc.2.21480.10.json"
+        },
+        {
+          "version": "6.0.0",
+          "downloads": 13619244,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0.json"
+        },
+        {
+          "version": "6.0.1",
+          "downloads": 3409483,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.1.json"
+        },
+        {
+          "version": "6.0.2",
+          "downloads": 9693733,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.2.json"
+        },
+        {
+          "version": "6.0.3",
+          "downloads": 2902749,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.3.json"
+        },
+        {
+          "version": "6.0.4",
+          "downloads": 3872573,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.4.json"
+        },
+        {
+          "version": "6.0.5",
+          "downloads": 2052699,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.5.json"
+        },
+        {
+          "version": "6.0.6",
+          "downloads": 1589287,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.6.json"
+        },
+        {
+          "version": "6.0.7",
+          "downloads": 4902613,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.7.json"
+        },
+        {
+          "version": "6.0.8",
+          "downloads": 2354854,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.8.json"
+        },
+        {
+          "version": "6.0.9",
+          "downloads": 1120868,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.9.json"
+        },
+        {
+          "version": "6.0.10",
+          "downloads": 1699916,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.10.json"
+        },
+        {
+          "version": "6.0.11",
+          "downloads": 605109,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.11.json"
+        },
+        {
+          "version": "6.0.12",
+          "downloads": 262710,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.12.json"
+        },
+        {
+          "version": "6.0.13",
+          "downloads": 226790,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.13.json"
+        },
+        {
+          "version": "6.0.14",
+          "downloads": 4373,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.14.json"
+        },
+        {
+          "version": "7.0.0-preview.1.22109.13",
+          "downloads": 500,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-preview.1.22109.13.json"
+        },
+        {
+          "version": "7.0.0-preview.2.22153.2",
+          "downloads": 1480,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-preview.2.22153.2.json"
+        },
+        {
+          "version": "7.0.0-preview.3.22178.4",
+          "downloads": 1566,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-preview.3.22178.4.json"
+        },
+        {
+          "version": "7.0.0-preview.4.22251.1",
+          "downloads": 5603,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-preview.4.22251.1.json"
+        },
+        {
+          "version": "7.0.0-preview.5.22303.8",
+          "downloads": 4156,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-preview.5.22303.8.json"
+        },
+        {
+          "version": "7.0.0-preview.6.22330.3",
+          "downloads": 2231,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-preview.6.22330.3.json"
+        },
+        {
+          "version": "7.0.0-preview.7.22376.6",
+          "downloads": 3451,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-preview.7.22376.6.json"
+        },
+        {
+          "version": "7.0.0-rc.1.22427.2",
+          "downloads": 5187,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-rc.1.22427.2.json"
+        },
+        {
+          "version": "7.0.0-rc.2.22476.2",
+          "downloads": 6553,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-rc.2.22476.2.json"
+        },
+        {
+          "version": "7.0.0",
+          "downloads": 421337,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0.json"
+        },
+        {
+          "version": "7.0.1",
+          "downloads": 291899,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.1.json"
+        },
+        {
+          "version": "7.0.2",
+          "downloads": 268683,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.2.json"
+        },
+        {
+          "version": "7.0.3",
+          "downloads": 6132,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.3.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/identitymodel/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/identitymodel/index.json",
@@ -27412,634 +28040,6 @@
           "version": "6.1.0-preview.2",
           "downloads": 4356,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/identitymodel/6.1.0-preview.2.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/index.json",
-      "id": "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions",
-      "version": "7.0.3",
-      "description": "Abstractions for defining health checks in .NET applications\n\nCommonly Used Types\nMicrosoft.Extensions.Diagnostics.HealthChecks.IHealthCheck\n    \n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/febee99db845fd8766a13bdb391a07c3ee90b4ba",
-      "summary": "",
-      "title": "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.3/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions/7.0.3/license",
-      "projectUrl": "https://asp.net/",
-      "tags": [
-        "diagnostics",
-        "healthchecks"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "aspnet",
-        "Microsoft"
-      ],
-      "totalDownloads": 188604906,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.2.0-preview1-35029",
-          "downloads": 7304,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/2.2.0-preview1-35029.json"
-        },
-        {
-          "version": "2.2.0-preview2-35157",
-          "downloads": 38969,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/2.2.0-preview2-35157.json"
-        },
-        {
-          "version": "2.2.0-preview3-35497",
-          "downloads": 91720,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/2.2.0-preview3-35497.json"
-        },
-        {
-          "version": "2.2.0",
-          "downloads": 35148581,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/2.2.0.json"
-        },
-        {
-          "version": "3.0.0-preview.18572.1",
-          "downloads": 617,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview.18572.1.json"
-        },
-        {
-          "version": "3.0.0-preview.19074.2",
-          "downloads": 615,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview.19074.2.json"
-        },
-        {
-          "version": "3.0.0-preview3.19153.1",
-          "downloads": 706,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview3.19153.1.json"
-        },
-        {
-          "version": "3.0.0-preview4.19216.2",
-          "downloads": 1060,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview4.19216.2.json"
-        },
-        {
-          "version": "3.0.0-preview5.19227.9",
-          "downloads": 76887,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview5.19227.9.json"
-        },
-        {
-          "version": "3.0.0-preview6.19304.6",
-          "downloads": 16454,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview6.19304.6.json"
-        },
-        {
-          "version": "3.0.0-preview7.19362.4",
-          "downloads": 2458,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview7.19362.4.json"
-        },
-        {
-          "version": "3.0.0-preview8.19405.4",
-          "downloads": 20014,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview8.19405.4.json"
-        },
-        {
-          "version": "3.0.0-preview9.19423.4",
-          "downloads": 3339,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-preview9.19423.4.json"
-        },
-        {
-          "version": "3.0.0-rc1.19456.10",
-          "downloads": 6640,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0-rc1.19456.10.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 7395802,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.0.json"
-        },
-        {
-          "version": "3.0.1",
-          "downloads": 126585,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.1.json"
-        },
-        {
-          "version": "3.0.2",
-          "downloads": 10701,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.2.json"
-        },
-        {
-          "version": "3.0.3",
-          "downloads": 40036,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.0.3.json"
-        },
-        {
-          "version": "3.1.0-preview1.19506.1",
-          "downloads": 2874,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.0-preview1.19506.1.json"
-        },
-        {
-          "version": "3.1.0-preview2.19525.4",
-          "downloads": 765,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.0-preview2.19525.4.json"
-        },
-        {
-          "version": "3.1.0-preview3.19553.2",
-          "downloads": 2790,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.0-preview3.19553.2.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 2560098,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.0.json"
-        },
-        {
-          "version": "3.1.1",
-          "downloads": 1401934,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.1.json"
-        },
-        {
-          "version": "3.1.2",
-          "downloads": 1639528,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.2.json"
-        },
-        {
-          "version": "3.1.3",
-          "downloads": 20224246,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.3.json"
-        },
-        {
-          "version": "3.1.4",
-          "downloads": 1391059,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.4.json"
-        },
-        {
-          "version": "3.1.5",
-          "downloads": 5399064,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.5.json"
-        },
-        {
-          "version": "3.1.6",
-          "downloads": 1367695,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.6.json"
-        },
-        {
-          "version": "3.1.7",
-          "downloads": 1214989,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.7.json"
-        },
-        {
-          "version": "3.1.8",
-          "downloads": 2196970,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.8.json"
-        },
-        {
-          "version": "3.1.9",
-          "downloads": 2269745,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.9.json"
-        },
-        {
-          "version": "3.1.10",
-          "downloads": 2557462,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.10.json"
-        },
-        {
-          "version": "3.1.11",
-          "downloads": 5319633,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.11.json"
-        },
-        {
-          "version": "3.1.12",
-          "downloads": 728005,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.12.json"
-        },
-        {
-          "version": "3.1.13",
-          "downloads": 420394,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.13.json"
-        },
-        {
-          "version": "3.1.14",
-          "downloads": 802636,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.14.json"
-        },
-        {
-          "version": "3.1.15",
-          "downloads": 554063,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.15.json"
-        },
-        {
-          "version": "3.1.16",
-          "downloads": 471926,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.16.json"
-        },
-        {
-          "version": "3.1.17",
-          "downloads": 460932,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.17.json"
-        },
-        {
-          "version": "3.1.18",
-          "downloads": 9928233,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.18.json"
-        },
-        {
-          "version": "3.1.19",
-          "downloads": 219174,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.19.json"
-        },
-        {
-          "version": "3.1.20",
-          "downloads": 174715,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.20.json"
-        },
-        {
-          "version": "3.1.21",
-          "downloads": 384671,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.21.json"
-        },
-        {
-          "version": "3.1.22",
-          "downloads": 423721,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.22.json"
-        },
-        {
-          "version": "3.1.23",
-          "downloads": 182040,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.23.json"
-        },
-        {
-          "version": "3.1.24",
-          "downloads": 95443,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.24.json"
-        },
-        {
-          "version": "3.1.25",
-          "downloads": 78333,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.25.json"
-        },
-        {
-          "version": "3.1.26",
-          "downloads": 64709,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.26.json"
-        },
-        {
-          "version": "3.1.27",
-          "downloads": 56917,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.27.json"
-        },
-        {
-          "version": "3.1.28",
-          "downloads": 69158,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.28.json"
-        },
-        {
-          "version": "3.1.29",
-          "downloads": 39013,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.29.json"
-        },
-        {
-          "version": "3.1.30",
-          "downloads": 31641,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.30.json"
-        },
-        {
-          "version": "3.1.31",
-          "downloads": 15281,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.31.json"
-        },
-        {
-          "version": "3.1.32",
-          "downloads": 17057,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.32.json"
-        },
-        {
-          "version": "5.0.0-preview.1.20120.4",
-          "downloads": 4226,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-preview.1.20120.4.json"
-        },
-        {
-          "version": "5.0.0-preview.2.20167.3",
-          "downloads": 9944,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-preview.2.20167.3.json"
-        },
-        {
-          "version": "5.0.0-preview.3.20215.14",
-          "downloads": 2918,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-preview.3.20215.14.json"
-        },
-        {
-          "version": "5.0.0-preview.4.20257.10",
-          "downloads": 1898,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-preview.4.20257.10.json"
-        },
-        {
-          "version": "5.0.0-preview.5.20279.2",
-          "downloads": 1359,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-preview.5.20279.2.json"
-        },
-        {
-          "version": "5.0.0-preview.6.20312.15",
-          "downloads": 8169,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-preview.6.20312.15.json"
-        },
-        {
-          "version": "5.0.0-preview.7.20365.19",
-          "downloads": 5794,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-preview.7.20365.19.json"
-        },
-        {
-          "version": "5.0.0-preview.8.20414.8",
-          "downloads": 6890,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-preview.8.20414.8.json"
-        },
-        {
-          "version": "5.0.0-rc.1.20451.17",
-          "downloads": 8192,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-rc.1.20451.17.json"
-        },
-        {
-          "version": "5.0.0-rc.2.20475.17",
-          "downloads": 6327,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0-rc.2.20475.17.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 1611614,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.0.json"
-        },
-        {
-          "version": "5.0.1",
-          "downloads": 15556048,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.1.json"
-        },
-        {
-          "version": "5.0.2",
-          "downloads": 1392553,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.2.json"
-        },
-        {
-          "version": "5.0.3",
-          "downloads": 1298790,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.3.json"
-        },
-        {
-          "version": "5.0.4",
-          "downloads": 1181355,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.4.json"
-        },
-        {
-          "version": "5.0.5",
-          "downloads": 1536444,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.5.json"
-        },
-        {
-          "version": "5.0.6",
-          "downloads": 1347284,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.6.json"
-        },
-        {
-          "version": "5.0.7",
-          "downloads": 2126650,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.7.json"
-        },
-        {
-          "version": "5.0.8",
-          "downloads": 1039507,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.8.json"
-        },
-        {
-          "version": "5.0.9",
-          "downloads": 1306290,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.9.json"
-        },
-        {
-          "version": "5.0.10",
-          "downloads": 1198994,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.10.json"
-        },
-        {
-          "version": "5.0.11",
-          "downloads": 1419028,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.11.json"
-        },
-        {
-          "version": "5.0.12",
-          "downloads": 476550,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.12.json"
-        },
-        {
-          "version": "5.0.13",
-          "downloads": 588236,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.13.json"
-        },
-        {
-          "version": "5.0.14",
-          "downloads": 139352,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.14.json"
-        },
-        {
-          "version": "5.0.15",
-          "downloads": 160830,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.15.json"
-        },
-        {
-          "version": "5.0.16",
-          "downloads": 86370,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.16.json"
-        },
-        {
-          "version": "5.0.17",
-          "downloads": 388498,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/5.0.17.json"
-        },
-        {
-          "version": "6.0.0-preview.1.21103.6",
-          "downloads": 10647,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-preview.1.21103.6.json"
-        },
-        {
-          "version": "6.0.0-preview.2.21154.6",
-          "downloads": 4010,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-preview.2.21154.6.json"
-        },
-        {
-          "version": "6.0.0-preview.3.21201.13",
-          "downloads": 7232,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-preview.3.21201.13.json"
-        },
-        {
-          "version": "6.0.0-preview.4.21253.5",
-          "downloads": 2530,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-preview.4.21253.5.json"
-        },
-        {
-          "version": "6.0.0-preview.5.21301.17",
-          "downloads": 7258,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-preview.5.21301.17.json"
-        },
-        {
-          "version": "6.0.0-preview.6.21355.2",
-          "downloads": 3742,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-preview.6.21355.2.json"
-        },
-        {
-          "version": "6.0.0-preview.7.21378.6",
-          "downloads": 63020,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-preview.7.21378.6.json"
-        },
-        {
-          "version": "6.0.0-rc.1.21452.15",
-          "downloads": 17535,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-rc.1.21452.15.json"
-        },
-        {
-          "version": "6.0.0-rc.2.21480.10",
-          "downloads": 487639,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0-rc.2.21480.10.json"
-        },
-        {
-          "version": "6.0.0",
-          "downloads": 13619244,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.0.json"
-        },
-        {
-          "version": "6.0.1",
-          "downloads": 3409483,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.1.json"
-        },
-        {
-          "version": "6.0.2",
-          "downloads": 9693733,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.2.json"
-        },
-        {
-          "version": "6.0.3",
-          "downloads": 2902749,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.3.json"
-        },
-        {
-          "version": "6.0.4",
-          "downloads": 3872573,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.4.json"
-        },
-        {
-          "version": "6.0.5",
-          "downloads": 2052699,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.5.json"
-        },
-        {
-          "version": "6.0.6",
-          "downloads": 1589287,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.6.json"
-        },
-        {
-          "version": "6.0.7",
-          "downloads": 4902613,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.7.json"
-        },
-        {
-          "version": "6.0.8",
-          "downloads": 2354854,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.8.json"
-        },
-        {
-          "version": "6.0.9",
-          "downloads": 1120868,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.9.json"
-        },
-        {
-          "version": "6.0.10",
-          "downloads": 1699916,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.10.json"
-        },
-        {
-          "version": "6.0.11",
-          "downloads": 605109,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.11.json"
-        },
-        {
-          "version": "6.0.12",
-          "downloads": 262710,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.12.json"
-        },
-        {
-          "version": "6.0.13",
-          "downloads": 226790,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.13.json"
-        },
-        {
-          "version": "6.0.14",
-          "downloads": 4373,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.14.json"
-        },
-        {
-          "version": "7.0.0-preview.1.22109.13",
-          "downloads": 500,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-preview.1.22109.13.json"
-        },
-        {
-          "version": "7.0.0-preview.2.22153.2",
-          "downloads": 1480,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-preview.2.22153.2.json"
-        },
-        {
-          "version": "7.0.0-preview.3.22178.4",
-          "downloads": 1566,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-preview.3.22178.4.json"
-        },
-        {
-          "version": "7.0.0-preview.4.22251.1",
-          "downloads": 5603,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-preview.4.22251.1.json"
-        },
-        {
-          "version": "7.0.0-preview.5.22303.8",
-          "downloads": 4156,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-preview.5.22303.8.json"
-        },
-        {
-          "version": "7.0.0-preview.6.22330.3",
-          "downloads": 2231,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-preview.6.22330.3.json"
-        },
-        {
-          "version": "7.0.0-preview.7.22376.6",
-          "downloads": 3451,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-preview.7.22376.6.json"
-        },
-        {
-          "version": "7.0.0-rc.1.22427.2",
-          "downloads": 5187,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-rc.1.22427.2.json"
-        },
-        {
-          "version": "7.0.0-rc.2.22476.2",
-          "downloads": 6553,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-rc.2.22476.2.json"
-        },
-        {
-          "version": "7.0.0",
-          "downloads": 421337,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0.json"
-        },
-        {
-          "version": "7.0.1",
-          "downloads": 291899,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.1.json"
-        },
-        {
-          "version": "7.0.2",
-          "downloads": 268683,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.2.json"
-        },
-        {
-          "version": "7.0.3",
-          "downloads": 6132,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.3.json"
         }
       ]
     },
@@ -40526,179 +40526,6 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/index.json",
-      "id": "Azure.Security.KeyVault.Keys",
-      "version": "4.5.0-beta.1",
-      "description": "This is the Microsoft Azure Key Vault Keys client library",
-      "summary": "",
-      "title": "Azure.Security.KeyVault.Keys",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.security.keyvault.keys/4.5.0-beta.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Azure.Security.KeyVault.Keys/4.5.0-beta.1/license",
-      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Security.KeyVault.Keys_4.5.0-beta.1/sdk/keyvault/Azure.Security.KeyVault.Keys/README.md",
-      "tags": [
-        "Microsoft",
-        "Azure",
-        "Key",
-        "Vault",
-        "Keys",
-        "windowsazureofficial",
-        "azureofficial"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "azure-sdk",
-        "Microsoft"
-      ],
-      "totalDownloads": 11244073,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "4.0.0-preview.1",
-          "downloads": 309,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0-preview.1.json"
-        },
-        {
-          "version": "4.0.0-preview.2",
-          "downloads": 2894,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0-preview.2.json"
-        },
-        {
-          "version": "4.0.0-preview.4",
-          "downloads": 362,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0-preview.4.json"
-        },
-        {
-          "version": "4.0.0-preview.5",
-          "downloads": 469,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0-preview.5.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 294556,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0.json"
-        },
-        {
-          "version": "4.0.1",
-          "downloads": 1085299,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.1.json"
-        },
-        {
-          "version": "4.0.2",
-          "downloads": 564748,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.2.json"
-        },
-        {
-          "version": "4.0.3",
-          "downloads": 841398,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.3.json"
-        },
-        {
-          "version": "4.0.4",
-          "downloads": 58325,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.4.json"
-        },
-        {
-          "version": "4.1.0-preview.1",
-          "downloads": 41438,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.1.0-preview.1.json"
-        },
-        {
-          "version": "4.1.0",
-          "downloads": 2060820,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.1.0.json"
-        },
-        {
-          "version": "4.2.0-beta.1",
-          "downloads": 15271,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.1.json"
-        },
-        {
-          "version": "4.2.0-beta.2",
-          "downloads": 90993,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.2.json"
-        },
-        {
-          "version": "4.2.0-beta.3",
-          "downloads": 95137,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.3.json"
-        },
-        {
-          "version": "4.2.0-beta.4",
-          "downloads": 1487,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.4.json"
-        },
-        {
-          "version": "4.2.0-beta.5",
-          "downloads": 5049,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.5.json"
-        },
-        {
-          "version": "4.2.0-beta.6",
-          "downloads": 948,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.6.json"
-        },
-        {
-          "version": "4.2.0",
-          "downloads": 3990571,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0.json"
-        },
-        {
-          "version": "4.3.0-beta.1",
-          "downloads": 4682,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.1.json"
-        },
-        {
-          "version": "4.3.0-beta.2",
-          "downloads": 12908,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.2.json"
-        },
-        {
-          "version": "4.3.0-beta.3",
-          "downloads": 1803,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.3.json"
-        },
-        {
-          "version": "4.3.0-beta.4",
-          "downloads": 26215,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.4.json"
-        },
-        {
-          "version": "4.3.0-beta.6",
-          "downloads": 3403,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.6.json"
-        },
-        {
-          "version": "4.3.0-beta.7",
-          "downloads": 5654,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.7.json"
-        },
-        {
-          "version": "4.3.0",
-          "downloads": 1539490,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0.json"
-        },
-        {
-          "version": "4.4.0",
-          "downloads": 458491,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.4.0.json"
-        },
-        {
-          "version": "4.5.0-beta.1",
-          "downloads": 2638,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.5.0-beta.1.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/grpc.core.api/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/grpc.core.api/index.json",
@@ -41148,6 +40975,179 @@
           "version": "2.51.0",
           "downloads": 580844,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/grpc.core.api/2.51.0.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/index.json",
+      "id": "Azure.Security.KeyVault.Keys",
+      "version": "4.5.0-beta.1",
+      "description": "This is the Microsoft Azure Key Vault Keys client library",
+      "summary": "",
+      "title": "Azure.Security.KeyVault.Keys",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.security.keyvault.keys/4.5.0-beta.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Azure.Security.KeyVault.Keys/4.5.0-beta.1/license",
+      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Security.KeyVault.Keys_4.5.0-beta.1/sdk/keyvault/Azure.Security.KeyVault.Keys/README.md",
+      "tags": [
+        "Microsoft",
+        "Azure",
+        "Key",
+        "Vault",
+        "Keys",
+        "windowsazureofficial",
+        "azureofficial"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "azure-sdk",
+        "Microsoft"
+      ],
+      "totalDownloads": 11244073,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "4.0.0-preview.1",
+          "downloads": 309,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0-preview.1.json"
+        },
+        {
+          "version": "4.0.0-preview.2",
+          "downloads": 2894,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0-preview.2.json"
+        },
+        {
+          "version": "4.0.0-preview.4",
+          "downloads": 362,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0-preview.4.json"
+        },
+        {
+          "version": "4.0.0-preview.5",
+          "downloads": 469,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0-preview.5.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 294556,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0.json"
+        },
+        {
+          "version": "4.0.1",
+          "downloads": 1085299,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.1.json"
+        },
+        {
+          "version": "4.0.2",
+          "downloads": 564748,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.2.json"
+        },
+        {
+          "version": "4.0.3",
+          "downloads": 841398,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.3.json"
+        },
+        {
+          "version": "4.0.4",
+          "downloads": 58325,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.4.json"
+        },
+        {
+          "version": "4.1.0-preview.1",
+          "downloads": 41438,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.1.0-preview.1.json"
+        },
+        {
+          "version": "4.1.0",
+          "downloads": 2060820,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.1.0.json"
+        },
+        {
+          "version": "4.2.0-beta.1",
+          "downloads": 15271,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.1.json"
+        },
+        {
+          "version": "4.2.0-beta.2",
+          "downloads": 90993,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.2.json"
+        },
+        {
+          "version": "4.2.0-beta.3",
+          "downloads": 95137,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.3.json"
+        },
+        {
+          "version": "4.2.0-beta.4",
+          "downloads": 1487,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.4.json"
+        },
+        {
+          "version": "4.2.0-beta.5",
+          "downloads": 5049,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.5.json"
+        },
+        {
+          "version": "4.2.0-beta.6",
+          "downloads": 948,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.6.json"
+        },
+        {
+          "version": "4.2.0",
+          "downloads": 3990571,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0.json"
+        },
+        {
+          "version": "4.3.0-beta.1",
+          "downloads": 4682,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.1.json"
+        },
+        {
+          "version": "4.3.0-beta.2",
+          "downloads": 12908,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.2.json"
+        },
+        {
+          "version": "4.3.0-beta.3",
+          "downloads": 1803,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.3.json"
+        },
+        {
+          "version": "4.3.0-beta.4",
+          "downloads": 26215,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.4.json"
+        },
+        {
+          "version": "4.3.0-beta.6",
+          "downloads": 3403,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.6.json"
+        },
+        {
+          "version": "4.3.0-beta.7",
+          "downloads": 5654,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.7.json"
+        },
+        {
+          "version": "4.3.0",
+          "downloads": 1539490,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0.json"
+        },
+        {
+          "version": "4.4.0",
+          "downloads": 458491,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.4.0.json"
+        },
+        {
+          "version": "4.5.0-beta.1",
+          "downloads": 2638,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.5.0-beta.1.json"
         }
       ]
     },
