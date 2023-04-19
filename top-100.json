@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 326147,
+  "totalHits": 326267,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -12331,6 +12331,386 @@
       ]
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/index.json",
+      "id": "System.Security.Cryptography.Pkcs",
+      "version": "8.0.0-preview.3.23174.8",
+      "description": "Provides support for PKCS and CMS algorithms.\n\nCommonly Used Types:\nSystem.Security.Cryptography.Pkcs.EnvelopedCms",
+      "summary": "",
+      "title": "System.Security.Cryptography.Pkcs",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.security.cryptography.pkcs/8.0.0-preview.3.23174.8/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Security.Cryptography.Pkcs/8.0.0-preview.3.23174.8/license",
+      "projectUrl": "https://dot.net/",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
+      "totalDownloads": 421189332,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "4.0.0",
+          "downloads": 107830,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.0.0.json"
+        },
+        {
+          "version": "4.3.0-preview1-24530-04",
+          "downloads": 12080,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.3.0-preview1-24530-04.json"
+        },
+        {
+          "version": "4.3.0",
+          "downloads": 7524828,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.3.0.json"
+        },
+        {
+          "version": "4.4.0-preview1-25305-02",
+          "downloads": 6386,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.4.0-preview1-25305-02.json"
+        },
+        {
+          "version": "4.4.0-preview2-25405-01",
+          "downloads": 1860,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.4.0-preview2-25405-01.json"
+        },
+        {
+          "version": "4.4.0",
+          "downloads": 4402297,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.4.0.json"
+        },
+        {
+          "version": "4.5.0-preview1-25914-04",
+          "downloads": 216425,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.5.0-preview1-25914-04.json"
+        },
+        {
+          "version": "4.5.0-preview1-26216-02",
+          "downloads": 50055,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.5.0-preview1-26216-02.json"
+        },
+        {
+          "version": "4.5.0-preview2-26406-04",
+          "downloads": 168154,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.5.0-preview2-26406-04.json"
+        },
+        {
+          "version": "4.5.0-rc1",
+          "downloads": 160985,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.5.0-rc1.json"
+        },
+        {
+          "version": "4.5.0",
+          "downloads": 159660809,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.5.0.json"
+        },
+        {
+          "version": "4.5.1",
+          "downloads": 6951983,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.5.1.json"
+        },
+        {
+          "version": "4.5.2",
+          "downloads": 15949526,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.5.2.json"
+        },
+        {
+          "version": "4.6.0-preview.18571.3",
+          "downloads": 12693,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview.18571.3.json"
+        },
+        {
+          "version": "4.6.0-preview.19073.11",
+          "downloads": 14828,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview.19073.11.json"
+        },
+        {
+          "version": "4.6.0-preview3.19128.7",
+          "downloads": 7517,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview3.19128.7.json"
+        },
+        {
+          "version": "4.6.0-preview4.19212.13",
+          "downloads": 1918,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview4.19212.13.json"
+        },
+        {
+          "version": "4.6.0-preview5.19224.8",
+          "downloads": 21465,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview5.19224.8.json"
+        },
+        {
+          "version": "4.6.0-preview6.19264.9",
+          "downloads": 424,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview6.19264.9.json"
+        },
+        {
+          "version": "4.6.0-preview6.19303.8",
+          "downloads": 63487,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview6.19303.8.json"
+        },
+        {
+          "version": "4.6.0-preview7.19362.9",
+          "downloads": 80037,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview7.19362.9.json"
+        },
+        {
+          "version": "4.6.0-preview8.19405.3",
+          "downloads": 78793,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview8.19405.3.json"
+        },
+        {
+          "version": "4.6.0-preview9.19416.11",
+          "downloads": 442,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview9.19416.11.json"
+        },
+        {
+          "version": "4.6.0-preview9.19421.4",
+          "downloads": 6777,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview9.19421.4.json"
+        },
+        {
+          "version": "4.6.0-rc1.19456.4",
+          "downloads": 51434,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-rc1.19456.4.json"
+        },
+        {
+          "version": "4.6.0",
+          "downloads": 5098730,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0.json"
+        },
+        {
+          "version": "4.7.0-preview1.19504.10",
+          "downloads": 11708,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.7.0-preview1.19504.10.json"
+        },
+        {
+          "version": "4.7.0-preview2.19523.17",
+          "downloads": 12535,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.7.0-preview2.19523.17.json"
+        },
+        {
+          "version": "4.7.0-preview3.19551.4",
+          "downloads": 16039,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.7.0-preview3.19551.4.json"
+        },
+        {
+          "version": "4.7.0",
+          "downloads": 92232008,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.7.0.json"
+        },
+        {
+          "version": "5.0.0-preview.1.20120.5",
+          "downloads": 3239,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-preview.1.20120.5.json"
+        },
+        {
+          "version": "5.0.0-preview.2.20160.6",
+          "downloads": 21186,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-preview.2.20160.6.json"
+        },
+        {
+          "version": "5.0.0-preview.3.20214.6",
+          "downloads": 1116490,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-preview.3.20214.6.json"
+        },
+        {
+          "version": "5.0.0-preview.4.20251.6",
+          "downloads": 11052,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-preview.4.20251.6.json"
+        },
+        {
+          "version": "5.0.0-preview.5.20278.1",
+          "downloads": 4258,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-preview.5.20278.1.json"
+        },
+        {
+          "version": "5.0.0-preview.6.20305.6",
+          "downloads": 10464,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-preview.6.20305.6.json"
+        },
+        {
+          "version": "5.0.0-preview.7.20364.11",
+          "downloads": 24867,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-preview.7.20364.11.json"
+        },
+        {
+          "version": "5.0.0-preview.8.20407.11",
+          "downloads": 77880,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-preview.8.20407.11.json"
+        },
+        {
+          "version": "5.0.0-rc.1.20451.14",
+          "downloads": 44728,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-rc.1.20451.14.json"
+        },
+        {
+          "version": "5.0.0-rc.2.20475.5",
+          "downloads": 16766,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-rc.2.20475.5.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 76525694,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0.json"
+        },
+        {
+          "version": "5.0.1",
+          "downloads": 7715807,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.1.json"
+        },
+        {
+          "version": "6.0.0-preview.1.21102.12",
+          "downloads": 5939,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-preview.1.21102.12.json"
+        },
+        {
+          "version": "6.0.0-preview.2.21154.6",
+          "downloads": 9365,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-preview.2.21154.6.json"
+        },
+        {
+          "version": "6.0.0-preview.3.21201.4",
+          "downloads": 9427,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-preview.3.21201.4.json"
+        },
+        {
+          "version": "6.0.0-preview.4.21253.7",
+          "downloads": 21835,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-preview.4.21253.7.json"
+        },
+        {
+          "version": "6.0.0-preview.5.21301.5",
+          "downloads": 7297,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-preview.5.21301.5.json"
+        },
+        {
+          "version": "6.0.0-preview.6.21352.12",
+          "downloads": 6507,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-preview.6.21352.12.json"
+        },
+        {
+          "version": "6.0.0-preview.7.21377.19",
+          "downloads": 17655,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-preview.7.21377.19.json"
+        },
+        {
+          "version": "6.0.0-rc.1.21451.13",
+          "downloads": 14075,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-rc.1.21451.13.json"
+        },
+        {
+          "version": "6.0.0-rc.2.21480.5",
+          "downloads": 15651,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-rc.2.21480.5.json"
+        },
+        {
+          "version": "6.0.0",
+          "downloads": 24030659,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0.json"
+        },
+        {
+          "version": "6.0.1",
+          "downloads": 14792656,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.1.json"
+        },
+        {
+          "version": "6.0.2-mauipre.1.22054.8",
+          "downloads": 74912,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.2-mauipre.1.22054.8.json"
+        },
+        {
+          "version": "6.0.2-mauipre.1.22102.15",
+          "downloads": 1214,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.2-mauipre.1.22102.15.json"
+        },
+        {
+          "version": "6.0.2",
+          "downloads": 98379,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.2.json"
+        },
+        {
+          "version": "7.0.0-preview.1.22076.8",
+          "downloads": 4555,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-preview.1.22076.8.json"
+        },
+        {
+          "version": "7.0.0-preview.2.22152.2",
+          "downloads": 16884,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-preview.2.22152.2.json"
+        },
+        {
+          "version": "7.0.0-preview.3.22175.4",
+          "downloads": 3011,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-preview.3.22175.4.json"
+        },
+        {
+          "version": "7.0.0-preview.4.22229.4",
+          "downloads": 14933,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-preview.4.22229.4.json"
+        },
+        {
+          "version": "7.0.0-preview.5.22301.12",
+          "downloads": 2200,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-preview.5.22301.12.json"
+        },
+        {
+          "version": "7.0.0-preview.6.22324.4",
+          "downloads": 6451,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-preview.6.22324.4.json"
+        },
+        {
+          "version": "7.0.0-preview.7.22375.6",
+          "downloads": 16173,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-preview.7.22375.6.json"
+        },
+        {
+          "version": "7.0.0-rc.1.22426.10",
+          "downloads": 37185,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-rc.1.22426.10.json"
+        },
+        {
+          "version": "7.0.0-rc.2.22472.3",
+          "downloads": 46893,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-rc.2.22472.3.json"
+        },
+        {
+          "version": "7.0.0",
+          "downloads": 3225511,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0.json"
+        },
+        {
+          "version": "7.0.1",
+          "downloads": 195586,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.1.json"
+        },
+        {
+          "version": "8.0.0-preview.1.23110.8",
+          "downloads": 11120,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/8.0.0-preview.1.23110.8.json"
+        },
+        {
+          "version": "8.0.0-preview.2.23128.3",
+          "downloads": 5166,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/8.0.0-preview.2.23128.3.json"
+        },
+        {
+          "version": "8.0.0-preview.3.23174.8",
+          "downloads": 493,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/8.0.0-preview.3.23174.8.json"
+        }
+      ]
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/moq/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/moq/index.json",
@@ -12870,386 +13250,6 @@
           "version": "4.18.4",
           "downloads": 8156200,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/moq/4.18.4.json"
-        }
-      ]
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/index.json",
-      "id": "System.Security.Cryptography.Pkcs",
-      "version": "8.0.0-preview.3.23174.8",
-      "description": "Provides support for PKCS and CMS algorithms.\n\nCommonly Used Types:\nSystem.Security.Cryptography.Pkcs.EnvelopedCms",
-      "summary": "",
-      "title": "System.Security.Cryptography.Pkcs",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.security.cryptography.pkcs/8.0.0-preview.3.23174.8/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Security.Cryptography.Pkcs/8.0.0-preview.3.23174.8/license",
-      "projectUrl": "https://dot.net/",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 421189332,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "4.0.0",
-          "downloads": 107830,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.0.0.json"
-        },
-        {
-          "version": "4.3.0-preview1-24530-04",
-          "downloads": 12080,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.3.0-preview1-24530-04.json"
-        },
-        {
-          "version": "4.3.0",
-          "downloads": 7524828,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.3.0.json"
-        },
-        {
-          "version": "4.4.0-preview1-25305-02",
-          "downloads": 6386,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.4.0-preview1-25305-02.json"
-        },
-        {
-          "version": "4.4.0-preview2-25405-01",
-          "downloads": 1860,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.4.0-preview2-25405-01.json"
-        },
-        {
-          "version": "4.4.0",
-          "downloads": 4402297,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.4.0.json"
-        },
-        {
-          "version": "4.5.0-preview1-25914-04",
-          "downloads": 216425,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.5.0-preview1-25914-04.json"
-        },
-        {
-          "version": "4.5.0-preview1-26216-02",
-          "downloads": 50055,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.5.0-preview1-26216-02.json"
-        },
-        {
-          "version": "4.5.0-preview2-26406-04",
-          "downloads": 168154,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.5.0-preview2-26406-04.json"
-        },
-        {
-          "version": "4.5.0-rc1",
-          "downloads": 160985,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.5.0-rc1.json"
-        },
-        {
-          "version": "4.5.0",
-          "downloads": 159660809,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.5.0.json"
-        },
-        {
-          "version": "4.5.1",
-          "downloads": 6951983,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.5.1.json"
-        },
-        {
-          "version": "4.5.2",
-          "downloads": 15949526,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.5.2.json"
-        },
-        {
-          "version": "4.6.0-preview.18571.3",
-          "downloads": 12693,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview.18571.3.json"
-        },
-        {
-          "version": "4.6.0-preview.19073.11",
-          "downloads": 14828,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview.19073.11.json"
-        },
-        {
-          "version": "4.6.0-preview3.19128.7",
-          "downloads": 7517,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview3.19128.7.json"
-        },
-        {
-          "version": "4.6.0-preview4.19212.13",
-          "downloads": 1918,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview4.19212.13.json"
-        },
-        {
-          "version": "4.6.0-preview5.19224.8",
-          "downloads": 21465,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview5.19224.8.json"
-        },
-        {
-          "version": "4.6.0-preview6.19264.9",
-          "downloads": 424,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview6.19264.9.json"
-        },
-        {
-          "version": "4.6.0-preview6.19303.8",
-          "downloads": 63487,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview6.19303.8.json"
-        },
-        {
-          "version": "4.6.0-preview7.19362.9",
-          "downloads": 80037,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview7.19362.9.json"
-        },
-        {
-          "version": "4.6.0-preview8.19405.3",
-          "downloads": 78793,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview8.19405.3.json"
-        },
-        {
-          "version": "4.6.0-preview9.19416.11",
-          "downloads": 442,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview9.19416.11.json"
-        },
-        {
-          "version": "4.6.0-preview9.19421.4",
-          "downloads": 6777,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-preview9.19421.4.json"
-        },
-        {
-          "version": "4.6.0-rc1.19456.4",
-          "downloads": 51434,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0-rc1.19456.4.json"
-        },
-        {
-          "version": "4.6.0",
-          "downloads": 5098730,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.6.0.json"
-        },
-        {
-          "version": "4.7.0-preview1.19504.10",
-          "downloads": 11708,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.7.0-preview1.19504.10.json"
-        },
-        {
-          "version": "4.7.0-preview2.19523.17",
-          "downloads": 12535,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.7.0-preview2.19523.17.json"
-        },
-        {
-          "version": "4.7.0-preview3.19551.4",
-          "downloads": 16039,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.7.0-preview3.19551.4.json"
-        },
-        {
-          "version": "4.7.0",
-          "downloads": 92232008,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/4.7.0.json"
-        },
-        {
-          "version": "5.0.0-preview.1.20120.5",
-          "downloads": 3239,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-preview.1.20120.5.json"
-        },
-        {
-          "version": "5.0.0-preview.2.20160.6",
-          "downloads": 21186,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-preview.2.20160.6.json"
-        },
-        {
-          "version": "5.0.0-preview.3.20214.6",
-          "downloads": 1116490,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-preview.3.20214.6.json"
-        },
-        {
-          "version": "5.0.0-preview.4.20251.6",
-          "downloads": 11052,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-preview.4.20251.6.json"
-        },
-        {
-          "version": "5.0.0-preview.5.20278.1",
-          "downloads": 4258,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-preview.5.20278.1.json"
-        },
-        {
-          "version": "5.0.0-preview.6.20305.6",
-          "downloads": 10464,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-preview.6.20305.6.json"
-        },
-        {
-          "version": "5.0.0-preview.7.20364.11",
-          "downloads": 24867,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-preview.7.20364.11.json"
-        },
-        {
-          "version": "5.0.0-preview.8.20407.11",
-          "downloads": 77880,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-preview.8.20407.11.json"
-        },
-        {
-          "version": "5.0.0-rc.1.20451.14",
-          "downloads": 44728,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-rc.1.20451.14.json"
-        },
-        {
-          "version": "5.0.0-rc.2.20475.5",
-          "downloads": 16766,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0-rc.2.20475.5.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 76525694,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.0.json"
-        },
-        {
-          "version": "5.0.1",
-          "downloads": 7715807,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/5.0.1.json"
-        },
-        {
-          "version": "6.0.0-preview.1.21102.12",
-          "downloads": 5939,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-preview.1.21102.12.json"
-        },
-        {
-          "version": "6.0.0-preview.2.21154.6",
-          "downloads": 9365,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-preview.2.21154.6.json"
-        },
-        {
-          "version": "6.0.0-preview.3.21201.4",
-          "downloads": 9427,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-preview.3.21201.4.json"
-        },
-        {
-          "version": "6.0.0-preview.4.21253.7",
-          "downloads": 21835,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-preview.4.21253.7.json"
-        },
-        {
-          "version": "6.0.0-preview.5.21301.5",
-          "downloads": 7297,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-preview.5.21301.5.json"
-        },
-        {
-          "version": "6.0.0-preview.6.21352.12",
-          "downloads": 6507,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-preview.6.21352.12.json"
-        },
-        {
-          "version": "6.0.0-preview.7.21377.19",
-          "downloads": 17655,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-preview.7.21377.19.json"
-        },
-        {
-          "version": "6.0.0-rc.1.21451.13",
-          "downloads": 14075,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-rc.1.21451.13.json"
-        },
-        {
-          "version": "6.0.0-rc.2.21480.5",
-          "downloads": 15651,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0-rc.2.21480.5.json"
-        },
-        {
-          "version": "6.0.0",
-          "downloads": 24030659,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.0.json"
-        },
-        {
-          "version": "6.0.1",
-          "downloads": 14792656,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.1.json"
-        },
-        {
-          "version": "6.0.2-mauipre.1.22054.8",
-          "downloads": 74912,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.2-mauipre.1.22054.8.json"
-        },
-        {
-          "version": "6.0.2-mauipre.1.22102.15",
-          "downloads": 1214,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.2-mauipre.1.22102.15.json"
-        },
-        {
-          "version": "6.0.2",
-          "downloads": 98379,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/6.0.2.json"
-        },
-        {
-          "version": "7.0.0-preview.1.22076.8",
-          "downloads": 4555,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-preview.1.22076.8.json"
-        },
-        {
-          "version": "7.0.0-preview.2.22152.2",
-          "downloads": 16884,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-preview.2.22152.2.json"
-        },
-        {
-          "version": "7.0.0-preview.3.22175.4",
-          "downloads": 3011,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-preview.3.22175.4.json"
-        },
-        {
-          "version": "7.0.0-preview.4.22229.4",
-          "downloads": 14933,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-preview.4.22229.4.json"
-        },
-        {
-          "version": "7.0.0-preview.5.22301.12",
-          "downloads": 2200,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-preview.5.22301.12.json"
-        },
-        {
-          "version": "7.0.0-preview.6.22324.4",
-          "downloads": 6451,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-preview.6.22324.4.json"
-        },
-        {
-          "version": "7.0.0-preview.7.22375.6",
-          "downloads": 16173,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-preview.7.22375.6.json"
-        },
-        {
-          "version": "7.0.0-rc.1.22426.10",
-          "downloads": 37185,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-rc.1.22426.10.json"
-        },
-        {
-          "version": "7.0.0-rc.2.22472.3",
-          "downloads": 46893,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0-rc.2.22472.3.json"
-        },
-        {
-          "version": "7.0.0",
-          "downloads": 3225511,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.0.json"
-        },
-        {
-          "version": "7.0.1",
-          "downloads": 195586,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/7.0.1.json"
-        },
-        {
-          "version": "8.0.0-preview.1.23110.8",
-          "downloads": 11120,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/8.0.0-preview.1.23110.8.json"
-        },
-        {
-          "version": "8.0.0-preview.2.23128.3",
-          "downloads": 5166,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/8.0.0-preview.2.23128.3.json"
-        },
-        {
-          "version": "8.0.0-preview.3.23174.8",
-          "downloads": 493,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/8.0.0-preview.3.23174.8.json"
         }
       ]
     },
@@ -27491,12 +27491,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/autofac/index.json",
       "id": "Autofac",
-      "version": "7.0.0",
+      "version": "7.0.1",
       "description": "Autofac is an IoC container for Microsoft .NET. It manages the dependencies between classes so that applications stay easy to change as they grow in size and complexity.",
       "summary": "",
       "title": "Autofac",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/autofac/7.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Autofac/7.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/autofac/7.0.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Autofac/7.0.1/license",
       "projectUrl": "https://autofac.org/",
       "tags": [
         "autofac",
@@ -27902,6 +27902,11 @@
           "version": "7.0.0",
           "downloads": 249879,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/autofac/7.0.0.json"
+        },
+        {
+          "version": "7.0.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/autofac/7.0.1.json"
         }
       ]
     },
@@ -34301,201 +34306,6 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/index.json",
-      "id": "Microsoft.AspNet.Mvc",
-      "version": "5.3.0-preview1",
-      "description": "This package contains the runtime assemblies for ASP.NET MVC. ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that enables a clean separation of concerns and that gives you full control over markup.",
-      "summary": "This package contains the runtime assemblies for ASP.NET MVC.",
-      "title": "Microsoft ASP.NET MVC",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.mvc/5.3.0-preview1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.AspNet.Mvc/5.3.0-preview1/license",
-      "projectUrl": "https://www.asp.net/mvc",
-      "tags": [
-        "Microsoft",
-        "AspNet",
-        "Mvc",
-        "AspNetMvc"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "aspnet",
-        "Microsoft"
-      ],
-      "totalDownloads": 173495211,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "3.0.20105.1",
-          "downloads": 1415166,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/3.0.20105.1.json"
-        },
-        {
-          "version": "3.0.50813.1",
-          "downloads": 1093326,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/3.0.50813.1.json"
-        },
-        {
-          "version": "4.0.20505",
-          "downloads": 839667,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/4.0.20505.json"
-        },
-        {
-          "version": "4.0.20710",
-          "downloads": 7185095,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/4.0.20710.json"
-        },
-        {
-          "version": "4.0.30506",
-          "downloads": 8511271,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/4.0.30506.json"
-        },
-        {
-          "version": "4.0.40804",
-          "downloads": 3517701,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/4.0.40804.json"
-        },
-        {
-          "version": "5.0.0-beta1",
-          "downloads": 44532,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.0.0-beta1.json"
-        },
-        {
-          "version": "5.0.0-beta2",
-          "downloads": 76714,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.0.0-beta2.json"
-        },
-        {
-          "version": "5.0.0-rc1",
-          "downloads": 49604,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.0.0-rc1.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 4335739,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.0.0.json"
-        },
-        {
-          "version": "5.0.1",
-          "downloads": 395551,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.0.1.json"
-        },
-        {
-          "version": "5.0.2",
-          "downloads": 354861,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.0.2.json"
-        },
-        {
-          "version": "5.1.0-rc1",
-          "downloads": 47880,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.1.0-rc1.json"
-        },
-        {
-          "version": "5.1.0",
-          "downloads": 2048539,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.1.0.json"
-        },
-        {
-          "version": "5.1.1",
-          "downloads": 1346403,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.1.1.json"
-        },
-        {
-          "version": "5.1.2",
-          "downloads": 2506447,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.1.2.json"
-        },
-        {
-          "version": "5.1.3",
-          "downloads": 530691,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.1.3.json"
-        },
-        {
-          "version": "5.2.0-rc",
-          "downloads": 119483,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.0-rc.json"
-        },
-        {
-          "version": "5.2.0",
-          "downloads": 2844589,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.0.json"
-        },
-        {
-          "version": "5.2.2-rc",
-          "downloads": 37773,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.2-rc.json"
-        },
-        {
-          "version": "5.2.2",
-          "downloads": 6760313,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.2.json"
-        },
-        {
-          "version": "5.2.3-beta1",
-          "downloads": 54233,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.3-beta1.json"
-        },
-        {
-          "version": "5.2.3",
-          "downloads": 60142677,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.3.json"
-        },
-        {
-          "version": "5.2.4-preview1",
-          "downloads": 32901,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.4-preview1.json"
-        },
-        {
-          "version": "5.2.4",
-          "downloads": 11468492,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.4.json"
-        },
-        {
-          "version": "5.2.5-preview1",
-          "downloads": 33694,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.5-preview1.json"
-        },
-        {
-          "version": "5.2.5",
-          "downloads": 612706,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.5.json"
-        },
-        {
-          "version": "5.2.6",
-          "downloads": 9997280,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.6.json"
-        },
-        {
-          "version": "5.2.7",
-          "downloads": 42847814,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.7.json"
-        },
-        {
-          "version": "5.2.8",
-          "downloads": 608708,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.8.json"
-        },
-        {
-          "version": "5.2.9",
-          "downloads": 2581257,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.9.json"
-        },
-        {
-          "version": "5.3.0-preview1",
-          "downloads": 892,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.3.0-preview1.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.amqp/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.amqp/index.json",
@@ -34734,6 +34544,201 @@
           "version": "2.6.2",
           "downloads": 6233,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.amqp/2.6.2.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/index.json",
+      "id": "Microsoft.AspNet.Mvc",
+      "version": "5.3.0-preview1",
+      "description": "This package contains the runtime assemblies for ASP.NET MVC. ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that enables a clean separation of concerns and that gives you full control over markup.",
+      "summary": "This package contains the runtime assemblies for ASP.NET MVC.",
+      "title": "Microsoft ASP.NET MVC",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnet.mvc/5.3.0-preview1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.AspNet.Mvc/5.3.0-preview1/license",
+      "projectUrl": "https://www.asp.net/mvc",
+      "tags": [
+        "Microsoft",
+        "AspNet",
+        "Mvc",
+        "AspNetMvc"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "aspnet",
+        "Microsoft"
+      ],
+      "totalDownloads": 173495211,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "3.0.20105.1",
+          "downloads": 1415166,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/3.0.20105.1.json"
+        },
+        {
+          "version": "3.0.50813.1",
+          "downloads": 1093326,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/3.0.50813.1.json"
+        },
+        {
+          "version": "4.0.20505",
+          "downloads": 839667,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/4.0.20505.json"
+        },
+        {
+          "version": "4.0.20710",
+          "downloads": 7185095,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/4.0.20710.json"
+        },
+        {
+          "version": "4.0.30506",
+          "downloads": 8511271,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/4.0.30506.json"
+        },
+        {
+          "version": "4.0.40804",
+          "downloads": 3517701,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/4.0.40804.json"
+        },
+        {
+          "version": "5.0.0-beta1",
+          "downloads": 44532,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.0.0-beta1.json"
+        },
+        {
+          "version": "5.0.0-beta2",
+          "downloads": 76714,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.0.0-beta2.json"
+        },
+        {
+          "version": "5.0.0-rc1",
+          "downloads": 49604,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.0.0-rc1.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 4335739,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.0.0.json"
+        },
+        {
+          "version": "5.0.1",
+          "downloads": 395551,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.0.1.json"
+        },
+        {
+          "version": "5.0.2",
+          "downloads": 354861,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.0.2.json"
+        },
+        {
+          "version": "5.1.0-rc1",
+          "downloads": 47880,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.1.0-rc1.json"
+        },
+        {
+          "version": "5.1.0",
+          "downloads": 2048539,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.1.0.json"
+        },
+        {
+          "version": "5.1.1",
+          "downloads": 1346403,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.1.1.json"
+        },
+        {
+          "version": "5.1.2",
+          "downloads": 2506447,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.1.2.json"
+        },
+        {
+          "version": "5.1.3",
+          "downloads": 530691,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.1.3.json"
+        },
+        {
+          "version": "5.2.0-rc",
+          "downloads": 119483,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.0-rc.json"
+        },
+        {
+          "version": "5.2.0",
+          "downloads": 2844589,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.0.json"
+        },
+        {
+          "version": "5.2.2-rc",
+          "downloads": 37773,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.2-rc.json"
+        },
+        {
+          "version": "5.2.2",
+          "downloads": 6760313,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.2.json"
+        },
+        {
+          "version": "5.2.3-beta1",
+          "downloads": 54233,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.3-beta1.json"
+        },
+        {
+          "version": "5.2.3",
+          "downloads": 60142677,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.3.json"
+        },
+        {
+          "version": "5.2.4-preview1",
+          "downloads": 32901,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.4-preview1.json"
+        },
+        {
+          "version": "5.2.4",
+          "downloads": 11468492,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.4.json"
+        },
+        {
+          "version": "5.2.5-preview1",
+          "downloads": 33694,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.5-preview1.json"
+        },
+        {
+          "version": "5.2.5",
+          "downloads": 612706,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.5.json"
+        },
+        {
+          "version": "5.2.6",
+          "downloads": 9997280,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.6.json"
+        },
+        {
+          "version": "5.2.7",
+          "downloads": 42847814,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.7.json"
+        },
+        {
+          "version": "5.2.8",
+          "downloads": 608708,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.8.json"
+        },
+        {
+          "version": "5.2.9",
+          "downloads": 2581257,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.2.9.json"
+        },
+        {
+          "version": "5.3.0-preview1",
+          "downloads": 892,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.3.0-preview1.json"
         }
       ]
     },
@@ -42978,12 +42983,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.annotations/index.json",
       "id": "JetBrains.Annotations",
-      "version": "2023.2.0-eap1",
+      "version": "2023.2.0-eap2",
       "description": "JetBrains.Annotations help reduce false positive warnings, explicitly declare purity and nullability in your code, deal with implicit usages of members, support special semantics of APIs in ASP.NET and XAML frameworks and otherwise increase accuracy of JetBrains Rider and ReSharper code inspections.\n\nAll usages of JetBrains.Annotations attributes are erased from metadata by default, which means no actual binary reference to 'JetBrains.Annotations.dll' assembly is produced. If you need to preserve these attributes in metadata, just define 'JETBRAINS_ANNOTATIONS' conditional compilation symbol in your projects.",
       "summary": "Annotations to increase accuracy of JetBrains Rider and ReSharper code inspections",
       "title": "JetBrains Annotations",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.annotations/2023.2.0-eap1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/JetBrains.Annotations/2023.2.0-eap1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.annotations/2023.2.0-eap2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/JetBrains.Annotations/2023.2.0-eap2/license",
       "projectUrl": "https://www.jetbrains.com/help/resharper/Code_Analysis__Code_Annotations.html",
       "tags": [
         "jetbrains",
@@ -43197,6 +43202,11 @@
           "version": "2023.2.0-eap1",
           "downloads": 19461,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.annotations/2023.2.0-eap1.json"
+        },
+        {
+          "version": "2023.2.0-eap2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.annotations/2023.2.0-eap2.json"
         }
       ]
     },
@@ -44302,184 +44312,6 @@
       ]
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/index.json",
-      "id": "Azure.Security.KeyVault.Keys",
-      "version": "4.5.0",
-      "description": "This is the Microsoft Azure Key Vault Keys client library",
-      "summary": "",
-      "title": "Azure.Security.KeyVault.Keys",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.security.keyvault.keys/4.5.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Azure.Security.KeyVault.Keys/4.5.0/license",
-      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Security.KeyVault.Keys_4.5.0/sdk/keyvault/Azure.Security.KeyVault.Keys/README.md",
-      "tags": [
-        "Microsoft",
-        "Azure",
-        "Key",
-        "Vault",
-        "Keys",
-        "windowsazureofficial",
-        "azureofficial"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "azure-sdk",
-        "Microsoft"
-      ],
-      "totalDownloads": 13103919,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "4.0.0-preview.1",
-          "downloads": 322,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0-preview.1.json"
-        },
-        {
-          "version": "4.0.0-preview.2",
-          "downloads": 2911,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0-preview.2.json"
-        },
-        {
-          "version": "4.0.0-preview.4",
-          "downloads": 380,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0-preview.4.json"
-        },
-        {
-          "version": "4.0.0-preview.5",
-          "downloads": 605,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0-preview.5.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 323697,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0.json"
-        },
-        {
-          "version": "4.0.1",
-          "downloads": 1128401,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.1.json"
-        },
-        {
-          "version": "4.0.2",
-          "downloads": 628388,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.2.json"
-        },
-        {
-          "version": "4.0.3",
-          "downloads": 969900,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.3.json"
-        },
-        {
-          "version": "4.0.4",
-          "downloads": 60051,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.4.json"
-        },
-        {
-          "version": "4.1.0-preview.1",
-          "downloads": 41523,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.1.0-preview.1.json"
-        },
-        {
-          "version": "4.1.0",
-          "downloads": 2152212,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.1.0.json"
-        },
-        {
-          "version": "4.2.0-beta.1",
-          "downloads": 16517,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.1.json"
-        },
-        {
-          "version": "4.2.0-beta.2",
-          "downloads": 94743,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.2.json"
-        },
-        {
-          "version": "4.2.0-beta.3",
-          "downloads": 96945,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.3.json"
-        },
-        {
-          "version": "4.2.0-beta.4",
-          "downloads": 1623,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.4.json"
-        },
-        {
-          "version": "4.2.0-beta.5",
-          "downloads": 5522,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.5.json"
-        },
-        {
-          "version": "4.2.0-beta.6",
-          "downloads": 974,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.6.json"
-        },
-        {
-          "version": "4.2.0",
-          "downloads": 4682326,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0.json"
-        },
-        {
-          "version": "4.3.0-beta.1",
-          "downloads": 5030,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.1.json"
-        },
-        {
-          "version": "4.3.0-beta.2",
-          "downloads": 12986,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.2.json"
-        },
-        {
-          "version": "4.3.0-beta.3",
-          "downloads": 1840,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.3.json"
-        },
-        {
-          "version": "4.3.0-beta.4",
-          "downloads": 26781,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.4.json"
-        },
-        {
-          "version": "4.3.0-beta.6",
-          "downloads": 3501,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.6.json"
-        },
-        {
-          "version": "4.3.0-beta.7",
-          "downloads": 6045,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.7.json"
-        },
-        {
-          "version": "4.3.0",
-          "downloads": 1924269,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0.json"
-        },
-        {
-          "version": "4.4.0",
-          "downloads": 815049,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.4.0.json"
-        },
-        {
-          "version": "4.5.0-beta.1",
-          "downloads": 6531,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.5.0-beta.1.json"
-        },
-        {
-          "version": "4.5.0",
-          "downloads": 54233,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.5.0.json"
-        }
-      ]
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mongodb.driver.core/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/mongodb.driver.core/index.json",
@@ -44924,6 +44756,184 @@
           "version": "2.19.1",
           "downloads": 153469,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mongodb.driver.core/2.19.1.json"
+        }
+      ]
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/index.json",
+      "id": "Azure.Security.KeyVault.Keys",
+      "version": "4.5.0",
+      "description": "This is the Microsoft Azure Key Vault Keys client library",
+      "summary": "",
+      "title": "Azure.Security.KeyVault.Keys",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.security.keyvault.keys/4.5.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Azure.Security.KeyVault.Keys/4.5.0/license",
+      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Security.KeyVault.Keys_4.5.0/sdk/keyvault/Azure.Security.KeyVault.Keys/README.md",
+      "tags": [
+        "Microsoft",
+        "Azure",
+        "Key",
+        "Vault",
+        "Keys",
+        "windowsazureofficial",
+        "azureofficial"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "azure-sdk",
+        "Microsoft"
+      ],
+      "totalDownloads": 13103919,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "4.0.0-preview.1",
+          "downloads": 322,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0-preview.1.json"
+        },
+        {
+          "version": "4.0.0-preview.2",
+          "downloads": 2911,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0-preview.2.json"
+        },
+        {
+          "version": "4.0.0-preview.4",
+          "downloads": 380,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0-preview.4.json"
+        },
+        {
+          "version": "4.0.0-preview.5",
+          "downloads": 605,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0-preview.5.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 323697,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.0.json"
+        },
+        {
+          "version": "4.0.1",
+          "downloads": 1128401,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.1.json"
+        },
+        {
+          "version": "4.0.2",
+          "downloads": 628388,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.2.json"
+        },
+        {
+          "version": "4.0.3",
+          "downloads": 969900,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.3.json"
+        },
+        {
+          "version": "4.0.4",
+          "downloads": 60051,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.0.4.json"
+        },
+        {
+          "version": "4.1.0-preview.1",
+          "downloads": 41523,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.1.0-preview.1.json"
+        },
+        {
+          "version": "4.1.0",
+          "downloads": 2152212,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.1.0.json"
+        },
+        {
+          "version": "4.2.0-beta.1",
+          "downloads": 16517,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.1.json"
+        },
+        {
+          "version": "4.2.0-beta.2",
+          "downloads": 94743,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.2.json"
+        },
+        {
+          "version": "4.2.0-beta.3",
+          "downloads": 96945,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.3.json"
+        },
+        {
+          "version": "4.2.0-beta.4",
+          "downloads": 1623,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.4.json"
+        },
+        {
+          "version": "4.2.0-beta.5",
+          "downloads": 5522,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.5.json"
+        },
+        {
+          "version": "4.2.0-beta.6",
+          "downloads": 974,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0-beta.6.json"
+        },
+        {
+          "version": "4.2.0",
+          "downloads": 4682326,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.2.0.json"
+        },
+        {
+          "version": "4.3.0-beta.1",
+          "downloads": 5030,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.1.json"
+        },
+        {
+          "version": "4.3.0-beta.2",
+          "downloads": 12986,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.2.json"
+        },
+        {
+          "version": "4.3.0-beta.3",
+          "downloads": 1840,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.3.json"
+        },
+        {
+          "version": "4.3.0-beta.4",
+          "downloads": 26781,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.4.json"
+        },
+        {
+          "version": "4.3.0-beta.6",
+          "downloads": 3501,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.6.json"
+        },
+        {
+          "version": "4.3.0-beta.7",
+          "downloads": 6045,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0-beta.7.json"
+        },
+        {
+          "version": "4.3.0",
+          "downloads": 1924269,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.3.0.json"
+        },
+        {
+          "version": "4.4.0",
+          "downloads": 815049,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.4.0.json"
+        },
+        {
+          "version": "4.5.0-beta.1",
+          "downloads": 6531,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.5.0-beta.1.json"
+        },
+        {
+          "version": "4.5.0",
+          "downloads": 54233,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.keys/4.5.0.json"
         }
       ]
     },

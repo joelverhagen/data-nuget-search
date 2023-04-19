@@ -69,18 +69,14 @@
   },
   {
     "id": "HotChocolate.Templates.StarWars",
-    "version": "14.0.0-tags-13-1-0-preview-5.1"
+    "version": "14.0.0-preview.10.8"
   },
   {
     "id": "HotChocolate.Templates.Server",
-    "version": "14.0.0-tags-13-1-0-preview-5.1"
+    "version": "14.0.0-preview.10.8"
   },
   {
     "id": "Microsoft.DotNet.Web.ProjectTemplates.3.0",
-    "version": "3.0.3"
-  },
-  {
-    "id": "Microsoft.DotNet.Web.Spa.ProjectTemplates.3.0",
     "version": "3.0.3"
   },
   {
@@ -88,40 +84,44 @@
     "version": "16.1.2551+sha.02b450632"
   },
   {
+    "id": "Microsoft.DotNet.Web.Spa.ProjectTemplates.3.0",
+    "version": "3.0.3"
+  },
+  {
     "id": "Furion.Template.Mvc",
-    "version": "4.8.8"
+    "version": "4.8.8.1"
   },
   {
     "id": "Furion.Template.Api",
-    "version": "4.8.8"
+    "version": "4.8.8.1"
   },
   {
     "id": "Furion.Template.Blazor",
-    "version": "4.8.8"
+    "version": "4.8.8.1"
   },
   {
     "id": "Furion.Template.Razor",
-    "version": "4.8.8"
+    "version": "4.8.8.1"
+  },
+  {
+    "id": "Furion.Template.App",
+    "version": "4.8.8.1"
+  },
+  {
+    "id": "Furion.Template.RazorWithWebApi",
+    "version": "4.8.8.1"
   },
   {
     "id": "Microsoft.DotNet.Web.ProjectTemplates.3.1",
     "version": "3.1.32"
   },
   {
-    "id": "Furion.Template.App",
-    "version": "4.8.8"
-  },
-  {
-    "id": "Furion.Template.RazorWithWebApi",
-    "version": "4.8.8"
+    "id": "Furion.Template.BlazorWithWebApi",
+    "version": "4.8.8.1"
   },
   {
     "id": "IdentityServer4.Templates",
     "version": "4.0.1"
-  },
-  {
-    "id": "Furion.Template.BlazorWithWebApi",
-    "version": "4.8.8"
   },
   {
     "id": "Microsoft.DotNet.Web.Spa.ProjectTemplates.3.1",
@@ -145,7 +145,7 @@
   },
   {
     "id": "ppy.osu.Framework.Templates",
-    "version": "2023.417.1"
+    "version": "2023.418.0"
   },
   {
     "id": "Microsoft.DotNet.Web.ProjectTemplates.2.1",
@@ -157,7 +157,7 @@
   },
   {
     "id": "HotChocolate.Templates",
-    "version": "14.0.0-tags-13-1-0-preview-5.1"
+    "version": "14.0.0-preview.10.8"
   },
   {
     "id": "SAFE.Template",
@@ -220,6 +220,14 @@
     "version": "1.0.0-beta2-20170727-301"
   },
   {
+    "id": "Furion.SqlSugar.Template.Api",
+    "version": "4.8.8.1"
+  },
+  {
+    "id": "Aksio.Templates",
+    "version": "7.4.2"
+  },
+  {
     "id": "Blazor.BFF.OpenIDConnect.Template",
     "version": "2.0.2"
   },
@@ -228,40 +236,32 @@
     "version": "6.5.0"
   },
   {
-    "id": "Aksio.Templates",
-    "version": "7.4.2"
-  },
-  {
-    "id": "Furion.SqlSugar.Template.Api",
-    "version": "4.8.8"
-  },
-  {
     "id": "Furion.SqlSugar.Template.Mvc",
-    "version": "4.8.8"
+    "version": "4.8.8.1"
+  },
+  {
+    "id": "Furion.SqlSugar.Template.App",
+    "version": "4.8.8.1"
+  },
+  {
+    "id": "Furion.SqlSugar.Template.Blazor",
+    "version": "4.8.8.1"
+  },
+  {
+    "id": "Furion.SqlSugar.Template.Razor",
+    "version": "4.8.8.1"
+  },
+  {
+    "id": "Furion.SqlSugar.Template.BlazorWithWebApi",
+    "version": "4.8.8.1"
+  },
+  {
+    "id": "Furion.SqlSugar.Template.RazorWithWebApi",
+    "version": "4.8.8.1"
   },
   {
     "id": "Paulovich.Caju",
     "version": "0.7.3"
-  },
-  {
-    "id": "Furion.SqlSugar.Template.App",
-    "version": "4.8.8"
-  },
-  {
-    "id": "Furion.SqlSugar.Template.Blazor",
-    "version": "4.8.8"
-  },
-  {
-    "id": "Furion.SqlSugar.Template.Razor",
-    "version": "4.8.8"
-  },
-  {
-    "id": "Furion.SqlSugar.Template.BlazorWithWebApi",
-    "version": "4.8.8"
-  },
-  {
-    "id": "Furion.SqlSugar.Template.RazorWithWebApi",
-    "version": "4.8.8"
   },
   {
     "id": "Cynosura.Template",
@@ -285,7 +285,7 @@
   },
   {
     "id": "Threenine.ApiProject",
-    "version": "4.1.7"
+    "version": "4.1.8"
   },
   {
     "id": "Clean.Architecture.Solution.Template",
@@ -308,12 +308,12 @@
     "version": "4.2.0-preview01-final"
   },
   {
-    "id": "MudBlazor.Templates",
-    "version": "0.6.3"
-  },
-  {
     "id": "XrmFramework.Templates",
     "version": "2.2.55"
+  },
+  {
+    "id": "MudBlazor.Templates",
+    "version": "0.6.3"
   },
   {
     "id": "giraffe-template",
@@ -340,12 +340,12 @@
     "version": "2.3.0-dev.918"
   },
   {
-    "id": "Burcin.Templates.CSharp",
-    "version": "1.2.33"
-  },
-  {
     "id": "Amido.Stacks.CQRS.Templates",
     "version": "6.1.217"
+  },
+  {
+    "id": "Burcin.Templates.CSharp",
+    "version": "1.2.33"
   },
   {
     "id": "AntDesign.Templates",
