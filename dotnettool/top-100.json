@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 4088,
+  "totalHits": 4089,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cake.tool/index.json",
@@ -28932,6 +28932,105 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/index.json",
+      "id": "dotnet-stack",
+      "version": "7.0.430602",
+      "description": ".NET Stack Printing Tool",
+      "summary": "",
+      "title": "dotnet-stack",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-stack/7.0.430602/icon",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-stack/7.0.430602/license",
+      "projectUrl": "https://github.com/dotnet/diagnostics",
+      "tags": [
+        "Diagnostic"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft",
+        "noahfalk_msft"
+      ],
+      "totalDownloads": 725771,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "5.0.221401",
+          "downloads": 56666,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.221401.json"
+        },
+        {
+          "version": "5.0.227602",
+          "downloads": 4943,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.227602.json"
+        },
+        {
+          "version": "5.0.236902",
+          "downloads": 13109,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.236902.json"
+        },
+        {
+          "version": "5.0.248003",
+          "downloads": 5225,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.248003.json"
+        },
+        {
+          "version": "5.0.251802",
+          "downloads": 11832,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.251802.json"
+        },
+        {
+          "version": "6.0.257301",
+          "downloads": 129783,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.257301.json"
+        },
+        {
+          "version": "6.0.320703",
+          "downloads": 18863,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.320703.json"
+        },
+        {
+          "version": "6.0.327302",
+          "downloads": 5230,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.327302.json"
+        },
+        {
+          "version": "6.0.328102",
+          "downloads": 95252,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.328102.json"
+        },
+        {
+          "version": "6.0.351802",
+          "downloads": 154984,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.351802.json"
+        },
+        {
+          "version": "7.0.410101",
+          "downloads": 76012,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/7.0.410101.json"
+        },
+        {
+          "version": "7.0.421201",
+          "downloads": 81662,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/7.0.421201.json"
+        },
+        {
+          "version": "7.0.430602",
+          "downloads": 71583,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/7.0.430602.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.playwright.cli/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.playwright.cli/index.json",
@@ -29044,105 +29143,6 @@
           "version": "1.2.3",
           "downloads": 490649,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.playwright.cli/1.2.3.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/index.json",
-      "id": "dotnet-stack",
-      "version": "7.0.430602",
-      "description": ".NET Stack Printing Tool",
-      "summary": "",
-      "title": "dotnet-stack",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-stack/7.0.430602/icon",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-stack/7.0.430602/license",
-      "projectUrl": "https://github.com/dotnet/diagnostics",
-      "tags": [
-        "Diagnostic"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft",
-        "noahfalk_msft"
-      ],
-      "totalDownloads": 725771,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "5.0.221401",
-          "downloads": 56666,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.221401.json"
-        },
-        {
-          "version": "5.0.227602",
-          "downloads": 4943,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.227602.json"
-        },
-        {
-          "version": "5.0.236902",
-          "downloads": 13109,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.236902.json"
-        },
-        {
-          "version": "5.0.248003",
-          "downloads": 5225,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.248003.json"
-        },
-        {
-          "version": "5.0.251802",
-          "downloads": 11832,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.251802.json"
-        },
-        {
-          "version": "6.0.257301",
-          "downloads": 129783,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.257301.json"
-        },
-        {
-          "version": "6.0.320703",
-          "downloads": 18863,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.320703.json"
-        },
-        {
-          "version": "6.0.327302",
-          "downloads": 5230,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.327302.json"
-        },
-        {
-          "version": "6.0.328102",
-          "downloads": 95252,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.328102.json"
-        },
-        {
-          "version": "6.0.351802",
-          "downloads": 154984,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.351802.json"
-        },
-        {
-          "version": "7.0.410101",
-          "downloads": 76012,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/7.0.410101.json"
-        },
-        {
-          "version": "7.0.421201",
-          "downloads": 81662,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/7.0.421201.json"
-        },
-        {
-          "version": "7.0.430602",
-          "downloads": 71583,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/7.0.430602.json"
         }
       ],
       "vulnerabilities": []
@@ -35663,12 +35663,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/index.json",
       "id": "Libplanet.Tools",
-      "version": "3.2.0-dev.20237315249+e74fb5a",
+      "version": "3.2.0-dev.20238154018+bba7e80",
       "description": "This CLI app is a collection of utilities for application  programmers who create decentralized games powered by Libplanet  (https://libplanet.io/).",
       "summary": "",
       "title": "planet: Libplanet CLI Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/3.2.0-dev.20237315249/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/3.2.0-dev.20237315249/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/3.2.0-dev.20238154018/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/3.2.0-dev.20238154018/license",
       "projectUrl": "https://libplanet.io/",
       "tags": [],
       "authors": [
@@ -47199,6 +47199,16 @@
           "version": "3.2.0-dev.20237315249+e74fb5a",
           "downloads": 50,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/3.2.0-dev.20237315249.json"
+        },
+        {
+          "version": "3.2.0-dev.202381111721+0de8d8c",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/3.2.0-dev.202381111721.json"
+        },
+        {
+          "version": "3.2.0-dev.20238154018+bba7e80",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/3.2.0-dev.20238154018.json"
         }
       ],
       "vulnerabilities": []
@@ -48022,66 +48032,6 @@
           "Legacy"
         ]
       },
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xdt/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xdt/index.json",
-      "id": "dotnet-xdt",
-      "version": "2.2.1",
-      "description": "XDT (XML Document Transform) tool for .NET Core.",
-      "summary": "",
-      "title": "dotnet-xdt",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-xdt/2.2.1/license",
-      "projectUrl": "https://github.com/nil4/dotnet-transform-xdt",
-      "tags": [
-        "netcoreapp21",
-        "global-tool",
-        "xdt",
-        "transform",
-        "xml"
-      ],
-      "authors": [
-        "nil4 <https://github.com/nil4>"
-      ],
-      "owners": [
-        "nil4"
-      ],
-      "totalDownloads": 448094,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.1.0-rc.1",
-          "downloads": 1059,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xdt/2.1.0-rc.1.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 79751,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xdt/2.1.0.json"
-        },
-        {
-          "version": "2.1.1",
-          "downloads": 18638,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xdt/2.1.1.json"
-        },
-        {
-          "version": "2.2.0",
-          "downloads": 136461,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xdt/2.2.0.json"
-        },
-        {
-          "version": "2.2.1",
-          "downloads": 210556,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xdt/2.2.1.json"
-        }
-      ],
       "vulnerabilities": []
     },
     {
@@ -49129,6 +49079,66 @@
           "version": "2.67.5",
           "downloads": 34075,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/docfx/2.67.5.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xdt/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xdt/index.json",
+      "id": "dotnet-xdt",
+      "version": "2.2.1",
+      "description": "XDT (XML Document Transform) tool for .NET Core.",
+      "summary": "",
+      "title": "dotnet-xdt",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-xdt/2.2.1/license",
+      "projectUrl": "https://github.com/nil4/dotnet-transform-xdt",
+      "tags": [
+        "netcoreapp21",
+        "global-tool",
+        "xdt",
+        "transform",
+        "xml"
+      ],
+      "authors": [
+        "nil4 <https://github.com/nil4>"
+      ],
+      "owners": [
+        "nil4"
+      ],
+      "totalDownloads": 448094,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.1.0-rc.1",
+          "downloads": 1059,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xdt/2.1.0-rc.1.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 79751,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xdt/2.1.0.json"
+        },
+        {
+          "version": "2.1.1",
+          "downloads": 18638,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xdt/2.1.1.json"
+        },
+        {
+          "version": "2.2.0",
+          "downloads": 136461,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xdt/2.2.0.json"
+        },
+        {
+          "version": "2.2.1",
+          "downloads": 210556,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-xdt/2.2.1.json"
         }
       ],
       "vulnerabilities": []
@@ -55672,6 +55682,11 @@
           "version": "15.7.0.52",
           "downloads": 44,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/15.7.0.52.json"
+        },
+        {
+          "version": "15.7.0.54",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/15.7.0.54.json"
         },
         {
           "version": "16.0.0.166",
@@ -64744,11 +64759,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/snapx/index.json",
       "id": "snapx",
-      "version": "5.2.3-prerelease0034",
+      "version": "5.2.3-prerelease0035",
       "description": "snapx is a powerful xplat .NET application with built-in support for delta updates, release channels (test, staging, production) and automatic deployment using GitHub Actions.",
       "summary": "",
       "title": "snapx",
-      "licenseUrl": "https://www.nuget.org/packages/snapx/5.2.3-prerelease0034/license",
+      "licenseUrl": "https://www.nuget.org/packages/snapx/5.2.3-prerelease0035/license",
       "projectUrl": "https://github.com/fintermobilityas/snapx",
       "tags": [],
       "authors": [
@@ -67274,6 +67289,11 @@
           "version": "5.2.3-prerelease0034",
           "downloads": 183,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/snapx/5.2.3-prerelease0034.json"
+        },
+        {
+          "version": "5.2.3-prerelease0035",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/snapx/5.2.3-prerelease0035.json"
         }
       ],
       "vulnerabilities": []
@@ -73404,138 +73424,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/index.json",
-      "id": "Obfuscar.GlobalTool",
-      "version": "2.2.38",
-      "description": "Obfuscar is a basic obfuscator for .NET assemblies. It uses massive overloading to rename metadata in .NET assemblies (including the names of methods, properties, events, fields, types and namespaces) to a minimal set, distinguishable in most cases only by signature.",
-      "summary": "",
-      "title": "Obfuscar.GlobalTool",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/obfuscar.globaltool/2.2.38/icon",
-      "projectUrl": "https://github.com/obfuscar/obfuscar",
-      "tags": [
-        "obfuscar",
-        "obfuscation"
-      ],
-      "authors": [
-        "Ryan Williams, and other contributors."
-      ],
-      "owners": [
-        "lextm"
-      ],
-      "totalDownloads": 216768,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.2.15",
-          "downloads": 1212,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.15.json"
-        },
-        {
-          "version": "2.2.16",
-          "downloads": 786,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.16.json"
-        },
-        {
-          "version": "2.2.18",
-          "downloads": 8372,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.18.json"
-        },
-        {
-          "version": "2.2.19",
-          "downloads": 1192,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.19.json"
-        },
-        {
-          "version": "2.2.20",
-          "downloads": 741,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.20.json"
-        },
-        {
-          "version": "2.2.23",
-          "downloads": 1835,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.23.json"
-        },
-        {
-          "version": "2.2.24",
-          "downloads": 1970,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.24.json"
-        },
-        {
-          "version": "2.2.25",
-          "downloads": 5373,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.25.json"
-        },
-        {
-          "version": "2.2.26",
-          "downloads": 1787,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.26.json"
-        },
-        {
-          "version": "2.2.28",
-          "downloads": 7610,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.28.json"
-        },
-        {
-          "version": "2.2.29",
-          "downloads": 6040,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.29.json"
-        },
-        {
-          "version": "2.2.30",
-          "downloads": 3475,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.30.json"
-        },
-        {
-          "version": "2.2.31",
-          "downloads": 11952,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.31.json"
-        },
-        {
-          "version": "2.2.32",
-          "downloads": 15945,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.32.json"
-        },
-        {
-          "version": "2.2.33",
-          "downloads": 113523,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.33.json"
-        },
-        {
-          "version": "2.2.34",
-          "downloads": 460,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.34.json"
-        },
-        {
-          "version": "2.2.35",
-          "downloads": 961,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.35.json"
-        },
-        {
-          "version": "2.2.36",
-          "downloads": 9076,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.36.json"
-        },
-        {
-          "version": "2.2.37+3",
-          "downloads": 17108,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.37.json"
-        },
-        {
-          "version": "2.2.38",
-          "downloads": 520,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.38.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-symbol/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-symbol/index.json",
@@ -73689,6 +73577,138 @@
           "version": "1.0.415602",
           "downloads": 60814,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-symbol/1.0.415602.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/index.json",
+      "id": "Obfuscar.GlobalTool",
+      "version": "2.2.38",
+      "description": "Obfuscar is a basic obfuscator for .NET assemblies. It uses massive overloading to rename metadata in .NET assemblies (including the names of methods, properties, events, fields, types and namespaces) to a minimal set, distinguishable in most cases only by signature.",
+      "summary": "",
+      "title": "Obfuscar.GlobalTool",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/obfuscar.globaltool/2.2.38/icon",
+      "projectUrl": "https://github.com/obfuscar/obfuscar",
+      "tags": [
+        "obfuscar",
+        "obfuscation"
+      ],
+      "authors": [
+        "Ryan Williams, and other contributors."
+      ],
+      "owners": [
+        "lextm"
+      ],
+      "totalDownloads": 216768,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.2.15",
+          "downloads": 1212,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.15.json"
+        },
+        {
+          "version": "2.2.16",
+          "downloads": 786,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.16.json"
+        },
+        {
+          "version": "2.2.18",
+          "downloads": 8372,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.18.json"
+        },
+        {
+          "version": "2.2.19",
+          "downloads": 1192,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.19.json"
+        },
+        {
+          "version": "2.2.20",
+          "downloads": 741,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.20.json"
+        },
+        {
+          "version": "2.2.23",
+          "downloads": 1835,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.23.json"
+        },
+        {
+          "version": "2.2.24",
+          "downloads": 1970,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.24.json"
+        },
+        {
+          "version": "2.2.25",
+          "downloads": 5373,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.25.json"
+        },
+        {
+          "version": "2.2.26",
+          "downloads": 1787,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.26.json"
+        },
+        {
+          "version": "2.2.28",
+          "downloads": 7610,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.28.json"
+        },
+        {
+          "version": "2.2.29",
+          "downloads": 6040,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.29.json"
+        },
+        {
+          "version": "2.2.30",
+          "downloads": 3475,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.30.json"
+        },
+        {
+          "version": "2.2.31",
+          "downloads": 11952,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.31.json"
+        },
+        {
+          "version": "2.2.32",
+          "downloads": 15945,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.32.json"
+        },
+        {
+          "version": "2.2.33",
+          "downloads": 113523,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.33.json"
+        },
+        {
+          "version": "2.2.34",
+          "downloads": 460,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.34.json"
+        },
+        {
+          "version": "2.2.35",
+          "downloads": 961,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.35.json"
+        },
+        {
+          "version": "2.2.36",
+          "downloads": 9076,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.36.json"
+        },
+        {
+          "version": "2.2.37+3",
+          "downloads": 17108,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.37.json"
+        },
+        {
+          "version": "2.2.38",
+          "downloads": 520,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/obfuscar.globaltool/2.2.38.json"
         }
       ],
       "vulnerabilities": []

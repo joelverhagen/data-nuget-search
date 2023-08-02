@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 339953,
+  "totalHits": 340079,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -7745,12 +7745,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "3.7.200.7",
+      "version": "3.7.200.8",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.200.7/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/3.7.200.7/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.200.8/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/3.7.200.8/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -12316,6 +12316,11 @@
           "version": "3.7.200.7",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.200.7.json"
+        },
+        {
+          "version": "3.7.200.8",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.200.8.json"
         }
       ],
       "vulnerabilities": []
@@ -24944,11 +24949,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/index.json",
       "id": "Google.Protobuf",
-      "version": "3.24.0-rc2",
+      "version": "3.24.0-rc3",
       "description": "C# runtime library for Protocol Buffers - Google's data interchange format.",
       "summary": "",
       "title": "Google.Protobuf",
-      "licenseUrl": "https://www.nuget.org/packages/Google.Protobuf/3.24.0-rc2/license",
+      "licenseUrl": "https://www.nuget.org/packages/Google.Protobuf/3.24.0-rc3/license",
       "projectUrl": "https://github.com/protocolbuffers/protobuf",
       "tags": [
         "Protocol",
@@ -25573,6 +25578,11 @@
           "version": "3.24.0-rc2",
           "downloads": 1073,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/3.24.0-rc2.json"
+        },
+        {
+          "version": "3.24.0-rc3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/3.24.0-rc3.json"
         }
       ],
       "vulnerabilities": []
@@ -38987,12 +38997,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "id": "AWSSDK.S3",
-      "version": "3.7.201.5",
+      "version": "3.7.201.6",
       "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
       "summary": "",
       "title": "AWSSDK - S3",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.201.5/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/3.7.201.5/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.201.6/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/3.7.201.6/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -43599,6 +43609,11 @@
           "version": "3.7.201.5",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.201.5.json"
+        },
+        {
+          "version": "3.7.201.6",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.201.6.json"
         }
       ],
       "vulnerabilities": []
@@ -47030,149 +47045,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/index.json",
-      "id": "Microsoft.ApplicationInsights.EventCounterCollector",
-      "version": "2.22.0-beta3",
-      "description": "Application Insights Event Counter Collector allows you to send data sent from EventCounters to Application Insights. Privacy statement: https://go.microsoft.com/fwlink/?LinkId=512156",
-      "summary": "",
-      "title": "Application Insights Event Counter Collector",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights.eventcountercollector/2.22.0-beta3/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.ApplicationInsights.EventCounterCollector/2.22.0-beta3/license",
-      "projectUrl": "https://go.microsoft.com/fwlink/?LinkId=392727",
-      "tags": [
-        "Azure",
-        "Monitoring",
-        "Analytics",
-        "ApplicationInsights",
-        "Telemetry",
-        "ASP.NET",
-        "aspnetcore",
-        "Web",
-        "Server",
-        "Services",
-        "ASPX",
-        "Websites",
-        "Event",
-        "Counters",
-        "Performance",
-        "Collection"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "AppInsightsSdk",
-        "Microsoft"
-      ],
-      "totalDownloads": 155410921,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.11.0",
-          "downloads": 1885022,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.11.0.json"
-        },
-        {
-          "version": "2.11.1",
-          "downloads": 787204,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.11.1.json"
-        },
-        {
-          "version": "2.11.2",
-          "downloads": 3897247,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.11.2.json"
-        },
-        {
-          "version": "2.12.0",
-          "downloads": 6169354,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.12.0.json"
-        },
-        {
-          "version": "2.12.1",
-          "downloads": 2957620,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.12.1.json"
-        },
-        {
-          "version": "2.12.2",
-          "downloads": 76189,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.12.2.json"
-        },
-        {
-          "version": "2.13.0",
-          "downloads": 309859,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.13.0.json"
-        },
-        {
-          "version": "2.13.1",
-          "downloads": 7323917,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.13.1.json"
-        },
-        {
-          "version": "2.14.0",
-          "downloads": 17568084,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.14.0.json"
-        },
-        {
-          "version": "2.15.0",
-          "downloads": 11606170,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.15.0.json"
-        },
-        {
-          "version": "2.16.0",
-          "downloads": 11721093,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.16.0.json"
-        },
-        {
-          "version": "2.17.0",
-          "downloads": 19036549,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.17.0.json"
-        },
-        {
-          "version": "2.18.0",
-          "downloads": 9667882,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.18.0.json"
-        },
-        {
-          "version": "2.19.0",
-          "downloads": 5052520,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.19.0.json"
-        },
-        {
-          "version": "2.20.0",
-          "downloads": 26893814,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.20.0.json"
-        },
-        {
-          "version": "2.21.0",
-          "downloads": 29135973,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.21.0.json"
-        },
-        {
-          "version": "2.22.0-beta1",
-          "downloads": 97273,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.22.0-beta1.json"
-        },
-        {
-          "version": "2.22.0-beta2",
-          "downloads": 36211,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.22.0-beta2.json"
-        },
-        {
-          "version": "2.22.0-beta3",
-          "downloads": 26481,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.22.0-beta3.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/elasticsearch.net/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/elasticsearch.net/index.json",
@@ -47938,6 +47810,149 @@
           "version": "7.17.5",
           "downloads": 6169039,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/elasticsearch.net/7.17.5.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/index.json",
+      "id": "Microsoft.ApplicationInsights.EventCounterCollector",
+      "version": "2.22.0-beta3",
+      "description": "Application Insights Event Counter Collector allows you to send data sent from EventCounters to Application Insights. Privacy statement: https://go.microsoft.com/fwlink/?LinkId=512156",
+      "summary": "",
+      "title": "Application Insights Event Counter Collector",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights.eventcountercollector/2.22.0-beta3/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.ApplicationInsights.EventCounterCollector/2.22.0-beta3/license",
+      "projectUrl": "https://go.microsoft.com/fwlink/?LinkId=392727",
+      "tags": [
+        "Azure",
+        "Monitoring",
+        "Analytics",
+        "ApplicationInsights",
+        "Telemetry",
+        "ASP.NET",
+        "aspnetcore",
+        "Web",
+        "Server",
+        "Services",
+        "ASPX",
+        "Websites",
+        "Event",
+        "Counters",
+        "Performance",
+        "Collection"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "AppInsightsSdk",
+        "Microsoft"
+      ],
+      "totalDownloads": 155410921,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.11.0",
+          "downloads": 1885022,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.11.0.json"
+        },
+        {
+          "version": "2.11.1",
+          "downloads": 787204,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.11.1.json"
+        },
+        {
+          "version": "2.11.2",
+          "downloads": 3897247,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.11.2.json"
+        },
+        {
+          "version": "2.12.0",
+          "downloads": 6169354,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.12.0.json"
+        },
+        {
+          "version": "2.12.1",
+          "downloads": 2957620,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.12.1.json"
+        },
+        {
+          "version": "2.12.2",
+          "downloads": 76189,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.12.2.json"
+        },
+        {
+          "version": "2.13.0",
+          "downloads": 309859,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.13.0.json"
+        },
+        {
+          "version": "2.13.1",
+          "downloads": 7323917,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.13.1.json"
+        },
+        {
+          "version": "2.14.0",
+          "downloads": 17568084,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.14.0.json"
+        },
+        {
+          "version": "2.15.0",
+          "downloads": 11606170,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.15.0.json"
+        },
+        {
+          "version": "2.16.0",
+          "downloads": 11721093,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.16.0.json"
+        },
+        {
+          "version": "2.17.0",
+          "downloads": 19036549,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.17.0.json"
+        },
+        {
+          "version": "2.18.0",
+          "downloads": 9667882,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.18.0.json"
+        },
+        {
+          "version": "2.19.0",
+          "downloads": 5052520,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.19.0.json"
+        },
+        {
+          "version": "2.20.0",
+          "downloads": 26893814,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.20.0.json"
+        },
+        {
+          "version": "2.21.0",
+          "downloads": 29135973,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.21.0.json"
+        },
+        {
+          "version": "2.22.0-beta1",
+          "downloads": 97273,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.22.0-beta1.json"
+        },
+        {
+          "version": "2.22.0-beta2",
+          "downloads": 36211,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.22.0-beta2.json"
+        },
+        {
+          "version": "2.22.0-beta3",
+          "downloads": 26481,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights.eventcountercollector/2.22.0-beta3.json"
         }
       ],
       "vulnerabilities": []
