@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 340247,
+  "totalHits": 340388,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -13322,13 +13322,13 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/moq/index.json",
       "id": "Moq",
-      "version": "4.18.4",
-      "description": "Moq is the most popular and friendly mocking framework for .NET.\n\nBuilt from https://github.com/moq/moq4/tree/042a2ebbe",
+      "version": "4.20.0-beta",
+      "description": "Moq is the most popular and friendly mocking framework for .NET.",
       "summary": "",
       "title": "Moq: an enjoyable mocking library",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/moq/4.18.4/icon",
-      "licenseUrl": "https://raw.githubusercontent.com/moq/moq4/main/License.txt",
-      "projectUrl": "https://github.com/moq/moq4",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/moq/4.20.0-beta/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Moq/4.20.0-beta/license",
+      "projectUrl": "https://github.com/moq/moq",
       "tags": [
         "moq",
         "tdd",
@@ -13858,6 +13858,16 @@
           "version": "4.18.4",
           "downloads": 23517700,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/moq/4.18.4.json"
+        },
+        {
+          "version": "4.20.0-alpha",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/moq/4.20.0-alpha.json"
+        },
+        {
+          "version": "4.20.0-beta",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/moq/4.20.0-beta.json"
         }
       ],
       "vulnerabilities": []
@@ -36860,12 +36870,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/grpc.core.api/index.json",
       "id": "Grpc.Core.Api",
-      "version": "2.55.0",
+      "version": "2.56.0-pre1",
       "description": "gRPC C# Surface API",
       "summary": "",
       "title": "Grpc.Core.Api",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/grpc.core.api/2.55.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Grpc.Core.Api/2.55.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/grpc.core.api/2.56.0-pre1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Grpc.Core.Api/2.56.0-pre1/license",
       "projectUrl": "https://github.com/grpc/grpc-dotnet",
       "tags": [
         "gRPC",
@@ -37345,6 +37355,11 @@
           "version": "2.55.0",
           "downloads": 488110,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/grpc.core.api/2.55.0.json"
+        },
+        {
+          "version": "2.56.0-pre1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/grpc.core.api/2.56.0-pre1.json"
         }
       ],
       "vulnerabilities": []
@@ -38521,6 +38536,151 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/index.json",
+      "id": "AutoMapper.Extensions.Microsoft.DependencyInjection",
+      "version": "12.0.1",
+      "description": "AutoMapper extensions for ASP.NET Core",
+      "summary": "",
+      "title": "AutoMapper.Extensions.Microsoft.DependencyInjection",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/automapper.extensions.microsoft.dependencyinjection/12.0.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.1/license",
+      "projectUrl": "https://automapper.org/",
+      "tags": [],
+      "authors": [
+        "Jimmy Bogard"
+      ],
+      "owners": [
+        "jbogard"
+      ],
+      "totalDownloads": 178604768,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0-alpha",
+          "downloads": 1127,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/1.0.0-alpha.json"
+        },
+        {
+          "version": "1.0.1-alpha",
+          "downloads": 10558,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/1.0.1-alpha.json"
+        },
+        {
+          "version": "1.1.0",
+          "downloads": 89384,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/1.1.0.json"
+        },
+        {
+          "version": "1.1.2",
+          "downloads": 88279,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/1.1.2.json"
+        },
+        {
+          "version": "1.2.0",
+          "downloads": 174830,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/1.2.0.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 31956,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/2.0.0.json"
+        },
+        {
+          "version": "2.0.1",
+          "downloads": 919807,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/2.0.1.json"
+        },
+        {
+          "version": "3.0.1",
+          "downloads": 476777,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/3.0.1.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 237597,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/3.1.0.json"
+        },
+        {
+          "version": "3.2.0",
+          "downloads": 3573992,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/3.2.0.json"
+        },
+        {
+          "version": "4.0.1",
+          "downloads": 4067982,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/4.0.1.json"
+        },
+        {
+          "version": "5.0.1",
+          "downloads": 5448832,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/5.0.1.json"
+        },
+        {
+          "version": "6.0.0",
+          "downloads": 9828170,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/6.0.0.json"
+        },
+        {
+          "version": "6.1.0",
+          "downloads": 3092715,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/6.1.0.json"
+        },
+        {
+          "version": "6.1.1",
+          "downloads": 4372699,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/6.1.1.json"
+        },
+        {
+          "version": "7.0.0",
+          "downloads": 32449209,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/7.0.0.json"
+        },
+        {
+          "version": "8.0.0",
+          "downloads": 679142,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/8.0.0.json"
+        },
+        {
+          "version": "8.0.1",
+          "downloads": 10149668,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/8.0.1.json"
+        },
+        {
+          "version": "8.1.0",
+          "downloads": 11657510,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/8.1.0.json"
+        },
+        {
+          "version": "8.1.1",
+          "downloads": 41036205,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/8.1.1.json"
+        },
+        {
+          "version": "11.0.0",
+          "downloads": 28131512,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/11.0.0.json"
+        },
+        {
+          "version": "12.0.0",
+          "downloads": 17064892,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/12.0.0.json"
+        },
+        {
+          "version": "12.0.1",
+          "downloads": 4732650,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/12.0.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.mvc/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.mvc/index.json",
@@ -38739,151 +38899,6 @@
           "Legacy"
         ]
       },
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/index.json",
-      "id": "AutoMapper.Extensions.Microsoft.DependencyInjection",
-      "version": "12.0.1",
-      "description": "AutoMapper extensions for ASP.NET Core",
-      "summary": "",
-      "title": "AutoMapper.Extensions.Microsoft.DependencyInjection",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/automapper.extensions.microsoft.dependencyinjection/12.0.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.1/license",
-      "projectUrl": "https://automapper.org/",
-      "tags": [],
-      "authors": [
-        "Jimmy Bogard"
-      ],
-      "owners": [
-        "jbogard"
-      ],
-      "totalDownloads": 178604768,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0-alpha",
-          "downloads": 1127,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/1.0.0-alpha.json"
-        },
-        {
-          "version": "1.0.1-alpha",
-          "downloads": 10558,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/1.0.1-alpha.json"
-        },
-        {
-          "version": "1.1.0",
-          "downloads": 89384,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/1.1.0.json"
-        },
-        {
-          "version": "1.1.2",
-          "downloads": 88279,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/1.1.2.json"
-        },
-        {
-          "version": "1.2.0",
-          "downloads": 174830,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/1.2.0.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 31956,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/2.0.0.json"
-        },
-        {
-          "version": "2.0.1",
-          "downloads": 919807,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/2.0.1.json"
-        },
-        {
-          "version": "3.0.1",
-          "downloads": 476777,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/3.0.1.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 237597,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/3.1.0.json"
-        },
-        {
-          "version": "3.2.0",
-          "downloads": 3573992,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/3.2.0.json"
-        },
-        {
-          "version": "4.0.1",
-          "downloads": 4067982,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/4.0.1.json"
-        },
-        {
-          "version": "5.0.1",
-          "downloads": 5448832,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/5.0.1.json"
-        },
-        {
-          "version": "6.0.0",
-          "downloads": 9828170,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/6.0.0.json"
-        },
-        {
-          "version": "6.1.0",
-          "downloads": 3092715,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/6.1.0.json"
-        },
-        {
-          "version": "6.1.1",
-          "downloads": 4372699,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/6.1.1.json"
-        },
-        {
-          "version": "7.0.0",
-          "downloads": 32449209,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/7.0.0.json"
-        },
-        {
-          "version": "8.0.0",
-          "downloads": 679142,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/8.0.0.json"
-        },
-        {
-          "version": "8.0.1",
-          "downloads": 10149668,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/8.0.1.json"
-        },
-        {
-          "version": "8.1.0",
-          "downloads": 11657510,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/8.1.0.json"
-        },
-        {
-          "version": "8.1.1",
-          "downloads": 41036205,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/8.1.1.json"
-        },
-        {
-          "version": "11.0.0",
-          "downloads": 28131512,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/11.0.0.json"
-        },
-        {
-          "version": "12.0.0",
-          "downloads": 17064892,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/12.0.0.json"
-        },
-        {
-          "version": "12.0.1",
-          "downloads": 4732650,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/12.0.1.json"
-        }
-      ],
       "vulnerabilities": []
     },
     {
