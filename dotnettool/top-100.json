@@ -29701,12 +29701,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/index.json",
       "id": "Microsoft.CST.DevSkim.CLI",
-      "version": "1.0.15",
+      "version": "1.0.16",
       "description": "DevSkim is a framework and language analyzer that provides inline security analysis. This is a Dotnet Tool package. For the library package, see Microsoft.CST.DevSkim.",
       "summary": "",
       "title": "Microsoft.CST.DevSkim.CLI",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.cst.devskim.cli/1.0.15/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.CST.DevSkim.CLI/1.0.15/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.cst.devskim.cli/1.0.16/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.CST.DevSkim.CLI/1.0.16/license",
       "projectUrl": "https://github.com/Microsoft/DevSkim",
       "tags": [
         "Security",
@@ -30316,6 +30316,11 @@
           "version": "1.0.15",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.15.json"
+        },
+        {
+          "version": "1.0.16",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.16.json"
         }
       ],
       "vulnerabilities": []
@@ -33043,220 +33048,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/index.json",
-      "id": "coveralls.net",
-      "version": "4.0.1",
-      "description": "Coveralls.io uploader for .NET Code Coverage. Supports opencover and visual studio's codecoverage.exe on windows, and monocov for mono",
-      "summary": "",
-      "title": "coveralls.net - Coveralls.io uploader for .NET Code Coverage",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/coveralls.net/4.0.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/coveralls.net/4.0.1/license",
-      "projectUrl": "https://github.com/csmacnz/coveralls.net",
-      "tags": [
-        "Code-Coverage",
-        "Coveralls",
-        "opencover",
-        "monocov",
-        "codecoverage.exe",
-        "coveralls.io",
-        "Reporting",
-        "Runner"
-      ],
-      "authors": [
-        "csMACnz"
-      ],
-      "owners": [
-        "csmacnz"
-      ],
-      "totalDownloads": 593977,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.1.50",
-          "downloads": 2347,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.1.50.json"
-        },
-        {
-          "version": "0.1.62",
-          "downloads": 1197,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.1.62.json"
-        },
-        {
-          "version": "0.2.95",
-          "downloads": 1168,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.2.95.json"
-        },
-        {
-          "version": "0.3.106",
-          "downloads": 1561,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.3.106.json"
-        },
-        {
-          "version": "0.4.0-beta0001",
-          "downloads": 1190,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.4.0-beta0001.json"
-        },
-        {
-          "version": "0.4.0-beta0002",
-          "downloads": 1183,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.4.0-beta0002.json"
-        },
-        {
-          "version": "0.4.0",
-          "downloads": 1386,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.4.0.json"
-        },
-        {
-          "version": "0.5.0-beta0001",
-          "downloads": 1172,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0-beta0001.json"
-        },
-        {
-          "version": "0.5.0-beta0002",
-          "downloads": 1178,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0-beta0002.json"
-        },
-        {
-          "version": "0.5.0-beta0003",
-          "downloads": 1117,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0-beta0003.json"
-        },
-        {
-          "version": "0.5.0-beta0004",
-          "downloads": 1161,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0-beta0004.json"
-        },
-        {
-          "version": "0.5.0",
-          "downloads": 7204,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0.json"
-        },
-        {
-          "version": "0.6.0-beta0001",
-          "downloads": 1254,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.6.0-beta0001.json"
-        },
-        {
-          "version": "0.6.0-beta0003",
-          "downloads": 1081,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.6.0-beta0003.json"
-        },
-        {
-          "version": "0.6.0-beta0004",
-          "downloads": 1083,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.6.0-beta0004.json"
-        },
-        {
-          "version": "0.6.0",
-          "downloads": 44921,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.6.0.json"
-        },
-        {
-          "version": "0.7.0-beta0001",
-          "downloads": 12538,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.7.0-beta0001.json"
-        },
-        {
-          "version": "0.7.0",
-          "downloads": 258723,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.7.0.json"
-        },
-        {
-          "version": "0.8.0-beta0001",
-          "downloads": 974,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.8.0-beta0001.json"
-        },
-        {
-          "version": "0.8.0-unstable0008",
-          "downloads": 1145,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.8.0-unstable0008.json"
-        },
-        {
-          "version": "0.8.0-unstable0013",
-          "downloads": 9528,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.8.0-unstable0013.json"
-        },
-        {
-          "version": "0.9.0-unstable0001",
-          "downloads": 824,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0001.json"
-        },
-        {
-          "version": "0.9.0-unstable0002",
-          "downloads": 954,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0002.json"
-        },
-        {
-          "version": "0.9.0-unstable0003",
-          "downloads": 977,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0003.json"
-        },
-        {
-          "version": "0.9.0-unstable0004",
-          "downloads": 864,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0004.json"
-        },
-        {
-          "version": "0.9.0-unstable0005",
-          "downloads": 851,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0005.json"
-        },
-        {
-          "version": "1.0.0-beta0001",
-          "downloads": 894,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/1.0.0-beta0001.json"
-        },
-        {
-          "version": "1.0.0-beta0002",
-          "downloads": 982,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/1.0.0-beta0002.json"
-        },
-        {
-          "version": "1.0.0-beta0003",
-          "downloads": 858,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/1.0.0-beta0003.json"
-        },
-        {
-          "version": "1.0.0",
-          "downloads": 89053,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/1.0.0.json"
-        },
-        {
-          "version": "2.0.0-beta0002",
-          "downloads": 9929,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/2.0.0-beta0002.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 37068,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/2.0.0.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 35160,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/3.0.0.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 5840,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/4.0.0.json"
-        },
-        {
-          "version": "4.0.1",
-          "downloads": 24537,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/4.0.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/index.json",
@@ -33476,6 +33267,220 @@
           "version": "3.0.0-alpha.9",
           "downloads": 1802,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/3.0.0-alpha.9.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/index.json",
+      "id": "coveralls.net",
+      "version": "4.0.1",
+      "description": "Coveralls.io uploader for .NET Code Coverage. Supports opencover and visual studio's codecoverage.exe on windows, and monocov for mono",
+      "summary": "",
+      "title": "coveralls.net - Coveralls.io uploader for .NET Code Coverage",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/coveralls.net/4.0.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/coveralls.net/4.0.1/license",
+      "projectUrl": "https://github.com/csmacnz/coveralls.net",
+      "tags": [
+        "Code-Coverage",
+        "Coveralls",
+        "opencover",
+        "monocov",
+        "codecoverage.exe",
+        "coveralls.io",
+        "Reporting",
+        "Runner"
+      ],
+      "authors": [
+        "csMACnz"
+      ],
+      "owners": [
+        "csmacnz"
+      ],
+      "totalDownloads": 593977,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.1.50",
+          "downloads": 2347,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.1.50.json"
+        },
+        {
+          "version": "0.1.62",
+          "downloads": 1197,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.1.62.json"
+        },
+        {
+          "version": "0.2.95",
+          "downloads": 1168,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.2.95.json"
+        },
+        {
+          "version": "0.3.106",
+          "downloads": 1561,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.3.106.json"
+        },
+        {
+          "version": "0.4.0-beta0001",
+          "downloads": 1190,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.4.0-beta0001.json"
+        },
+        {
+          "version": "0.4.0-beta0002",
+          "downloads": 1183,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.4.0-beta0002.json"
+        },
+        {
+          "version": "0.4.0",
+          "downloads": 1386,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.4.0.json"
+        },
+        {
+          "version": "0.5.0-beta0001",
+          "downloads": 1172,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0-beta0001.json"
+        },
+        {
+          "version": "0.5.0-beta0002",
+          "downloads": 1178,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0-beta0002.json"
+        },
+        {
+          "version": "0.5.0-beta0003",
+          "downloads": 1117,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0-beta0003.json"
+        },
+        {
+          "version": "0.5.0-beta0004",
+          "downloads": 1161,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0-beta0004.json"
+        },
+        {
+          "version": "0.5.0",
+          "downloads": 7204,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.5.0.json"
+        },
+        {
+          "version": "0.6.0-beta0001",
+          "downloads": 1254,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.6.0-beta0001.json"
+        },
+        {
+          "version": "0.6.0-beta0003",
+          "downloads": 1081,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.6.0-beta0003.json"
+        },
+        {
+          "version": "0.6.0-beta0004",
+          "downloads": 1083,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.6.0-beta0004.json"
+        },
+        {
+          "version": "0.6.0",
+          "downloads": 44921,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.6.0.json"
+        },
+        {
+          "version": "0.7.0-beta0001",
+          "downloads": 12538,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.7.0-beta0001.json"
+        },
+        {
+          "version": "0.7.0",
+          "downloads": 258723,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.7.0.json"
+        },
+        {
+          "version": "0.8.0-beta0001",
+          "downloads": 974,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.8.0-beta0001.json"
+        },
+        {
+          "version": "0.8.0-unstable0008",
+          "downloads": 1145,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.8.0-unstable0008.json"
+        },
+        {
+          "version": "0.8.0-unstable0013",
+          "downloads": 9528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.8.0-unstable0013.json"
+        },
+        {
+          "version": "0.9.0-unstable0001",
+          "downloads": 824,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0001.json"
+        },
+        {
+          "version": "0.9.0-unstable0002",
+          "downloads": 954,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0002.json"
+        },
+        {
+          "version": "0.9.0-unstable0003",
+          "downloads": 977,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0003.json"
+        },
+        {
+          "version": "0.9.0-unstable0004",
+          "downloads": 864,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0004.json"
+        },
+        {
+          "version": "0.9.0-unstable0005",
+          "downloads": 851,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/0.9.0-unstable0005.json"
+        },
+        {
+          "version": "1.0.0-beta0001",
+          "downloads": 894,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/1.0.0-beta0001.json"
+        },
+        {
+          "version": "1.0.0-beta0002",
+          "downloads": 982,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/1.0.0-beta0002.json"
+        },
+        {
+          "version": "1.0.0-beta0003",
+          "downloads": 858,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/1.0.0-beta0003.json"
+        },
+        {
+          "version": "1.0.0",
+          "downloads": 89053,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/1.0.0.json"
+        },
+        {
+          "version": "2.0.0-beta0002",
+          "downloads": 9929,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/2.0.0-beta0002.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 37068,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/2.0.0.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 35160,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/3.0.0.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 5840,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/4.0.0.json"
+        },
+        {
+          "version": "4.0.1",
+          "downloads": 24537,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coveralls.net/4.0.1.json"
         }
       ],
       "vulnerabilities": []
@@ -35708,12 +35713,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/index.json",
       "id": "Libplanet.Tools",
-      "version": "3.2.0-dev.20238275646+3aad879",
+      "version": "3.2.0-dev.20238461459+c4191c2",
       "description": "This CLI app is a collection of utilities for application  programmers who create decentralized games powered by Libplanet  (https://libplanet.io/).",
       "summary": "",
       "title": "planet: Libplanet CLI Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/3.2.0-dev.20238275646/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/3.2.0-dev.20238275646/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/3.2.0-dev.20238461459/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/3.2.0-dev.20238461459/license",
       "projectUrl": "https://libplanet.io/",
       "tags": [],
       "authors": [
@@ -47259,6 +47264,11 @@
           "version": "3.2.0-dev.20238275646+3aad879",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/3.2.0-dev.20238275646.json"
+        },
+        {
+          "version": "3.2.0-dev.20238461459+c4191c2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/3.2.0-dev.20238461459.json"
         }
       ],
       "vulnerabilities": []
@@ -61756,6 +61766,50 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cocor/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/cocor/index.json",
+      "id": "CocoR",
+      "version": "2014.12.24",
+      "description": "The compiler generator Coco/R",
+      "summary": "",
+      "title": "CocoR",
+      "licenseUrl": "https://www.nuget.org/packages/CocoR/2014.12.24/license",
+      "projectUrl": "http://www.ssw.uni-linz.ac.at/Coco/",
+      "tags": [],
+      "authors": [
+        "Hanspeter Mössenböck, Markus Löberbauer, Albrecht Wöß"
+      ],
+      "owners": [
+        "bkragl"
+      ],
+      "totalDownloads": 254835,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2014.12.22",
+          "downloads": 10817,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cocor/2014.12.22.json"
+        },
+        {
+          "version": "2014.12.23",
+          "downloads": 28828,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cocor/2014.12.23.json"
+        },
+        {
+          "version": "2014.12.24",
+          "downloads": 215190,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cocor/2014.12.24.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-fsharplint/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-fsharplint/index.json",
@@ -62033,50 +62087,6 @@
           "version": "0.21.3",
           "downloads": 14596,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-fsharplint/0.21.3.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cocor/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/cocor/index.json",
-      "id": "CocoR",
-      "version": "2014.12.24",
-      "description": "The compiler generator Coco/R",
-      "summary": "",
-      "title": "CocoR",
-      "licenseUrl": "https://www.nuget.org/packages/CocoR/2014.12.24/license",
-      "projectUrl": "http://www.ssw.uni-linz.ac.at/Coco/",
-      "tags": [],
-      "authors": [
-        "Hanspeter Mössenböck, Markus Löberbauer, Albrecht Wöß"
-      ],
-      "owners": [
-        "bkragl"
-      ],
-      "totalDownloads": 254835,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2014.12.22",
-          "downloads": 10817,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cocor/2014.12.22.json"
-        },
-        {
-          "version": "2014.12.23",
-          "downloads": 28828,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cocor/2014.12.23.json"
-        },
-        {
-          "version": "2014.12.24",
-          "downloads": 215190,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cocor/2014.12.24.json"
         }
       ],
       "vulnerabilities": []
@@ -71783,12 +71793,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/rapicgen/index.json",
       "id": "Rapicgen",
-      "version": "1.7.18",
+      "version": "1.8.0",
       "description": "A collection of code generators for Swagger / OpenAPI specification files",
       "summary": "",
       "title": "Rapicgen",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/rapicgen/1.7.18/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Rapicgen/1.7.18/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/rapicgen/1.8.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Rapicgen/1.8.0/license",
       "projectUrl": "https://github.com/christianhelle/apiclientcodegen",
       "tags": [],
       "authors": [
@@ -72509,6 +72519,11 @@
           "version": "1.7.18",
           "downloads": 3749,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/rapicgen/1.7.18.json"
+        },
+        {
+          "version": "1.8.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/rapicgen/1.8.0.json"
         }
       ],
       "vulnerabilities": []
@@ -73349,141 +73364,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/index.json",
-      "id": "Amazon.ECS.Tools",
-      "version": "3.5.2",
-      "description": "Amazon.ECS.Tools adds commands to the dotnet cli to deploy .NET Core applications to Amazon Elastic Container Service. For example to deploy an ASP.NET Core application from the command execute \"dotnet ecs deploy-service\" on the command line.",
-      "summary": "",
-      "title": "Amazon.ECS.Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/amazon.ecs.tools/3.5.2/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Amazon.ECS.Tools/3.5.2/license",
-      "projectUrl": "https://github.com/aws/aws-extensions-for-dotnet-cli",
-      "tags": [
-        "AWS",
-        "Amazon",
-        "Docker",
-        "ECS"
-      ],
-      "authors": [
-        "Amazon Web Services"
-      ],
-      "owners": [
-        "awsdotnet"
-      ],
-      "totalDownloads": 218817,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "downloads": 14187,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/1.0.0.json"
-        },
-        {
-          "version": "1.1.0",
-          "downloads": 19690,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/1.1.0.json"
-        },
-        {
-          "version": "1.1.1",
-          "downloads": 995,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/1.1.1.json"
-        },
-        {
-          "version": "1.1.2",
-          "downloads": 1172,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/1.1.2.json"
-        },
-        {
-          "version": "1.1.3",
-          "downloads": 1429,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/1.1.3.json"
-        },
-        {
-          "version": "1.1.4",
-          "downloads": 24674,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/1.1.4.json"
-        },
-        {
-          "version": "1.1.5",
-          "downloads": 1813,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/1.1.5.json"
-        },
-        {
-          "version": "1.2.0",
-          "downloads": 107202,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/1.2.0.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 3408,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.0.0.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 6888,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.1.0.json"
-        },
-        {
-          "version": "3.2.0",
-          "downloads": 3358,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.2.0.json"
-        },
-        {
-          "version": "3.3.0",
-          "downloads": 906,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.3.0.json"
-        },
-        {
-          "version": "3.3.1",
-          "downloads": 479,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.3.1.json"
-        },
-        {
-          "version": "3.4.0",
-          "downloads": 1351,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.4.0.json"
-        },
-        {
-          "version": "3.4.1",
-          "downloads": 734,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.4.1.json"
-        },
-        {
-          "version": "3.4.2",
-          "downloads": 2829,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.4.2.json"
-        },
-        {
-          "version": "3.4.3",
-          "downloads": 7201,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.4.3.json"
-        },
-        {
-          "version": "3.5.0",
-          "downloads": 4809,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.5.0.json"
-        },
-        {
-          "version": "3.5.1",
-          "downloads": 2744,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.5.1.json"
-        },
-        {
-          "version": "3.5.2",
-          "downloads": 12948,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.5.2.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-symbol/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-symbol/index.json",
@@ -73637,6 +73517,141 @@
           "version": "1.0.415602",
           "downloads": 60814,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-symbol/1.0.415602.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/index.json",
+      "id": "Amazon.ECS.Tools",
+      "version": "3.5.2",
+      "description": "Amazon.ECS.Tools adds commands to the dotnet cli to deploy .NET Core applications to Amazon Elastic Container Service. For example to deploy an ASP.NET Core application from the command execute \"dotnet ecs deploy-service\" on the command line.",
+      "summary": "",
+      "title": "Amazon.ECS.Tools",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/amazon.ecs.tools/3.5.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Amazon.ECS.Tools/3.5.2/license",
+      "projectUrl": "https://github.com/aws/aws-extensions-for-dotnet-cli",
+      "tags": [
+        "AWS",
+        "Amazon",
+        "Docker",
+        "ECS"
+      ],
+      "authors": [
+        "Amazon Web Services"
+      ],
+      "owners": [
+        "awsdotnet"
+      ],
+      "totalDownloads": 218817,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloads": 14187,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/1.0.0.json"
+        },
+        {
+          "version": "1.1.0",
+          "downloads": 19690,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/1.1.0.json"
+        },
+        {
+          "version": "1.1.1",
+          "downloads": 995,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/1.1.1.json"
+        },
+        {
+          "version": "1.1.2",
+          "downloads": 1172,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/1.1.2.json"
+        },
+        {
+          "version": "1.1.3",
+          "downloads": 1429,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/1.1.3.json"
+        },
+        {
+          "version": "1.1.4",
+          "downloads": 24674,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/1.1.4.json"
+        },
+        {
+          "version": "1.1.5",
+          "downloads": 1813,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/1.1.5.json"
+        },
+        {
+          "version": "1.2.0",
+          "downloads": 107202,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/1.2.0.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 3408,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.0.0.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 6888,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.1.0.json"
+        },
+        {
+          "version": "3.2.0",
+          "downloads": 3358,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.2.0.json"
+        },
+        {
+          "version": "3.3.0",
+          "downloads": 906,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.3.0.json"
+        },
+        {
+          "version": "3.3.1",
+          "downloads": 479,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.3.1.json"
+        },
+        {
+          "version": "3.4.0",
+          "downloads": 1351,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.4.0.json"
+        },
+        {
+          "version": "3.4.1",
+          "downloads": 734,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.4.1.json"
+        },
+        {
+          "version": "3.4.2",
+          "downloads": 2829,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.4.2.json"
+        },
+        {
+          "version": "3.4.3",
+          "downloads": 7201,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.4.3.json"
+        },
+        {
+          "version": "3.5.0",
+          "downloads": 4809,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.5.0.json"
+        },
+        {
+          "version": "3.5.1",
+          "downloads": 2744,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.5.1.json"
+        },
+        {
+          "version": "3.5.2",
+          "downloads": 12948,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.ecs.tools/3.5.2.json"
         }
       ],
       "vulnerabilities": []
