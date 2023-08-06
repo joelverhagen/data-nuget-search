@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 340497,
+  "totalHits": 340616,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -24680,6 +24680,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/7.0.0-dev-00535.json"
         },
         {
+          "version": "7.0.0-dev-00538",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/7.0.0-dev-00538.json"
+        },
+        {
           "version": "7.0.0",
           "downloads": 3131913,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.settings.configuration/7.0.0.json"
@@ -29336,12 +29341,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/nlog/index.json",
       "id": "NLog",
-      "version": "5.2.2",
+      "version": "5.2.3",
       "description": "NLog is a logging platform for .NET with rich log routing and management capabilities.\nNLog supports traditional logging, structured logging and the combination of both.\n\nSupported platforms:\n\n- .NET 5, 6 and 7\n- .NET Core 1, 2 and 3\n- .NET Standard 1.3+ and 2.0+\n- .NET Framework 3.5 - 4.8\n- Xamarin Android + iOS (.NET Standard)\n- Mono 4\n\nFor ASP.NET Core, check: https://www.nuget.org/packages/NLog.Web.AspNetCore",
       "summary": "",
       "title": "NLog for .NET Framework and .NET Standard",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/nlog/5.2.2/icon",
-      "licenseUrl": "https://www.nuget.org/packages/NLog/5.2.2/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/nlog/5.2.3/icon",
+      "licenseUrl": "https://www.nuget.org/packages/NLog/5.2.3/license",
       "projectUrl": "https://nlog-project.org/",
       "tags": [
         "NLog",
@@ -29844,6 +29849,11 @@
           "version": "5.2.2",
           "downloads": 258256,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nlog/5.2.2.json"
+        },
+        {
+          "version": "5.2.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nlog/5.2.3.json"
         }
       ],
       "vulnerabilities": []
@@ -37620,6 +37630,175 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/index.json",
+      "id": "Azure.Security.KeyVault.Certificates",
+      "version": "4.5.1",
+      "description": "This is the Microsoft Azure Key Vault Certificates client library",
+      "summary": "",
+      "title": "Azure.Security.KeyVault.Certificates",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.security.keyvault.certificates/4.5.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Azure.Security.KeyVault.Certificates/4.5.1/license",
+      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Security.KeyVault.Certificates_4.5.1/sdk/keyvault/Azure.Security.KeyVault.Certificates/README.md",
+      "tags": [
+        "Microsoft",
+        "Azure",
+        "Key",
+        "Vault",
+        "Certificates",
+        "windowsazureofficial",
+        "azureofficial"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "azure-sdk",
+        "Microsoft"
+      ],
+      "totalDownloads": 46019286,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "4.0.0-preview.4",
+          "downloads": 381,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.0-preview.4.json"
+        },
+        {
+          "version": "4.0.0-preview.5",
+          "downloads": 829,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.0-preview.5.json"
+        },
+        {
+          "version": "4.0.0-preview.6",
+          "downloads": 592,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.0-preview.6.json"
+        },
+        {
+          "version": "4.0.0-preview.7",
+          "downloads": 736,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.0-preview.7.json"
+        },
+        {
+          "version": "4.0.0-preview.8",
+          "downloads": 475,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.0-preview.8.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 89726,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.0.json"
+        },
+        {
+          "version": "4.0.1",
+          "downloads": 29549,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.1.json"
+        },
+        {
+          "version": "4.0.2",
+          "downloads": 1060132,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.2.json"
+        },
+        {
+          "version": "4.0.3",
+          "downloads": 90185,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.3.json"
+        },
+        {
+          "version": "4.1.0-preview.1",
+          "downloads": 38876,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.1.0-preview.1.json"
+        },
+        {
+          "version": "4.1.0",
+          "downloads": 36688002,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.1.0.json"
+        },
+        {
+          "version": "4.2.0-beta.1",
+          "downloads": 17987,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.2.0-beta.1.json"
+        },
+        {
+          "version": "4.2.0-beta.2",
+          "downloads": 913,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.2.0-beta.2.json"
+        },
+        {
+          "version": "4.2.0-beta.3",
+          "downloads": 102754,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.2.0-beta.3.json"
+        },
+        {
+          "version": "4.2.0-beta.4",
+          "downloads": 21548,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.2.0-beta.4.json"
+        },
+        {
+          "version": "4.2.0-beta.5",
+          "downloads": 7532,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.2.0-beta.5.json"
+        },
+        {
+          "version": "4.2.0-beta.6",
+          "downloads": 1411,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.2.0-beta.6.json"
+        },
+        {
+          "version": "4.2.0",
+          "downloads": 2862003,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.2.0.json"
+        },
+        {
+          "version": "4.3.0-beta.1",
+          "downloads": 174157,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.3.0-beta.1.json"
+        },
+        {
+          "version": "4.3.0-beta.2",
+          "downloads": 10762,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.3.0-beta.2.json"
+        },
+        {
+          "version": "4.3.0-beta.4",
+          "downloads": 16976,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.3.0-beta.4.json"
+        },
+        {
+          "version": "4.3.0",
+          "downloads": 2238578,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.3.0.json"
+        },
+        {
+          "version": "4.4.0",
+          "downloads": 1715659,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.4.0.json"
+        },
+        {
+          "version": "4.5.0-beta.1",
+          "downloads": 6827,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.5.0-beta.1.json"
+        },
+        {
+          "version": "4.5.0",
+          "downloads": 150909,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.5.0.json"
+        },
+        {
+          "version": "4.5.1",
+          "downloads": 644202,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.5.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/index.json",
@@ -37811,175 +37990,6 @@
           "version": "5.3.0-preview1",
           "downloads": 7722,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnet.mvc/5.3.0-preview1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/index.json",
-      "id": "Azure.Security.KeyVault.Certificates",
-      "version": "4.5.1",
-      "description": "This is the Microsoft Azure Key Vault Certificates client library",
-      "summary": "",
-      "title": "Azure.Security.KeyVault.Certificates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.security.keyvault.certificates/4.5.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Azure.Security.KeyVault.Certificates/4.5.1/license",
-      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Security.KeyVault.Certificates_4.5.1/sdk/keyvault/Azure.Security.KeyVault.Certificates/README.md",
-      "tags": [
-        "Microsoft",
-        "Azure",
-        "Key",
-        "Vault",
-        "Certificates",
-        "windowsazureofficial",
-        "azureofficial"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "azure-sdk",
-        "Microsoft"
-      ],
-      "totalDownloads": 46019286,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "4.0.0-preview.4",
-          "downloads": 381,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.0-preview.4.json"
-        },
-        {
-          "version": "4.0.0-preview.5",
-          "downloads": 829,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.0-preview.5.json"
-        },
-        {
-          "version": "4.0.0-preview.6",
-          "downloads": 592,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.0-preview.6.json"
-        },
-        {
-          "version": "4.0.0-preview.7",
-          "downloads": 736,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.0-preview.7.json"
-        },
-        {
-          "version": "4.0.0-preview.8",
-          "downloads": 475,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.0-preview.8.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 89726,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.0.json"
-        },
-        {
-          "version": "4.0.1",
-          "downloads": 29549,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.1.json"
-        },
-        {
-          "version": "4.0.2",
-          "downloads": 1060132,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.2.json"
-        },
-        {
-          "version": "4.0.3",
-          "downloads": 90185,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.0.3.json"
-        },
-        {
-          "version": "4.1.0-preview.1",
-          "downloads": 38876,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.1.0-preview.1.json"
-        },
-        {
-          "version": "4.1.0",
-          "downloads": 36688002,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.1.0.json"
-        },
-        {
-          "version": "4.2.0-beta.1",
-          "downloads": 17987,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.2.0-beta.1.json"
-        },
-        {
-          "version": "4.2.0-beta.2",
-          "downloads": 913,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.2.0-beta.2.json"
-        },
-        {
-          "version": "4.2.0-beta.3",
-          "downloads": 102754,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.2.0-beta.3.json"
-        },
-        {
-          "version": "4.2.0-beta.4",
-          "downloads": 21548,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.2.0-beta.4.json"
-        },
-        {
-          "version": "4.2.0-beta.5",
-          "downloads": 7532,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.2.0-beta.5.json"
-        },
-        {
-          "version": "4.2.0-beta.6",
-          "downloads": 1411,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.2.0-beta.6.json"
-        },
-        {
-          "version": "4.2.0",
-          "downloads": 2862003,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.2.0.json"
-        },
-        {
-          "version": "4.3.0-beta.1",
-          "downloads": 174157,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.3.0-beta.1.json"
-        },
-        {
-          "version": "4.3.0-beta.2",
-          "downloads": 10762,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.3.0-beta.2.json"
-        },
-        {
-          "version": "4.3.0-beta.4",
-          "downloads": 16976,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.3.0-beta.4.json"
-        },
-        {
-          "version": "4.3.0",
-          "downloads": 2238578,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.3.0.json"
-        },
-        {
-          "version": "4.4.0",
-          "downloads": 1715659,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.4.0.json"
-        },
-        {
-          "version": "4.5.0-beta.1",
-          "downloads": 6827,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.5.0-beta.1.json"
-        },
-        {
-          "version": "4.5.0",
-          "downloads": 150909,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.5.0.json"
-        },
-        {
-          "version": "4.5.1",
-          "downloads": 644202,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.certificates/4.5.1.json"
         }
       ],
       "vulnerabilities": []
