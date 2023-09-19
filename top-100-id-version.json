@@ -76,12 +76,12 @@
     "version": "6.5.0"
   },
   {
-    "id": "AutoMapper",
-    "version": "12.0.1"
-  },
-  {
     "id": "Swashbuckle.AspNetCore.SwaggerGen",
     "version": "6.5.0"
+  },
+  {
+    "id": "AutoMapper",
+    "version": "12.0.1"
   },
   {
     "id": "System.Diagnostics.PerformanceCounter",
@@ -112,12 +112,12 @@
     "version": "12.18.0"
   },
   {
-    "id": "Microsoft.Extensions.Hosting",
-    "version": "8.0.0-rc.1.23419.4"
-  },
-  {
     "id": "Serilog.Sinks.File",
     "version": "5.0.1-dev-00947"
+  },
+  {
+    "id": "Microsoft.Extensions.Hosting",
+    "version": "8.0.0-rc.1.23419.4"
   },
   {
     "id": "Microsoft.Data.SqlClient",
@@ -137,7 +137,7 @@
   },
   {
     "id": "xunit",
-    "version": "2.5.1-pre.33"
+    "version": "2.5.1"
   },
   {
     "id": "Serilog.Sinks.Console",
@@ -172,12 +172,12 @@
     "version": "4.4.0"
   },
   {
-    "id": "Microsoft.AspNetCore.Mvc.NewtonsoftJson",
-    "version": "8.0.0-rc.1.23421.29"
-  },
-  {
     "id": "StackExchange.Redis",
     "version": "2.6.122"
+  },
+  {
+    "id": "Microsoft.AspNetCore.Mvc.NewtonsoftJson",
+    "version": "8.0.0-rc.1.23421.29"
   },
   {
     "id": "Serilog.Formatting.Compact",
@@ -256,19 +256,23 @@
     "version": "8.0.0-rc.1.23419.4"
   },
   {
+    "id": "System.Memory.Data",
+    "version": "8.0.0-rc.1.23419.4"
+  },
+  {
     "id": "IdentityModel",
     "version": "6.2.0"
   },
   {
-    "id": "System.Memory.Data",
-    "version": "8.0.0-rc.1.23419.4"
+    "id": "Serilog.AspNetCore",
+    "version": "7.0.0"
   },
   {
     "id": "Microsoft.Azure.WebJobs",
     "version": "3.0.37"
   },
   {
-    "id": "Serilog.AspNetCore",
+    "id": "Serilog.Extensions.Hosting",
     "version": "7.0.0"
   },
   {
@@ -276,28 +280,24 @@
     "version": "7.1.0"
   },
   {
-    "id": "Serilog.Extensions.Hosting",
-    "version": "7.0.0"
-  },
-  {
     "id": "RestSharp",
     "version": "110.2.1-alpha.0.13"
-  },
-  {
-    "id": "Azure.Storage.Queues",
-    "version": "12.16.0"
   },
   {
     "id": "System.Formats.Asn1",
     "version": "8.0.0-rc.1.23419.4"
   },
   {
-    "id": "EntityFramework",
-    "version": "6.4.4"
+    "id": "Azure.Storage.Queues",
+    "version": "12.16.0"
   },
   {
     "id": "Portable.BouncyCastle",
     "version": "1.9.0"
+  },
+  {
+    "id": "EntityFramework",
+    "version": "6.4.4"
   },
   {
     "id": "Microsoft.IdentityModel.Abstractions",
@@ -328,12 +328,12 @@
     "version": "7.16.1"
   },
   {
-    "id": "Azure.Security.KeyVault.Certificates",
-    "version": "4.5.1"
-  },
-  {
     "id": "Serilog.Sinks.PeriodicBatching",
     "version": "3.1.1-dev-00804"
+  },
+  {
+    "id": "Azure.Security.KeyVault.Certificates",
+    "version": "4.5.1"
   },
   {
     "id": "log4net",
@@ -376,6 +376,10 @@
     "version": "2.22.0-beta3"
   },
   {
+    "id": "SQLitePCLRaw.core",
+    "version": "2.1.6"
+  },
+  {
     "id": "Microsoft.NET.Sdk.iOS.Manifest-6.0.400",
     "version": "16.4.60+sha.701aa230c"
   },
@@ -394,9 +398,5 @@
   {
     "id": "Microsoft.NET.Sdk.Maui.Manifest-6.0.400",
     "version": "6.0.553+0-sha.4e42dc24b-azdo.7673671"
-  },
-  {
-    "id": "Microsoft.NET.Sdk.tvOS.Manifest-6.0.400",
-    "version": "16.4.60+sha.701aa230c"
   }
 ]
