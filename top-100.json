@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 349800,
+  "totalHits": 349985,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -17288,340 +17288,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/index.json",
-      "id": "Microsoft.Data.SqlClient",
-      "version": "5.2.0-preview3.23201.1",
-      "description": "The current data provider for SQL Server and Azure SQL databases. This has replaced System.Data.SqlClient. These classes provide access to SQL and encapsulate database-specific protocols, including tabular data stream (TDS).\n    \nCommonly Used Types:\nMicrosoft.Data.SqlClient.SqlConnection\nMicrosoft.Data.SqlClient.SqlException\nMicrosoft.Data.SqlClient.SqlParameter\nMicrosoft.Data.SqlClient.SqlDataReader\nMicrosoft.Data.SqlClient.SqlCommand\nMicrosoft.Data.SqlClient.SqlTransaction\nMicrosoft.Data.SqlClient.SqlParameterCollection\nMicrosoft.Data.SqlClient.SqlClientFactory\n\nWhen using NuGet 3.x this package requires at least version 3.4.",
-      "summary": "",
-      "title": "Microsoft.Data.SqlClient",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.data.sqlclient/5.2.0-preview3.23201.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Data.SqlClient/5.2.0-preview3.23201.1/license",
-      "projectUrl": "https://aka.ms/sqlclientproject",
-      "tags": [
-        "sqlclient",
-        "microsoft.data.sqlclient"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "Microsoft",
-        "nugetsqltools"
-      ],
-      "totalDownloads": 418953453,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.19123.2-Preview",
-          "downloads": 2148,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.0.19123.2-preview.json"
-        },
-        {
-          "version": "1.0.19128.1-Preview",
-          "downloads": 240752,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.0.19128.1-preview.json"
-        },
-        {
-          "version": "1.0.19189.1-Preview",
-          "downloads": 118277,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.0.19189.1-preview.json"
-        },
-        {
-          "version": "1.0.19221.1-Preview",
-          "downloads": 56838,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.0.19221.1-preview.json"
-        },
-        {
-          "version": "1.0.19239.1",
-          "downloads": 4128717,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.0.19239.1.json"
-        },
-        {
-          "version": "1.0.19249.1",
-          "downloads": 10434170,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.0.19249.1.json"
-        },
-        {
-          "version": "1.0.19269.1",
-          "downloads": 39216716,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.0.19269.1.json"
-        },
-        {
-          "version": "1.1.0-preview1.19275.1",
-          "downloads": 80296,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.1.0-preview1.19275.1.json"
-        },
-        {
-          "version": "1.1.0-preview2.19309.1",
-          "downloads": 10788,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.1.0-preview2.19309.1.json"
-        },
-        {
-          "version": "1.1.0",
-          "downloads": 5856059,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.1.0.json"
-        },
-        {
-          "version": "1.1.1",
-          "downloads": 11946725,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.1.1.json"
-        },
-        {
-          "version": "1.1.2",
-          "downloads": 1597805,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.1.2.json"
-        },
-        {
-          "version": "1.1.3",
-          "downloads": 46103001,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.1.3.json"
-        },
-        {
-          "version": "1.1.4",
-          "downloads": 1232384,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.1.4.json"
-        },
-        {
-          "version": "2.0.0-preview1.20021.1",
-          "downloads": 270214,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.0.0-preview1.20021.1.json"
-        },
-        {
-          "version": "2.0.0-preview2.20084.1",
-          "downloads": 59283,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.0.0-preview2.20084.1.json"
-        },
-        {
-          "version": "2.0.0-preview3.20122.2",
-          "downloads": 92439,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.0.0-preview3.20122.2.json"
-        },
-        {
-          "version": "2.0.0-preview4.20142.4",
-          "downloads": 43008,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.0.0-preview4.20142.4.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 13243212,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.0.0.json"
-        },
-        {
-          "version": "2.0.1",
-          "downloads": 57564243,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.0.1.json"
-        },
-        {
-          "version": "2.1.0-preview1.20235.1",
-          "downloads": 171690,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.0-preview1.20235.1.json"
-        },
-        {
-          "version": "2.1.0-preview2.20297.7",
-          "downloads": 120693,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.0-preview2.20297.7.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 3303528,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.0.json"
-        },
-        {
-          "version": "2.1.1",
-          "downloads": 10063298,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.1.json"
-        },
-        {
-          "version": "2.1.2",
-          "downloads": 19643491,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.2.json"
-        },
-        {
-          "version": "2.1.3",
-          "downloads": 2610630,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.3.json"
-        },
-        {
-          "version": "2.1.4",
-          "downloads": 71635449,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.4.json"
-        },
-        {
-          "version": "2.1.5",
-          "downloads": 1377098,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.5.json"
-        },
-        {
-          "version": "2.1.6",
-          "downloads": 288733,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.6.json"
-        },
-        {
-          "version": "3.0.0-preview1.21075.2",
-          "downloads": 114268,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.0.0-preview1.21075.2.json"
-        },
-        {
-          "version": "3.0.0-preview2.21106.5",
-          "downloads": 31327,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.0.0-preview2.21106.5.json"
-        },
-        {
-          "version": "3.0.0-preview3.21140.5",
-          "downloads": 8193,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.0.0-preview3.21140.5.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 13033944,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.0.0.json"
-        },
-        {
-          "version": "3.0.1",
-          "downloads": 21748027,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.0.1.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 1181471,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.1.0.json"
-        },
-        {
-          "version": "3.1.1",
-          "downloads": 756298,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.1.1.json"
-        },
-        {
-          "version": "3.1.2",
-          "downloads": 55828,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.1.2.json"
-        },
-        {
-          "version": "3.1.3",
-          "downloads": 170637,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.1.3.json"
-        },
-        {
-          "version": "4.0.0-preview1.21237.2",
-          "downloads": 215843,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.0.0-preview1.21237.2.json"
-        },
-        {
-          "version": "4.0.0-preview2.21264.2",
-          "downloads": 12102,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.0.0-preview2.21264.2.json"
-        },
-        {
-          "version": "4.0.0-preview3.21293.2",
-          "downloads": 117623,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.0.0-preview3.21293.2.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 7579169,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.0.0.json"
-        },
-        {
-          "version": "4.0.1",
-          "downloads": 2215203,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.0.1.json"
-        },
-        {
-          "version": "4.0.2",
-          "downloads": 130012,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.0.2.json"
-        },
-        {
-          "version": "4.0.3",
-          "downloads": 4653,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.0.3.json"
-        },
-        {
-          "version": "4.1.0",
-          "downloads": 14674473,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.1.0.json"
-        },
-        {
-          "version": "4.1.1",
-          "downloads": 1345623,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.1.1.json"
-        },
-        {
-          "version": "5.0.0-preview1.22069.1",
-          "downloads": 9231,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.0.0-preview1.22069.1.json"
-        },
-        {
-          "version": "5.0.0-preview2.22096.2",
-          "downloads": 140347,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.0.0-preview2.22096.2.json"
-        },
-        {
-          "version": "5.0.0-preview3.22168.1",
-          "downloads": 10908,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.0.0-preview3.22168.1.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 4327534,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.0.0.json"
-        },
-        {
-          "version": "5.0.1",
-          "downloads": 27618087,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.0.1.json"
-        },
-        {
-          "version": "5.0.2",
-          "downloads": 4893751,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.0.2.json"
-        },
-        {
-          "version": "5.1.0-preview1.22279.3",
-          "downloads": 22778,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.1.0-preview1.22279.3.json"
-        },
-        {
-          "version": "5.1.0-preview2.22314.2",
-          "downloads": 104142,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.1.0-preview2.22314.2.json"
-        },
-        {
-          "version": "5.1.0",
-          "downloads": 6554301,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.1.0.json"
-        },
-        {
-          "version": "5.1.1",
-          "downloads": 10258920,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.1.1.json"
-        },
-        {
-          "version": "5.2.0-preview1.23109.1",
-          "downloads": 26382,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.2.0-preview1.23109.1.json"
-        },
-        {
-          "version": "5.2.0-preview2.23159.1",
-          "downloads": 19429,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.2.0-preview2.23159.1.json"
-        },
-        {
-          "version": "5.2.0-preview3.23201.1",
-          "downloads": 61264,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.2.0-preview3.23201.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/index.json",
@@ -17952,6 +17618,340 @@
           "version": "12.19.0-beta.1",
           "downloads": 223,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.blobs/12.19.0-beta.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/index.json",
+      "id": "Microsoft.Data.SqlClient",
+      "version": "5.2.0-preview3.23201.1",
+      "description": "The current data provider for SQL Server and Azure SQL databases. This has replaced System.Data.SqlClient. These classes provide access to SQL and encapsulate database-specific protocols, including tabular data stream (TDS).\n    \nCommonly Used Types:\nMicrosoft.Data.SqlClient.SqlConnection\nMicrosoft.Data.SqlClient.SqlException\nMicrosoft.Data.SqlClient.SqlParameter\nMicrosoft.Data.SqlClient.SqlDataReader\nMicrosoft.Data.SqlClient.SqlCommand\nMicrosoft.Data.SqlClient.SqlTransaction\nMicrosoft.Data.SqlClient.SqlParameterCollection\nMicrosoft.Data.SqlClient.SqlClientFactory\n\nWhen using NuGet 3.x this package requires at least version 3.4.",
+      "summary": "",
+      "title": "Microsoft.Data.SqlClient",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.data.sqlclient/5.2.0-preview3.23201.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Data.SqlClient/5.2.0-preview3.23201.1/license",
+      "projectUrl": "https://aka.ms/sqlclientproject",
+      "tags": [
+        "sqlclient",
+        "microsoft.data.sqlclient"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "Microsoft",
+        "nugetsqltools"
+      ],
+      "totalDownloads": 418953453,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.19123.2-Preview",
+          "downloads": 2148,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.0.19123.2-preview.json"
+        },
+        {
+          "version": "1.0.19128.1-Preview",
+          "downloads": 240752,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.0.19128.1-preview.json"
+        },
+        {
+          "version": "1.0.19189.1-Preview",
+          "downloads": 118277,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.0.19189.1-preview.json"
+        },
+        {
+          "version": "1.0.19221.1-Preview",
+          "downloads": 56838,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.0.19221.1-preview.json"
+        },
+        {
+          "version": "1.0.19239.1",
+          "downloads": 4128717,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.0.19239.1.json"
+        },
+        {
+          "version": "1.0.19249.1",
+          "downloads": 10434170,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.0.19249.1.json"
+        },
+        {
+          "version": "1.0.19269.1",
+          "downloads": 39216716,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.0.19269.1.json"
+        },
+        {
+          "version": "1.1.0-preview1.19275.1",
+          "downloads": 80296,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.1.0-preview1.19275.1.json"
+        },
+        {
+          "version": "1.1.0-preview2.19309.1",
+          "downloads": 10788,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.1.0-preview2.19309.1.json"
+        },
+        {
+          "version": "1.1.0",
+          "downloads": 5856059,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.1.0.json"
+        },
+        {
+          "version": "1.1.1",
+          "downloads": 11946725,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.1.1.json"
+        },
+        {
+          "version": "1.1.2",
+          "downloads": 1597805,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.1.2.json"
+        },
+        {
+          "version": "1.1.3",
+          "downloads": 46103001,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.1.3.json"
+        },
+        {
+          "version": "1.1.4",
+          "downloads": 1232384,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/1.1.4.json"
+        },
+        {
+          "version": "2.0.0-preview1.20021.1",
+          "downloads": 270214,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.0.0-preview1.20021.1.json"
+        },
+        {
+          "version": "2.0.0-preview2.20084.1",
+          "downloads": 59283,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.0.0-preview2.20084.1.json"
+        },
+        {
+          "version": "2.0.0-preview3.20122.2",
+          "downloads": 92439,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.0.0-preview3.20122.2.json"
+        },
+        {
+          "version": "2.0.0-preview4.20142.4",
+          "downloads": 43008,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.0.0-preview4.20142.4.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 13243212,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.0.0.json"
+        },
+        {
+          "version": "2.0.1",
+          "downloads": 57564243,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.0.1.json"
+        },
+        {
+          "version": "2.1.0-preview1.20235.1",
+          "downloads": 171690,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.0-preview1.20235.1.json"
+        },
+        {
+          "version": "2.1.0-preview2.20297.7",
+          "downloads": 120693,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.0-preview2.20297.7.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 3303528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.0.json"
+        },
+        {
+          "version": "2.1.1",
+          "downloads": 10063298,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.1.json"
+        },
+        {
+          "version": "2.1.2",
+          "downloads": 19643491,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.2.json"
+        },
+        {
+          "version": "2.1.3",
+          "downloads": 2610630,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.3.json"
+        },
+        {
+          "version": "2.1.4",
+          "downloads": 71635449,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.4.json"
+        },
+        {
+          "version": "2.1.5",
+          "downloads": 1377098,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.5.json"
+        },
+        {
+          "version": "2.1.6",
+          "downloads": 288733,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/2.1.6.json"
+        },
+        {
+          "version": "3.0.0-preview1.21075.2",
+          "downloads": 114268,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.0.0-preview1.21075.2.json"
+        },
+        {
+          "version": "3.0.0-preview2.21106.5",
+          "downloads": 31327,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.0.0-preview2.21106.5.json"
+        },
+        {
+          "version": "3.0.0-preview3.21140.5",
+          "downloads": 8193,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.0.0-preview3.21140.5.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 13033944,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.0.0.json"
+        },
+        {
+          "version": "3.0.1",
+          "downloads": 21748027,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.0.1.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 1181471,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.1.0.json"
+        },
+        {
+          "version": "3.1.1",
+          "downloads": 756298,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.1.1.json"
+        },
+        {
+          "version": "3.1.2",
+          "downloads": 55828,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.1.2.json"
+        },
+        {
+          "version": "3.1.3",
+          "downloads": 170637,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/3.1.3.json"
+        },
+        {
+          "version": "4.0.0-preview1.21237.2",
+          "downloads": 215843,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.0.0-preview1.21237.2.json"
+        },
+        {
+          "version": "4.0.0-preview2.21264.2",
+          "downloads": 12102,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.0.0-preview2.21264.2.json"
+        },
+        {
+          "version": "4.0.0-preview3.21293.2",
+          "downloads": 117623,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.0.0-preview3.21293.2.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 7579169,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.0.0.json"
+        },
+        {
+          "version": "4.0.1",
+          "downloads": 2215203,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.0.1.json"
+        },
+        {
+          "version": "4.0.2",
+          "downloads": 130012,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.0.2.json"
+        },
+        {
+          "version": "4.0.3",
+          "downloads": 4653,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.0.3.json"
+        },
+        {
+          "version": "4.1.0",
+          "downloads": 14674473,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.1.0.json"
+        },
+        {
+          "version": "4.1.1",
+          "downloads": 1345623,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/4.1.1.json"
+        },
+        {
+          "version": "5.0.0-preview1.22069.1",
+          "downloads": 9231,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.0.0-preview1.22069.1.json"
+        },
+        {
+          "version": "5.0.0-preview2.22096.2",
+          "downloads": 140347,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.0.0-preview2.22096.2.json"
+        },
+        {
+          "version": "5.0.0-preview3.22168.1",
+          "downloads": 10908,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.0.0-preview3.22168.1.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 4327534,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.0.0.json"
+        },
+        {
+          "version": "5.0.1",
+          "downloads": 27618087,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.0.1.json"
+        },
+        {
+          "version": "5.0.2",
+          "downloads": 4893751,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.0.2.json"
+        },
+        {
+          "version": "5.1.0-preview1.22279.3",
+          "downloads": 22778,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.1.0-preview1.22279.3.json"
+        },
+        {
+          "version": "5.1.0-preview2.22314.2",
+          "downloads": 104142,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.1.0-preview2.22314.2.json"
+        },
+        {
+          "version": "5.1.0",
+          "downloads": 6554301,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.1.0.json"
+        },
+        {
+          "version": "5.1.1",
+          "downloads": 10258920,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.1.1.json"
+        },
+        {
+          "version": "5.2.0-preview1.23109.1",
+          "downloads": 26382,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.2.0-preview1.23109.1.json"
+        },
+        {
+          "version": "5.2.0-preview2.23159.1",
+          "downloads": 19429,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.2.0-preview2.23159.1.json"
+        },
+        {
+          "version": "5.2.0-preview3.23201.1",
+          "downloads": 61264,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.2.0-preview3.23201.1.json"
         }
       ],
       "vulnerabilities": []
@@ -36763,181 +36763,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/index.json",
-      "id": "Portable.BouncyCastle",
-      "version": "1.9.0",
-      "description": "BouncyCastle portable version with support for .NET 4, .NET Standard 2.0",
-      "summary": "",
-      "title": "Bouncy Castle Portable",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/portable.bouncycastle/1.9.0/icon",
-      "licenseUrl": "https://www.bouncycastle.org/csharp/licence.html",
-      "projectUrl": "https://www.bouncycastle.org/csharp/",
-      "tags": [
-        "bouncycastle",
-        "cryptography",
-        "encryption",
-        "security"
-      ],
-      "authors": [
-        "Claire Novotny"
-      ],
-      "owners": [
-        "clairernovotny"
-      ],
-      "totalDownloads": 239498780,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.7.0",
-          "downloads": 17437,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.7.0.json"
-        },
-        {
-          "version": "1.7.0.1",
-          "downloads": 42812,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.7.0.1.json"
-        },
-        {
-          "version": "1.7.0.2",
-          "downloads": 71306,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.7.0.2.json"
-        },
-        {
-          "version": "1.8.0-beta3",
-          "downloads": 1899,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.0-beta3.json"
-        },
-        {
-          "version": "1.8.0-beta4",
-          "downloads": 2147,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.0-beta4.json"
-        },
-        {
-          "version": "1.8.0-beta4-update1",
-          "downloads": 2202,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.0-beta4-update1.json"
-        },
-        {
-          "version": "1.8.0-RC1",
-          "downloads": 2161,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.0-rc1.json"
-        },
-        {
-          "version": "1.8.0-rc2",
-          "downloads": 2930,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.0-rc2.json"
-        },
-        {
-          "version": "1.8.0-rc3",
-          "downloads": 1626,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.0-rc3.json"
-        },
-        {
-          "version": "1.8.0-rc4",
-          "downloads": 2551,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.0-rc4.json"
-        },
-        {
-          "version": "1.8.0",
-          "downloads": 219655,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.0.json"
-        },
-        {
-          "version": "1.8.1",
-          "downloads": 233360,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.1.json"
-        },
-        {
-          "version": "1.8.1.1",
-          "downloads": 4881455,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.1.1.json"
-        },
-        {
-          "version": "1.8.1.2",
-          "downloads": 3971660,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.1.2.json"
-        },
-        {
-          "version": "1.8.1.3",
-          "downloads": 35355954,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.1.3.json"
-        },
-        {
-          "version": "1.8.1.4",
-          "downloads": 848723,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.1.4.json"
-        },
-        {
-          "version": "1.8.2",
-          "downloads": 15525406,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.2.json"
-        },
-        {
-          "version": "1.8.3",
-          "downloads": 699668,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.3.json"
-        },
-        {
-          "version": "1.8.3.37",
-          "downloads": 139639,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.3.37.json"
-        },
-        {
-          "version": "1.8.4",
-          "downloads": 3663446,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.4.json"
-        },
-        {
-          "version": "1.8.5",
-          "downloads": 35114390,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.5.json"
-        },
-        {
-          "version": "1.8.5.2",
-          "downloads": 4848193,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.5.2.json"
-        },
-        {
-          "version": "1.8.6",
-          "downloads": 11318136,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.6.json"
-        },
-        {
-          "version": "1.8.6.7",
-          "downloads": 9021006,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.6.7.json"
-        },
-        {
-          "version": "1.8.8",
-          "downloads": 10540041,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.8.json"
-        },
-        {
-          "version": "1.8.9",
-          "downloads": 24203933,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.9.json"
-        },
-        {
-          "version": "1.8.10",
-          "downloads": 29423089,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.10.json"
-        },
-        {
-          "version": "1.9.0",
-          "downloads": 49339898,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.9.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.queues/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.queues/index.json",
@@ -37238,6 +37063,181 @@
           "version": "12.17.0-beta.1",
           "downloads": 87,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.queues/12.17.0-beta.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/index.json",
+      "id": "Portable.BouncyCastle",
+      "version": "1.9.0",
+      "description": "BouncyCastle portable version with support for .NET 4, .NET Standard 2.0",
+      "summary": "",
+      "title": "Bouncy Castle Portable",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/portable.bouncycastle/1.9.0/icon",
+      "licenseUrl": "https://www.bouncycastle.org/csharp/licence.html",
+      "projectUrl": "https://www.bouncycastle.org/csharp/",
+      "tags": [
+        "bouncycastle",
+        "cryptography",
+        "encryption",
+        "security"
+      ],
+      "authors": [
+        "Claire Novotny"
+      ],
+      "owners": [
+        "clairernovotny"
+      ],
+      "totalDownloads": 239498780,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.7.0",
+          "downloads": 17437,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.7.0.json"
+        },
+        {
+          "version": "1.7.0.1",
+          "downloads": 42812,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.7.0.1.json"
+        },
+        {
+          "version": "1.7.0.2",
+          "downloads": 71306,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.7.0.2.json"
+        },
+        {
+          "version": "1.8.0-beta3",
+          "downloads": 1899,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.0-beta3.json"
+        },
+        {
+          "version": "1.8.0-beta4",
+          "downloads": 2147,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.0-beta4.json"
+        },
+        {
+          "version": "1.8.0-beta4-update1",
+          "downloads": 2202,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.0-beta4-update1.json"
+        },
+        {
+          "version": "1.8.0-RC1",
+          "downloads": 2161,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.0-rc1.json"
+        },
+        {
+          "version": "1.8.0-rc2",
+          "downloads": 2930,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.0-rc2.json"
+        },
+        {
+          "version": "1.8.0-rc3",
+          "downloads": 1626,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.0-rc3.json"
+        },
+        {
+          "version": "1.8.0-rc4",
+          "downloads": 2551,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.0-rc4.json"
+        },
+        {
+          "version": "1.8.0",
+          "downloads": 219655,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.0.json"
+        },
+        {
+          "version": "1.8.1",
+          "downloads": 233360,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.1.json"
+        },
+        {
+          "version": "1.8.1.1",
+          "downloads": 4881455,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.1.1.json"
+        },
+        {
+          "version": "1.8.1.2",
+          "downloads": 3971660,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.1.2.json"
+        },
+        {
+          "version": "1.8.1.3",
+          "downloads": 35355954,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.1.3.json"
+        },
+        {
+          "version": "1.8.1.4",
+          "downloads": 848723,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.1.4.json"
+        },
+        {
+          "version": "1.8.2",
+          "downloads": 15525406,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.2.json"
+        },
+        {
+          "version": "1.8.3",
+          "downloads": 699668,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.3.json"
+        },
+        {
+          "version": "1.8.3.37",
+          "downloads": 139639,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.3.37.json"
+        },
+        {
+          "version": "1.8.4",
+          "downloads": 3663446,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.4.json"
+        },
+        {
+          "version": "1.8.5",
+          "downloads": 35114390,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.5.json"
+        },
+        {
+          "version": "1.8.5.2",
+          "downloads": 4848193,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.5.2.json"
+        },
+        {
+          "version": "1.8.6",
+          "downloads": 11318136,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.6.json"
+        },
+        {
+          "version": "1.8.6.7",
+          "downloads": 9021006,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.6.7.json"
+        },
+        {
+          "version": "1.8.8",
+          "downloads": 10540041,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.8.json"
+        },
+        {
+          "version": "1.8.9",
+          "downloads": 24203933,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.9.json"
+        },
+        {
+          "version": "1.8.10",
+          "downloads": 29423089,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.8.10.json"
+        },
+        {
+          "version": "1.9.0",
+          "downloads": 49339898,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/portable.bouncycastle/1.9.0.json"
         }
       ],
       "vulnerabilities": []
