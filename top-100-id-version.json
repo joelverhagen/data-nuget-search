@@ -29,19 +29,19 @@
   },
   {
     "id": "Serilog",
-    "version": "3.1.0-dev-02078"
+    "version": "3.1.0-dev-02083"
   },
   {
     "id": "Microsoft.EntityFrameworkCore",
     "version": "8.0.0-rc.2.23480.1"
   },
   {
-    "id": "Azure.Core",
-    "version": "1.35.0"
-  },
-  {
     "id": "System.Windows.Extensions",
     "version": "8.0.0-rc.2.23479.6"
+  },
+  {
+    "id": "Azure.Core",
+    "version": "1.35.0"
   },
   {
     "id": "Microsoft.Identity.Client",
@@ -108,16 +108,16 @@
     "version": "8.0.0-rc.2.23479.6"
   },
   {
-    "id": "Azure.Storage.Blobs",
-    "version": "12.19.0-beta.1"
-  },
-  {
     "id": "Microsoft.Data.SqlClient",
     "version": "5.2.0-preview3.23201.1"
   },
   {
     "id": "Microsoft.Extensions.Hosting",
     "version": "8.0.0-rc.2.23479.6"
+  },
+  {
+    "id": "Azure.Storage.Blobs",
+    "version": "12.19.0-beta.1"
   },
   {
     "id": "Serilog.Sinks.File",
@@ -136,12 +136,12 @@
     "version": "6.5.0"
   },
   {
-    "id": "xunit",
-    "version": "2.5.3"
-  },
-  {
     "id": "Serilog.Sinks.Console",
     "version": "5.0.0-dev-00923"
+  },
+  {
+    "id": "xunit",
+    "version": "2.5.3"
   },
   {
     "id": "Microsoft.IdentityModel.Clients.ActiveDirectory",
@@ -200,12 +200,12 @@
     "version": "8.0.0-rc.2.23480.2"
   },
   {
-    "id": "Azure.Security.KeyVault.Secrets",
-    "version": "4.5.0"
-  },
-  {
     "id": "Microsoft.Extensions.Logging.EventLog",
     "version": "8.0.0-rc.2.23479.6"
+  },
+  {
+    "id": "Azure.Security.KeyVault.Secrets",
+    "version": "4.5.0"
   },
   {
     "id": "coverlet.collector",
@@ -220,12 +220,12 @@
     "version": "7.0.0-alpha.2"
   },
   {
-    "id": "Microsoft.Extensions.Diagnostics.HealthChecks",
-    "version": "8.0.0-rc.2.23480.2"
-  },
-  {
     "id": "Microsoft.Identity.Client.Extensions.Msal",
     "version": "4.57.0"
+  },
+  {
+    "id": "Microsoft.Extensions.Diagnostics.HealthChecks",
+    "version": "8.0.0-rc.2.23480.2"
   },
   {
     "id": "Humanizer.Core",
@@ -252,12 +252,12 @@
     "version": "8.0.0-rc.2.23479.6"
   },
   {
-    "id": "NLog",
-    "version": "5.2.5"
-  },
-  {
     "id": "Npgsql",
     "version": "8.0.0-rc.2"
+  },
+  {
+    "id": "NLog",
+    "version": "5.2.5"
   },
   {
     "id": "Microsoft.IdentityModel.Abstractions",
@@ -272,6 +272,10 @@
     "version": "7.0.1-dev-00320"
   },
   {
+    "id": "System.Formats.Asn1",
+    "version": "8.0.0-rc.2.23479.6"
+  },
+  {
     "id": "Serilog.Extensions.Hosting",
     "version": "7.0.0"
   },
@@ -280,24 +284,20 @@
     "version": "3.0.39"
   },
   {
-    "id": "System.Formats.Asn1",
-    "version": "8.0.0-rc.2.23479.6"
+    "id": "RestSharp",
+    "version": "110.2.1-alpha.0.13"
   },
   {
     "id": "Autofac",
     "version": "7.1.0"
   },
   {
-    "id": "RestSharp",
-    "version": "110.2.1-alpha.0.13"
+    "id": "Portable.BouncyCastle",
+    "version": "1.9.0"
   },
   {
     "id": "Azure.Storage.Queues",
     "version": "12.17.0-beta.1"
-  },
-  {
-    "id": "Portable.BouncyCastle",
-    "version": "1.9.0"
   },
   {
     "id": "EntityFramework",
@@ -356,20 +356,16 @@
     "version": "7.0.0-alpha.0"
   },
   {
-    "id": "Azure.Storage.Common",
-    "version": "12.18.0-beta.1"
-  },
-  {
-    "id": "MongoDB.Bson",
-    "version": "2.22.0"
-  },
-  {
     "id": "Microsoft.NET.Sdk.iOS.Manifest-6.0.400",
     "version": "16.4.60+sha.701aa230c"
   },
   {
     "id": "Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.400",
     "version": "16.4.60+sha.701aa230c"
+  },
+  {
+    "id": "Azure.Storage.Common",
+    "version": "12.18.0-beta.1"
   },
   {
     "id": "Microsoft.NET.Sdk.macOS.Manifest-6.0.400",
@@ -386,6 +382,10 @@
   {
     "id": "Microsoft.NET.Sdk.tvOS.Manifest-6.0.400",
     "version": "16.4.60+sha.701aa230c"
+  },
+  {
+    "id": "MongoDB.Bson",
+    "version": "2.22.0"
   },
   {
     "id": "Microsoft.AspNetCore.Mvc",
