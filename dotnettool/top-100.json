@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 4458,
+  "totalHits": 4460,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cake.tool/index.json",
@@ -26361,12 +26361,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/csharpier/index.json",
       "id": "CSharpier",
-      "version": "0.27.0",
+      "version": "0.27.1",
       "description": "CSharpier is an opinionated code formatter for c#.",
       "summary": "",
       "title": "CSharpier",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/csharpier/0.27.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/CSharpier/0.27.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/csharpier/0.27.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/CSharpier/0.27.1/license",
       "tags": [],
       "authors": [
         "dotnet-csharpier"
@@ -26631,6 +26631,11 @@
           "version": "0.27.0",
           "downloads": 5583,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/csharpier/0.27.0.json"
+        },
+        {
+          "version": "0.27.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/csharpier/0.27.1.json"
         }
       ],
       "vulnerabilities": []
@@ -32021,11 +32026,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/index.json",
       "id": "FunFair.BuildVersion",
-      "version": "6.2.16.280-main",
+      "version": "6.2.16.281-main",
       "description": "Build versioning tool.",
       "summary": "",
       "title": "FunFair.BuildVersion",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.16.280-main/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.16.281-main/icon",
       "projectUrl": "https://github.com/funfair-tech/funfair-build-version",
       "tags": [
         "FunFair",
@@ -36650,6 +36655,11 @@
           "version": "6.2.16.280-main",
           "downloads": 38,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.16.280-main.json"
+        },
+        {
+          "version": "6.2.16.281-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.16.281-main.json"
         }
       ],
       "vulnerabilities": []
@@ -36774,359 +36784,15 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/index.json",
-      "id": "nukeeper",
-      "version": "0.35.0",
-      "description": "Automagically update nuget packages in .NET projects",
-      "summary": "",
-      "title": "nukeeper",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/nukeeper/0.35.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/nukeeper/0.35.0/license",
-      "projectUrl": "https://github.com/NuKeeperDotNet/NuKeeper/",
-      "tags": [
-        "NuGet",
-        "Package",
-        "Update"
-      ],
-      "authors": [
-        "NuKeeper"
-      ],
-      "owners": [
-        "AnthonySteele"
-      ],
-      "totalDownloads": 1023544,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.0.1",
-          "downloads": 2061,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.0.1.json"
-        },
-        {
-          "version": "0.0.2",
-          "downloads": 1955,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.0.2.json"
-        },
-        {
-          "version": "0.1.0",
-          "downloads": 2085,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.1.0.json"
-        },
-        {
-          "version": "0.2.0",
-          "downloads": 2059,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.2.0.json"
-        },
-        {
-          "version": "0.3.0",
-          "downloads": 2167,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.3.0.json"
-        },
-        {
-          "version": "0.4.0",
-          "downloads": 1993,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.4.0.json"
-        },
-        {
-          "version": "0.5.0",
-          "downloads": 2354,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.5.0.json"
-        },
-        {
-          "version": "0.6.0",
-          "downloads": 1791,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.6.0.json"
-        },
-        {
-          "version": "0.6.1",
-          "downloads": 2135,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.6.1.json"
-        },
-        {
-          "version": "0.6.2",
-          "downloads": 2122,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.6.2.json"
-        },
-        {
-          "version": "0.6.3",
-          "downloads": 1958,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.6.3.json"
-        },
-        {
-          "version": "0.6.4",
-          "downloads": 1883,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.6.4.json"
-        },
-        {
-          "version": "0.7.0",
-          "downloads": 2082,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.7.0.json"
-        },
-        {
-          "version": "0.7.1",
-          "downloads": 1784,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.7.1.json"
-        },
-        {
-          "version": "0.7.2",
-          "downloads": 2102,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.7.2.json"
-        },
-        {
-          "version": "0.8.0",
-          "downloads": 1900,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.8.0.json"
-        },
-        {
-          "version": "0.8.1",
-          "downloads": 2009,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.8.1.json"
-        },
-        {
-          "version": "0.9.0",
-          "downloads": 2005,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.9.0.json"
-        },
-        {
-          "version": "0.9.1",
-          "downloads": 2029,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.9.1.json"
-        },
-        {
-          "version": "0.9.2",
-          "downloads": 2165,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.9.2.json"
-        },
-        {
-          "version": "0.10.0",
-          "downloads": 2040,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.10.0.json"
-        },
-        {
-          "version": "0.10.1",
-          "downloads": 1933,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.10.1.json"
-        },
-        {
-          "version": "0.10.2",
-          "downloads": 2050,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.10.2.json"
-        },
-        {
-          "version": "0.10.3",
-          "downloads": 1769,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.10.3.json"
-        },
-        {
-          "version": "0.10.4",
-          "downloads": 1790,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.10.4.json"
-        },
-        {
-          "version": "0.10.5",
-          "downloads": 1797,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.10.5.json"
-        },
-        {
-          "version": "0.11.0",
-          "downloads": 2329,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.11.0.json"
-        },
-        {
-          "version": "0.12.0",
-          "downloads": 2030,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.12.0.json"
-        },
-        {
-          "version": "0.13.0",
-          "downloads": 1944,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.13.0.json"
-        },
-        {
-          "version": "0.14.0",
-          "downloads": 1827,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.14.0.json"
-        },
-        {
-          "version": "0.15.0",
-          "downloads": 1910,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.15.0.json"
-        },
-        {
-          "version": "0.16.0",
-          "downloads": 1676,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.16.0.json"
-        },
-        {
-          "version": "0.17.0",
-          "downloads": 2069,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.17.0.json"
-        },
-        {
-          "version": "0.17.1",
-          "downloads": 1798,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.17.1.json"
-        },
-        {
-          "version": "0.18.0",
-          "downloads": 1886,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.18.0.json"
-        },
-        {
-          "version": "0.19.0",
-          "downloads": 3091,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.19.0.json"
-        },
-        {
-          "version": "0.19.1",
-          "downloads": 1721,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.19.1.json"
-        },
-        {
-          "version": "0.19.2",
-          "downloads": 2191,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.19.2.json"
-        },
-        {
-          "version": "0.20.0",
-          "downloads": 1723,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.20.0.json"
-        },
-        {
-          "version": "0.20.1",
-          "downloads": 1725,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.20.1.json"
-        },
-        {
-          "version": "0.20.2",
-          "downloads": 1518,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.20.2.json"
-        },
-        {
-          "version": "0.20.3",
-          "downloads": 1931,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.20.3.json"
-        },
-        {
-          "version": "0.20.4",
-          "downloads": 1737,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.20.4.json"
-        },
-        {
-          "version": "0.20.5",
-          "downloads": 2605,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.20.5.json"
-        },
-        {
-          "version": "0.21.0",
-          "downloads": 1688,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.21.0.json"
-        },
-        {
-          "version": "0.21.1",
-          "downloads": 1928,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.21.1.json"
-        },
-        {
-          "version": "0.21.2",
-          "downloads": 2031,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.21.2.json"
-        },
-        {
-          "version": "0.21.3",
-          "downloads": 2212,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.21.3.json"
-        },
-        {
-          "version": "0.21.4",
-          "downloads": 3434,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.21.4.json"
-        },
-        {
-          "version": "0.22.0",
-          "downloads": 1390,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.22.0.json"
-        },
-        {
-          "version": "0.23.0",
-          "downloads": 1742,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.23.0.json"
-        },
-        {
-          "version": "0.24.0",
-          "downloads": 20068,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.24.0.json"
-        },
-        {
-          "version": "0.25.0",
-          "downloads": 37275,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.25.0.json"
-        },
-        {
-          "version": "0.26.0",
-          "downloads": 393244,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.26.0.json"
-        },
-        {
-          "version": "0.26.1",
-          "downloads": 15562,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.26.1.json"
-        },
-        {
-          "version": "0.27.1",
-          "downloads": 10853,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.27.1.json"
-        },
-        {
-          "version": "0.28.0",
-          "downloads": 3528,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.28.0.json"
-        },
-        {
-          "version": "0.29.0",
-          "downloads": 4117,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.29.0.json"
-        },
-        {
-          "version": "0.32.0",
-          "downloads": 9889,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.32.0.json"
-        },
-        {
-          "version": "0.33.0",
-          "downloads": 83308,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.33.0.json"
-        },
-        {
-          "version": "0.34.0",
-          "downloads": 119656,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.34.0.json"
-        },
-        {
-          "version": "0.35.0",
-          "downloads": 202472,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.35.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octonotes.githubupdater.tool/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/octonotes.githubupdater.tool/index.json",
       "id": "OctoNotes.GitHubUpdater.Tool",
-      "version": "0.0.1514",
+      "version": "0.0.1515",
       "description": "OctoNotes is a tool for generating release notes from Git repositories.\n      Using the information generated by OctoNotes, we can calculate which release a fix landed in, across multiple release branches.\n      We then use this to add a table to the related GitHub issue.",
       "summary": "",
       "title": "OctoNotes.GitHubUpdater.Tool",
-      "licenseUrl": "https://www.nuget.org/packages/OctoNotes.GitHubUpdater.Tool/0.0.1514/license",
+      "licenseUrl": "https://www.nuget.org/packages/OctoNotes.GitHubUpdater.Tool/0.0.1515/license",
       "projectUrl": "https://github.com/OctopusDeploy/OctoNotes",
       "tags": [],
       "authors": [
@@ -40997,6 +40663,355 @@
           "version": "0.0.1514",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octonotes.githubupdater.tool/0.0.1514.json"
+        },
+        {
+          "version": "0.0.1515",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octonotes.githubupdater.tool/0.0.1515.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/index.json",
+      "id": "nukeeper",
+      "version": "0.35.0",
+      "description": "Automagically update nuget packages in .NET projects",
+      "summary": "",
+      "title": "nukeeper",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/nukeeper/0.35.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/nukeeper/0.35.0/license",
+      "projectUrl": "https://github.com/NuKeeperDotNet/NuKeeper/",
+      "tags": [
+        "NuGet",
+        "Package",
+        "Update"
+      ],
+      "authors": [
+        "NuKeeper"
+      ],
+      "owners": [
+        "AnthonySteele"
+      ],
+      "totalDownloads": 1023544,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.0.1",
+          "downloads": 2061,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.0.1.json"
+        },
+        {
+          "version": "0.0.2",
+          "downloads": 1955,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.0.2.json"
+        },
+        {
+          "version": "0.1.0",
+          "downloads": 2085,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.1.0.json"
+        },
+        {
+          "version": "0.2.0",
+          "downloads": 2059,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.2.0.json"
+        },
+        {
+          "version": "0.3.0",
+          "downloads": 2167,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.3.0.json"
+        },
+        {
+          "version": "0.4.0",
+          "downloads": 1993,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.4.0.json"
+        },
+        {
+          "version": "0.5.0",
+          "downloads": 2354,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.5.0.json"
+        },
+        {
+          "version": "0.6.0",
+          "downloads": 1791,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.6.0.json"
+        },
+        {
+          "version": "0.6.1",
+          "downloads": 2135,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.6.1.json"
+        },
+        {
+          "version": "0.6.2",
+          "downloads": 2122,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.6.2.json"
+        },
+        {
+          "version": "0.6.3",
+          "downloads": 1958,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.6.3.json"
+        },
+        {
+          "version": "0.6.4",
+          "downloads": 1883,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.6.4.json"
+        },
+        {
+          "version": "0.7.0",
+          "downloads": 2082,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.7.0.json"
+        },
+        {
+          "version": "0.7.1",
+          "downloads": 1784,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.7.1.json"
+        },
+        {
+          "version": "0.7.2",
+          "downloads": 2102,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.7.2.json"
+        },
+        {
+          "version": "0.8.0",
+          "downloads": 1900,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.8.0.json"
+        },
+        {
+          "version": "0.8.1",
+          "downloads": 2009,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.8.1.json"
+        },
+        {
+          "version": "0.9.0",
+          "downloads": 2005,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.9.0.json"
+        },
+        {
+          "version": "0.9.1",
+          "downloads": 2029,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.9.1.json"
+        },
+        {
+          "version": "0.9.2",
+          "downloads": 2165,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.9.2.json"
+        },
+        {
+          "version": "0.10.0",
+          "downloads": 2040,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.10.0.json"
+        },
+        {
+          "version": "0.10.1",
+          "downloads": 1933,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.10.1.json"
+        },
+        {
+          "version": "0.10.2",
+          "downloads": 2050,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.10.2.json"
+        },
+        {
+          "version": "0.10.3",
+          "downloads": 1769,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.10.3.json"
+        },
+        {
+          "version": "0.10.4",
+          "downloads": 1790,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.10.4.json"
+        },
+        {
+          "version": "0.10.5",
+          "downloads": 1797,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.10.5.json"
+        },
+        {
+          "version": "0.11.0",
+          "downloads": 2329,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.11.0.json"
+        },
+        {
+          "version": "0.12.0",
+          "downloads": 2030,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.12.0.json"
+        },
+        {
+          "version": "0.13.0",
+          "downloads": 1944,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.13.0.json"
+        },
+        {
+          "version": "0.14.0",
+          "downloads": 1827,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.14.0.json"
+        },
+        {
+          "version": "0.15.0",
+          "downloads": 1910,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.15.0.json"
+        },
+        {
+          "version": "0.16.0",
+          "downloads": 1676,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.16.0.json"
+        },
+        {
+          "version": "0.17.0",
+          "downloads": 2069,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.17.0.json"
+        },
+        {
+          "version": "0.17.1",
+          "downloads": 1798,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.17.1.json"
+        },
+        {
+          "version": "0.18.0",
+          "downloads": 1886,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.18.0.json"
+        },
+        {
+          "version": "0.19.0",
+          "downloads": 3091,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.19.0.json"
+        },
+        {
+          "version": "0.19.1",
+          "downloads": 1721,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.19.1.json"
+        },
+        {
+          "version": "0.19.2",
+          "downloads": 2191,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.19.2.json"
+        },
+        {
+          "version": "0.20.0",
+          "downloads": 1723,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.20.0.json"
+        },
+        {
+          "version": "0.20.1",
+          "downloads": 1725,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.20.1.json"
+        },
+        {
+          "version": "0.20.2",
+          "downloads": 1518,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.20.2.json"
+        },
+        {
+          "version": "0.20.3",
+          "downloads": 1931,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.20.3.json"
+        },
+        {
+          "version": "0.20.4",
+          "downloads": 1737,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.20.4.json"
+        },
+        {
+          "version": "0.20.5",
+          "downloads": 2605,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.20.5.json"
+        },
+        {
+          "version": "0.21.0",
+          "downloads": 1688,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.21.0.json"
+        },
+        {
+          "version": "0.21.1",
+          "downloads": 1928,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.21.1.json"
+        },
+        {
+          "version": "0.21.2",
+          "downloads": 2031,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.21.2.json"
+        },
+        {
+          "version": "0.21.3",
+          "downloads": 2212,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.21.3.json"
+        },
+        {
+          "version": "0.21.4",
+          "downloads": 3434,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.21.4.json"
+        },
+        {
+          "version": "0.22.0",
+          "downloads": 1390,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.22.0.json"
+        },
+        {
+          "version": "0.23.0",
+          "downloads": 1742,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.23.0.json"
+        },
+        {
+          "version": "0.24.0",
+          "downloads": 20068,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.24.0.json"
+        },
+        {
+          "version": "0.25.0",
+          "downloads": 37275,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.25.0.json"
+        },
+        {
+          "version": "0.26.0",
+          "downloads": 393244,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.26.0.json"
+        },
+        {
+          "version": "0.26.1",
+          "downloads": 15562,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.26.1.json"
+        },
+        {
+          "version": "0.27.1",
+          "downloads": 10853,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.27.1.json"
+        },
+        {
+          "version": "0.28.0",
+          "downloads": 3528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.28.0.json"
+        },
+        {
+          "version": "0.29.0",
+          "downloads": 4117,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.29.0.json"
+        },
+        {
+          "version": "0.32.0",
+          "downloads": 9889,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.32.0.json"
+        },
+        {
+          "version": "0.33.0",
+          "downloads": 83308,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.33.0.json"
+        },
+        {
+          "version": "0.34.0",
+          "downloads": 119656,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.34.0.json"
+        },
+        {
+          "version": "0.35.0",
+          "downloads": 202472,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nukeeper/0.35.0.json"
         }
       ],
       "vulnerabilities": []
@@ -44544,11 +44559,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-t4/index.json",
       "id": "dotnet-t4",
-      "version": "3.0.0-preview-0027-g2711105671",
+      "version": "3.0.0-preview-0045-g9b6fc72764",
       "description": "Command-line tool for processing T4 templates, a general-purpose way to generate text or code files using C#",
       "summary": "",
       "title": "dotnet-t4",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-t4/3.0.0-preview-0027-g2711105671/license",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-t4/3.0.0-preview-0045-g9b6fc72764/license",
       "projectUrl": "https://github.com/mono/t4",
       "tags": [
         "T4",
@@ -44622,6 +44637,11 @@
           "version": "3.0.0-preview-0027-g2711105671",
           "downloads": 587,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-t4/3.0.0-preview-0027-g2711105671.json"
+        },
+        {
+          "version": "3.0.0-preview-0045-g9b6fc72764",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-t4/3.0.0-preview-0045-g9b6fc72764.json"
         }
       ],
       "vulnerabilities": []
@@ -47741,12 +47761,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/index.json",
       "id": "StrawberryShake.Tools",
-      "version": "14.0.0-p.28",
+      "version": "14.0.0-p.29",
       "description": "Package Description",
       "summary": "",
       "title": "StrawberryShake.Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/strawberryshake.tools/14.0.0-p.28/icon",
-      "licenseUrl": "https://www.nuget.org/packages/StrawberryShake.Tools/14.0.0-p.28/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/strawberryshake.tools/14.0.0-p.29/icon",
+      "licenseUrl": "https://www.nuget.org/packages/StrawberryShake.Tools/14.0.0-p.29/license",
       "projectUrl": "https://chillicream.com/",
       "tags": [
         "GraphQL",
@@ -48550,6 +48570,11 @@
           "version": "14.0.0-p.28",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/14.0.0-p.28.json"
+        },
+        {
+          "version": "14.0.0-p.29",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/14.0.0-p.29.json"
         }
       ],
       "vulnerabilities": []
@@ -48559,11 +48584,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
       "id": "Credfeto.ChangeLog.Cmd",
-      "version": "1.10.20.130-main",
+      "version": "1.10.20.131-main",
       "description": "Changelog manager dotnet tool.",
       "summary": "",
       "title": "Credfeto.ChangeLog.Cmd",
-      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.20.130-main/license",
+      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.20.131-main/license",
       "tags": [
         "Changelog",
         "tool",
@@ -51983,6 +52008,11 @@
           "version": "1.10.20.130-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.20.130-main.json"
+        },
+        {
+          "version": "1.10.20.131-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.20.131-main.json"
         }
       ],
       "vulnerabilities": []
@@ -55818,6 +55848,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/15.6.0.68.json"
         },
         {
+          "version": "15.6.0.71",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/15.6.0.71.json"
+        },
+        {
           "version": "15.7.0",
           "downloads": 721,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/15.7.0.json"
@@ -56351,6 +56386,11 @@
           "version": "15.7.0.149",
           "downloads": 275,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/15.7.0.149.json"
+        },
+        {
+          "version": "15.7.0.151",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/15.7.0.151.json"
         },
         {
           "version": "15.8.0",

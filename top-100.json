@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 362355,
+  "totalHits": 362503,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -5638,6 +5638,282 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/index.json",
+      "id": "Azure.Core",
+      "version": "1.37.0",
+      "description": "This is the implementation of the Azure Client Pipeline",
+      "summary": "",
+      "title": "Azure.Core",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.core/1.37.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Azure.Core/1.37.0/license",
+      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Core_1.37.0/sdk/core/Azure.Core/README.md",
+      "tags": [
+        "Microsoft",
+        "Azure",
+        "Client",
+        "Pipeline"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "azure-sdk",
+        "Microsoft"
+      ],
+      "totalDownloads": 933115558,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0-preview.5",
+          "downloads": 13669,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.0.0-preview.5.json"
+        },
+        {
+          "version": "1.0.0-preview.6",
+          "downloads": 5253,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.0.0-preview.6.json"
+        },
+        {
+          "version": "1.0.0-preview.7",
+          "downloads": 8536,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.0.0-preview.7.json"
+        },
+        {
+          "version": "1.0.0-preview.8",
+          "downloads": 14274,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.0.0-preview.8.json"
+        },
+        {
+          "version": "1.0.0-preview.9",
+          "downloads": 25990,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.0.0-preview.9.json"
+        },
+        {
+          "version": "1.0.0",
+          "downloads": 5205882,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.0.0.json"
+        },
+        {
+          "version": "1.0.1",
+          "downloads": 32511044,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.0.1.json"
+        },
+        {
+          "version": "1.0.2",
+          "downloads": 69696110,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.0.2.json"
+        },
+        {
+          "version": "1.1.0",
+          "downloads": 2259201,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.1.0.json"
+        },
+        {
+          "version": "1.2.0",
+          "downloads": 1506171,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.2.0.json"
+        },
+        {
+          "version": "1.2.1",
+          "downloads": 3370875,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.2.1.json"
+        },
+        {
+          "version": "1.2.2",
+          "downloads": 8290450,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.2.2.json"
+        },
+        {
+          "version": "1.3.0",
+          "downloads": 21756025,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.3.0.json"
+        },
+        {
+          "version": "1.4.1",
+          "downloads": 22774112,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.4.1.json"
+        },
+        {
+          "version": "1.5.0",
+          "downloads": 3312913,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.5.0.json"
+        },
+        {
+          "version": "1.5.1",
+          "downloads": 545604,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.5.1.json"
+        },
+        {
+          "version": "1.6.0",
+          "downloads": 110275951,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.6.0.json"
+        },
+        {
+          "version": "1.7.0",
+          "downloads": 3408782,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.7.0.json"
+        },
+        {
+          "version": "1.8.0",
+          "downloads": 59913,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.8.0.json"
+        },
+        {
+          "version": "1.8.1",
+          "downloads": 22304911,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.8.1.json"
+        },
+        {
+          "version": "1.9.0",
+          "downloads": 5307625,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.9.0.json"
+        },
+        {
+          "version": "1.10.0",
+          "downloads": 15411473,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.10.0.json"
+        },
+        {
+          "version": "1.11.0",
+          "downloads": 422448,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.11.0.json"
+        },
+        {
+          "version": "1.12.0",
+          "downloads": 792089,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.12.0.json"
+        },
+        {
+          "version": "1.13.0",
+          "downloads": 943243,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.13.0.json"
+        },
+        {
+          "version": "1.14.0",
+          "downloads": 32825791,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.14.0.json"
+        },
+        {
+          "version": "1.15.0",
+          "downloads": 31654699,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.15.0.json"
+        },
+        {
+          "version": "1.16.0",
+          "downloads": 8067131,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.16.0.json"
+        },
+        {
+          "version": "1.17.0",
+          "downloads": 9668824,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.17.0.json"
+        },
+        {
+          "version": "1.18.0",
+          "downloads": 5943693,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.18.0.json"
+        },
+        {
+          "version": "1.19.0",
+          "downloads": 65952148,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.19.0.json"
+        },
+        {
+          "version": "1.20.0",
+          "downloads": 55809357,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.20.0.json"
+        },
+        {
+          "version": "1.21.0",
+          "downloads": 20876695,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.21.0.json"
+        },
+        {
+          "version": "1.22.0",
+          "downloads": 24570606,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.22.0.json"
+        },
+        {
+          "version": "1.23.0",
+          "downloads": 30287860,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.23.0.json"
+        },
+        {
+          "version": "1.24.0",
+          "downloads": 89947222,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.24.0.json"
+        },
+        {
+          "version": "1.25.0",
+          "downloads": 105515456,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.25.0.json"
+        },
+        {
+          "version": "1.26.0",
+          "downloads": 6670061,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.26.0.json"
+        },
+        {
+          "version": "1.27.0",
+          "downloads": 12069934,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.27.0.json"
+        },
+        {
+          "version": "1.28.0",
+          "downloads": 8733189,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.28.0.json"
+        },
+        {
+          "version": "1.30.0",
+          "downloads": 26009162,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.30.0.json"
+        },
+        {
+          "version": "1.31.0",
+          "downloads": 13533108,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.31.0.json"
+        },
+        {
+          "version": "1.32.0",
+          "downloads": 15905550,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.32.0.json"
+        },
+        {
+          "version": "1.33.0",
+          "downloads": 7964854,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.33.0.json"
+        },
+        {
+          "version": "1.34.0",
+          "downloads": 8479443,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.34.0.json"
+        },
+        {
+          "version": "1.35.0",
+          "downloads": 14378779,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.35.0.json"
+        },
+        {
+          "version": "1.36.0",
+          "downloads": 6462605,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.36.0.json"
+        },
+        {
+          "version": "1.37.0",
+          "downloads": 69389,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.37.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore/index.json",
@@ -6626,282 +6902,6 @@
           "version": "8.0.1",
           "downloads": 354034,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore/8.0.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/index.json",
-      "id": "Azure.Core",
-      "version": "1.37.0",
-      "description": "This is the implementation of the Azure Client Pipeline",
-      "summary": "",
-      "title": "Azure.Core",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.core/1.37.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Azure.Core/1.37.0/license",
-      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Core_1.37.0/sdk/core/Azure.Core/README.md",
-      "tags": [
-        "Microsoft",
-        "Azure",
-        "Client",
-        "Pipeline"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "azure-sdk",
-        "Microsoft"
-      ],
-      "totalDownloads": 933115558,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0-preview.5",
-          "downloads": 13669,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.0.0-preview.5.json"
-        },
-        {
-          "version": "1.0.0-preview.6",
-          "downloads": 5253,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.0.0-preview.6.json"
-        },
-        {
-          "version": "1.0.0-preview.7",
-          "downloads": 8536,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.0.0-preview.7.json"
-        },
-        {
-          "version": "1.0.0-preview.8",
-          "downloads": 14274,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.0.0-preview.8.json"
-        },
-        {
-          "version": "1.0.0-preview.9",
-          "downloads": 25990,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.0.0-preview.9.json"
-        },
-        {
-          "version": "1.0.0",
-          "downloads": 5205882,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.0.0.json"
-        },
-        {
-          "version": "1.0.1",
-          "downloads": 32511044,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.0.1.json"
-        },
-        {
-          "version": "1.0.2",
-          "downloads": 69696110,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.0.2.json"
-        },
-        {
-          "version": "1.1.0",
-          "downloads": 2259201,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.1.0.json"
-        },
-        {
-          "version": "1.2.0",
-          "downloads": 1506171,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.2.0.json"
-        },
-        {
-          "version": "1.2.1",
-          "downloads": 3370875,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.2.1.json"
-        },
-        {
-          "version": "1.2.2",
-          "downloads": 8290450,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.2.2.json"
-        },
-        {
-          "version": "1.3.0",
-          "downloads": 21756025,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.3.0.json"
-        },
-        {
-          "version": "1.4.1",
-          "downloads": 22774112,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.4.1.json"
-        },
-        {
-          "version": "1.5.0",
-          "downloads": 3312913,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.5.0.json"
-        },
-        {
-          "version": "1.5.1",
-          "downloads": 545604,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.5.1.json"
-        },
-        {
-          "version": "1.6.0",
-          "downloads": 110275951,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.6.0.json"
-        },
-        {
-          "version": "1.7.0",
-          "downloads": 3408782,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.7.0.json"
-        },
-        {
-          "version": "1.8.0",
-          "downloads": 59913,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.8.0.json"
-        },
-        {
-          "version": "1.8.1",
-          "downloads": 22304911,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.8.1.json"
-        },
-        {
-          "version": "1.9.0",
-          "downloads": 5307625,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.9.0.json"
-        },
-        {
-          "version": "1.10.0",
-          "downloads": 15411473,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.10.0.json"
-        },
-        {
-          "version": "1.11.0",
-          "downloads": 422448,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.11.0.json"
-        },
-        {
-          "version": "1.12.0",
-          "downloads": 792089,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.12.0.json"
-        },
-        {
-          "version": "1.13.0",
-          "downloads": 943243,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.13.0.json"
-        },
-        {
-          "version": "1.14.0",
-          "downloads": 32825791,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.14.0.json"
-        },
-        {
-          "version": "1.15.0",
-          "downloads": 31654699,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.15.0.json"
-        },
-        {
-          "version": "1.16.0",
-          "downloads": 8067131,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.16.0.json"
-        },
-        {
-          "version": "1.17.0",
-          "downloads": 9668824,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.17.0.json"
-        },
-        {
-          "version": "1.18.0",
-          "downloads": 5943693,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.18.0.json"
-        },
-        {
-          "version": "1.19.0",
-          "downloads": 65952148,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.19.0.json"
-        },
-        {
-          "version": "1.20.0",
-          "downloads": 55809357,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.20.0.json"
-        },
-        {
-          "version": "1.21.0",
-          "downloads": 20876695,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.21.0.json"
-        },
-        {
-          "version": "1.22.0",
-          "downloads": 24570606,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.22.0.json"
-        },
-        {
-          "version": "1.23.0",
-          "downloads": 30287860,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.23.0.json"
-        },
-        {
-          "version": "1.24.0",
-          "downloads": 89947222,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.24.0.json"
-        },
-        {
-          "version": "1.25.0",
-          "downloads": 105515456,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.25.0.json"
-        },
-        {
-          "version": "1.26.0",
-          "downloads": 6670061,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.26.0.json"
-        },
-        {
-          "version": "1.27.0",
-          "downloads": 12069934,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.27.0.json"
-        },
-        {
-          "version": "1.28.0",
-          "downloads": 8733189,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.28.0.json"
-        },
-        {
-          "version": "1.30.0",
-          "downloads": 26009162,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.30.0.json"
-        },
-        {
-          "version": "1.31.0",
-          "downloads": 13533108,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.31.0.json"
-        },
-        {
-          "version": "1.32.0",
-          "downloads": 15905550,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.32.0.json"
-        },
-        {
-          "version": "1.33.0",
-          "downloads": 7964854,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.33.0.json"
-        },
-        {
-          "version": "1.34.0",
-          "downloads": 8479443,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.34.0.json"
-        },
-        {
-          "version": "1.35.0",
-          "downloads": 14378779,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.35.0.json"
-        },
-        {
-          "version": "1.36.0",
-          "downloads": 6462605,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.36.0.json"
-        },
-        {
-          "version": "1.37.0",
-          "downloads": 69389,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.37.0.json"
         }
       ],
       "vulnerabilities": []
@@ -41916,12 +41916,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "id": "AWSSDK.S3",
-      "version": "3.7.305.14",
+      "version": "3.7.305.15",
       "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
       "summary": "",
       "title": "AWSSDK - S3",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.305.14/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/3.7.305.14/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.305.15/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/3.7.305.15/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -47048,6 +47048,11 @@
           "version": "3.7.305.14",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.305.14.json"
+        },
+        {
+          "version": "3.7.305.15",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.305.15.json"
         }
       ],
       "vulnerabilities": []
