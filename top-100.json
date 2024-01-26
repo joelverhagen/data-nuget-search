@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 362604,
+  "totalHits": 362729,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -8647,12 +8647,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "3.7.301.10",
+      "version": "3.7.302",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.301.10/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/3.7.301.10/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.302/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/3.7.302/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -13733,6 +13733,11 @@
           "version": "3.7.301.10",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.301.10.json"
+        },
+        {
+          "version": "3.7.302",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.302.json"
         }
       ],
       "vulnerabilities": []
@@ -17720,12 +17725,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/index.json",
       "id": "Microsoft.Data.SqlClient",
-      "version": "5.2.0-preview4.23342.2",
+      "version": "5.2.0-preview5.24024.3",
       "description": "The current data provider for SQL Server and Azure SQL databases. This has replaced System.Data.SqlClient. These classes provide access to SQL and encapsulate database-specific protocols, including tabular data stream (TDS).\n    \nCommonly Used Types:\nMicrosoft.Data.SqlClient.SqlConnection\nMicrosoft.Data.SqlClient.SqlException\nMicrosoft.Data.SqlClient.SqlParameter\nMicrosoft.Data.SqlClient.SqlDataReader\nMicrosoft.Data.SqlClient.SqlCommand\nMicrosoft.Data.SqlClient.SqlTransaction\nMicrosoft.Data.SqlClient.SqlParameterCollection\nMicrosoft.Data.SqlClient.SqlClientFactory\n\nWhen using NuGet 3.x this package requires at least version 3.4.",
       "summary": "",
       "title": "Microsoft.Data.SqlClient",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.data.sqlclient/5.2.0-preview4.23342.2/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Data.SqlClient/5.2.0-preview4.23342.2/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.data.sqlclient/5.2.0-preview5.24024.3/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Data.SqlClient/5.2.0-preview5.24024.3/license",
       "projectUrl": "https://aka.ms/sqlclientproject",
       "tags": [
         "sqlclient",
@@ -18090,14 +18095,13 @@
           "version": "5.2.0-preview4.23342.2",
           "downloads": 33555,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.2.0-preview4.23342.2.json"
+        },
+        {
+          "version": "5.2.0-preview5.24024.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/5.2.0-preview5.24024.3.json"
         }
       ],
-      "deprecation": {
-        "message": "An important security issue exists in this version of the package. It is recommended to update to a newer version.\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-0056",
-        "reasons": [
-          "CriticalBugs"
-        ]
-      },
       "vulnerabilities": []
     },
     {
@@ -24243,144 +24247,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/index.json",
-      "id": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
-      "version": "4.4.0",
-      "description": "Internal implementation package not meant for direct consumption.  Please do not reference directly. \nd0d5c7b49271cadb6d97de26d8e623e98abdc8db \nWhen using NuGet 3.x this package requires at least version 3.4.",
-      "summary": "",
-      "title": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/icon",
-      "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
-      "projectUrl": "https://dot.net/",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 365162744,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "4.4.0-preview1-25301-01",
-          "downloads": 152173,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0-preview1-25301-01.json"
-        },
-        {
-          "version": "4.4.0-preview2-25312-01",
-          "downloads": 222309,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01.json"
-        },
-        {
-          "version": "4.4.0",
-          "downloads": 364788262,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/index.json",
-      "id": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
-      "version": "4.4.0",
-      "description": "Internal implementation package not meant for direct consumption.  Please do not reference directly. \nd0d5c7b49271cadb6d97de26d8e623e98abdc8db \nWhen using NuGet 3.x this package requires at least version 3.4.",
-      "summary": "",
-      "title": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/icon",
-      "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
-      "projectUrl": "https://dot.net/",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 365012233,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "4.4.0-preview1-25301-01",
-          "downloads": 153125,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0-preview1-25301-01.json"
-        },
-        {
-          "version": "4.4.0-preview2-25312-01",
-          "downloads": 223044,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01.json"
-        },
-        {
-          "version": "4.4.0",
-          "downloads": 364636064,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/index.json",
-      "id": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
-      "version": "4.4.0",
-      "description": "Internal implementation package not meant for direct consumption.  Please do not reference directly. \nd0d5c7b49271cadb6d97de26d8e623e98abdc8db \nWhen using NuGet 3.x this package requires at least version 3.4.",
-      "summary": "",
-      "title": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/icon",
-      "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
-      "projectUrl": "https://dot.net/",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 364859545,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "4.4.0-preview1-25301-01",
-          "downloads": 152904,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0-preview1-25301-01.json"
-        },
-        {
-          "version": "4.4.0-preview2-25312-01",
-          "downloads": 222523,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01.json"
-        },
-        {
-          "version": "4.4.0",
-          "downloads": 364484118,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identitymodel.abstractions/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identitymodel.abstractions/index.json",
@@ -24597,6 +24463,144 @@
           "version": "7.2.0",
           "downloads": 265925,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identitymodel.abstractions/7.2.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/index.json",
+      "id": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
+      "version": "4.4.0",
+      "description": "Internal implementation package not meant for direct consumption.  Please do not reference directly. \nd0d5c7b49271cadb6d97de26d8e623e98abdc8db \nWhen using NuGet 3.x this package requires at least version 3.4.",
+      "summary": "",
+      "title": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/icon",
+      "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "projectUrl": "https://dot.net/",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
+      "totalDownloads": 365162744,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "4.4.0-preview1-25301-01",
+          "downloads": 152173,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0-preview1-25301-01.json"
+        },
+        {
+          "version": "4.4.0-preview2-25312-01",
+          "downloads": 222309,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01.json"
+        },
+        {
+          "version": "4.4.0",
+          "downloads": 364788262,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/index.json",
+      "id": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
+      "version": "4.4.0",
+      "description": "Internal implementation package not meant for direct consumption.  Please do not reference directly. \nd0d5c7b49271cadb6d97de26d8e623e98abdc8db \nWhen using NuGet 3.x this package requires at least version 3.4.",
+      "summary": "",
+      "title": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/icon",
+      "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "projectUrl": "https://dot.net/",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
+      "totalDownloads": 365012233,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "4.4.0-preview1-25301-01",
+          "downloads": 153125,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0-preview1-25301-01.json"
+        },
+        {
+          "version": "4.4.0-preview2-25312-01",
+          "downloads": 223044,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01.json"
+        },
+        {
+          "version": "4.4.0",
+          "downloads": 364636064,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/index.json",
+      "id": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
+      "version": "4.4.0",
+      "description": "Internal implementation package not meant for direct consumption.  Please do not reference directly. \nd0d5c7b49271cadb6d97de26d8e623e98abdc8db \nWhen using NuGet 3.x this package requires at least version 3.4.",
+      "summary": "",
+      "title": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/icon",
+      "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "projectUrl": "https://dot.net/",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
+      "totalDownloads": 364859545,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "4.4.0-preview1-25301-01",
+          "downloads": 152904,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0-preview1-25301-01.json"
+        },
+        {
+          "version": "4.4.0-preview2-25312-01",
+          "downloads": 222523,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01.json"
+        },
+        {
+          "version": "4.4.0",
+          "downloads": 364484118,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0.json"
         }
       ],
       "vulnerabilities": []
@@ -25108,11 +25112,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/index.json",
       "id": "Google.Protobuf",
-      "version": "3.25.2",
+      "version": "3.26.0-rc1",
       "description": "C# runtime library for Protocol Buffers - Google's data interchange format.",
       "summary": "",
       "title": "Google.Protobuf",
-      "licenseUrl": "https://www.nuget.org/packages/Google.Protobuf/3.25.2/license",
+      "licenseUrl": "https://www.nuget.org/packages/Google.Protobuf/3.26.0-rc1/license",
       "projectUrl": "https://github.com/protocolbuffers/protobuf",
       "tags": [
         "Protocol",
@@ -25792,6 +25796,11 @@
           "version": "3.25.2",
           "downloads": 76296,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/3.25.2.json"
+        },
+        {
+          "version": "3.26.0-rc1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/3.26.0-rc1.json"
         }
       ],
       "vulnerabilities": []
@@ -30362,6 +30371,142 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/index.json",
+      "id": "Microsoft.Data.SqlClient.SNI.runtime",
+      "version": "5.2.0-preview1.23340.1",
+      "description": "Internal implementation package not meant for direct consumption. Please do not reference directly.\n\nWhen using NuGet 3.x this package requires at least version 3.4.",
+      "summary": "",
+      "title": "Microsoft.Data.SqlClient.SNI.runtime",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.data.sqlclient.sni.runtime/5.2.0-preview1.23340.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Data.SqlClient.SNI.runtime/5.2.0-preview1.23340.1/license",
+      "projectUrl": "https://aka.ms/sqlclientproject",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "Microsoft",
+        "nugetsqltools"
+      ],
+      "totalDownloads": 323574214,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.0.0-preview1.20141.10",
+          "downloads": 41412,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/2.0.0-preview1.20141.10.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 12492070,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/2.0.0.json"
+        },
+        {
+          "version": "2.0.1",
+          "downloads": 58163359,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/2.0.1.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 174796,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/2.1.0.json"
+        },
+        {
+          "version": "2.1.1",
+          "downloads": 112267717,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/2.1.1.json"
+        },
+        {
+          "version": "3.0.0-preview1.21104.2",
+          "downloads": 132764,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/3.0.0-preview1.21104.2.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 37651419,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/3.0.0.json"
+        },
+        {
+          "version": "3.0.1",
+          "downloads": 299851,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/3.0.1.json"
+        },
+        {
+          "version": "4.0.0-preview1.21232.1",
+          "downloads": 337267,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/4.0.0-preview1.21232.1.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 25667174,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/4.0.0.json"
+        },
+        {
+          "version": "4.0.1",
+          "downloads": 1836656,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/4.0.1.json"
+        },
+        {
+          "version": "5.0.0-preview1.22062.1",
+          "downloads": 7762,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.0.0-preview1.22062.1.json"
+        },
+        {
+          "version": "5.0.0-preview2.22084.1",
+          "downloads": 135647,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.0.0-preview2.22084.1.json"
+        },
+        {
+          "version": "5.0.0-preview3.22165.1",
+          "downloads": 8405,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.0.0-preview3.22165.1.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 4621262,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.0.0.json"
+        },
+        {
+          "version": "5.0.1",
+          "downloads": 39338338,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.0.1.json"
+        },
+        {
+          "version": "5.1.0-preview1.22278.1",
+          "downloads": 23884,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.1.0-preview1.22278.1.json"
+        },
+        {
+          "version": "5.1.0-preview2.22311.2",
+          "downloads": 115947,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.1.0-preview2.22311.2.json"
+        },
+        {
+          "version": "5.1.0",
+          "downloads": 27514756,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.1.0.json"
+        },
+        {
+          "version": "5.1.1",
+          "downloads": 2714190,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.1.1.json"
+        },
+        {
+          "version": "5.2.0-preview1.23340.1",
+          "downloads": 29538,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.2.0-preview1.23340.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/index.json",
@@ -30503,142 +30648,6 @@
           "version": "2.14.1",
           "downloads": 75212911,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.14.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/index.json",
-      "id": "Microsoft.Data.SqlClient.SNI.runtime",
-      "version": "5.2.0-preview1.23340.1",
-      "description": "Internal implementation package not meant for direct consumption. Please do not reference directly.\n\nWhen using NuGet 3.x this package requires at least version 3.4.",
-      "summary": "",
-      "title": "Microsoft.Data.SqlClient.SNI.runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.data.sqlclient.sni.runtime/5.2.0-preview1.23340.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Data.SqlClient.SNI.runtime/5.2.0-preview1.23340.1/license",
-      "projectUrl": "https://aka.ms/sqlclientproject",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "Microsoft",
-        "nugetsqltools"
-      ],
-      "totalDownloads": 323574214,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.0.0-preview1.20141.10",
-          "downloads": 41412,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/2.0.0-preview1.20141.10.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 12492070,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/2.0.0.json"
-        },
-        {
-          "version": "2.0.1",
-          "downloads": 58163359,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/2.0.1.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 174796,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/2.1.0.json"
-        },
-        {
-          "version": "2.1.1",
-          "downloads": 112267717,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/2.1.1.json"
-        },
-        {
-          "version": "3.0.0-preview1.21104.2",
-          "downloads": 132764,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/3.0.0-preview1.21104.2.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 37651419,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/3.0.0.json"
-        },
-        {
-          "version": "3.0.1",
-          "downloads": 299851,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/3.0.1.json"
-        },
-        {
-          "version": "4.0.0-preview1.21232.1",
-          "downloads": 337267,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/4.0.0-preview1.21232.1.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 25667174,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/4.0.0.json"
-        },
-        {
-          "version": "4.0.1",
-          "downloads": 1836656,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/4.0.1.json"
-        },
-        {
-          "version": "5.0.0-preview1.22062.1",
-          "downloads": 7762,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.0.0-preview1.22062.1.json"
-        },
-        {
-          "version": "5.0.0-preview2.22084.1",
-          "downloads": 135647,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.0.0-preview2.22084.1.json"
-        },
-        {
-          "version": "5.0.0-preview3.22165.1",
-          "downloads": 8405,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.0.0-preview3.22165.1.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 4621262,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.0.0.json"
-        },
-        {
-          "version": "5.0.1",
-          "downloads": 39338338,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.0.1.json"
-        },
-        {
-          "version": "5.1.0-preview1.22278.1",
-          "downloads": 23884,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.1.0-preview1.22278.1.json"
-        },
-        {
-          "version": "5.1.0-preview2.22311.2",
-          "downloads": 115947,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.1.0-preview2.22311.2.json"
-        },
-        {
-          "version": "5.1.0",
-          "downloads": 27514756,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.1.0.json"
-        },
-        {
-          "version": "5.1.1",
-          "downloads": 2714190,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.1.1.json"
-        },
-        {
-          "version": "5.2.0-preview1.23340.1",
-          "downloads": 29538,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient.sni.runtime/5.2.0-preview1.23340.1.json"
         }
       ],
       "vulnerabilities": []
@@ -31362,6 +31371,222 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/index.json",
+      "id": "System.Formats.Asn1",
+      "version": "8.0.0",
+      "description": "Provides classes that can read and write the ASN.1 BER, CER, and DER data formats.\n\nCommonly Used Types:\nSystem.Formats.Asn1.AsnReader\nSystem.Formats.Asn1.AsnWriter",
+      "summary": "",
+      "title": "System.Formats.Asn1",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.formats.asn1/8.0.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Formats.Asn1/8.0.0/license",
+      "projectUrl": "https://dot.net/",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
+      "totalDownloads": 311415698,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "5.0.0-preview.7.20364.11",
+          "downloads": 15909,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0-preview.7.20364.11.json"
+        },
+        {
+          "version": "5.0.0-preview.8.20407.11",
+          "downloads": 79210,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0-preview.8.20407.11.json"
+        },
+        {
+          "version": "5.0.0-rc.1.20451.14",
+          "downloads": 53695,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0-rc.1.20451.14.json"
+        },
+        {
+          "version": "5.0.0-rc.2.20475.5",
+          "downloads": 18514,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0-rc.2.20475.5.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 196773615,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0.json"
+        },
+        {
+          "version": "6.0.0-preview.1.21102.12",
+          "downloads": 9086,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.1.21102.12.json"
+        },
+        {
+          "version": "6.0.0-preview.2.21154.6",
+          "downloads": 16296,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.2.21154.6.json"
+        },
+        {
+          "version": "6.0.0-preview.3.21201.4",
+          "downloads": 16562,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.3.21201.4.json"
+        },
+        {
+          "version": "6.0.0-preview.4.21253.7",
+          "downloads": 117802,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.4.21253.7.json"
+        },
+        {
+          "version": "6.0.0-preview.5.21301.5",
+          "downloads": 7227,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.5.21301.5.json"
+        },
+        {
+          "version": "6.0.0-preview.6.21352.12",
+          "downloads": 6747,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.6.21352.12.json"
+        },
+        {
+          "version": "6.0.0-preview.7.21377.19",
+          "downloads": 17967,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.7.21377.19.json"
+        },
+        {
+          "version": "6.0.0-rc.1.21451.13",
+          "downloads": 14553,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-rc.1.21451.13.json"
+        },
+        {
+          "version": "6.0.0-rc.2.21480.5",
+          "downloads": 18445,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-rc.2.21480.5.json"
+        },
+        {
+          "version": "6.0.0",
+          "downloads": 84007099,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0.json"
+        },
+        {
+          "version": "6.0.2-mauipre.1.22054.8",
+          "downloads": 114841,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.2-mauipre.1.22054.8.json"
+        },
+        {
+          "version": "6.0.2-mauipre.1.22102.15",
+          "downloads": 1859,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.2-mauipre.1.22102.15.json"
+        },
+        {
+          "version": "7.0.0-preview.1.22076.8",
+          "downloads": 5240,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.1.22076.8.json"
+        },
+        {
+          "version": "7.0.0-preview.2.22152.2",
+          "downloads": 18509,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.2.22152.2.json"
+        },
+        {
+          "version": "7.0.0-preview.3.22175.4",
+          "downloads": 3212,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.3.22175.4.json"
+        },
+        {
+          "version": "7.0.0-preview.4.22229.4",
+          "downloads": 17067,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.4.22229.4.json"
+        },
+        {
+          "version": "7.0.0-preview.5.22301.12",
+          "downloads": 2260,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.5.22301.12.json"
+        },
+        {
+          "version": "7.0.0-preview.6.22324.4",
+          "downloads": 10823,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.6.22324.4.json"
+        },
+        {
+          "version": "7.0.0-preview.7.22375.6",
+          "downloads": 16609,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.7.22375.6.json"
+        },
+        {
+          "version": "7.0.0-rc.1.22426.10",
+          "downloads": 68745,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-rc.1.22426.10.json"
+        },
+        {
+          "version": "7.0.0-rc.2.22472.3",
+          "downloads": 58223,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-rc.2.22472.3.json"
+        },
+        {
+          "version": "7.0.0",
+          "downloads": 27124251,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0.json"
+        },
+        {
+          "version": "8.0.0-preview.1.23110.8",
+          "downloads": 62888,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.1.23110.8.json"
+        },
+        {
+          "version": "8.0.0-preview.2.23128.3",
+          "downloads": 20802,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.2.23128.3.json"
+        },
+        {
+          "version": "8.0.0-preview.3.23174.8",
+          "downloads": 32308,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.3.23174.8.json"
+        },
+        {
+          "version": "8.0.0-preview.4.23259.5",
+          "downloads": 80328,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.4.23259.5.json"
+        },
+        {
+          "version": "8.0.0-preview.5.23280.8",
+          "downloads": 16488,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.5.23280.8.json"
+        },
+        {
+          "version": "8.0.0-preview.6.23329.7",
+          "downloads": 6425,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.6.23329.7.json"
+        },
+        {
+          "version": "8.0.0-preview.7.23375.6",
+          "downloads": 69753,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.7.23375.6.json"
+        },
+        {
+          "version": "8.0.0-rc.1.23419.4",
+          "downloads": 63430,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-rc.1.23419.4.json"
+        },
+        {
+          "version": "8.0.0-rc.2.23479.6",
+          "downloads": 161180,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-rc.2.23479.6.json"
+        },
+        {
+          "version": "8.0.0",
+          "downloads": 2287730,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/index.json",
@@ -31799,222 +32024,6 @@
           "version": "4.0.1",
           "downloads": 610144,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/4.0.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/index.json",
-      "id": "System.Formats.Asn1",
-      "version": "8.0.0",
-      "description": "Provides classes that can read and write the ASN.1 BER, CER, and DER data formats.\n\nCommonly Used Types:\nSystem.Formats.Asn1.AsnReader\nSystem.Formats.Asn1.AsnWriter",
-      "summary": "",
-      "title": "System.Formats.Asn1",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.formats.asn1/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Formats.Asn1/8.0.0/license",
-      "projectUrl": "https://dot.net/",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 311415698,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "5.0.0-preview.7.20364.11",
-          "downloads": 15909,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0-preview.7.20364.11.json"
-        },
-        {
-          "version": "5.0.0-preview.8.20407.11",
-          "downloads": 79210,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0-preview.8.20407.11.json"
-        },
-        {
-          "version": "5.0.0-rc.1.20451.14",
-          "downloads": 53695,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0-rc.1.20451.14.json"
-        },
-        {
-          "version": "5.0.0-rc.2.20475.5",
-          "downloads": 18514,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0-rc.2.20475.5.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 196773615,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0.json"
-        },
-        {
-          "version": "6.0.0-preview.1.21102.12",
-          "downloads": 9086,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.1.21102.12.json"
-        },
-        {
-          "version": "6.0.0-preview.2.21154.6",
-          "downloads": 16296,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.2.21154.6.json"
-        },
-        {
-          "version": "6.0.0-preview.3.21201.4",
-          "downloads": 16562,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.3.21201.4.json"
-        },
-        {
-          "version": "6.0.0-preview.4.21253.7",
-          "downloads": 117802,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.4.21253.7.json"
-        },
-        {
-          "version": "6.0.0-preview.5.21301.5",
-          "downloads": 7227,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.5.21301.5.json"
-        },
-        {
-          "version": "6.0.0-preview.6.21352.12",
-          "downloads": 6747,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.6.21352.12.json"
-        },
-        {
-          "version": "6.0.0-preview.7.21377.19",
-          "downloads": 17967,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.7.21377.19.json"
-        },
-        {
-          "version": "6.0.0-rc.1.21451.13",
-          "downloads": 14553,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-rc.1.21451.13.json"
-        },
-        {
-          "version": "6.0.0-rc.2.21480.5",
-          "downloads": 18445,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-rc.2.21480.5.json"
-        },
-        {
-          "version": "6.0.0",
-          "downloads": 84007099,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0.json"
-        },
-        {
-          "version": "6.0.2-mauipre.1.22054.8",
-          "downloads": 114841,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.2-mauipre.1.22054.8.json"
-        },
-        {
-          "version": "6.0.2-mauipre.1.22102.15",
-          "downloads": 1859,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.2-mauipre.1.22102.15.json"
-        },
-        {
-          "version": "7.0.0-preview.1.22076.8",
-          "downloads": 5240,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.1.22076.8.json"
-        },
-        {
-          "version": "7.0.0-preview.2.22152.2",
-          "downloads": 18509,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.2.22152.2.json"
-        },
-        {
-          "version": "7.0.0-preview.3.22175.4",
-          "downloads": 3212,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.3.22175.4.json"
-        },
-        {
-          "version": "7.0.0-preview.4.22229.4",
-          "downloads": 17067,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.4.22229.4.json"
-        },
-        {
-          "version": "7.0.0-preview.5.22301.12",
-          "downloads": 2260,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.5.22301.12.json"
-        },
-        {
-          "version": "7.0.0-preview.6.22324.4",
-          "downloads": 10823,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.6.22324.4.json"
-        },
-        {
-          "version": "7.0.0-preview.7.22375.6",
-          "downloads": 16609,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.7.22375.6.json"
-        },
-        {
-          "version": "7.0.0-rc.1.22426.10",
-          "downloads": 68745,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-rc.1.22426.10.json"
-        },
-        {
-          "version": "7.0.0-rc.2.22472.3",
-          "downloads": 58223,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-rc.2.22472.3.json"
-        },
-        {
-          "version": "7.0.0",
-          "downloads": 27124251,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0.json"
-        },
-        {
-          "version": "8.0.0-preview.1.23110.8",
-          "downloads": 62888,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.1.23110.8.json"
-        },
-        {
-          "version": "8.0.0-preview.2.23128.3",
-          "downloads": 20802,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.2.23128.3.json"
-        },
-        {
-          "version": "8.0.0-preview.3.23174.8",
-          "downloads": 32308,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.3.23174.8.json"
-        },
-        {
-          "version": "8.0.0-preview.4.23259.5",
-          "downloads": 80328,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.4.23259.5.json"
-        },
-        {
-          "version": "8.0.0-preview.5.23280.8",
-          "downloads": 16488,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.5.23280.8.json"
-        },
-        {
-          "version": "8.0.0-preview.6.23329.7",
-          "downloads": 6425,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.6.23329.7.json"
-        },
-        {
-          "version": "8.0.0-preview.7.23375.6",
-          "downloads": 69753,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.7.23375.6.json"
-        },
-        {
-          "version": "8.0.0-rc.1.23419.4",
-          "downloads": 63430,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-rc.1.23419.4.json"
-        },
-        {
-          "version": "8.0.0-rc.2.23479.6",
-          "downloads": 161180,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-rc.2.23479.6.json"
-        },
-        {
-          "version": "8.0.0",
-          "downloads": 2287730,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0.json"
         }
       ],
       "vulnerabilities": []
@@ -41921,12 +41930,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "id": "AWSSDK.S3",
-      "version": "3.7.305.16",
+      "version": "3.7.305.17",
       "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
       "summary": "",
       "title": "AWSSDK - S3",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.305.16/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/3.7.305.16/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.305.17/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/3.7.305.17/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -47063,6 +47072,11 @@
           "version": "3.7.305.16",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.305.16.json"
+        },
+        {
+          "version": "3.7.305.17",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.305.17.json"
         }
       ],
       "vulnerabilities": []
