@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 362729,
+  "totalHits": 362838,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -8647,12 +8647,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "3.7.302",
+      "version": "3.7.302.1",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.302/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/3.7.302/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.302.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/3.7.302.1/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -13738,6 +13738,11 @@
           "version": "3.7.302",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.302.json"
+        },
+        {
+          "version": "3.7.302.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.302.1.json"
         }
       ],
       "vulnerabilities": []
@@ -16404,229 +16409,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/index.json",
-      "id": "Microsoft.ApplicationInsights",
-      "version": "2.22.0",
-      "description": "Application Insights Base API. This package provides core functionality for transmission of all Application Insights Telemetry Types and is a dependent package for all other Application Insights packages. Please install the platform specific package for the best experience. Privacy statement: https://go.microsoft.com/fwlink/?LinkId=512156",
-      "summary": "",
-      "title": "Application Insights API",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights/2.22.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.ApplicationInsights/2.22.0/license",
-      "projectUrl": "https://go.microsoft.com/fwlink/?LinkId=392727",
-      "tags": [
-        "Analytics",
-        "Azure",
-        "ApplicationInsights",
-        "Telemetry",
-        "Monitoring",
-        "SDK"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "AppInsightsSdk",
-        "Microsoft"
-      ],
-      "totalDownloads": 502788239,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.17.0",
-          "downloads": 120178,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/0.17.0.json"
-        },
-        {
-          "version": "1.0.0",
-          "downloads": 1012720,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/1.0.0.json"
-        },
-        {
-          "version": "1.1.0",
-          "downloads": 172059,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/1.1.0.json"
-        },
-        {
-          "version": "1.2.0",
-          "downloads": 476705,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/1.2.0.json"
-        },
-        {
-          "version": "1.2.3",
-          "downloads": 2979502,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/1.2.3.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 3673593,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.0.0.json"
-        },
-        {
-          "version": "2.0.1",
-          "downloads": 331251,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.0.1.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 4366523,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.1.0.json"
-        },
-        {
-          "version": "2.2.0",
-          "downloads": 13726116,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.2.0.json"
-        },
-        {
-          "version": "2.3.0",
-          "downloads": 6180202,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.3.0.json"
-        },
-        {
-          "version": "2.4.0",
-          "downloads": 23175304,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.4.0.json"
-        },
-        {
-          "version": "2.5.0",
-          "downloads": 1940366,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.5.0.json"
-        },
-        {
-          "version": "2.5.1",
-          "downloads": 13952376,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.5.1.json"
-        },
-        {
-          "version": "2.6.1",
-          "downloads": 751928,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.6.1.json"
-        },
-        {
-          "version": "2.6.4",
-          "downloads": 7338070,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.6.4.json"
-        },
-        {
-          "version": "2.7.1",
-          "downloads": 1009821,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.7.1.json"
-        },
-        {
-          "version": "2.7.2",
-          "downloads": 7352184,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.7.2.json"
-        },
-        {
-          "version": "2.8.0",
-          "downloads": 1136922,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.8.0.json"
-        },
-        {
-          "version": "2.8.1",
-          "downloads": 10041688,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.8.1.json"
-        },
-        {
-          "version": "2.9.0",
-          "downloads": 1030665,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.9.0.json"
-        },
-        {
-          "version": "2.9.1",
-          "downloads": 14558500,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.9.1.json"
-        },
-        {
-          "version": "2.10.0",
-          "downloads": 28868991,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.10.0.json"
-        },
-        {
-          "version": "2.11.0",
-          "downloads": 12730339,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.11.0.json"
-        },
-        {
-          "version": "2.12.0",
-          "downloads": 39881117,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.12.0.json"
-        },
-        {
-          "version": "2.12.1",
-          "downloads": 4756895,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.12.1.json"
-        },
-        {
-          "version": "2.12.2",
-          "downloads": 9750224,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.12.2.json"
-        },
-        {
-          "version": "2.13.0",
-          "downloads": 527363,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.13.0.json"
-        },
-        {
-          "version": "2.13.1",
-          "downloads": 15310111,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.13.1.json"
-        },
-        {
-          "version": "2.14.0",
-          "downloads": 28808045,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.14.0.json"
-        },
-        {
-          "version": "2.15.0",
-          "downloads": 25540512,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.15.0.json"
-        },
-        {
-          "version": "2.16.0",
-          "downloads": 23542356,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.16.0.json"
-        },
-        {
-          "version": "2.17.0",
-          "downloads": 29904995,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.17.0.json"
-        },
-        {
-          "version": "2.18.0",
-          "downloads": 18462200,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.18.0.json"
-        },
-        {
-          "version": "2.19.0",
-          "downloads": 8609988,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.19.0.json"
-        },
-        {
-          "version": "2.20.0",
-          "downloads": 65123429,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.20.0.json"
-        },
-        {
-          "version": "2.21.0",
-          "downloads": 69092012,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.21.0.json"
-        },
-        {
-          "version": "2.22.0",
-          "downloads": 1450867,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.22.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/index.json",
@@ -16983,6 +16765,229 @@
           "version": "8.0.0",
           "downloads": 3589002,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/8.0.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/index.json",
+      "id": "Microsoft.ApplicationInsights",
+      "version": "2.22.0",
+      "description": "Application Insights Base API. This package provides core functionality for transmission of all Application Insights Telemetry Types and is a dependent package for all other Application Insights packages. Please install the platform specific package for the best experience. Privacy statement: https://go.microsoft.com/fwlink/?LinkId=512156",
+      "summary": "",
+      "title": "Application Insights API",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.applicationinsights/2.22.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.ApplicationInsights/2.22.0/license",
+      "projectUrl": "https://go.microsoft.com/fwlink/?LinkId=392727",
+      "tags": [
+        "Analytics",
+        "Azure",
+        "ApplicationInsights",
+        "Telemetry",
+        "Monitoring",
+        "SDK"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "AppInsightsSdk",
+        "Microsoft"
+      ],
+      "totalDownloads": 502788239,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.17.0",
+          "downloads": 120178,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/0.17.0.json"
+        },
+        {
+          "version": "1.0.0",
+          "downloads": 1012720,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/1.0.0.json"
+        },
+        {
+          "version": "1.1.0",
+          "downloads": 172059,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/1.1.0.json"
+        },
+        {
+          "version": "1.2.0",
+          "downloads": 476705,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/1.2.0.json"
+        },
+        {
+          "version": "1.2.3",
+          "downloads": 2979502,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/1.2.3.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 3673593,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.0.0.json"
+        },
+        {
+          "version": "2.0.1",
+          "downloads": 331251,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.0.1.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 4366523,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.1.0.json"
+        },
+        {
+          "version": "2.2.0",
+          "downloads": 13726116,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.2.0.json"
+        },
+        {
+          "version": "2.3.0",
+          "downloads": 6180202,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.3.0.json"
+        },
+        {
+          "version": "2.4.0",
+          "downloads": 23175304,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.4.0.json"
+        },
+        {
+          "version": "2.5.0",
+          "downloads": 1940366,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.5.0.json"
+        },
+        {
+          "version": "2.5.1",
+          "downloads": 13952376,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.5.1.json"
+        },
+        {
+          "version": "2.6.1",
+          "downloads": 751928,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.6.1.json"
+        },
+        {
+          "version": "2.6.4",
+          "downloads": 7338070,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.6.4.json"
+        },
+        {
+          "version": "2.7.1",
+          "downloads": 1009821,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.7.1.json"
+        },
+        {
+          "version": "2.7.2",
+          "downloads": 7352184,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.7.2.json"
+        },
+        {
+          "version": "2.8.0",
+          "downloads": 1136922,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.8.0.json"
+        },
+        {
+          "version": "2.8.1",
+          "downloads": 10041688,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.8.1.json"
+        },
+        {
+          "version": "2.9.0",
+          "downloads": 1030665,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.9.0.json"
+        },
+        {
+          "version": "2.9.1",
+          "downloads": 14558500,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.9.1.json"
+        },
+        {
+          "version": "2.10.0",
+          "downloads": 28868991,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.10.0.json"
+        },
+        {
+          "version": "2.11.0",
+          "downloads": 12730339,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.11.0.json"
+        },
+        {
+          "version": "2.12.0",
+          "downloads": 39881117,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.12.0.json"
+        },
+        {
+          "version": "2.12.1",
+          "downloads": 4756895,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.12.1.json"
+        },
+        {
+          "version": "2.12.2",
+          "downloads": 9750224,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.12.2.json"
+        },
+        {
+          "version": "2.13.0",
+          "downloads": 527363,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.13.0.json"
+        },
+        {
+          "version": "2.13.1",
+          "downloads": 15310111,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.13.1.json"
+        },
+        {
+          "version": "2.14.0",
+          "downloads": 28808045,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.14.0.json"
+        },
+        {
+          "version": "2.15.0",
+          "downloads": 25540512,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.15.0.json"
+        },
+        {
+          "version": "2.16.0",
+          "downloads": 23542356,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.16.0.json"
+        },
+        {
+          "version": "2.17.0",
+          "downloads": 29904995,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.17.0.json"
+        },
+        {
+          "version": "2.18.0",
+          "downloads": 18462200,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.18.0.json"
+        },
+        {
+          "version": "2.19.0",
+          "downloads": 8609988,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.19.0.json"
+        },
+        {
+          "version": "2.20.0",
+          "downloads": 65123429,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.20.0.json"
+        },
+        {
+          "version": "2.21.0",
+          "downloads": 69092012,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.21.0.json"
+        },
+        {
+          "version": "2.22.0",
+          "downloads": 1450867,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.applicationinsights/2.22.0.json"
         }
       ],
       "vulnerabilities": []
@@ -22682,6 +22687,298 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/index.json",
+      "id": "Azure.Identity",
+      "version": "1.10.4",
+      "description": "This is the implementation of the Azure SDK Client Library for Azure Identity",
+      "summary": "",
+      "title": "Azure.Identity",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.identity/1.10.4/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Azure.Identity/1.10.4/license",
+      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Identity_1.10.4/sdk/identity/Azure.Identity/README.md",
+      "tags": [
+        "Microsoft",
+        "Azure",
+        "Identity",
+        "windowsazureofficial",
+        "azureofficial"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "azure-sdk",
+        "Microsoft"
+      ],
+      "totalDownloads": 379761604,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0-preview.1",
+          "downloads": 698,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.0.0-preview.1.json"
+        },
+        {
+          "version": "1.0.0-preview.2",
+          "downloads": 1012,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.0.0-preview.2.json"
+        },
+        {
+          "version": "1.0.0-preview.3",
+          "downloads": 5214,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.0.0-preview.3.json"
+        },
+        {
+          "version": "1.0.0-preview.4",
+          "downloads": 3292,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.0.0-preview.4.json"
+        },
+        {
+          "version": "1.0.0-preview.5",
+          "downloads": 10476,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.0.0-preview.5.json"
+        },
+        {
+          "version": "1.0.0",
+          "downloads": 2637343,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.0.0.json"
+        },
+        {
+          "version": "1.1.0",
+          "downloads": 772412,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.1.0.json"
+        },
+        {
+          "version": "1.1.1",
+          "downloads": 11517322,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.1.1.json"
+        },
+        {
+          "version": "1.2.0-preview.1",
+          "downloads": 71351,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.0-preview.1.json"
+        },
+        {
+          "version": "1.2.0-preview.2",
+          "downloads": 44654,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.0-preview.2.json"
+        },
+        {
+          "version": "1.2.0-preview.3",
+          "downloads": 120538,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.0-preview.3.json"
+        },
+        {
+          "version": "1.2.0-preview.4",
+          "downloads": 69560,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.0-preview.4.json"
+        },
+        {
+          "version": "1.2.0-preview.5",
+          "downloads": 16277,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.0-preview.5.json"
+        },
+        {
+          "version": "1.2.0-preview.6",
+          "downloads": 18197,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.0-preview.6.json"
+        },
+        {
+          "version": "1.2.1",
+          "downloads": 737025,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.1.json"
+        },
+        {
+          "version": "1.2.2",
+          "downloads": 1231661,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.2.json"
+        },
+        {
+          "version": "1.2.3",
+          "downloads": 9938229,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.3.json"
+        },
+        {
+          "version": "1.3.0-beta.1",
+          "downloads": 39520,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.3.0-beta.1.json"
+        },
+        {
+          "version": "1.3.0-beta.2",
+          "downloads": 3260,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.3.0-beta.2.json"
+        },
+        {
+          "version": "1.3.0",
+          "downloads": 104359171,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.3.0.json"
+        },
+        {
+          "version": "1.4.0-beta.1",
+          "downloads": 124556,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.4.0-beta.1.json"
+        },
+        {
+          "version": "1.4.0-beta.2",
+          "downloads": 22469,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.4.0-beta.2.json"
+        },
+        {
+          "version": "1.4.0-beta.3",
+          "downloads": 124561,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.4.0-beta.3.json"
+        },
+        {
+          "version": "1.4.0-beta.4",
+          "downloads": 34513,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.4.0-beta.4.json"
+        },
+        {
+          "version": "1.4.0-beta.5",
+          "downloads": 125258,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.4.0-beta.5.json"
+        },
+        {
+          "version": "1.4.0",
+          "downloads": 35676476,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.4.0.json"
+        },
+        {
+          "version": "1.4.1",
+          "downloads": 8529369,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.4.1.json"
+        },
+        {
+          "version": "1.5.0-beta.1",
+          "downloads": 26528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.5.0-beta.1.json"
+        },
+        {
+          "version": "1.5.0-beta.2",
+          "downloads": 34805,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.5.0-beta.2.json"
+        },
+        {
+          "version": "1.5.0-beta.3",
+          "downloads": 145431,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.5.0-beta.3.json"
+        },
+        {
+          "version": "1.5.0-beta.4",
+          "downloads": 53176,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.5.0-beta.4.json"
+        },
+        {
+          "version": "1.5.0",
+          "downloads": 29916355,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.5.0.json"
+        },
+        {
+          "version": "1.6.0-beta.1",
+          "downloads": 52799,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.6.0-beta.1.json"
+        },
+        {
+          "version": "1.6.0",
+          "downloads": 65096624,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.6.0.json"
+        },
+        {
+          "version": "1.6.1",
+          "downloads": 6263926,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.6.1.json"
+        },
+        {
+          "version": "1.7.0-beta.1",
+          "downloads": 60886,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.7.0-beta.1.json"
+        },
+        {
+          "version": "1.7.0",
+          "downloads": 44699716,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.7.0.json"
+        },
+        {
+          "version": "1.8.0-beta.1",
+          "downloads": 5298,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.8.0-beta.1.json"
+        },
+        {
+          "version": "1.8.0",
+          "downloads": 9429804,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.8.0.json"
+        },
+        {
+          "version": "1.8.1",
+          "downloads": 3267347,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.8.1.json"
+        },
+        {
+          "version": "1.8.2",
+          "downloads": 14191293,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.8.2.json"
+        },
+        {
+          "version": "1.9.0-beta.1",
+          "downloads": 272936,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.9.0-beta.1.json"
+        },
+        {
+          "version": "1.9.0-beta.2",
+          "downloads": 99441,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.9.0-beta.2.json"
+        },
+        {
+          "version": "1.9.0-beta.3",
+          "downloads": 37671,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.9.0-beta.3.json"
+        },
+        {
+          "version": "1.9.0",
+          "downloads": 11855478,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.9.0.json"
+        },
+        {
+          "version": "1.10.0-beta.1",
+          "downloads": 14029,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.10.0-beta.1.json"
+        },
+        {
+          "version": "1.10.0",
+          "downloads": 2433562,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.10.0.json"
+        },
+        {
+          "version": "1.10.1",
+          "downloads": 1607330,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.10.1.json"
+        },
+        {
+          "version": "1.10.2",
+          "downloads": 3825357,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.10.2.json"
+        },
+        {
+          "version": "1.10.3",
+          "downloads": 5089890,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.10.3.json"
+        },
+        {
+          "version": "1.10.4",
+          "downloads": 4659663,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.10.4.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identitymodel.clients.activedirectory/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identitymodel.clients.activedirectory/index.json",
@@ -23087,298 +23384,6 @@
           "Legacy"
         ]
       },
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/index.json",
-      "id": "Azure.Identity",
-      "version": "1.10.4",
-      "description": "This is the implementation of the Azure SDK Client Library for Azure Identity",
-      "summary": "",
-      "title": "Azure.Identity",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.identity/1.10.4/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Azure.Identity/1.10.4/license",
-      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Identity_1.10.4/sdk/identity/Azure.Identity/README.md",
-      "tags": [
-        "Microsoft",
-        "Azure",
-        "Identity",
-        "windowsazureofficial",
-        "azureofficial"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "azure-sdk",
-        "Microsoft"
-      ],
-      "totalDownloads": 379761604,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0-preview.1",
-          "downloads": 698,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.0.0-preview.1.json"
-        },
-        {
-          "version": "1.0.0-preview.2",
-          "downloads": 1012,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.0.0-preview.2.json"
-        },
-        {
-          "version": "1.0.0-preview.3",
-          "downloads": 5214,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.0.0-preview.3.json"
-        },
-        {
-          "version": "1.0.0-preview.4",
-          "downloads": 3292,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.0.0-preview.4.json"
-        },
-        {
-          "version": "1.0.0-preview.5",
-          "downloads": 10476,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.0.0-preview.5.json"
-        },
-        {
-          "version": "1.0.0",
-          "downloads": 2637343,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.0.0.json"
-        },
-        {
-          "version": "1.1.0",
-          "downloads": 772412,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.1.0.json"
-        },
-        {
-          "version": "1.1.1",
-          "downloads": 11517322,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.1.1.json"
-        },
-        {
-          "version": "1.2.0-preview.1",
-          "downloads": 71351,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.0-preview.1.json"
-        },
-        {
-          "version": "1.2.0-preview.2",
-          "downloads": 44654,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.0-preview.2.json"
-        },
-        {
-          "version": "1.2.0-preview.3",
-          "downloads": 120538,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.0-preview.3.json"
-        },
-        {
-          "version": "1.2.0-preview.4",
-          "downloads": 69560,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.0-preview.4.json"
-        },
-        {
-          "version": "1.2.0-preview.5",
-          "downloads": 16277,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.0-preview.5.json"
-        },
-        {
-          "version": "1.2.0-preview.6",
-          "downloads": 18197,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.0-preview.6.json"
-        },
-        {
-          "version": "1.2.1",
-          "downloads": 737025,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.1.json"
-        },
-        {
-          "version": "1.2.2",
-          "downloads": 1231661,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.2.json"
-        },
-        {
-          "version": "1.2.3",
-          "downloads": 9938229,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.2.3.json"
-        },
-        {
-          "version": "1.3.0-beta.1",
-          "downloads": 39520,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.3.0-beta.1.json"
-        },
-        {
-          "version": "1.3.0-beta.2",
-          "downloads": 3260,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.3.0-beta.2.json"
-        },
-        {
-          "version": "1.3.0",
-          "downloads": 104359171,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.3.0.json"
-        },
-        {
-          "version": "1.4.0-beta.1",
-          "downloads": 124556,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.4.0-beta.1.json"
-        },
-        {
-          "version": "1.4.0-beta.2",
-          "downloads": 22469,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.4.0-beta.2.json"
-        },
-        {
-          "version": "1.4.0-beta.3",
-          "downloads": 124561,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.4.0-beta.3.json"
-        },
-        {
-          "version": "1.4.0-beta.4",
-          "downloads": 34513,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.4.0-beta.4.json"
-        },
-        {
-          "version": "1.4.0-beta.5",
-          "downloads": 125258,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.4.0-beta.5.json"
-        },
-        {
-          "version": "1.4.0",
-          "downloads": 35676476,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.4.0.json"
-        },
-        {
-          "version": "1.4.1",
-          "downloads": 8529369,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.4.1.json"
-        },
-        {
-          "version": "1.5.0-beta.1",
-          "downloads": 26528,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.5.0-beta.1.json"
-        },
-        {
-          "version": "1.5.0-beta.2",
-          "downloads": 34805,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.5.0-beta.2.json"
-        },
-        {
-          "version": "1.5.0-beta.3",
-          "downloads": 145431,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.5.0-beta.3.json"
-        },
-        {
-          "version": "1.5.0-beta.4",
-          "downloads": 53176,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.5.0-beta.4.json"
-        },
-        {
-          "version": "1.5.0",
-          "downloads": 29916355,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.5.0.json"
-        },
-        {
-          "version": "1.6.0-beta.1",
-          "downloads": 52799,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.6.0-beta.1.json"
-        },
-        {
-          "version": "1.6.0",
-          "downloads": 65096624,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.6.0.json"
-        },
-        {
-          "version": "1.6.1",
-          "downloads": 6263926,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.6.1.json"
-        },
-        {
-          "version": "1.7.0-beta.1",
-          "downloads": 60886,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.7.0-beta.1.json"
-        },
-        {
-          "version": "1.7.0",
-          "downloads": 44699716,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.7.0.json"
-        },
-        {
-          "version": "1.8.0-beta.1",
-          "downloads": 5298,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.8.0-beta.1.json"
-        },
-        {
-          "version": "1.8.0",
-          "downloads": 9429804,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.8.0.json"
-        },
-        {
-          "version": "1.8.1",
-          "downloads": 3267347,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.8.1.json"
-        },
-        {
-          "version": "1.8.2",
-          "downloads": 14191293,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.8.2.json"
-        },
-        {
-          "version": "1.9.0-beta.1",
-          "downloads": 272936,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.9.0-beta.1.json"
-        },
-        {
-          "version": "1.9.0-beta.2",
-          "downloads": 99441,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.9.0-beta.2.json"
-        },
-        {
-          "version": "1.9.0-beta.3",
-          "downloads": 37671,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.9.0-beta.3.json"
-        },
-        {
-          "version": "1.9.0",
-          "downloads": 11855478,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.9.0.json"
-        },
-        {
-          "version": "1.10.0-beta.1",
-          "downloads": 14029,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.10.0-beta.1.json"
-        },
-        {
-          "version": "1.10.0",
-          "downloads": 2433562,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.10.0.json"
-        },
-        {
-          "version": "1.10.1",
-          "downloads": 1607330,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.10.1.json"
-        },
-        {
-          "version": "1.10.2",
-          "downloads": 3825357,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.10.2.json"
-        },
-        {
-          "version": "1.10.3",
-          "downloads": 5089890,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.10.3.json"
-        },
-        {
-          "version": "1.10.4",
-          "downloads": 4659663,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.10.4.json"
-        }
-      ],
       "vulnerabilities": []
     },
     {
@@ -25108,6 +25113,435 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/index.json",
+      "id": "Microsoft.Identity.Client.Extensions.Msal",
+      "version": "4.59.0",
+      "description": "This package contains the public client (desktop) caching to Microsoft Authentication Library for .NET (MSAL.NET)",
+      "summary": "",
+      "title": "Microsoft.Identity.Client.Extensions.Msal",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Identity.Client.Extensions.Msal/4.59.0/license",
+      "projectUrl": "https://go.microsoft.com/fwlink/?linkid=844761",
+      "tags": [
+        "Microsoft",
+        "Authentication",
+        "Library",
+        "MSA",
+        "MSAL",
+        "B2C",
+        "Azure",
+        "Active",
+        "Directory",
+        "AAD",
+        "Identity",
+        ".NET",
+        "Windows",
+        "Store",
+        "Xamarin",
+        "iOS",
+        "Android",
+        "MAUI"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "AzureAD",
+        "Microsoft"
+      ],
+      "totalDownloads": 352334924,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.3-preview",
+          "downloads": 1450,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.0.3-preview.json"
+        },
+        {
+          "version": "1.0.5-preview",
+          "downloads": 1479,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.0.5-preview.json"
+        },
+        {
+          "version": "1.0.7-preview",
+          "downloads": 1512,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.0.7-preview.json"
+        },
+        {
+          "version": "1.0.8-preview",
+          "downloads": 1476,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.0.8-preview.json"
+        },
+        {
+          "version": "1.0.9-preview",
+          "downloads": 1503,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.0.9-preview.json"
+        },
+        {
+          "version": "1.0.10-preview",
+          "downloads": 9935,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.0.10-preview.json"
+        },
+        {
+          "version": "1.1.0-preview",
+          "downloads": 5031,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.1.0-preview.json"
+        },
+        {
+          "version": "1.1.1-preview",
+          "downloads": 1370,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.1.1-preview.json"
+        },
+        {
+          "version": "1.1.2-preview",
+          "downloads": 1388,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.1.2-preview.json"
+        },
+        {
+          "version": "1.1.3-preview",
+          "downloads": 2516,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.1.3-preview.json"
+        },
+        {
+          "version": "1.1.5-preview",
+          "downloads": 12629,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.1.5-preview.json"
+        },
+        {
+          "version": "2.0.0-preview",
+          "downloads": 4364,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.0.0-preview.json"
+        },
+        {
+          "version": "2.1.0-preview",
+          "downloads": 7586,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.1.0-preview.json"
+        },
+        {
+          "version": "2.2.0-preview",
+          "downloads": 3320,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.2.0-preview.json"
+        },
+        {
+          "version": "2.3.0-preview",
+          "downloads": 14973,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.3.0-preview.json"
+        },
+        {
+          "version": "2.4.0-internal677868master",
+          "downloads": 1432,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.4.0-internal677868master.json"
+        },
+        {
+          "version": "2.4.0-preview",
+          "downloads": 5278,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.4.0-preview.json"
+        },
+        {
+          "version": "2.5.0-preview",
+          "downloads": 1379,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.5.0-preview.json"
+        },
+        {
+          "version": "2.6.0-preview",
+          "downloads": 1741,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.6.0-preview.json"
+        },
+        {
+          "version": "2.7.0-preview",
+          "downloads": 4115,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.7.0-preview.json"
+        },
+        {
+          "version": "2.8.0-preview",
+          "downloads": 225867,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.8.0-preview.json"
+        },
+        {
+          "version": "2.9.0-preview",
+          "downloads": 1380,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.9.0-preview.json"
+        },
+        {
+          "version": "2.9.14",
+          "downloads": 3059,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.9.14.json"
+        },
+        {
+          "version": "2.10.0-preview",
+          "downloads": 116995,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.10.0-preview.json"
+        },
+        {
+          "version": "2.11.0-preview",
+          "downloads": 2019,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.11.0-preview.json"
+        },
+        {
+          "version": "2.12.0",
+          "downloads": 12152684,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.12.0.json"
+        },
+        {
+          "version": "2.13.0",
+          "downloads": 57093,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.13.0.json"
+        },
+        {
+          "version": "2.14.0",
+          "downloads": 26679,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.14.0.json"
+        },
+        {
+          "version": "2.15.0",
+          "downloads": 31876,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.15.0.json"
+        },
+        {
+          "version": "2.16.0",
+          "downloads": 3257,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.0.json"
+        },
+        {
+          "version": "2.16.1",
+          "downloads": 24453,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.1.json"
+        },
+        {
+          "version": "2.16.2",
+          "downloads": 338400,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.2.json"
+        },
+        {
+          "version": "2.16.3",
+          "downloads": 14528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.3.json"
+        },
+        {
+          "version": "2.16.4",
+          "downloads": 117204,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.4.json"
+        },
+        {
+          "version": "2.16.5",
+          "downloads": 102241914,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.5.json"
+        },
+        {
+          "version": "2.16.6",
+          "downloads": 323605,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.6.json"
+        },
+        {
+          "version": "2.16.7",
+          "downloads": 87993,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.7.json"
+        },
+        {
+          "version": "2.16.8",
+          "downloads": 251719,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.8.json"
+        },
+        {
+          "version": "2.17.0",
+          "downloads": 17697,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.17.0.json"
+        },
+        {
+          "version": "2.18.0",
+          "downloads": 252861,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.0.json"
+        },
+        {
+          "version": "2.18.1",
+          "downloads": 4523,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.1.json"
+        },
+        {
+          "version": "2.18.2",
+          "downloads": 15785,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.2.json"
+        },
+        {
+          "version": "2.18.3",
+          "downloads": 56872,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.3.json"
+        },
+        {
+          "version": "2.18.4",
+          "downloads": 67180004,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.4.json"
+        },
+        {
+          "version": "2.18.5",
+          "downloads": 121178,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.5.json"
+        },
+        {
+          "version": "2.18.6",
+          "downloads": 55695,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.6.json"
+        },
+        {
+          "version": "2.18.7",
+          "downloads": 38666,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.7.json"
+        },
+        {
+          "version": "2.18.8",
+          "downloads": 21140,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.8.json"
+        },
+        {
+          "version": "2.18.9",
+          "downloads": 2391936,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.9.json"
+        },
+        {
+          "version": "2.19.0",
+          "downloads": 28580,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.19.0.json"
+        },
+        {
+          "version": "2.19.1",
+          "downloads": 241162,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.19.1.json"
+        },
+        {
+          "version": "2.19.2",
+          "downloads": 860327,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.19.2.json"
+        },
+        {
+          "version": "2.19.3",
+          "downloads": 102270453,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.19.3.json"
+        },
+        {
+          "version": "2.19.4",
+          "downloads": 6817,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.19.4.json"
+        },
+        {
+          "version": "2.19.5",
+          "downloads": 148257,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.19.5.json"
+        },
+        {
+          "version": "2.19.6",
+          "downloads": 354345,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.19.6.json"
+        },
+        {
+          "version": "2.20.0",
+          "downloads": 232912,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.20.0.json"
+        },
+        {
+          "version": "2.20.1",
+          "downloads": 124836,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.20.1.json"
+        },
+        {
+          "version": "2.21.0",
+          "downloads": 230306,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.21.0.json"
+        },
+        {
+          "version": "2.22.0",
+          "downloads": 915311,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.22.0.json"
+        },
+        {
+          "version": "2.23.0",
+          "downloads": 13158382,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.23.0.json"
+        },
+        {
+          "version": "2.24.0",
+          "downloads": 342718,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.24.0.json"
+        },
+        {
+          "version": "2.25.0",
+          "downloads": 1504645,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.25.0.json"
+        },
+        {
+          "version": "2.25.3",
+          "downloads": 23566093,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.25.3.json"
+        },
+        {
+          "version": "2.26.0",
+          "downloads": 885551,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.26.0.json"
+        },
+        {
+          "version": "2.27.0",
+          "downloads": 476083,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.27.0.json"
+        },
+        {
+          "version": "2.28.0",
+          "downloads": 401454,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.28.0.json"
+        },
+        {
+          "version": "2.29.0",
+          "downloads": 650440,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.29.0.json"
+        },
+        {
+          "version": "2.30.0",
+          "downloads": 52745,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.30.0.json"
+        },
+        {
+          "version": "2.31.0",
+          "downloads": 8936880,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.31.0.json"
+        },
+        {
+          "version": "2.32.0",
+          "downloads": 219699,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.32.0.json"
+        },
+        {
+          "version": "4.56.0",
+          "downloads": 10155795,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/4.56.0.json"
+        },
+        {
+          "version": "4.57.0",
+          "downloads": 198800,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/4.57.0.json"
+        },
+        {
+          "version": "4.58.0",
+          "downloads": 23125,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/4.58.0.json"
+        },
+        {
+          "version": "4.58.1",
+          "downloads": 62622,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/4.58.1.json"
+        },
+        {
+          "version": "4.59.0",
+          "downloads": 4400,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/4.59.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/index.json",
@@ -25801,435 +26235,6 @@
           "version": "3.26.0-rc1",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/3.26.0-rc1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/index.json",
-      "id": "Microsoft.Identity.Client.Extensions.Msal",
-      "version": "4.59.0",
-      "description": "This package contains the public client (desktop) caching to Microsoft Authentication Library for .NET (MSAL.NET)",
-      "summary": "",
-      "title": "Microsoft.Identity.Client.Extensions.Msal",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Identity.Client.Extensions.Msal/4.59.0/license",
-      "projectUrl": "https://go.microsoft.com/fwlink/?linkid=844761",
-      "tags": [
-        "Microsoft",
-        "Authentication",
-        "Library",
-        "MSA",
-        "MSAL",
-        "B2C",
-        "Azure",
-        "Active",
-        "Directory",
-        "AAD",
-        "Identity",
-        ".NET",
-        "Windows",
-        "Store",
-        "Xamarin",
-        "iOS",
-        "Android",
-        "MAUI"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "AzureAD",
-        "Microsoft"
-      ],
-      "totalDownloads": 352334924,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.3-preview",
-          "downloads": 1450,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.0.3-preview.json"
-        },
-        {
-          "version": "1.0.5-preview",
-          "downloads": 1479,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.0.5-preview.json"
-        },
-        {
-          "version": "1.0.7-preview",
-          "downloads": 1512,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.0.7-preview.json"
-        },
-        {
-          "version": "1.0.8-preview",
-          "downloads": 1476,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.0.8-preview.json"
-        },
-        {
-          "version": "1.0.9-preview",
-          "downloads": 1503,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.0.9-preview.json"
-        },
-        {
-          "version": "1.0.10-preview",
-          "downloads": 9935,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.0.10-preview.json"
-        },
-        {
-          "version": "1.1.0-preview",
-          "downloads": 5031,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.1.0-preview.json"
-        },
-        {
-          "version": "1.1.1-preview",
-          "downloads": 1370,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.1.1-preview.json"
-        },
-        {
-          "version": "1.1.2-preview",
-          "downloads": 1388,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.1.2-preview.json"
-        },
-        {
-          "version": "1.1.3-preview",
-          "downloads": 2516,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.1.3-preview.json"
-        },
-        {
-          "version": "1.1.5-preview",
-          "downloads": 12629,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/1.1.5-preview.json"
-        },
-        {
-          "version": "2.0.0-preview",
-          "downloads": 4364,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.0.0-preview.json"
-        },
-        {
-          "version": "2.1.0-preview",
-          "downloads": 7586,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.1.0-preview.json"
-        },
-        {
-          "version": "2.2.0-preview",
-          "downloads": 3320,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.2.0-preview.json"
-        },
-        {
-          "version": "2.3.0-preview",
-          "downloads": 14973,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.3.0-preview.json"
-        },
-        {
-          "version": "2.4.0-internal677868master",
-          "downloads": 1432,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.4.0-internal677868master.json"
-        },
-        {
-          "version": "2.4.0-preview",
-          "downloads": 5278,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.4.0-preview.json"
-        },
-        {
-          "version": "2.5.0-preview",
-          "downloads": 1379,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.5.0-preview.json"
-        },
-        {
-          "version": "2.6.0-preview",
-          "downloads": 1741,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.6.0-preview.json"
-        },
-        {
-          "version": "2.7.0-preview",
-          "downloads": 4115,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.7.0-preview.json"
-        },
-        {
-          "version": "2.8.0-preview",
-          "downloads": 225867,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.8.0-preview.json"
-        },
-        {
-          "version": "2.9.0-preview",
-          "downloads": 1380,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.9.0-preview.json"
-        },
-        {
-          "version": "2.9.14",
-          "downloads": 3059,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.9.14.json"
-        },
-        {
-          "version": "2.10.0-preview",
-          "downloads": 116995,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.10.0-preview.json"
-        },
-        {
-          "version": "2.11.0-preview",
-          "downloads": 2019,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.11.0-preview.json"
-        },
-        {
-          "version": "2.12.0",
-          "downloads": 12152684,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.12.0.json"
-        },
-        {
-          "version": "2.13.0",
-          "downloads": 57093,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.13.0.json"
-        },
-        {
-          "version": "2.14.0",
-          "downloads": 26679,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.14.0.json"
-        },
-        {
-          "version": "2.15.0",
-          "downloads": 31876,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.15.0.json"
-        },
-        {
-          "version": "2.16.0",
-          "downloads": 3257,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.0.json"
-        },
-        {
-          "version": "2.16.1",
-          "downloads": 24453,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.1.json"
-        },
-        {
-          "version": "2.16.2",
-          "downloads": 338400,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.2.json"
-        },
-        {
-          "version": "2.16.3",
-          "downloads": 14528,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.3.json"
-        },
-        {
-          "version": "2.16.4",
-          "downloads": 117204,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.4.json"
-        },
-        {
-          "version": "2.16.5",
-          "downloads": 102241914,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.5.json"
-        },
-        {
-          "version": "2.16.6",
-          "downloads": 323605,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.6.json"
-        },
-        {
-          "version": "2.16.7",
-          "downloads": 87993,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.7.json"
-        },
-        {
-          "version": "2.16.8",
-          "downloads": 251719,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.16.8.json"
-        },
-        {
-          "version": "2.17.0",
-          "downloads": 17697,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.17.0.json"
-        },
-        {
-          "version": "2.18.0",
-          "downloads": 252861,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.0.json"
-        },
-        {
-          "version": "2.18.1",
-          "downloads": 4523,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.1.json"
-        },
-        {
-          "version": "2.18.2",
-          "downloads": 15785,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.2.json"
-        },
-        {
-          "version": "2.18.3",
-          "downloads": 56872,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.3.json"
-        },
-        {
-          "version": "2.18.4",
-          "downloads": 67180004,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.4.json"
-        },
-        {
-          "version": "2.18.5",
-          "downloads": 121178,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.5.json"
-        },
-        {
-          "version": "2.18.6",
-          "downloads": 55695,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.6.json"
-        },
-        {
-          "version": "2.18.7",
-          "downloads": 38666,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.7.json"
-        },
-        {
-          "version": "2.18.8",
-          "downloads": 21140,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.8.json"
-        },
-        {
-          "version": "2.18.9",
-          "downloads": 2391936,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.18.9.json"
-        },
-        {
-          "version": "2.19.0",
-          "downloads": 28580,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.19.0.json"
-        },
-        {
-          "version": "2.19.1",
-          "downloads": 241162,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.19.1.json"
-        },
-        {
-          "version": "2.19.2",
-          "downloads": 860327,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.19.2.json"
-        },
-        {
-          "version": "2.19.3",
-          "downloads": 102270453,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.19.3.json"
-        },
-        {
-          "version": "2.19.4",
-          "downloads": 6817,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.19.4.json"
-        },
-        {
-          "version": "2.19.5",
-          "downloads": 148257,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.19.5.json"
-        },
-        {
-          "version": "2.19.6",
-          "downloads": 354345,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.19.6.json"
-        },
-        {
-          "version": "2.20.0",
-          "downloads": 232912,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.20.0.json"
-        },
-        {
-          "version": "2.20.1",
-          "downloads": 124836,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.20.1.json"
-        },
-        {
-          "version": "2.21.0",
-          "downloads": 230306,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.21.0.json"
-        },
-        {
-          "version": "2.22.0",
-          "downloads": 915311,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.22.0.json"
-        },
-        {
-          "version": "2.23.0",
-          "downloads": 13158382,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.23.0.json"
-        },
-        {
-          "version": "2.24.0",
-          "downloads": 342718,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.24.0.json"
-        },
-        {
-          "version": "2.25.0",
-          "downloads": 1504645,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.25.0.json"
-        },
-        {
-          "version": "2.25.3",
-          "downloads": 23566093,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.25.3.json"
-        },
-        {
-          "version": "2.26.0",
-          "downloads": 885551,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.26.0.json"
-        },
-        {
-          "version": "2.27.0",
-          "downloads": 476083,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.27.0.json"
-        },
-        {
-          "version": "2.28.0",
-          "downloads": 401454,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.28.0.json"
-        },
-        {
-          "version": "2.29.0",
-          "downloads": 650440,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.29.0.json"
-        },
-        {
-          "version": "2.30.0",
-          "downloads": 52745,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.30.0.json"
-        },
-        {
-          "version": "2.31.0",
-          "downloads": 8936880,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.31.0.json"
-        },
-        {
-          "version": "2.32.0",
-          "downloads": 219699,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/2.32.0.json"
-        },
-        {
-          "version": "4.56.0",
-          "downloads": 10155795,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/4.56.0.json"
-        },
-        {
-          "version": "4.57.0",
-          "downloads": 198800,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/4.57.0.json"
-        },
-        {
-          "version": "4.58.0",
-          "downloads": 23125,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/4.58.0.json"
-        },
-        {
-          "version": "4.58.1",
-          "downloads": 62622,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/4.58.1.json"
-        },
-        {
-          "version": "4.59.0",
-          "downloads": 4400,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/4.59.0.json"
         }
       ],
       "vulnerabilities": []
