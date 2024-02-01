@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 363269,
+  "totalHits": 363377,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -8647,12 +8647,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "3.7.302.3",
+      "version": "3.7.302.4",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.302.3/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/3.7.302.3/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.302.4/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/3.7.302.4/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -13753,6 +13753,11 @@
           "version": "3.7.302.3",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.302.3.json"
+        },
+        {
+          "version": "3.7.302.4",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.302.4.json"
         }
       ],
       "vulnerabilities": []
@@ -29318,6 +29323,175 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/index.json",
+      "id": "Azure.Security.KeyVault.Secrets",
+      "version": "4.6.0-beta.2",
+      "description": "This is the Microsoft Azure Key Vault Secrets client library",
+      "summary": "",
+      "title": "Azure.Security.KeyVault.Secrets",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.security.keyvault.secrets/4.6.0-beta.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Azure.Security.KeyVault.Secrets/4.6.0-beta.2/license",
+      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Security.KeyVault.Secrets_4.6.0-beta.2/sdk/keyvault/Azure.Security.KeyVault.Secrets/README.md",
+      "tags": [
+        "Microsoft",
+        "Azure",
+        "Key",
+        "Vault",
+        "Secrets",
+        "windowsazureofficial",
+        "azureofficial"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "azure-sdk",
+        "Microsoft"
+      ],
+      "totalDownloads": 178526499,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "4.0.0-preview.1",
+          "downloads": 1281,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.0-preview.1.json"
+        },
+        {
+          "version": "4.0.0-preview.2",
+          "downloads": 412,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.0-preview.2.json"
+        },
+        {
+          "version": "4.0.0-preview.3",
+          "downloads": 3112,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.0-preview.3.json"
+        },
+        {
+          "version": "4.0.0-preview.4",
+          "downloads": 998,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.0-preview.4.json"
+        },
+        {
+          "version": "4.0.0-preview.5",
+          "downloads": 2070,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.0-preview.5.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 1423921,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.0.json"
+        },
+        {
+          "version": "4.0.1",
+          "downloads": 28677522,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.1.json"
+        },
+        {
+          "version": "4.0.2",
+          "downloads": 9620864,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.2.json"
+        },
+        {
+          "version": "4.0.3",
+          "downloads": 2854124,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.3.json"
+        },
+        {
+          "version": "4.1.0-preview.1",
+          "downloads": 96392,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.1.0-preview.1.json"
+        },
+        {
+          "version": "4.1.0",
+          "downloads": 55945623,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.1.0.json"
+        },
+        {
+          "version": "4.2.0-beta.1",
+          "downloads": 29655,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.2.0-beta.1.json"
+        },
+        {
+          "version": "4.2.0-beta.2",
+          "downloads": 9085,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.2.0-beta.2.json"
+        },
+        {
+          "version": "4.2.0-beta.3",
+          "downloads": 164836,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.2.0-beta.3.json"
+        },
+        {
+          "version": "4.2.0-beta.4",
+          "downloads": 216589,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.2.0-beta.4.json"
+        },
+        {
+          "version": "4.2.0-beta.5",
+          "downloads": 39754,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.2.0-beta.5.json"
+        },
+        {
+          "version": "4.2.0",
+          "downloads": 35056404,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.2.0.json"
+        },
+        {
+          "version": "4.3.0-beta.1",
+          "downloads": 227906,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.3.0-beta.1.json"
+        },
+        {
+          "version": "4.3.0-beta.2",
+          "downloads": 73669,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.3.0-beta.2.json"
+        },
+        {
+          "version": "4.3.0-beta.4",
+          "downloads": 88142,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.3.0-beta.4.json"
+        },
+        {
+          "version": "4.3.0",
+          "downloads": 21944206,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.3.0.json"
+        },
+        {
+          "version": "4.4.0",
+          "downloads": 9956850,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.4.0.json"
+        },
+        {
+          "version": "4.5.0-beta.1",
+          "downloads": 150591,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.5.0-beta.1.json"
+        },
+        {
+          "version": "4.5.0",
+          "downloads": 11406497,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.5.0.json"
+        },
+        {
+          "version": "4.6.0-beta.1",
+          "downloads": 1117,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.6.0-beta.1.json"
+        },
+        {
+          "version": "4.6.0-beta.2",
+          "downloads": 24083,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.6.0-beta.2.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks/index.json",
@@ -30112,175 +30286,6 @@
           "version": "8.0.1",
           "downloads": 73166,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks/8.0.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/index.json",
-      "id": "Azure.Security.KeyVault.Secrets",
-      "version": "4.6.0-beta.2",
-      "description": "This is the Microsoft Azure Key Vault Secrets client library",
-      "summary": "",
-      "title": "Azure.Security.KeyVault.Secrets",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.security.keyvault.secrets/4.6.0-beta.2/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Azure.Security.KeyVault.Secrets/4.6.0-beta.2/license",
-      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Security.KeyVault.Secrets_4.6.0-beta.2/sdk/keyvault/Azure.Security.KeyVault.Secrets/README.md",
-      "tags": [
-        "Microsoft",
-        "Azure",
-        "Key",
-        "Vault",
-        "Secrets",
-        "windowsazureofficial",
-        "azureofficial"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "azure-sdk",
-        "Microsoft"
-      ],
-      "totalDownloads": 178526499,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "4.0.0-preview.1",
-          "downloads": 1281,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.0-preview.1.json"
-        },
-        {
-          "version": "4.0.0-preview.2",
-          "downloads": 412,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.0-preview.2.json"
-        },
-        {
-          "version": "4.0.0-preview.3",
-          "downloads": 3112,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.0-preview.3.json"
-        },
-        {
-          "version": "4.0.0-preview.4",
-          "downloads": 998,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.0-preview.4.json"
-        },
-        {
-          "version": "4.0.0-preview.5",
-          "downloads": 2070,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.0-preview.5.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 1423921,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.0.json"
-        },
-        {
-          "version": "4.0.1",
-          "downloads": 28677522,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.1.json"
-        },
-        {
-          "version": "4.0.2",
-          "downloads": 9620864,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.2.json"
-        },
-        {
-          "version": "4.0.3",
-          "downloads": 2854124,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.0.3.json"
-        },
-        {
-          "version": "4.1.0-preview.1",
-          "downloads": 96392,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.1.0-preview.1.json"
-        },
-        {
-          "version": "4.1.0",
-          "downloads": 55945623,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.1.0.json"
-        },
-        {
-          "version": "4.2.0-beta.1",
-          "downloads": 29655,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.2.0-beta.1.json"
-        },
-        {
-          "version": "4.2.0-beta.2",
-          "downloads": 9085,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.2.0-beta.2.json"
-        },
-        {
-          "version": "4.2.0-beta.3",
-          "downloads": 164836,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.2.0-beta.3.json"
-        },
-        {
-          "version": "4.2.0-beta.4",
-          "downloads": 216589,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.2.0-beta.4.json"
-        },
-        {
-          "version": "4.2.0-beta.5",
-          "downloads": 39754,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.2.0-beta.5.json"
-        },
-        {
-          "version": "4.2.0",
-          "downloads": 35056404,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.2.0.json"
-        },
-        {
-          "version": "4.3.0-beta.1",
-          "downloads": 227906,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.3.0-beta.1.json"
-        },
-        {
-          "version": "4.3.0-beta.2",
-          "downloads": 73669,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.3.0-beta.2.json"
-        },
-        {
-          "version": "4.3.0-beta.4",
-          "downloads": 88142,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.3.0-beta.4.json"
-        },
-        {
-          "version": "4.3.0",
-          "downloads": 21944206,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.3.0.json"
-        },
-        {
-          "version": "4.4.0",
-          "downloads": 9956850,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.4.0.json"
-        },
-        {
-          "version": "4.5.0-beta.1",
-          "downloads": 150591,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.5.0-beta.1.json"
-        },
-        {
-          "version": "4.5.0",
-          "downloads": 11406497,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.5.0.json"
-        },
-        {
-          "version": "4.6.0-beta.1",
-          "downloads": 1117,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.6.0-beta.1.json"
-        },
-        {
-          "version": "4.6.0-beta.2",
-          "downloads": 24083,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.6.0-beta.2.json"
         }
       ],
       "vulnerabilities": []
@@ -41960,12 +41965,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "id": "AWSSDK.S3",
-      "version": "3.7.305.19",
+      "version": "3.7.305.20",
       "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
       "summary": "",
       "title": "AWSSDK - S3",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.305.19/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/3.7.305.19/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.305.20/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/3.7.305.20/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -47117,6 +47122,11 @@
           "version": "3.7.305.19",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.305.19.json"
+        },
+        {
+          "version": "3.7.305.20",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.305.20.json"
         }
       ],
       "vulnerabilities": []

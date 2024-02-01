@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 4479,
+  "totalHits": 4482,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cake.tool/index.json",
@@ -6544,12 +6544,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/paket/index.json",
       "id": "Paket",
-      "version": "8.0.3",
+      "version": "8.1.0-alpha001",
       "description": "A dependency manager for .NET with support for NuGet packages and git repositories.",
       "summary": "",
       "title": "Paket",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/paket/8.0.3/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Paket/8.0.3/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/paket/8.1.0-alpha001/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Paket/8.1.0-alpha001/license",
       "projectUrl": "http://fsprojects.github.io/Paket",
       "tags": [
         "nuget",
@@ -19093,6 +19093,11 @@
           "version": "8.0.3",
           "downloads": 2944,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/paket/8.0.3.json"
+        },
+        {
+          "version": "8.1.0-alpha001",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/paket/8.1.0-alpha001.json"
         }
       ],
       "vulnerabilities": []
@@ -31967,11 +31972,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/index.json",
       "id": "FunFair.BuildVersion",
-      "version": "6.2.16.293-main",
+      "version": "6.2.16.296-main",
       "description": "Build versioning tool.",
       "summary": "",
       "title": "FunFair.BuildVersion",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.16.293-main/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.16.296-main/icon",
       "projectUrl": "https://github.com/funfair-tech/funfair-build-version",
       "tags": [
         "FunFair",
@@ -36661,6 +36666,16 @@
           "version": "6.2.16.293-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.16.293-main.json"
+        },
+        {
+          "version": "6.2.16.295-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.16.295-main.json"
+        },
+        {
+          "version": "6.2.16.296-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.16.296-main.json"
         }
       ],
       "vulnerabilities": []
@@ -36760,134 +36775,15 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/index.json",
-      "id": "dotnet-stack",
-      "version": "8.0.505301",
-      "description": ".NET Stack Printing Tool",
-      "summary": "",
-      "title": "dotnet-stack",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-stack/8.0.505301/icon",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-stack/8.0.505301/license",
-      "projectUrl": "https://github.com/dotnet/diagnostics",
-      "tags": [
-        "Diagnostic"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft",
-        "noahfalk_msft"
-      ],
-      "totalDownloads": 1120967,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "5.0.221401",
-          "downloads": 61598,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.221401.json"
-        },
-        {
-          "version": "5.0.227602",
-          "downloads": 4999,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.227602.json"
-        },
-        {
-          "version": "5.0.236902",
-          "downloads": 13187,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.236902.json"
-        },
-        {
-          "version": "5.0.248003",
-          "downloads": 5297,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.248003.json"
-        },
-        {
-          "version": "5.0.251802",
-          "downloads": 11989,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.251802.json"
-        },
-        {
-          "version": "6.0.257301",
-          "downloads": 209879,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.257301.json"
-        },
-        {
-          "version": "6.0.320703",
-          "downloads": 18948,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.320703.json"
-        },
-        {
-          "version": "6.0.327302",
-          "downloads": 5299,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.327302.json"
-        },
-        {
-          "version": "6.0.328102",
-          "downloads": 95720,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.328102.json"
-        },
-        {
-          "version": "6.0.351802",
-          "downloads": 165791,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.351802.json"
-        },
-        {
-          "version": "7.0.410101",
-          "downloads": 76202,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/7.0.410101.json"
-        },
-        {
-          "version": "7.0.421201",
-          "downloads": 81747,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/7.0.421201.json"
-        },
-        {
-          "version": "7.0.430602",
-          "downloads": 123776,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/7.0.430602.json"
-        },
-        {
-          "version": "7.0.442301",
-          "downloads": 56427,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/7.0.442301.json"
-        },
-        {
-          "version": "7.0.447801",
-          "downloads": 49448,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/7.0.447801.json"
-        },
-        {
-          "version": "8.0.452401",
-          "downloads": 111347,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/8.0.452401.json"
-        },
-        {
-          "version": "8.0.505301",
-          "downloads": 28653,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/8.0.505301.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octonotes.githubupdater.tool/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/octonotes.githubupdater.tool/index.json",
       "id": "OctoNotes.GitHubUpdater.Tool",
-      "version": "0.0.1523",
+      "version": "0.0.1524",
       "description": "OctoNotes is a tool for generating release notes from Git repositories.\n      Using the information generated by OctoNotes, we can calculate which release a fix landed in, across multiple release branches.\n      We then use this to add a table to the related GitHub issue.",
       "summary": "",
       "title": "OctoNotes.GitHubUpdater.Tool",
-      "licenseUrl": "https://www.nuget.org/packages/OctoNotes.GitHubUpdater.Tool/0.0.1523/license",
+      "licenseUrl": "https://www.nuget.org/packages/OctoNotes.GitHubUpdater.Tool/0.0.1524/license",
       "projectUrl": "https://github.com/OctopusDeploy/OctoNotes",
       "tags": [],
       "authors": [
@@ -40798,6 +40694,130 @@
           "version": "0.0.1523",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octonotes.githubupdater.tool/0.0.1523.json"
+        },
+        {
+          "version": "0.0.1524",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octonotes.githubupdater.tool/0.0.1524.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/index.json",
+      "id": "dotnet-stack",
+      "version": "8.0.505301",
+      "description": ".NET Stack Printing Tool",
+      "summary": "",
+      "title": "dotnet-stack",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-stack/8.0.505301/icon",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-stack/8.0.505301/license",
+      "projectUrl": "https://github.com/dotnet/diagnostics",
+      "tags": [
+        "Diagnostic"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft",
+        "noahfalk_msft"
+      ],
+      "totalDownloads": 1120967,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "5.0.221401",
+          "downloads": 61598,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.221401.json"
+        },
+        {
+          "version": "5.0.227602",
+          "downloads": 4999,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.227602.json"
+        },
+        {
+          "version": "5.0.236902",
+          "downloads": 13187,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.236902.json"
+        },
+        {
+          "version": "5.0.248003",
+          "downloads": 5297,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.248003.json"
+        },
+        {
+          "version": "5.0.251802",
+          "downloads": 11989,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/5.0.251802.json"
+        },
+        {
+          "version": "6.0.257301",
+          "downloads": 209879,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.257301.json"
+        },
+        {
+          "version": "6.0.320703",
+          "downloads": 18948,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.320703.json"
+        },
+        {
+          "version": "6.0.327302",
+          "downloads": 5299,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.327302.json"
+        },
+        {
+          "version": "6.0.328102",
+          "downloads": 95720,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.328102.json"
+        },
+        {
+          "version": "6.0.351802",
+          "downloads": 165791,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/6.0.351802.json"
+        },
+        {
+          "version": "7.0.410101",
+          "downloads": 76202,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/7.0.410101.json"
+        },
+        {
+          "version": "7.0.421201",
+          "downloads": 81747,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/7.0.421201.json"
+        },
+        {
+          "version": "7.0.430602",
+          "downloads": 123776,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/7.0.430602.json"
+        },
+        {
+          "version": "7.0.442301",
+          "downloads": 56427,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/7.0.442301.json"
+        },
+        {
+          "version": "7.0.447801",
+          "downloads": 49448,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/7.0.447801.json"
+        },
+        {
+          "version": "8.0.452401",
+          "downloads": 111347,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/8.0.452401.json"
+        },
+        {
+          "version": "8.0.505301",
+          "downloads": 28653,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-stack/8.0.505301.json"
         }
       ],
       "vulnerabilities": []
@@ -47906,11 +47926,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
       "id": "Credfeto.ChangeLog.Cmd",
-      "version": "1.10.20.138-main",
+      "version": "1.10.20.140-main",
       "description": "Changelog manager dotnet tool.",
       "summary": "",
       "title": "Credfeto.ChangeLog.Cmd",
-      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.20.138-main/license",
+      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.20.140-main/license",
       "tags": [
         "Changelog",
         "tool",
@@ -51370,6 +51390,16 @@
           "version": "1.10.20.138-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.20.138-main.json"
+        },
+        {
+          "version": "1.10.20.139-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.20.139-main.json"
+        },
+        {
+          "version": "1.10.20.140-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.20.140-main.json"
         }
       ],
       "vulnerabilities": []
@@ -73795,211 +73825,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/index.json",
-      "id": "Badgie.Migrator",
-      "version": "1.2.349",
-      "description": "A SQL migration tool originally built for Badgie. Use it to express database changes in a series of sql files which are executed only once.",
-      "summary": "",
-      "title": "Badgie.Migrator",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/badgie.migrator/1.2.349/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Badgie.Migrator/1.2.349/license",
-      "projectUrl": "https://github.com/intelligenthack/badgie-migrator",
-      "tags": [
-        "migrations",
-        "migrator",
-        "sql-server",
-        "sqlserver",
-        "postgres",
-        "pg",
-        "postgresql",
-        "schema",
-        "mysql"
-      ],
-      "authors": [
-        "Marco Cecconi et al."
-      ],
-      "owners": [
-        "IntelligentHack"
-      ],
-      "totalDownloads": 513379,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.1.0",
-          "downloads": 627,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.1.0.json"
-        },
-        {
-          "version": "0.1.0.244",
-          "downloads": 578,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.1.0.244.json"
-        },
-        {
-          "version": "0.1.0.245",
-          "downloads": 568,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.1.0.245.json"
-        },
-        {
-          "version": "0.1.0.246",
-          "downloads": 524,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.1.0.246.json"
-        },
-        {
-          "version": "0.2.0.247",
-          "downloads": 546,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.247.json"
-        },
-        {
-          "version": "0.2.0.248",
-          "downloads": 603,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.248.json"
-        },
-        {
-          "version": "0.2.0.249",
-          "downloads": 587,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.249.json"
-        },
-        {
-          "version": "0.2.0.250",
-          "downloads": 590,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.250.json"
-        },
-        {
-          "version": "0.2.0.253",
-          "downloads": 623,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.253.json"
-        },
-        {
-          "version": "0.2.0.256",
-          "downloads": 581,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.256.json"
-        },
-        {
-          "version": "0.2.0.260",
-          "downloads": 2586,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.260.json"
-        },
-        {
-          "version": "0.2.0.308",
-          "downloads": 561,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.308.json"
-        },
-        {
-          "version": "0.2.0.309",
-          "downloads": 544,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.309.json"
-        },
-        {
-          "version": "0.2.0.310",
-          "downloads": 528,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.310.json"
-        },
-        {
-          "version": "0.2.0.311",
-          "downloads": 1005,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.311.json"
-        },
-        {
-          "version": "0.2.0.312",
-          "downloads": 585,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.312.json"
-        },
-        {
-          "version": "0.2.0.313",
-          "downloads": 603,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.313.json"
-        },
-        {
-          "version": "0.2.0.314",
-          "downloads": 527,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.314.json"
-        },
-        {
-          "version": "0.2.0.315",
-          "downloads": 11308,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.315.json"
-        },
-        {
-          "version": "0.2.0.316",
-          "downloads": 24864,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.316.json"
-        },
-        {
-          "version": "0.2.0.318",
-          "downloads": 205295,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.318.json"
-        },
-        {
-          "version": "1.0.0.334",
-          "downloads": 109277,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.0.0.334.json"
-        },
-        {
-          "version": "1.0.0.335",
-          "downloads": 436,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.0.0.335.json"
-        },
-        {
-          "version": "1.0.0.336",
-          "downloads": 573,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.0.0.336.json"
-        },
-        {
-          "version": "1.0.0.337",
-          "downloads": 434,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.0.0.337.json"
-        },
-        {
-          "version": "1.0.1.338",
-          "downloads": 458,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.0.1.338.json"
-        },
-        {
-          "version": "1.0.1.339",
-          "downloads": 119721,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.0.1.339.json"
-        },
-        {
-          "version": "1.1.0.344",
-          "downloads": 313,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.1.0.344.json"
-        },
-        {
-          "version": "1.1.0.345",
-          "downloads": 15534,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.1.0.345.json"
-        },
-        {
-          "version": "1.1.0.346",
-          "downloads": 300,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.1.0.346.json"
-        },
-        {
-          "version": "1.2.347",
-          "downloads": 7394,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.2.347.json"
-        },
-        {
-          "version": "1.2.348",
-          "downloads": 368,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.2.348.json"
-        },
-        {
-          "version": "1.2.349",
-          "downloads": 4338,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.2.349.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/index.json",
@@ -74848,6 +74673,221 @@
           "version": "8.0.2",
           "downloads": 738,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.2.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/index.json",
+      "id": "Badgie.Migrator",
+      "version": "1.3.355",
+      "description": "A SQL migration tool originally built for Badgie. Use it to express database changes in a series of sql files which are executed only once.",
+      "summary": "",
+      "title": "Badgie.Migrator",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/badgie.migrator/1.3.355/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Badgie.Migrator/1.3.355/license",
+      "projectUrl": "https://github.com/intelligenthack/badgie-migrator",
+      "tags": [
+        "migrations",
+        "migrator",
+        "sql-server",
+        "sqlserver",
+        "postgres",
+        "pg",
+        "postgresql",
+        "schema",
+        "mysql"
+      ],
+      "authors": [
+        "Marco Cecconi et al."
+      ],
+      "owners": [
+        "IntelligentHack"
+      ],
+      "totalDownloads": 513379,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.1.0",
+          "downloads": 627,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.1.0.json"
+        },
+        {
+          "version": "0.1.0.244",
+          "downloads": 578,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.1.0.244.json"
+        },
+        {
+          "version": "0.1.0.245",
+          "downloads": 568,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.1.0.245.json"
+        },
+        {
+          "version": "0.1.0.246",
+          "downloads": 524,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.1.0.246.json"
+        },
+        {
+          "version": "0.2.0.247",
+          "downloads": 546,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.247.json"
+        },
+        {
+          "version": "0.2.0.248",
+          "downloads": 603,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.248.json"
+        },
+        {
+          "version": "0.2.0.249",
+          "downloads": 587,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.249.json"
+        },
+        {
+          "version": "0.2.0.250",
+          "downloads": 590,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.250.json"
+        },
+        {
+          "version": "0.2.0.253",
+          "downloads": 623,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.253.json"
+        },
+        {
+          "version": "0.2.0.256",
+          "downloads": 581,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.256.json"
+        },
+        {
+          "version": "0.2.0.260",
+          "downloads": 2586,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.260.json"
+        },
+        {
+          "version": "0.2.0.308",
+          "downloads": 561,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.308.json"
+        },
+        {
+          "version": "0.2.0.309",
+          "downloads": 544,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.309.json"
+        },
+        {
+          "version": "0.2.0.310",
+          "downloads": 528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.310.json"
+        },
+        {
+          "version": "0.2.0.311",
+          "downloads": 1005,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.311.json"
+        },
+        {
+          "version": "0.2.0.312",
+          "downloads": 585,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.312.json"
+        },
+        {
+          "version": "0.2.0.313",
+          "downloads": 603,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.313.json"
+        },
+        {
+          "version": "0.2.0.314",
+          "downloads": 527,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.314.json"
+        },
+        {
+          "version": "0.2.0.315",
+          "downloads": 11308,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.315.json"
+        },
+        {
+          "version": "0.2.0.316",
+          "downloads": 24864,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.316.json"
+        },
+        {
+          "version": "0.2.0.318",
+          "downloads": 205295,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/0.2.0.318.json"
+        },
+        {
+          "version": "1.0.0.334",
+          "downloads": 109277,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.0.0.334.json"
+        },
+        {
+          "version": "1.0.0.335",
+          "downloads": 436,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.0.0.335.json"
+        },
+        {
+          "version": "1.0.0.336",
+          "downloads": 573,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.0.0.336.json"
+        },
+        {
+          "version": "1.0.0.337",
+          "downloads": 434,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.0.0.337.json"
+        },
+        {
+          "version": "1.0.1.338",
+          "downloads": 458,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.0.1.338.json"
+        },
+        {
+          "version": "1.0.1.339",
+          "downloads": 119721,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.0.1.339.json"
+        },
+        {
+          "version": "1.1.0.344",
+          "downloads": 313,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.1.0.344.json"
+        },
+        {
+          "version": "1.1.0.345",
+          "downloads": 15534,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.1.0.345.json"
+        },
+        {
+          "version": "1.1.0.346",
+          "downloads": 300,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.1.0.346.json"
+        },
+        {
+          "version": "1.2.347",
+          "downloads": 7394,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.2.347.json"
+        },
+        {
+          "version": "1.2.348",
+          "downloads": 368,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.2.348.json"
+        },
+        {
+          "version": "1.2.349",
+          "downloads": 4338,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.2.349.json"
+        },
+        {
+          "version": "1.2.354",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.2.354.json"
+        },
+        {
+          "version": "1.3.355",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/badgie.migrator/1.3.355.json"
         }
       ],
       "vulnerabilities": []
