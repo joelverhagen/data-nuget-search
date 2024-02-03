@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 363531,
+  "totalHits": 363647,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -8647,12 +8647,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "3.7.302.5",
+      "version": "3.7.302.6",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.302.5/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/3.7.302.5/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.302.6/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/3.7.302.6/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -13763,6 +13763,11 @@
           "version": "3.7.302.5",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.302.5.json"
+        },
+        {
+          "version": "3.7.302.6",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.302.6.json"
         }
       ],
       "vulnerabilities": []
@@ -30127,6 +30132,121 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/index.json",
+      "id": "coverlet.collector",
+      "version": "6.0.0",
+      "description": "Coverlet is a cross platform code coverage library for .NET, with support for line, branch and method coverage.",
+      "summary": "",
+      "title": "coverlet.collector",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/coverlet.collector/6.0.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/coverlet.collector/6.0.0/license",
+      "projectUrl": "https://github.com/coverlet-coverage/coverlet",
+      "tags": [
+        "coverage",
+        "testing",
+        "unit-test",
+        "lcov",
+        "opencover",
+        "quality"
+      ],
+      "authors": [
+        "tonerdo"
+      ],
+      "owners": [
+        "daveMueller",
+        "dotnetfoundation",
+        "MarcoRossignoli",
+        "tonerdo"
+      ],
+      "totalDownloads": 329424644,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloads": 467430,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/1.0.0.json"
+        },
+        {
+          "version": "1.0.1",
+          "downloads": 19177173,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/1.0.1.json"
+        },
+        {
+          "version": "1.1.0",
+          "downloads": 2481735,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/1.1.0.json"
+        },
+        {
+          "version": "1.2.0",
+          "downloads": 38994486,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/1.2.0.json"
+        },
+        {
+          "version": "1.2.1",
+          "downloads": 5838151,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/1.2.1.json"
+        },
+        {
+          "version": "1.3.0",
+          "downloads": 40003463,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/1.3.0.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 613992,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/3.0.0.json"
+        },
+        {
+          "version": "3.0.1",
+          "downloads": 991212,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/3.0.1.json"
+        },
+        {
+          "version": "3.0.2",
+          "downloads": 21687820,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/3.0.2.json"
+        },
+        {
+          "version": "3.0.3",
+          "downloads": 15562474,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/3.0.3.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 44200229,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/3.1.0.json"
+        },
+        {
+          "version": "3.1.1",
+          "downloads": 1154262,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/3.1.1.json"
+        },
+        {
+          "version": "3.1.2",
+          "downloads": 74638066,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/3.1.2.json"
+        },
+        {
+          "version": "3.2.0",
+          "downloads": 40947189,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/3.2.0.json"
+        },
+        {
+          "version": "6.0.0",
+          "downloads": 22666962,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/6.0.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/index.json",
@@ -30291,121 +30411,6 @@
           "version": "4.6.0-beta.2",
           "downloads": 24083,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.6.0-beta.2.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/index.json",
-      "id": "coverlet.collector",
-      "version": "6.0.0",
-      "description": "Coverlet is a cross platform code coverage library for .NET, with support for line, branch and method coverage.",
-      "summary": "",
-      "title": "coverlet.collector",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/coverlet.collector/6.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/coverlet.collector/6.0.0/license",
-      "projectUrl": "https://github.com/coverlet-coverage/coverlet",
-      "tags": [
-        "coverage",
-        "testing",
-        "unit-test",
-        "lcov",
-        "opencover",
-        "quality"
-      ],
-      "authors": [
-        "tonerdo"
-      ],
-      "owners": [
-        "daveMueller",
-        "dotnetfoundation",
-        "MarcoRossignoli",
-        "tonerdo"
-      ],
-      "totalDownloads": 329424644,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "downloads": 467430,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/1.0.0.json"
-        },
-        {
-          "version": "1.0.1",
-          "downloads": 19177173,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/1.0.1.json"
-        },
-        {
-          "version": "1.1.0",
-          "downloads": 2481735,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/1.1.0.json"
-        },
-        {
-          "version": "1.2.0",
-          "downloads": 38994486,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/1.2.0.json"
-        },
-        {
-          "version": "1.2.1",
-          "downloads": 5838151,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/1.2.1.json"
-        },
-        {
-          "version": "1.3.0",
-          "downloads": 40003463,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/1.3.0.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 613992,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/3.0.0.json"
-        },
-        {
-          "version": "3.0.1",
-          "downloads": 991212,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/3.0.1.json"
-        },
-        {
-          "version": "3.0.2",
-          "downloads": 21687820,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/3.0.2.json"
-        },
-        {
-          "version": "3.0.3",
-          "downloads": 15562474,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/3.0.3.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 44200229,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/3.1.0.json"
-        },
-        {
-          "version": "3.1.1",
-          "downloads": 1154262,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/3.1.1.json"
-        },
-        {
-          "version": "3.1.2",
-          "downloads": 74638066,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/3.1.2.json"
-        },
-        {
-          "version": "3.2.0",
-          "downloads": 40947189,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/3.2.0.json"
-        },
-        {
-          "version": "6.0.0",
-          "downloads": 22666962,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.collector/6.0.0.json"
         }
       ],
       "vulnerabilities": []
@@ -41265,12 +41270,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.sinks.periodicbatching/index.json",
       "id": "Serilog.Sinks.PeriodicBatching",
-      "version": "4.0.0-dev-00821",
+      "version": "4.0.0-dev-00824",
       "description": "Buffer batches of log events to be flushed asynchronously.",
       "summary": "",
       "title": "Serilog.Sinks.PeriodicBatching",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/serilog.sinks.periodicbatching/4.0.0-dev-00821/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Serilog.Sinks.PeriodicBatching/4.0.0-dev-00821/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/serilog.sinks.periodicbatching/4.0.0-dev-00824/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Serilog.Sinks.PeriodicBatching/4.0.0-dev-00824/license",
       "projectUrl": "https://github.com/serilog/serilog-sinks-periodicbatching",
       "tags": [
         "serilog",
@@ -41550,6 +41555,11 @@
           "version": "4.0.0-dev-00821",
           "downloads": 1333,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.sinks.periodicbatching/4.0.0-dev-00821.json"
+        },
+        {
+          "version": "4.0.0-dev-00824",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.sinks.periodicbatching/4.0.0-dev-00824.json"
         }
       ],
       "vulnerabilities": []
@@ -41970,12 +41980,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "id": "AWSSDK.S3",
-      "version": "3.7.305.21",
+      "version": "3.7.305.22",
       "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
       "summary": "",
       "title": "AWSSDK - S3",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.305.21/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/3.7.305.21/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.305.22/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/3.7.305.22/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -47137,6 +47147,11 @@
           "version": "3.7.305.21",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.305.21.json"
+        },
+        {
+          "version": "3.7.305.22",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.305.22.json"
         }
       ],
       "vulnerabilities": []
