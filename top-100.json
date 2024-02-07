@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 364009,
+  "totalHits": 364129,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -22736,13 +22736,13 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/index.json",
       "id": "Azure.Identity",
-      "version": "1.10.4",
+      "version": "1.11.0-beta.1",
       "description": "This is the implementation of the Azure SDK Client Library for Azure Identity",
       "summary": "",
       "title": "Azure.Identity",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.identity/1.10.4/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Azure.Identity/1.10.4/license",
-      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Identity_1.10.4/sdk/identity/Azure.Identity/README.md",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.identity/1.11.0-beta.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Azure.Identity/1.11.0-beta.1/license",
+      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Identity_1.11.0-beta.1/sdk/identity/Azure.Identity/README.md",
       "tags": [
         "Microsoft",
         "Azure",
@@ -23019,6 +23019,11 @@
           "version": "1.10.4",
           "downloads": 4659663,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.10.4.json"
+        },
+        {
+          "version": "1.11.0-beta.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.11.0-beta.1.json"
         }
       ],
       "vulnerabilities": []
@@ -25601,11 +25606,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/index.json",
       "id": "Google.Protobuf",
-      "version": "3.26.0-rc1",
+      "version": "3.26.0-rc2",
       "description": "C# runtime library for Protocol Buffers - Google's data interchange format.",
       "summary": "",
       "title": "Google.Protobuf",
-      "licenseUrl": "https://www.nuget.org/packages/Google.Protobuf/3.26.0-rc1/license",
+      "licenseUrl": "https://www.nuget.org/packages/Google.Protobuf/3.26.0-rc2/license",
       "projectUrl": "https://github.com/protocolbuffers/protobuf",
       "tags": [
         "Protocol",
@@ -26290,6 +26295,11 @@
           "version": "3.26.0-rc1",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/3.26.0-rc1.json"
+        },
+        {
+          "version": "3.26.0-rc2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/3.26.0-rc2.json"
         }
       ],
       "vulnerabilities": []
@@ -30935,6 +30945,222 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/index.json",
+      "id": "System.Formats.Asn1",
+      "version": "8.0.0",
+      "description": "Provides classes that can read and write the ASN.1 BER, CER, and DER data formats.\n\nCommonly Used Types:\nSystem.Formats.Asn1.AsnReader\nSystem.Formats.Asn1.AsnWriter",
+      "summary": "",
+      "title": "System.Formats.Asn1",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.formats.asn1/8.0.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Formats.Asn1/8.0.0/license",
+      "projectUrl": "https://dot.net/",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
+      "totalDownloads": 311415698,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "5.0.0-preview.7.20364.11",
+          "downloads": 15909,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0-preview.7.20364.11.json"
+        },
+        {
+          "version": "5.0.0-preview.8.20407.11",
+          "downloads": 79210,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0-preview.8.20407.11.json"
+        },
+        {
+          "version": "5.0.0-rc.1.20451.14",
+          "downloads": 53695,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0-rc.1.20451.14.json"
+        },
+        {
+          "version": "5.0.0-rc.2.20475.5",
+          "downloads": 18514,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0-rc.2.20475.5.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 196773615,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0.json"
+        },
+        {
+          "version": "6.0.0-preview.1.21102.12",
+          "downloads": 9086,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.1.21102.12.json"
+        },
+        {
+          "version": "6.0.0-preview.2.21154.6",
+          "downloads": 16296,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.2.21154.6.json"
+        },
+        {
+          "version": "6.0.0-preview.3.21201.4",
+          "downloads": 16562,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.3.21201.4.json"
+        },
+        {
+          "version": "6.0.0-preview.4.21253.7",
+          "downloads": 117802,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.4.21253.7.json"
+        },
+        {
+          "version": "6.0.0-preview.5.21301.5",
+          "downloads": 7227,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.5.21301.5.json"
+        },
+        {
+          "version": "6.0.0-preview.6.21352.12",
+          "downloads": 6747,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.6.21352.12.json"
+        },
+        {
+          "version": "6.0.0-preview.7.21377.19",
+          "downloads": 17967,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.7.21377.19.json"
+        },
+        {
+          "version": "6.0.0-rc.1.21451.13",
+          "downloads": 14553,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-rc.1.21451.13.json"
+        },
+        {
+          "version": "6.0.0-rc.2.21480.5",
+          "downloads": 18445,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-rc.2.21480.5.json"
+        },
+        {
+          "version": "6.0.0",
+          "downloads": 84007099,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0.json"
+        },
+        {
+          "version": "6.0.2-mauipre.1.22054.8",
+          "downloads": 114841,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.2-mauipre.1.22054.8.json"
+        },
+        {
+          "version": "6.0.2-mauipre.1.22102.15",
+          "downloads": 1859,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.2-mauipre.1.22102.15.json"
+        },
+        {
+          "version": "7.0.0-preview.1.22076.8",
+          "downloads": 5240,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.1.22076.8.json"
+        },
+        {
+          "version": "7.0.0-preview.2.22152.2",
+          "downloads": 18509,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.2.22152.2.json"
+        },
+        {
+          "version": "7.0.0-preview.3.22175.4",
+          "downloads": 3212,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.3.22175.4.json"
+        },
+        {
+          "version": "7.0.0-preview.4.22229.4",
+          "downloads": 17067,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.4.22229.4.json"
+        },
+        {
+          "version": "7.0.0-preview.5.22301.12",
+          "downloads": 2260,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.5.22301.12.json"
+        },
+        {
+          "version": "7.0.0-preview.6.22324.4",
+          "downloads": 10823,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.6.22324.4.json"
+        },
+        {
+          "version": "7.0.0-preview.7.22375.6",
+          "downloads": 16609,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.7.22375.6.json"
+        },
+        {
+          "version": "7.0.0-rc.1.22426.10",
+          "downloads": 68745,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-rc.1.22426.10.json"
+        },
+        {
+          "version": "7.0.0-rc.2.22472.3",
+          "downloads": 58223,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-rc.2.22472.3.json"
+        },
+        {
+          "version": "7.0.0",
+          "downloads": 27124251,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0.json"
+        },
+        {
+          "version": "8.0.0-preview.1.23110.8",
+          "downloads": 62888,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.1.23110.8.json"
+        },
+        {
+          "version": "8.0.0-preview.2.23128.3",
+          "downloads": 20802,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.2.23128.3.json"
+        },
+        {
+          "version": "8.0.0-preview.3.23174.8",
+          "downloads": 32308,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.3.23174.8.json"
+        },
+        {
+          "version": "8.0.0-preview.4.23259.5",
+          "downloads": 80328,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.4.23259.5.json"
+        },
+        {
+          "version": "8.0.0-preview.5.23280.8",
+          "downloads": 16488,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.5.23280.8.json"
+        },
+        {
+          "version": "8.0.0-preview.6.23329.7",
+          "downloads": 6425,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.6.23329.7.json"
+        },
+        {
+          "version": "8.0.0-preview.7.23375.6",
+          "downloads": 69753,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.7.23375.6.json"
+        },
+        {
+          "version": "8.0.0-rc.1.23419.4",
+          "downloads": 63430,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-rc.1.23419.4.json"
+        },
+        {
+          "version": "8.0.0-rc.2.23479.6",
+          "downloads": 161180,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-rc.2.23479.6.json"
+        },
+        {
+          "version": "8.0.0",
+          "downloads": 2287730,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fluentassertions/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fluentassertions/index.json",
@@ -31436,222 +31662,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/index.json",
-      "id": "System.Formats.Asn1",
-      "version": "8.0.0",
-      "description": "Provides classes that can read and write the ASN.1 BER, CER, and DER data formats.\n\nCommonly Used Types:\nSystem.Formats.Asn1.AsnReader\nSystem.Formats.Asn1.AsnWriter",
-      "summary": "",
-      "title": "System.Formats.Asn1",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.formats.asn1/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Formats.Asn1/8.0.0/license",
-      "projectUrl": "https://dot.net/",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 311415698,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "5.0.0-preview.7.20364.11",
-          "downloads": 15909,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0-preview.7.20364.11.json"
-        },
-        {
-          "version": "5.0.0-preview.8.20407.11",
-          "downloads": 79210,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0-preview.8.20407.11.json"
-        },
-        {
-          "version": "5.0.0-rc.1.20451.14",
-          "downloads": 53695,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0-rc.1.20451.14.json"
-        },
-        {
-          "version": "5.0.0-rc.2.20475.5",
-          "downloads": 18514,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0-rc.2.20475.5.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 196773615,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/5.0.0.json"
-        },
-        {
-          "version": "6.0.0-preview.1.21102.12",
-          "downloads": 9086,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.1.21102.12.json"
-        },
-        {
-          "version": "6.0.0-preview.2.21154.6",
-          "downloads": 16296,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.2.21154.6.json"
-        },
-        {
-          "version": "6.0.0-preview.3.21201.4",
-          "downloads": 16562,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.3.21201.4.json"
-        },
-        {
-          "version": "6.0.0-preview.4.21253.7",
-          "downloads": 117802,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.4.21253.7.json"
-        },
-        {
-          "version": "6.0.0-preview.5.21301.5",
-          "downloads": 7227,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.5.21301.5.json"
-        },
-        {
-          "version": "6.0.0-preview.6.21352.12",
-          "downloads": 6747,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.6.21352.12.json"
-        },
-        {
-          "version": "6.0.0-preview.7.21377.19",
-          "downloads": 17967,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-preview.7.21377.19.json"
-        },
-        {
-          "version": "6.0.0-rc.1.21451.13",
-          "downloads": 14553,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-rc.1.21451.13.json"
-        },
-        {
-          "version": "6.0.0-rc.2.21480.5",
-          "downloads": 18445,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0-rc.2.21480.5.json"
-        },
-        {
-          "version": "6.0.0",
-          "downloads": 84007099,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.0.json"
-        },
-        {
-          "version": "6.0.2-mauipre.1.22054.8",
-          "downloads": 114841,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.2-mauipre.1.22054.8.json"
-        },
-        {
-          "version": "6.0.2-mauipre.1.22102.15",
-          "downloads": 1859,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/6.0.2-mauipre.1.22102.15.json"
-        },
-        {
-          "version": "7.0.0-preview.1.22076.8",
-          "downloads": 5240,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.1.22076.8.json"
-        },
-        {
-          "version": "7.0.0-preview.2.22152.2",
-          "downloads": 18509,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.2.22152.2.json"
-        },
-        {
-          "version": "7.0.0-preview.3.22175.4",
-          "downloads": 3212,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.3.22175.4.json"
-        },
-        {
-          "version": "7.0.0-preview.4.22229.4",
-          "downloads": 17067,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.4.22229.4.json"
-        },
-        {
-          "version": "7.0.0-preview.5.22301.12",
-          "downloads": 2260,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.5.22301.12.json"
-        },
-        {
-          "version": "7.0.0-preview.6.22324.4",
-          "downloads": 10823,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.6.22324.4.json"
-        },
-        {
-          "version": "7.0.0-preview.7.22375.6",
-          "downloads": 16609,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-preview.7.22375.6.json"
-        },
-        {
-          "version": "7.0.0-rc.1.22426.10",
-          "downloads": 68745,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-rc.1.22426.10.json"
-        },
-        {
-          "version": "7.0.0-rc.2.22472.3",
-          "downloads": 58223,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0-rc.2.22472.3.json"
-        },
-        {
-          "version": "7.0.0",
-          "downloads": 27124251,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/7.0.0.json"
-        },
-        {
-          "version": "8.0.0-preview.1.23110.8",
-          "downloads": 62888,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.1.23110.8.json"
-        },
-        {
-          "version": "8.0.0-preview.2.23128.3",
-          "downloads": 20802,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.2.23128.3.json"
-        },
-        {
-          "version": "8.0.0-preview.3.23174.8",
-          "downloads": 32308,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.3.23174.8.json"
-        },
-        {
-          "version": "8.0.0-preview.4.23259.5",
-          "downloads": 80328,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.4.23259.5.json"
-        },
-        {
-          "version": "8.0.0-preview.5.23280.8",
-          "downloads": 16488,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.5.23280.8.json"
-        },
-        {
-          "version": "8.0.0-preview.6.23329.7",
-          "downloads": 6425,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.6.23329.7.json"
-        },
-        {
-          "version": "8.0.0-preview.7.23375.6",
-          "downloads": 69753,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-preview.7.23375.6.json"
-        },
-        {
-          "version": "8.0.0-rc.1.23419.4",
-          "downloads": 63430,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-rc.1.23419.4.json"
-        },
-        {
-          "version": "8.0.0-rc.2.23479.6",
-          "downloads": 161180,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0-rc.2.23479.6.json"
-        },
-        {
-          "version": "8.0.0",
-          "downloads": 2287730,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/index.json",
@@ -31786,309 +31796,6 @@
           "version": "2.2.8",
           "downloads": 12208420,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pipelines.sockets.unofficial/2.2.8.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/index.json",
-      "id": "NUnit",
-      "version": "4.0.1",
-      "description": "NUnit is a unit-testing framework for all .NET languages.\n        It can run on macOS, Linux and Windows operating systems.\n        NUnit can be used for a wide range of testing, from unit testing with TDD to full fledged system and integration testing.\n        It is a non-opinionated, broad and deep framework with multiple different ways to assert that your code behaves as expected. Many aspects of NUnit can be extended to suit your specific purposes.\n\n        The latest version, version 4, is an upgrade from the groundbreaking NUnit 3 framework. It is a modernized version, aimed at taking advantage of the latest .NET features and C# language constructs.\n\n        If you are upgrading from NUnit 3, be aware of the breaking changes (https://docs.nunit.org/articles/nunit/release-notes/breaking-changes.html#nunit-40). Please see the NUnit 4 Migration Guide (https://docs.nunit.org/articles/nunit/release-notes/Nunit4.0-MigrationGuide.html) and take care to prepare your NUnit 3 code before you do the upgrade.\n\n      Supported platforms:\n      - .NET Framework 4.6.2+\n      - .NET 6.0+",
-      "summary": "NUnit is a unit-testing framework for all .NET languages with a strong TDD focus.",
-      "title": "NUnit",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/nunit/4.0.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/NUnit/4.0.1/license",
-      "projectUrl": "https://nunit.org/",
-      "tags": [
-        "nunit",
-        "test",
-        "testing",
-        "tdd",
-        "framework",
-        "fluent",
-        "assert",
-        "theory",
-        "plugin",
-        "addin"
-      ],
-      "authors": [
-        "Charlie Poole, Rob Prouse"
-      ],
-      "owners": [
-        "charliepoole",
-        "OsirisTerje",
-        "rprouse"
-      ],
-      "totalDownloads": 313896112,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.5.7.10213",
-          "downloads": 635876,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.5.7.10213.json"
-        },
-        {
-          "version": "2.5.9.10348",
-          "downloads": 167673,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.5.9.10348.json"
-        },
-        {
-          "version": "2.5.10.11092",
-          "downloads": 944993,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.5.10.11092.json"
-        },
-        {
-          "version": "2.6.0.12054",
-          "downloads": 722297,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.6.0.12054.json"
-        },
-        {
-          "version": "2.6.1",
-          "downloads": 438785,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.6.1.json"
-        },
-        {
-          "version": "2.6.2",
-          "downloads": 2685459,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.6.2.json"
-        },
-        {
-          "version": "2.6.3",
-          "downloads": 6145248,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.6.3.json"
-        },
-        {
-          "version": "2.6.4",
-          "downloads": 13433634,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.6.4.json"
-        },
-        {
-          "version": "2.6.5",
-          "downloads": 111757,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.6.5.json"
-        },
-        {
-          "version": "2.6.6",
-          "downloads": 33592,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.6.6.json"
-        },
-        {
-          "version": "2.6.7",
-          "downloads": 137403,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.6.7.json"
-        },
-        {
-          "version": "2.7.0",
-          "downloads": 257133,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.7.0.json"
-        },
-        {
-          "version": "2.7.1",
-          "downloads": 439299,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.7.1.json"
-        },
-        {
-          "version": "3.0.0-alpha",
-          "downloads": 22295,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-alpha.json"
-        },
-        {
-          "version": "3.0.0-alpha-2",
-          "downloads": 25183,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-alpha-2.json"
-        },
-        {
-          "version": "3.0.0-alpha-3",
-          "downloads": 12427,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-alpha-3.json"
-        },
-        {
-          "version": "3.0.0-alpha-4",
-          "downloads": 13227,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-alpha-4.json"
-        },
-        {
-          "version": "3.0.0-alpha-5",
-          "downloads": 22844,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-alpha-5.json"
-        },
-        {
-          "version": "3.0.0-beta-1",
-          "downloads": 13582,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-beta-1.json"
-        },
-        {
-          "version": "3.0.0-beta-2",
-          "downloads": 22710,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-beta-2.json"
-        },
-        {
-          "version": "3.0.0-beta-3",
-          "downloads": 17089,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-beta-3.json"
-        },
-        {
-          "version": "3.0.0-beta-4",
-          "downloads": 16341,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-beta-4.json"
-        },
-        {
-          "version": "3.0.0-beta-5",
-          "downloads": 19140,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-beta-5.json"
-        },
-        {
-          "version": "3.0.0-rc",
-          "downloads": 11222,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-rc.json"
-        },
-        {
-          "version": "3.0.0-rc-2",
-          "downloads": 10232,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-rc-2.json"
-        },
-        {
-          "version": "3.0.0-rc-3",
-          "downloads": 9674,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-rc-3.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 877040,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0.json"
-        },
-        {
-          "version": "3.0.1",
-          "downloads": 1837468,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.1.json"
-        },
-        {
-          "version": "3.2.0",
-          "downloads": 945074,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.2.0.json"
-        },
-        {
-          "version": "3.2.1",
-          "downloads": 1265646,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.2.1.json"
-        },
-        {
-          "version": "3.4.0",
-          "downloads": 150528,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.4.0.json"
-        },
-        {
-          "version": "3.4.1",
-          "downloads": 2465921,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.4.1.json"
-        },
-        {
-          "version": "3.5.0",
-          "downloads": 4303719,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.5.0.json"
-        },
-        {
-          "version": "3.6.0",
-          "downloads": 2508457,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.6.0.json"
-        },
-        {
-          "version": "3.6.1",
-          "downloads": 5650992,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.6.1.json"
-        },
-        {
-          "version": "3.7.0",
-          "downloads": 1310053,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.7.0.json"
-        },
-        {
-          "version": "3.7.1",
-          "downloads": 3851097,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.7.1.json"
-        },
-        {
-          "version": "3.8.0",
-          "downloads": 324309,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.8.0.json"
-        },
-        {
-          "version": "3.8.1",
-          "downloads": 16458858,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.8.1.json"
-        },
-        {
-          "version": "3.9.0",
-          "downloads": 8866408,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.9.0.json"
-        },
-        {
-          "version": "3.10.0",
-          "downloads": 404871,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.10.0.json"
-        },
-        {
-          "version": "3.10.1",
-          "downloads": 17644243,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.10.1.json"
-        },
-        {
-          "version": "3.11.0",
-          "downloads": 25935635,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.11.0.json"
-        },
-        {
-          "version": "3.12.0",
-          "downloads": 70472275,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.12.0.json"
-        },
-        {
-          "version": "3.13.0",
-          "downloads": 7074874,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.13.0.json"
-        },
-        {
-          "version": "3.13.1",
-          "downloads": 16287646,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.13.1.json"
-        },
-        {
-          "version": "3.13.2",
-          "downloads": 38813027,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.13.2.json"
-        },
-        {
-          "version": "3.13.3",
-          "downloads": 57627584,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.13.3.json"
-        },
-        {
-          "version": "3.14.0",
-          "downloads": 1626892,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.14.0.json"
-        },
-        {
-          "version": "4.0.0-beta.1",
-          "downloads": 27249,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/4.0.0-beta.1.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 118984,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/4.0.0.json"
-        },
-        {
-          "version": "4.0.1",
-          "downloads": 610144,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/4.0.1.json"
         }
       ],
       "vulnerabilities": []
@@ -32460,6 +32167,309 @@
           "version": "8.0.0",
           "downloads": 590294,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.codedom/8.0.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/index.json",
+      "id": "NUnit",
+      "version": "4.0.1",
+      "description": "NUnit is a unit-testing framework for all .NET languages.\n        It can run on macOS, Linux and Windows operating systems.\n        NUnit can be used for a wide range of testing, from unit testing with TDD to full fledged system and integration testing.\n        It is a non-opinionated, broad and deep framework with multiple different ways to assert that your code behaves as expected. Many aspects of NUnit can be extended to suit your specific purposes.\n\n        The latest version, version 4, is an upgrade from the groundbreaking NUnit 3 framework. It is a modernized version, aimed at taking advantage of the latest .NET features and C# language constructs.\n\n        If you are upgrading from NUnit 3, be aware of the breaking changes (https://docs.nunit.org/articles/nunit/release-notes/breaking-changes.html#nunit-40). Please see the NUnit 4 Migration Guide (https://docs.nunit.org/articles/nunit/release-notes/Nunit4.0-MigrationGuide.html) and take care to prepare your NUnit 3 code before you do the upgrade.\n\n      Supported platforms:\n      - .NET Framework 4.6.2+\n      - .NET 6.0+",
+      "summary": "NUnit is a unit-testing framework for all .NET languages with a strong TDD focus.",
+      "title": "NUnit",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/nunit/4.0.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/NUnit/4.0.1/license",
+      "projectUrl": "https://nunit.org/",
+      "tags": [
+        "nunit",
+        "test",
+        "testing",
+        "tdd",
+        "framework",
+        "fluent",
+        "assert",
+        "theory",
+        "plugin",
+        "addin"
+      ],
+      "authors": [
+        "Charlie Poole, Rob Prouse"
+      ],
+      "owners": [
+        "charliepoole",
+        "OsirisTerje",
+        "rprouse"
+      ],
+      "totalDownloads": 313896112,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.5.7.10213",
+          "downloads": 635876,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.5.7.10213.json"
+        },
+        {
+          "version": "2.5.9.10348",
+          "downloads": 167673,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.5.9.10348.json"
+        },
+        {
+          "version": "2.5.10.11092",
+          "downloads": 944993,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.5.10.11092.json"
+        },
+        {
+          "version": "2.6.0.12054",
+          "downloads": 722297,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.6.0.12054.json"
+        },
+        {
+          "version": "2.6.1",
+          "downloads": 438785,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.6.1.json"
+        },
+        {
+          "version": "2.6.2",
+          "downloads": 2685459,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.6.2.json"
+        },
+        {
+          "version": "2.6.3",
+          "downloads": 6145248,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.6.3.json"
+        },
+        {
+          "version": "2.6.4",
+          "downloads": 13433634,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.6.4.json"
+        },
+        {
+          "version": "2.6.5",
+          "downloads": 111757,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.6.5.json"
+        },
+        {
+          "version": "2.6.6",
+          "downloads": 33592,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.6.6.json"
+        },
+        {
+          "version": "2.6.7",
+          "downloads": 137403,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.6.7.json"
+        },
+        {
+          "version": "2.7.0",
+          "downloads": 257133,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.7.0.json"
+        },
+        {
+          "version": "2.7.1",
+          "downloads": 439299,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/2.7.1.json"
+        },
+        {
+          "version": "3.0.0-alpha",
+          "downloads": 22295,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-alpha.json"
+        },
+        {
+          "version": "3.0.0-alpha-2",
+          "downloads": 25183,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-alpha-2.json"
+        },
+        {
+          "version": "3.0.0-alpha-3",
+          "downloads": 12427,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-alpha-3.json"
+        },
+        {
+          "version": "3.0.0-alpha-4",
+          "downloads": 13227,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-alpha-4.json"
+        },
+        {
+          "version": "3.0.0-alpha-5",
+          "downloads": 22844,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-alpha-5.json"
+        },
+        {
+          "version": "3.0.0-beta-1",
+          "downloads": 13582,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-beta-1.json"
+        },
+        {
+          "version": "3.0.0-beta-2",
+          "downloads": 22710,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-beta-2.json"
+        },
+        {
+          "version": "3.0.0-beta-3",
+          "downloads": 17089,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-beta-3.json"
+        },
+        {
+          "version": "3.0.0-beta-4",
+          "downloads": 16341,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-beta-4.json"
+        },
+        {
+          "version": "3.0.0-beta-5",
+          "downloads": 19140,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-beta-5.json"
+        },
+        {
+          "version": "3.0.0-rc",
+          "downloads": 11222,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-rc.json"
+        },
+        {
+          "version": "3.0.0-rc-2",
+          "downloads": 10232,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-rc-2.json"
+        },
+        {
+          "version": "3.0.0-rc-3",
+          "downloads": 9674,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0-rc-3.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 877040,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.0.json"
+        },
+        {
+          "version": "3.0.1",
+          "downloads": 1837468,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.0.1.json"
+        },
+        {
+          "version": "3.2.0",
+          "downloads": 945074,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.2.0.json"
+        },
+        {
+          "version": "3.2.1",
+          "downloads": 1265646,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.2.1.json"
+        },
+        {
+          "version": "3.4.0",
+          "downloads": 150528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.4.0.json"
+        },
+        {
+          "version": "3.4.1",
+          "downloads": 2465921,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.4.1.json"
+        },
+        {
+          "version": "3.5.0",
+          "downloads": 4303719,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.5.0.json"
+        },
+        {
+          "version": "3.6.0",
+          "downloads": 2508457,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.6.0.json"
+        },
+        {
+          "version": "3.6.1",
+          "downloads": 5650992,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.6.1.json"
+        },
+        {
+          "version": "3.7.0",
+          "downloads": 1310053,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.7.0.json"
+        },
+        {
+          "version": "3.7.1",
+          "downloads": 3851097,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.7.1.json"
+        },
+        {
+          "version": "3.8.0",
+          "downloads": 324309,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.8.0.json"
+        },
+        {
+          "version": "3.8.1",
+          "downloads": 16458858,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.8.1.json"
+        },
+        {
+          "version": "3.9.0",
+          "downloads": 8866408,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.9.0.json"
+        },
+        {
+          "version": "3.10.0",
+          "downloads": 404871,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.10.0.json"
+        },
+        {
+          "version": "3.10.1",
+          "downloads": 17644243,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.10.1.json"
+        },
+        {
+          "version": "3.11.0",
+          "downloads": 25935635,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.11.0.json"
+        },
+        {
+          "version": "3.12.0",
+          "downloads": 70472275,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.12.0.json"
+        },
+        {
+          "version": "3.13.0",
+          "downloads": 7074874,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.13.0.json"
+        },
+        {
+          "version": "3.13.1",
+          "downloads": 16287646,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.13.1.json"
+        },
+        {
+          "version": "3.13.2",
+          "downloads": 38813027,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.13.2.json"
+        },
+        {
+          "version": "3.13.3",
+          "downloads": 57627584,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.13.3.json"
+        },
+        {
+          "version": "3.14.0",
+          "downloads": 1626892,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/3.14.0.json"
+        },
+        {
+          "version": "4.0.0-beta.1",
+          "downloads": 27249,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/4.0.0-beta.1.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 118984,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/4.0.0.json"
+        },
+        {
+          "version": "4.0.1",
+          "downloads": 610144,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit/4.0.1.json"
         }
       ],
       "vulnerabilities": []
@@ -41141,6 +41151,122 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/index.json",
+      "id": "Microsoft.NET.Workload.Mono.ToolChain.Manifest-6.0.400",
+      "version": "6.0.26",
+      "description": "Internal toolchain package not meant for direct consumption. Please do not reference directly.",
+      "summary": "",
+      "title": "Microsoft.NET.Workload.Mono.Toolchain.Manifest",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.26/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.NET.Workload.Mono.ToolChain.Manifest-6.0.400/6.0.26/license",
+      "projectUrl": "https://dot.net/",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
+      "totalDownloads": 216636076,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "6.0.9",
+          "downloads": 11632104,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.9.json"
+        },
+        {
+          "version": "6.0.10",
+          "downloads": 13021709,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.10.json"
+        },
+        {
+          "version": "6.0.11",
+          "downloads": 17046683,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.11.json"
+        },
+        {
+          "version": "6.0.12",
+          "downloads": 9844195,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.12.json"
+        },
+        {
+          "version": "6.0.13",
+          "downloads": 15410912,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.13.json"
+        },
+        {
+          "version": "6.0.14",
+          "downloads": 13559900,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.14.json"
+        },
+        {
+          "version": "6.0.15",
+          "downloads": 13138536,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.15.json"
+        },
+        {
+          "version": "6.0.16",
+          "downloads": 28036801,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.16.json"
+        },
+        {
+          "version": "6.0.18",
+          "downloads": 4698981,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.18.json"
+        },
+        {
+          "version": "6.0.19",
+          "downloads": 7769395,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.19.json"
+        },
+        {
+          "version": "6.0.20",
+          "downloads": 12281428,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.20.json"
+        },
+        {
+          "version": "6.0.21",
+          "downloads": 15133192,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.21.json"
+        },
+        {
+          "version": "6.0.22",
+          "downloads": 13136833,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.22.json"
+        },
+        {
+          "version": "6.0.23",
+          "downloads": 6444979,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.23.json"
+        },
+        {
+          "version": "6.0.24",
+          "downloads": 9661869,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.24.json"
+        },
+        {
+          "version": "6.0.25",
+          "downloads": 21501315,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.25.json"
+        },
+        {
+          "version": "6.0.26",
+          "downloads": 4317244,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.26.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft.dependencyinjection/index.json",
@@ -41293,122 +41419,6 @@
           "Legacy"
         ]
       },
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/index.json",
-      "id": "Microsoft.NET.Workload.Mono.ToolChain.Manifest-6.0.400",
-      "version": "6.0.26",
-      "description": "Internal toolchain package not meant for direct consumption. Please do not reference directly.",
-      "summary": "",
-      "title": "Microsoft.NET.Workload.Mono.Toolchain.Manifest",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.26/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.NET.Workload.Mono.ToolChain.Manifest-6.0.400/6.0.26/license",
-      "projectUrl": "https://dot.net/",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 216636076,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "6.0.9",
-          "downloads": 11632104,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.9.json"
-        },
-        {
-          "version": "6.0.10",
-          "downloads": 13021709,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.10.json"
-        },
-        {
-          "version": "6.0.11",
-          "downloads": 17046683,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.11.json"
-        },
-        {
-          "version": "6.0.12",
-          "downloads": 9844195,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.12.json"
-        },
-        {
-          "version": "6.0.13",
-          "downloads": 15410912,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.13.json"
-        },
-        {
-          "version": "6.0.14",
-          "downloads": 13559900,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.14.json"
-        },
-        {
-          "version": "6.0.15",
-          "downloads": 13138536,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.15.json"
-        },
-        {
-          "version": "6.0.16",
-          "downloads": 28036801,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.16.json"
-        },
-        {
-          "version": "6.0.18",
-          "downloads": 4698981,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.18.json"
-        },
-        {
-          "version": "6.0.19",
-          "downloads": 7769395,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.19.json"
-        },
-        {
-          "version": "6.0.20",
-          "downloads": 12281428,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.20.json"
-        },
-        {
-          "version": "6.0.21",
-          "downloads": 15133192,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.21.json"
-        },
-        {
-          "version": "6.0.22",
-          "downloads": 13136833,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.22.json"
-        },
-        {
-          "version": "6.0.23",
-          "downloads": 6444979,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.23.json"
-        },
-        {
-          "version": "6.0.24",
-          "downloads": 9661869,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.24.json"
-        },
-        {
-          "version": "6.0.25",
-          "downloads": 21501315,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.25.json"
-        },
-        {
-          "version": "6.0.26",
-          "downloads": 4317244,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.26.json"
-        }
-      ],
       "vulnerabilities": []
     },
     {
