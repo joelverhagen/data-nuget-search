@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 364397,
+  "totalHits": 364546,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -8647,12 +8647,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "3.7.302.7",
+      "version": "3.7.302.8",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.302.7/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/3.7.302.7/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.302.8/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/3.7.302.8/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -13773,6 +13773,11 @@
           "version": "3.7.302.7",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.302.7.json"
+        },
+        {
+          "version": "3.7.302.8",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.302.8.json"
         }
       ],
       "vulnerabilities": []
@@ -34930,12 +34935,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/identitymodel/index.json",
       "id": "IdentityModel",
-      "version": "6.2.0",
+      "version": "7.0.0-preview.1",
       "description": "OpenID Connect & OAuth 2.0 client library",
       "summary": "",
       "title": "IdentityModel",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/identitymodel/6.2.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/IdentityModel/6.2.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/identitymodel/7.0.0-preview.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/IdentityModel/7.0.0-preview.1/license",
       "projectUrl": "https://github.com/IdentityModel/IdentityModel",
       "tags": [
         "OAuth2",
@@ -35745,6 +35750,11 @@
           "version": "6.2.0",
           "downloads": 2183439,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/identitymodel/6.2.0.json"
+        },
+        {
+          "version": "7.0.0-preview.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/identitymodel/7.0.0-preview.1.json"
         }
       ],
       "vulnerabilities": []
@@ -42030,12 +42040,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "id": "AWSSDK.S3",
-      "version": "3.7.305.23",
+      "version": "3.7.305.24",
       "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
       "summary": "",
       "title": "AWSSDK - S3",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.305.23/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/3.7.305.23/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.305.24/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/3.7.305.24/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -47207,6 +47217,132 @@
           "version": "3.7.305.23",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.305.23.json"
+        },
+        {
+          "version": "3.7.305.24",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.305.24.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/index.json",
+      "id": "log4net",
+      "version": "2.0.15",
+      "description": "log4net is a tool to help the programmer output log statements to a variety of output targets.\n      In case of problems with an application, it is helpful to enable logging so that the problem \n      can be located. With log4net it is possible to enable logging at runtime without modifying the\n      application binary. The log4net package is designed so that log statements can remain in \n      shipped code without incurring a high performance cost. It follows that the speed of logging\n      (or rather not logging) is crucial.\n\n      At the same time, log output can be so voluminous that it quickly becomes overwhelming.\n      One of the distinctive features of log4net is the notion of hierarchical loggers.\n      Using these loggers it is possible to selectively control which log statements are output\n      at arbitrary granularity.\n\n      log4net is designed with two distinct goals in mind: speed and flexibility",
+      "summary": "",
+      "title": "Apache log4net",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/log4net/2.0.15/icon",
+      "licenseUrl": "https://www.nuget.org/packages/log4net/2.0.15/license",
+      "projectUrl": "https://logging.apache.org/log4net/",
+      "tags": [
+        "logging",
+        "log",
+        "tracing",
+        "logfiles"
+      ],
+      "authors": [
+        "The Apache Software Foundation"
+      ],
+      "owners": [
+        "Apache.Logging",
+        "cincura.net"
+      ],
+      "totalDownloads": 211602948,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.2.10",
+          "downloads": 9191647,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/1.2.10.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 4280494,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.0.json"
+        },
+        {
+          "version": "2.0.1",
+          "downloads": 236817,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.1.json"
+        },
+        {
+          "version": "2.0.2",
+          "downloads": 521874,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.2.json"
+        },
+        {
+          "version": "2.0.3",
+          "downloads": 14088583,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.3.json"
+        },
+        {
+          "version": "2.0.4",
+          "downloads": 677956,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.4.json"
+        },
+        {
+          "version": "2.0.5",
+          "downloads": 13138189,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.5.json"
+        },
+        {
+          "version": "2.0.6",
+          "downloads": 1963704,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.6.json"
+        },
+        {
+          "version": "2.0.7",
+          "downloads": 3290707,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.7.json"
+        },
+        {
+          "version": "2.0.8",
+          "downloads": 88166479,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.8.json"
+        },
+        {
+          "version": "2.0.9",
+          "downloads": 923673,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.9.json"
+        },
+        {
+          "version": "2.0.10",
+          "downloads": 4127575,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.10.json"
+        },
+        {
+          "version": "2.0.11",
+          "downloads": 3081973,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.11.json"
+        },
+        {
+          "version": "2.0.12",
+          "downloads": 30095098,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.12.json"
+        },
+        {
+          "version": "2.0.13",
+          "downloads": 8741411,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.13.json"
+        },
+        {
+          "version": "2.0.14",
+          "downloads": 14969775,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.14.json"
+        },
+        {
+          "version": "2.0.15",
+          "downloads": 12997912,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.15.json"
         }
       ],
       "vulnerabilities": []
@@ -47368,127 +47504,6 @@
           "version": "7.0.0-alpha.2",
           "downloads": 2263,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/rabbitmq.client/7.0.0-alpha.2.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/index.json",
-      "id": "log4net",
-      "version": "2.0.15",
-      "description": "log4net is a tool to help the programmer output log statements to a variety of output targets.\n      In case of problems with an application, it is helpful to enable logging so that the problem \n      can be located. With log4net it is possible to enable logging at runtime without modifying the\n      application binary. The log4net package is designed so that log statements can remain in \n      shipped code without incurring a high performance cost. It follows that the speed of logging\n      (or rather not logging) is crucial.\n\n      At the same time, log output can be so voluminous that it quickly becomes overwhelming.\n      One of the distinctive features of log4net is the notion of hierarchical loggers.\n      Using these loggers it is possible to selectively control which log statements are output\n      at arbitrary granularity.\n\n      log4net is designed with two distinct goals in mind: speed and flexibility",
-      "summary": "",
-      "title": "Apache log4net",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/log4net/2.0.15/icon",
-      "licenseUrl": "https://www.nuget.org/packages/log4net/2.0.15/license",
-      "projectUrl": "https://logging.apache.org/log4net/",
-      "tags": [
-        "logging",
-        "log",
-        "tracing",
-        "logfiles"
-      ],
-      "authors": [
-        "The Apache Software Foundation"
-      ],
-      "owners": [
-        "Apache.Logging",
-        "cincura.net"
-      ],
-      "totalDownloads": 211602948,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.2.10",
-          "downloads": 9191647,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/1.2.10.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 4280494,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.0.json"
-        },
-        {
-          "version": "2.0.1",
-          "downloads": 236817,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.1.json"
-        },
-        {
-          "version": "2.0.2",
-          "downloads": 521874,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.2.json"
-        },
-        {
-          "version": "2.0.3",
-          "downloads": 14088583,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.3.json"
-        },
-        {
-          "version": "2.0.4",
-          "downloads": 677956,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.4.json"
-        },
-        {
-          "version": "2.0.5",
-          "downloads": 13138189,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.5.json"
-        },
-        {
-          "version": "2.0.6",
-          "downloads": 1963704,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.6.json"
-        },
-        {
-          "version": "2.0.7",
-          "downloads": 3290707,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.7.json"
-        },
-        {
-          "version": "2.0.8",
-          "downloads": 88166479,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.8.json"
-        },
-        {
-          "version": "2.0.9",
-          "downloads": 923673,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.9.json"
-        },
-        {
-          "version": "2.0.10",
-          "downloads": 4127575,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.10.json"
-        },
-        {
-          "version": "2.0.11",
-          "downloads": 3081973,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.11.json"
-        },
-        {
-          "version": "2.0.12",
-          "downloads": 30095098,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.12.json"
-        },
-        {
-          "version": "2.0.13",
-          "downloads": 8741411,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.13.json"
-        },
-        {
-          "version": "2.0.14",
-          "downloads": 14969775,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.14.json"
-        },
-        {
-          "version": "2.0.15",
-          "downloads": 12997912,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/log4net/2.0.15.json"
         }
       ],
       "vulnerabilities": []
