@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 364834,
+  "totalHits": 364968,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -304,12 +304,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.dependencyinjection/index.json",
       "id": "Microsoft.Extensions.DependencyInjection",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "Default implementation of dependency injection for Microsoft.Extensions.DependencyInjection.",
       "summary": "",
       "title": "Microsoft.Extensions.DependencyInjection",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -907,6 +907,11 @@
           "version": "8.0.0",
           "downloads": 8859154,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.dependencyinjection/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.dependencyinjection/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -916,12 +921,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging/index.json",
       "id": "Microsoft.Extensions.Logging",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "Logging infrastructure default implementation for Microsoft.Extensions.Logging.",
       "summary": "",
       "title": "Microsoft.Extensions.Logging",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Logging/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Logging/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -1519,6 +1524,11 @@
           "version": "8.0.0",
           "downloads": 8199692,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -1528,12 +1538,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.text.json/index.json",
       "id": "System.Text.Json",
-      "version": "8.0.1",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "Provides high-performance and low-allocating types that serialize objects to JavaScript Object Notation (JSON) text and deserialize JSON text to objects, with UTF-8 support built-in. Also provides types to read and write JSON text encoded as UTF-8, and to create an in-memory document object model (DOM), that is read-only, for random access of the JSON elements within a structured view of the data.\n\nThe System.Text.Json library is built-in as part of the shared framework in .NET Runtime. The package can be installed when you need to use it in other target frameworks.",
       "summary": "",
       "title": "System.Text.Json",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.text.json/8.0.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Text.Json/8.0.1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.text.json/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Text.Json/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -1920,6 +1930,16 @@
           "version": "8.0.1",
           "downloads": 165772,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.text.json/8.0.1.json"
+        },
+        {
+          "version": "8.0.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.text.json/8.0.2.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.text.json/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -1929,12 +1949,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.asyncinterfaces/index.json",
       "id": "Microsoft.Bcl.AsyncInterfaces",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "Provides the IAsyncEnumerable<T> and IAsyncDisposable interfaces and helper types for .NET Standard 2.0. This package is not required starting with .NET Standard 2.1 and .NET Core 3.0.\n\nCommonly Used Types:\nSystem.IAsyncDisposable\nSystem.Collections.Generic.IAsyncEnumerable\nSystem.Collections.Generic.IAsyncEnumerator",
       "summary": "",
       "title": "Microsoft.Bcl.AsyncInterfaces",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.bcl.asyncinterfaces/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Bcl.AsyncInterfaces/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.bcl.asyncinterfaces/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Bcl.AsyncInterfaces/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -2196,6 +2216,11 @@
           "version": "8.0.0",
           "downloads": 2070040,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.asyncinterfaces/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.bcl.asyncinterfaces/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -2205,12 +2230,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.drawing.common/index.json",
       "id": "System.Drawing.Common",
-      "version": "8.0.1",
-      "description": "Provides access to GDI+ graphics functionality.\n\nCommonly Used Types:\nSystem.Drawing.Bitmap\nSystem.Drawing.BitmapData\nSystem.Drawing.Brush\nSystem.Drawing.Font\nSystem.Drawing.Graphics\nSystem.Drawing.Icon\n\nSince .NET 7, non-Windows platforms are not supported, even with the runtime configuration switch. See https://aka.ms/systemdrawingnonwindows for more information.",
+      "version": "9.0.0-preview.1.24081.2",
+      "description": "Provides access to GDI+ graphics functionality.\n\n      Commonly Used Types:\n      System.Drawing.Bitmap\n      System.Drawing.BitmapData\n      System.Drawing.Brush\n      System.Drawing.Font\n      System.Drawing.Graphics\n      System.Drawing.Icon\n\n      Since .NET 7, non-Windows platforms are not supported, even with the runtime configuration switch. See https://aka.ms/systemdrawingnonwindows for more information.",
       "summary": "",
       "title": "System.Drawing.Common",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.drawing.common/8.0.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Drawing.Common/8.0.1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.drawing.common/9.0.0-preview.1.24081.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Drawing.Common/9.0.0-preview.1.24081.2/license",
       "projectUrl": "https://github.com/dotnet/winforms",
       "tags": [],
       "authors": [
@@ -2607,6 +2632,16 @@
           "version": "8.0.1",
           "downloads": 89098,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.drawing.common/8.0.1.json"
+        },
+        {
+          "version": "8.0.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.drawing.common/8.0.2.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24081.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.drawing.common/9.0.0-preview.1.24081.2.json"
         }
       ],
       "vulnerabilities": []
@@ -2616,12 +2651,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.win32.systemevents/index.json",
       "id": "Microsoft.Win32.SystemEvents",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "Provides access to Windows system event notifications.\n\nCommonly Used Types:\nMicrosoft.Win32.SystemEvents",
       "summary": "",
       "title": "Microsoft.Win32.SystemEvents",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.win32.systemevents/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Win32.SystemEvents/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.win32.systemevents/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Win32.SystemEvents/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -2958,6 +2993,11 @@
           "version": "8.0.0",
           "downloads": 948154,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.win32.systemevents/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.win32.systemevents/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -5918,12 +5958,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore/index.json",
       "id": "Microsoft.EntityFrameworkCore",
-      "version": "8.0.1",
+      "version": "9.0.0-preview.1.24081.2",
       "description": "Entity Framework Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. EF Core works with SQL Server, Azure SQL Database, SQLite, Azure Cosmos DB, MySQL, PostgreSQL, and other databases through a provider plugin API.\n\nCommonly Used Types:\nMicrosoft.EntityFrameworkCore.DbContext\nMicrosoft.EntityFrameworkCore.DbSet",
       "summary": "",
       "title": "Microsoft.EntityFrameworkCore",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/8.0.1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-preview.1.24081.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/9.0.0-preview.1.24081.2/license",
       "projectUrl": "https://docs.microsoft.com/ef/core/",
       "tags": [
         "Entity",
@@ -5942,6 +5982,7 @@
       ],
       "owners": [
         "aspnet",
+        "dotnetframework",
         "EntityFramework",
         "Microsoft"
       ],
@@ -6729,6 +6770,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore/6.0.26.json"
         },
         {
+          "version": "6.0.27",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore/6.0.27.json"
+        },
+        {
           "version": "7.0.0-preview.1.22076.6",
           "downloads": 48312,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore/7.0.0-preview.1.22076.6.json"
@@ -6849,6 +6895,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore/7.0.15.json"
         },
         {
+          "version": "7.0.16",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore/7.0.16.json"
+        },
+        {
           "version": "8.0.0-preview.1.23111.4",
           "downloads": 113801,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore/8.0.0-preview.1.23111.4.json"
@@ -6902,6 +6953,16 @@
           "version": "8.0.1",
           "downloads": 354034,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore/8.0.1.json"
+        },
+        {
+          "version": "8.0.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore/8.0.2.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24081.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore/9.0.0-preview.1.24081.2.json"
         }
       ],
       "vulnerabilities": []
@@ -6911,12 +6972,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/index.json",
       "id": "System.Windows.Extensions",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "Provides miscellaneous Windows-specific types\n\nCommonly Used Types:\nSystem.Security.Cryptography.X509Certificates.X509Certificate2UI\nSystem.Security.Cryptography.X509Certificates.X509SelectionFlag",
       "summary": "",
       "title": "System.Windows.Extensions",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.windows.extensions/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Windows.Extensions/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.windows.extensions/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Windows.Extensions/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -7233,6 +7294,11 @@
           "version": "8.0.0",
           "downloads": 308489,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.windows.extensions/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -8105,12 +8171,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/index.json",
       "id": "Microsoft.Extensions.Http",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "The HttpClient factory is a pattern for configuring and retrieving named HttpClients in a composable way. The HttpClient factory provides extensibility to plug in DelegatingHandlers that address cross-cutting concerns such as service location, load balancing, and reliability. The default HttpClient factory provides built-in diagnostics and logging and manages the lifetimes of connections in a performant way.\n\nCommonly Used Types:\nSystem.Net.Http.IHttpClientFactory",
       "summary": "",
       "title": "Microsoft.Extensions.Http",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.http/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Http/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.http/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Http/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -8638,6 +8704,11 @@
           "version": "8.0.0",
           "downloads": 3400792,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.http/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -8647,12 +8718,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "3.7.302.8",
+      "version": "3.7.302.9",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.302.8/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/3.7.302.8/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.302.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/3.7.302.9/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -13778,6 +13849,11 @@
           "version": "3.7.302.8",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.302.8.json"
+        },
+        {
+          "version": "3.7.302.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.302.9.json"
         }
       ],
       "vulnerabilities": []
@@ -13787,12 +13863,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/index.json",
       "id": "System.Security.Cryptography.Pkcs",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "Provides support for PKCS and CMS algorithms.\n\nCommonly Used Types:\nSystem.Security.Cryptography.Pkcs.EnvelopedCms",
       "summary": "",
       "title": "System.Security.Cryptography.Pkcs",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.security.cryptography.pkcs/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Security.Cryptography.Pkcs/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.security.cryptography.pkcs/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Security.Cryptography.Pkcs/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -14214,6 +14290,11 @@
           "version": "8.0.0",
           "downloads": 2240635,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -15731,12 +15812,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.performancecounter/index.json",
       "id": "System.Diagnostics.PerformanceCounter",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "Provides the System.Diagnostics.PerformanceCounter class, which allows access to Windows performance counters.\n\nCommonly Used Types:\nSystem.Diagnostics.PerformanceCounter",
       "summary": "",
       "title": "System.Diagnostics.PerformanceCounter",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.diagnostics.performancecounter/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Diagnostics.PerformanceCounter/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.diagnostics.performancecounter/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Diagnostics.PerformanceCounter/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -16088,6 +16169,11 @@
           "version": "8.0.0",
           "downloads": 367667,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.performancecounter/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.performancecounter/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -16097,12 +16183,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/index.json",
       "id": "System.Runtime.Caching",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "Provides classes to use caching facilities.\n\nCommonly Used Types:\nSystem.Runtime.Caching.CacheEntryChangeMonitor\nSystem.Runtime.Caching.CacheEntryRemovedArguments\nSystem.Runtime.Caching.CacheEntryUpdateArguments\nSystem.Runtime.Caching.CacheItem\nSystem.Runtime.Caching.CacheItemPolicy\nSystem.Runtime.Caching.ChangeMonitor\nSystem.Runtime.Caching.FileChangeMonitor\nSystem.Runtime.Caching.HostFileChangeMonitor\nSystem.Runtime.Caching.MemoryCache\nSystem.Runtime.Caching.ObjectCache",
       "summary": "",
       "title": "System.Runtime.Caching",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.runtime.caching/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Runtime.Caching/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.runtime.caching/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Runtime.Caching/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -16444,6 +16530,11 @@
           "version": "8.0.0",
           "downloads": 609871,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -16453,12 +16544,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/index.json",
       "id": "System.Diagnostics.EventLog",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "Provides the System.Diagnostics.EventLog class, which allows the applications to use the Windows event log service.\n\nCommonly Used Types:\nSystem.Diagnostics.EventLog",
       "summary": "",
       "title": "System.Diagnostics.EventLog",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.diagnostics.eventlog/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Diagnostics.EventLog/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.diagnostics.eventlog/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Diagnostics.EventLog/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -16805,6 +16896,11 @@
           "version": "8.0.0",
           "downloads": 3589002,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.diagnostics.eventlog/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -18164,12 +18260,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.hosting/index.json",
       "id": "Microsoft.Extensions.Hosting",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "Hosting and startup infrastructures for applications.",
       "summary": "",
       "title": "Microsoft.Extensions.Hosting",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.hosting/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Hosting/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.hosting/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Hosting/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -18707,6 +18803,11 @@
           "version": "8.0.0",
           "downloads": 2615990,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.hosting/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.hosting/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -19080,12 +19181,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.threading.channels/index.json",
       "id": "System.Threading.Channels",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "Provides types for passing data between producers and consumers.\n\nCommonly Used Types:\nSystem.Threading.Channel\nSystem.Threading.Channel<T>",
       "summary": "",
       "title": "System.Threading.Channels",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.threading.channels/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Threading.Channels/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.threading.channels/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Threading.Channels/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -19427,6 +19528,11 @@
           "version": "8.0.0",
           "downloads": 747066,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.threading.channels/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.threading.channels/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -21540,12 +21646,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.apidescription.server/index.json",
       "id": "Microsoft.Extensions.ApiDescription.Server",
-      "version": "8.0.1",
-      "description": "MSBuild tasks and targets for build-time Swagger and OpenApi document generation\n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/8e941eb42f819adb116b881195158b3887a70a1c",
+      "version": "9.0.0-preview.1.24081.5",
+      "description": "MSBuild tasks and targets for build-time Swagger and OpenApi document generation\n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/b1beadfe0ad3d02eb5207681a5328793c4b3822c",
       "summary": "",
       "title": "Microsoft.Extensions.ApiDescription.Server",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.apidescription.server/8.0.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.ApiDescription.Server/8.0.1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.apidescription.server/9.0.0-preview.1.24081.5/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.ApiDescription.Server/9.0.0-preview.1.24081.5/license",
       "projectUrl": "https://asp.net/",
       "tags": [
         "MSBuild",
@@ -22111,6 +22217,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.apidescription.server/6.0.26.json"
         },
         {
+          "version": "6.0.27",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.apidescription.server/6.0.27.json"
+        },
+        {
           "version": "7.0.0-preview.1.22109.13",
           "downloads": 409,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.apidescription.server/7.0.0-preview.1.22109.13.json"
@@ -22231,6 +22342,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.apidescription.server/7.0.15.json"
         },
         {
+          "version": "7.0.16",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.apidescription.server/7.0.16.json"
+        },
+        {
           "version": "8.0.0-preview.1.23112.2",
           "downloads": 604,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.apidescription.server/8.0.0-preview.1.23112.2.json"
@@ -22284,6 +22400,16 @@
           "version": "8.0.1",
           "downloads": 3286,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.apidescription.server/8.0.1.json"
+        },
+        {
+          "version": "8.0.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.apidescription.server/8.0.2.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24081.5",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.apidescription.server/9.0.0-preview.1.24081.5.json"
         }
       ],
       "vulnerabilities": []
@@ -26324,12 +26450,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.mvc.newtonsoftjson/index.json",
       "id": "Microsoft.AspNetCore.Mvc.NewtonsoftJson",
-      "version": "8.0.1",
-      "description": "ASP.NET Core MVC features that use Newtonsoft.Json. Includes input and output formatters for JSON and JSON PATCH.\n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/8e941eb42f819adb116b881195158b3887a70a1c",
+      "version": "9.0.0-preview.1.24081.5",
+      "description": "ASP.NET Core MVC features that use Newtonsoft.Json. Includes input and output formatters for JSON and JSON PATCH.\n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/b1beadfe0ad3d02eb5207681a5328793c4b3822c",
       "summary": "",
       "title": "Microsoft.AspNetCore.Mvc.NewtonsoftJson",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.mvc.newtonsoftjson/8.0.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.NewtonsoftJson/8.0.1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.mvc.newtonsoftjson/9.0.0-preview.1.24081.5/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.NewtonsoftJson/9.0.0-preview.1.24081.5/license",
       "projectUrl": "https://asp.net/",
       "tags": [
         "aspnetcore",
@@ -26341,6 +26467,7 @@
       ],
       "owners": [
         "aspnet",
+        "dotnetframework",
         "Microsoft"
       ],
       "totalDownloads": 350687775,
@@ -26907,6 +27034,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.mvc.newtonsoftjson/6.0.26.json"
         },
         {
+          "version": "6.0.27",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.mvc.newtonsoftjson/6.0.27.json"
+        },
+        {
           "version": "7.0.0-preview.1.22109.13",
           "downloads": 3063,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.mvc.newtonsoftjson/7.0.0-preview.1.22109.13.json"
@@ -27027,6 +27159,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.mvc.newtonsoftjson/7.0.15.json"
         },
         {
+          "version": "7.0.16",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.mvc.newtonsoftjson/7.0.16.json"
+        },
+        {
           "version": "8.0.0-preview.1.23112.2",
           "downloads": 11276,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.mvc.newtonsoftjson/8.0.0-preview.1.23112.2.json"
@@ -27080,6 +27217,16 @@
           "version": "8.0.1",
           "downloads": 114653,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.mvc.newtonsoftjson/8.0.1.json"
+        },
+        {
+          "version": "8.0.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.mvc.newtonsoftjson/8.0.2.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24081.5",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.mvc.newtonsoftjson/9.0.0-preview.1.24081.5.json"
         }
       ],
       "vulnerabilities": []
@@ -27238,12 +27385,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/index.json",
       "id": "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions",
-      "version": "8.0.1",
-      "description": "Abstractions for defining health checks in .NET applications\n\nCommonly Used Types\nMicrosoft.Extensions.Diagnostics.HealthChecks.IHealthCheck\n    \n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/8e941eb42f819adb116b881195158b3887a70a1c",
+      "version": "9.0.0-preview.1.24081.5",
+      "description": "Abstractions for defining health checks in .NET applications\n\nCommonly Used Types\nMicrosoft.Extensions.Diagnostics.HealthChecks.IHealthCheck\n    \n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/b1beadfe0ad3d02eb5207681a5328793c4b3822c",
       "summary": "",
       "title": "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.diagnostics.healthchecks.abstractions/8.0.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions/8.0.1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.diagnostics.healthchecks.abstractions/9.0.0-preview.1.24081.5/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions/9.0.0-preview.1.24081.5/license",
       "projectUrl": "https://asp.net/",
       "tags": [
         "diagnostics",
@@ -27254,6 +27401,7 @@
       ],
       "owners": [
         "aspnet",
+        "dotnetframework",
         "Microsoft"
       ],
       "totalDownloads": 344859055,
@@ -27850,6 +27998,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.26.json"
         },
         {
+          "version": "6.0.27",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.27.json"
+        },
+        {
           "version": "7.0.0-preview.1.22109.13",
           "downloads": 760,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.0-preview.1.22109.13.json"
@@ -27970,6 +28123,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.15.json"
         },
         {
+          "version": "7.0.16",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.16.json"
+        },
+        {
           "version": "8.0.0-preview.1.23112.2",
           "downloads": 52170,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/8.0.0-preview.1.23112.2.json"
@@ -28023,6 +28181,16 @@
           "version": "8.0.1",
           "downloads": 90168,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/8.0.1.json"
+        },
+        {
+          "version": "8.0.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/8.0.2.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24081.5",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks.abstractions/9.0.0-preview.1.24081.5.json"
         }
       ],
       "vulnerabilities": []
@@ -28770,12 +28938,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.eventlog/index.json",
       "id": "Microsoft.Extensions.Logging.EventLog",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "Windows Event Log logger provider implementation for Microsoft.Extensions.Logging.",
       "summary": "",
       "title": "Microsoft.Extensions.Logging.EventLog",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.eventlog/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Logging.EventLog/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.eventlog/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Logging.EventLog/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -29373,6 +29541,11 @@
           "version": "8.0.0",
           "downloads": 2631276,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.eventlog/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.logging.eventlog/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -29382,12 +29555,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks/index.json",
       "id": "Microsoft.Extensions.Diagnostics.HealthChecks",
-      "version": "8.0.1",
-      "description": "Components for performing health checks in .NET applications\n\nCommonly Used Types:\nMicrosoft.Extensions.Diagnostics.HealthChecks.HealthCheckService\nMicrosoft.Extensions.Diagnostics.HealthChecks.IHealthChecksBuilder\n    \n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/8e941eb42f819adb116b881195158b3887a70a1c",
+      "version": "9.0.0-preview.1.24081.5",
+      "description": "Components for performing health checks in .NET applications\n\nCommonly Used Types:\nMicrosoft.Extensions.Diagnostics.HealthChecks.HealthCheckService\nMicrosoft.Extensions.Diagnostics.HealthChecks.IHealthChecksBuilder\n    \n\nThis package was built from the source code at https://github.com/dotnet/aspnetcore/tree/b1beadfe0ad3d02eb5207681a5328793c4b3822c",
       "summary": "",
       "title": "Microsoft.Extensions.Diagnostics.HealthChecks",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.diagnostics.healthchecks/8.0.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Diagnostics.HealthChecks/8.0.1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.diagnostics.healthchecks/9.0.0-preview.1.24081.5/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Diagnostics.HealthChecks/9.0.0-preview.1.24081.5/license",
       "projectUrl": "https://asp.net/",
       "tags": [
         "diagnostics",
@@ -29398,6 +29571,7 @@
       ],
       "owners": [
         "aspnet",
+        "dotnetframework",
         "Microsoft"
       ],
       "totalDownloads": 329506878,
@@ -29999,6 +30173,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks/6.0.26.json"
         },
         {
+          "version": "6.0.27",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks/6.0.27.json"
+        },
+        {
           "version": "7.0.0-preview.1.22109.13",
           "downloads": 721,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks/7.0.0-preview.1.22109.13.json"
@@ -30119,6 +30298,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks/7.0.15.json"
         },
         {
+          "version": "7.0.16",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks/7.0.16.json"
+        },
+        {
           "version": "8.0.0-preview.1.23112.2",
           "downloads": 51570,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks/8.0.0-preview.1.23112.2.json"
@@ -30172,6 +30356,16 @@
           "version": "8.0.1",
           "downloads": 73166,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks/8.0.1.json"
+        },
+        {
+          "version": "8.0.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks/8.0.2.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24081.5",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.healthchecks/9.0.0-preview.1.24081.5.json"
         }
       ],
       "vulnerabilities": []
@@ -30601,12 +30795,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/index.json",
       "id": "System.Memory.Data",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "A lightweight abstraction for a payload of bytes. Provides methods for converting between strings, streams, JSON, and bytes.\n\nCommonly Used Types:\nSystem.BinaryData",
       "summary": "",
       "title": "System.Memory.Data",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.memory.data/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Memory.Data/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.memory.data/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Memory.Data/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -30809,6 +31003,11 @@
           "version": "8.0.0",
           "downloads": 168911,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -30964,12 +31163,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/index.json",
       "id": "System.Formats.Asn1",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "Provides classes that can read and write the ASN.1 BER, CER, and DER data formats.\n\nCommonly Used Types:\nSystem.Formats.Asn1.AsnReader\nSystem.Formats.Asn1.AsnWriter",
       "summary": "",
       "title": "System.Formats.Asn1",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.formats.asn1/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Formats.Asn1/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.formats.asn1/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Formats.Asn1/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -31171,6 +31370,11 @@
           "version": "8.0.0",
           "downloads": 2287730,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.formats.asn1/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -31820,12 +32024,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.codedom/index.json",
       "id": "System.CodeDom",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24080.9",
       "description": "Provides types that can be used to model the structure of a source code document and to output source code for that model in a supported language.\n\nCommonly Used Types:\nSystem.CodeDom.CodeObject\nSystem.CodeDom.Compiler.CodeDomProvider\nMicrosoft.CSharp.CSharpCodeProvider\nMicrosoft.VisualBasic.VBCodeProvider",
       "summary": "",
       "title": "System.CodeDom",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.codedom/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.CodeDom/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.codedom/9.0.0-preview.1.24080.9/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.CodeDom/9.0.0-preview.1.24080.9/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -32182,6 +32386,11 @@
           "version": "8.0.0",
           "downloads": 590294,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.codedom/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.codedom/9.0.0-preview.1.24080.9.json"
         }
       ],
       "vulnerabilities": []
@@ -34945,12 +35154,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/identitymodel/index.json",
       "id": "IdentityModel",
-      "version": "7.0.0-preview.1",
+      "version": "7.0.0-preview.2",
       "description": "OpenID Connect & OAuth 2.0 client library",
       "summary": "",
       "title": "IdentityModel",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/identitymodel/7.0.0-preview.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/IdentityModel/7.0.0-preview.1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/identitymodel/7.0.0-preview.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/IdentityModel/7.0.0-preview.2/license",
       "projectUrl": "https://github.com/IdentityModel/IdentityModel",
       "tags": [
         "OAuth2",
@@ -35765,6 +35974,11 @@
           "version": "7.0.0-preview.1",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/identitymodel/7.0.0-preview.1.json"
+        },
+        {
+          "version": "7.0.0-preview.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/identitymodel/7.0.0-preview.2.json"
         }
       ],
       "vulnerabilities": []
@@ -41185,12 +41399,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/index.json",
       "id": "Microsoft.NET.Workload.Mono.ToolChain.Manifest-6.0.400",
-      "version": "6.0.26",
+      "version": "6.0.27",
       "description": "Internal toolchain package not meant for direct consumption. Please do not reference directly.",
       "summary": "",
       "title": "Microsoft.NET.Workload.Mono.Toolchain.Manifest",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.26/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.NET.Workload.Mono.ToolChain.Manifest-6.0.400/6.0.26/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.27/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.NET.Workload.Mono.ToolChain.Manifest-6.0.400/6.0.27/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -41292,6 +41506,11 @@
           "version": "6.0.26",
           "downloads": 4317244,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.26.json"
+        },
+        {
+          "version": "6.0.27",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.manifest-6.0.400/6.0.27.json"
         }
       ],
       "vulnerabilities": []
@@ -41301,11 +41520,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.manifest-6.0.400/index.json",
       "id": "Microsoft.NET.Workload.Emscripten.Manifest-6.0.400",
-      "version": "6.0.26",
+      "version": "6.0.27",
       "description": "Internal toolchain package not meant for direct consumption. Please do not reference directly.",
       "summary": "",
       "title": "Microsoft.NET.Workload.Emscripten.Manifest",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.emscripten.manifest-6.0.400/6.0.26/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.emscripten.manifest-6.0.400/6.0.27/icon",
       "licenseUrl": "https://github.com/dotnet/emsdk/blob/main/LICENSE",
       "projectUrl": "https://github.com/dotnet/emsdk",
       "tags": [],
@@ -41408,6 +41627,11 @@
           "version": "6.0.26",
           "downloads": 4315450,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.manifest-6.0.400/6.0.26.json"
+        },
+        {
+          "version": "6.0.27",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.manifest-6.0.400/6.0.27.json"
         }
       ],
       "vulnerabilities": []
@@ -42050,12 +42274,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "id": "AWSSDK.S3",
-      "version": "3.7.305.24",
+      "version": "3.7.305.25",
       "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
       "summary": "",
       "title": "AWSSDK - S3",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.305.24/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/3.7.305.24/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.305.25/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/3.7.305.25/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -47232,6 +47456,11 @@
           "version": "3.7.305.24",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.305.24.json"
+        },
+        {
+          "version": "3.7.305.25",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.305.25.json"
         }
       ],
       "vulnerabilities": []

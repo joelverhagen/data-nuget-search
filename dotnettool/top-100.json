@@ -2547,12 +2547,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/index.json",
       "id": "dotnet-ef",
-      "version": "8.0.1",
+      "version": "9.0.0-preview.1.24081.2",
       "description": "Entity Framework Core Tools for the .NET Command-Line Interface.\n\nEnables these commonly used dotnet-ef commands:\ndotnet ef migrations add\ndotnet ef migrations list\ndotnet ef migrations script\ndotnet ef dbcontext info\ndotnet ef dbcontext scaffold\ndotnet ef database drop\ndotnet ef database update",
       "summary": "",
       "title": "dotnet-ef",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-ef/8.0.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-ef/8.0.1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-ef/9.0.0-preview.1.24081.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-ef/9.0.0-preview.1.24081.2/license",
       "projectUrl": "https://docs.microsoft.com/ef/core/",
       "tags": [
         "Entity",
@@ -2571,6 +2571,7 @@
       ],
       "owners": [
         "aspnet",
+        "dotnetframework",
         "Microsoft"
       ],
       "totalDownloads": 38177288,
@@ -3227,6 +3228,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/6.0.26.json"
         },
         {
+          "version": "6.0.27",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/6.0.27.json"
+        },
+        {
           "version": "7.0.0-preview.1.22076.6",
           "downloads": 1683,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/7.0.0-preview.1.22076.6.json"
@@ -3347,6 +3353,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/7.0.15.json"
         },
         {
+          "version": "7.0.16",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/7.0.16.json"
+        },
+        {
           "version": "8.0.0-preview.1.23111.4",
           "downloads": 776,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/8.0.0-preview.1.23111.4.json"
@@ -3400,6 +3411,16 @@
           "version": "8.0.1",
           "downloads": 423262,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/8.0.1.json"
+        },
+        {
+          "version": "8.0.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/8.0.2.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24081.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/9.0.0-preview.1.24081.2.json"
         }
       ],
       "vulnerabilities": []
@@ -26837,436 +26858,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/index.json",
-      "id": "Pickles.CommandLine",
-      "version": "4.0.3",
-      "description": "**Pickles** is an open source **living documentation** generator that works on feature files written in the *Gherkin* language, popularized in tools like *Cucumber* and *SpecFlow*.\n\n        *Pickles* can be incorporated into your build process to produce living documentation in a format that is more accessible to your clients. *Gherkin* language files are written in plain text and stored in your source folder. This can make them inaccessible to clients who may not know how to work with source control or who are not interested in seeing all of the source code, just the features.\n\n        *Pickles* can produce output in different formats:\n\n        - Static HTML: a set of HTML files with minimal JavaScript\n        - Dynamic HTML: a JavaScript-rich single page app with integrated search\n        - Word: Microsoft Word\n        - Excel: Microsoft Excel\n        - JSON: a custom JSON format\n        - Markdown: a simple output format\n\n        Optionally, *Pickles* can **integrate test results**, so that your stakeholders know which scenarios pass validation. *Pickles* supports these test formats:\n\n        - NUnit\n        - MSTest\n        - XUnit\n        - SpecRun\n        - Cucumber JSON",
-      "summary": "",
-      "title": "Pickles.CommandLine",
-      "licenseUrl": "https://www.nuget.org/packages/Pickles.CommandLine/4.0.3/license",
-      "projectUrl": "http://www.picklesdoc.com/",
-      "tags": [
-        "SpecificationByExample",
-        "BDD",
-        "SpecFlow",
-        "Gherkin",
-        "Cucumber",
-        "SpecByEx",
-        "LivingDocumentation",
-        "Documentation"
-      ],
-      "authors": [
-        "PicklesDoc and contributors"
-      ],
-      "owners": [
-        "dirkrombauts",
-        "ericcarlson",
-        "jeffreycameron"
-      ],
-      "totalDownloads": 1387983,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.9.1",
-          "downloads": 2152,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.9.1.json"
-        },
-        {
-          "version": "0.10.0",
-          "downloads": 2256,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.10.0.json"
-        },
-        {
-          "version": "0.11.0",
-          "downloads": 2241,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.11.0.json"
-        },
-        {
-          "version": "0.12.0",
-          "downloads": 2049,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.12.0.json"
-        },
-        {
-          "version": "0.12.1",
-          "downloads": 1897,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.12.1.json"
-        },
-        {
-          "version": "0.13.0",
-          "downloads": 2107,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.13.0.json"
-        },
-        {
-          "version": "0.13.1",
-          "downloads": 2820,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.13.1.json"
-        },
-        {
-          "version": "0.14.0",
-          "downloads": 1695,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.14.0.json"
-        },
-        {
-          "version": "0.15.0",
-          "downloads": 2244,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.15.0.json"
-        },
-        {
-          "version": "0.16.0",
-          "downloads": 1490,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.16.0.json"
-        },
-        {
-          "version": "0.17.2",
-          "downloads": 1532,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.17.2.json"
-        },
-        {
-          "version": "0.17.3",
-          "downloads": 1432,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.17.3.json"
-        },
-        {
-          "version": "0.17.4",
-          "downloads": 1640,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.17.4.json"
-        },
-        {
-          "version": "0.18.0",
-          "downloads": 3081,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.18.0.json"
-        },
-        {
-          "version": "0.18.1",
-          "downloads": 1608,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.18.1.json"
-        },
-        {
-          "version": "0.18.2",
-          "downloads": 3514,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.18.2.json"
-        },
-        {
-          "version": "0.19.0",
-          "downloads": 1915,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.19.0.json"
-        },
-        {
-          "version": "0.20.0",
-          "downloads": 2116,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.20.0.json"
-        },
-        {
-          "version": "1.0.0",
-          "downloads": 2670,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/1.0.0.json"
-        },
-        {
-          "version": "1.0.1",
-          "downloads": 26257,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/1.0.1.json"
-        },
-        {
-          "version": "1.1.0",
-          "downloads": 3616,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/1.1.0.json"
-        },
-        {
-          "version": "1.2.0",
-          "downloads": 2345,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/1.2.0.json"
-        },
-        {
-          "version": "1.2.1",
-          "downloads": 3017,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/1.2.1.json"
-        },
-        {
-          "version": "1.2.2",
-          "downloads": 2044,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/1.2.2.json"
-        },
-        {
-          "version": "1.2.3",
-          "downloads": 2822,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/1.2.3.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 2056,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.0.0.json"
-        },
-        {
-          "version": "2.0.1",
-          "downloads": 1879,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.0.1.json"
-        },
-        {
-          "version": "2.0.2",
-          "downloads": 7321,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.0.2.json"
-        },
-        {
-          "version": "2.0.3",
-          "downloads": 1673,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.0.3.json"
-        },
-        {
-          "version": "2.0.4",
-          "downloads": 1604,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.0.4.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 8624,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.1.0.json"
-        },
-        {
-          "version": "2.2.0",
-          "downloads": 2046,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.2.0.json"
-        },
-        {
-          "version": "2.2.1",
-          "downloads": 1767,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.2.1.json"
-        },
-        {
-          "version": "2.3.0",
-          "downloads": 4176,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.3.0.json"
-        },
-        {
-          "version": "2.3.2",
-          "downloads": 934,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.3.2.json"
-        },
-        {
-          "version": "2.3.3",
-          "downloads": 1086,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.3.3.json"
-        },
-        {
-          "version": "2.4.0",
-          "downloads": 1809,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.4.0.json"
-        },
-        {
-          "version": "2.4.1",
-          "downloads": 2655,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.4.1.json"
-        },
-        {
-          "version": "2.5.0",
-          "downloads": 7516,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.5.0.json"
-        },
-        {
-          "version": "2.6.0",
-          "downloads": 2711,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.6.0.json"
-        },
-        {
-          "version": "2.6.1",
-          "downloads": 1598,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.6.1.json"
-        },
-        {
-          "version": "2.6.2",
-          "downloads": 1665,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.6.2.json"
-        },
-        {
-          "version": "2.6.3",
-          "downloads": 4557,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.6.3.json"
-        },
-        {
-          "version": "2.7.0",
-          "downloads": 6133,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.7.0.json"
-        },
-        {
-          "version": "2.8.0",
-          "downloads": 8326,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.8.0.json"
-        },
-        {
-          "version": "2.8.1",
-          "downloads": 4984,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.8.1.json"
-        },
-        {
-          "version": "2.8.2",
-          "downloads": 38355,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.8.2.json"
-        },
-        {
-          "version": "2.8.3",
-          "downloads": 1742,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.8.3.json"
-        },
-        {
-          "version": "2.9.0",
-          "downloads": 3459,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.9.0.json"
-        },
-        {
-          "version": "2.10.0",
-          "downloads": 4894,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.10.0.json"
-        },
-        {
-          "version": "2.11.0",
-          "downloads": 5318,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.11.0.json"
-        },
-        {
-          "version": "2.11.1",
-          "downloads": 281656,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.11.1.json"
-        },
-        {
-          "version": "2.12.0",
-          "downloads": 2366,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.12.0.json"
-        },
-        {
-          "version": "2.13.0",
-          "downloads": 4653,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.13.0.json"
-        },
-        {
-          "version": "2.14.0",
-          "downloads": 20536,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.14.0.json"
-        },
-        {
-          "version": "2.15.0",
-          "downloads": 37635,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.15.0.json"
-        },
-        {
-          "version": "2.16.0",
-          "downloads": 133785,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.16.0.json"
-        },
-        {
-          "version": "2.16.1",
-          "downloads": 2514,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.16.1.json"
-        },
-        {
-          "version": "2.16.2",
-          "downloads": 12891,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.16.2.json"
-        },
-        {
-          "version": "2.17.0",
-          "downloads": 93983,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.17.0.json"
-        },
-        {
-          "version": "2.18.0",
-          "downloads": 67768,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.18.0.json"
-        },
-        {
-          "version": "2.18.1",
-          "downloads": 1926,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.18.1.json"
-        },
-        {
-          "version": "2.18.2",
-          "downloads": 29528,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.18.2.json"
-        },
-        {
-          "version": "2.19.0",
-          "downloads": 20847,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.19.0.json"
-        },
-        {
-          "version": "2.20.0",
-          "downloads": 1976,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.20.0.json"
-        },
-        {
-          "version": "2.20.1",
-          "downloads": 285280,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.20.1.json"
-        },
-        {
-          "version": "2.21.0",
-          "downloads": 30347,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.21.0.json"
-        },
-        {
-          "version": "2.21.1",
-          "downloads": 103403,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.21.1.json"
-        },
-        {
-          "version": "3.0.0-alpha",
-          "downloads": 508,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/3.0.0-alpha.json"
-        },
-        {
-          "version": "3.0.0-alpha.1",
-          "downloads": 169,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/3.0.0-alpha.1.json"
-        },
-        {
-          "version": "3.0.0-alpha.2",
-          "downloads": 199,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/3.0.0-alpha.2.json"
-        },
-        {
-          "version": "3.0.0-alpha.3",
-          "downloads": 179,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/3.0.0-alpha.3.json"
-        },
-        {
-          "version": "3.0.0-alpha.4",
-          "downloads": 193,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/3.0.0-alpha.4.json"
-        },
-        {
-          "version": "3.0.1",
-          "downloads": 24904,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/3.0.1.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 1034,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/4.0.0.json"
-        },
-        {
-          "version": "4.0.1",
-          "downloads": 2697,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/4.0.1.json"
-        },
-        {
-          "version": "4.0.2",
-          "downloads": 767,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/4.0.2.json"
-        },
-        {
-          "version": "4.0.3",
-          "downloads": 16791,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/4.0.3.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/index.json",
@@ -32075,6 +31666,436 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/index.json",
+      "id": "Pickles.CommandLine",
+      "version": "4.0.3",
+      "description": "**Pickles** is an open source **living documentation** generator that works on feature files written in the *Gherkin* language, popularized in tools like *Cucumber* and *SpecFlow*.\n\n        *Pickles* can be incorporated into your build process to produce living documentation in a format that is more accessible to your clients. *Gherkin* language files are written in plain text and stored in your source folder. This can make them inaccessible to clients who may not know how to work with source control or who are not interested in seeing all of the source code, just the features.\n\n        *Pickles* can produce output in different formats:\n\n        - Static HTML: a set of HTML files with minimal JavaScript\n        - Dynamic HTML: a JavaScript-rich single page app with integrated search\n        - Word: Microsoft Word\n        - Excel: Microsoft Excel\n        - JSON: a custom JSON format\n        - Markdown: a simple output format\n\n        Optionally, *Pickles* can **integrate test results**, so that your stakeholders know which scenarios pass validation. *Pickles* supports these test formats:\n\n        - NUnit\n        - MSTest\n        - XUnit\n        - SpecRun\n        - Cucumber JSON",
+      "summary": "",
+      "title": "Pickles.CommandLine",
+      "licenseUrl": "https://www.nuget.org/packages/Pickles.CommandLine/4.0.3/license",
+      "projectUrl": "http://www.picklesdoc.com/",
+      "tags": [
+        "SpecificationByExample",
+        "BDD",
+        "SpecFlow",
+        "Gherkin",
+        "Cucumber",
+        "SpecByEx",
+        "LivingDocumentation",
+        "Documentation"
+      ],
+      "authors": [
+        "PicklesDoc and contributors"
+      ],
+      "owners": [
+        "dirkrombauts",
+        "ericcarlson",
+        "jeffreycameron"
+      ],
+      "totalDownloads": 1387983,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.9.1",
+          "downloads": 2152,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.9.1.json"
+        },
+        {
+          "version": "0.10.0",
+          "downloads": 2256,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.10.0.json"
+        },
+        {
+          "version": "0.11.0",
+          "downloads": 2241,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.11.0.json"
+        },
+        {
+          "version": "0.12.0",
+          "downloads": 2049,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.12.0.json"
+        },
+        {
+          "version": "0.12.1",
+          "downloads": 1897,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.12.1.json"
+        },
+        {
+          "version": "0.13.0",
+          "downloads": 2107,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.13.0.json"
+        },
+        {
+          "version": "0.13.1",
+          "downloads": 2820,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.13.1.json"
+        },
+        {
+          "version": "0.14.0",
+          "downloads": 1695,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.14.0.json"
+        },
+        {
+          "version": "0.15.0",
+          "downloads": 2244,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.15.0.json"
+        },
+        {
+          "version": "0.16.0",
+          "downloads": 1490,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.16.0.json"
+        },
+        {
+          "version": "0.17.2",
+          "downloads": 1532,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.17.2.json"
+        },
+        {
+          "version": "0.17.3",
+          "downloads": 1432,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.17.3.json"
+        },
+        {
+          "version": "0.17.4",
+          "downloads": 1640,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.17.4.json"
+        },
+        {
+          "version": "0.18.0",
+          "downloads": 3081,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.18.0.json"
+        },
+        {
+          "version": "0.18.1",
+          "downloads": 1608,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.18.1.json"
+        },
+        {
+          "version": "0.18.2",
+          "downloads": 3514,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.18.2.json"
+        },
+        {
+          "version": "0.19.0",
+          "downloads": 1915,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.19.0.json"
+        },
+        {
+          "version": "0.20.0",
+          "downloads": 2116,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/0.20.0.json"
+        },
+        {
+          "version": "1.0.0",
+          "downloads": 2670,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/1.0.0.json"
+        },
+        {
+          "version": "1.0.1",
+          "downloads": 26257,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/1.0.1.json"
+        },
+        {
+          "version": "1.1.0",
+          "downloads": 3616,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/1.1.0.json"
+        },
+        {
+          "version": "1.2.0",
+          "downloads": 2345,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/1.2.0.json"
+        },
+        {
+          "version": "1.2.1",
+          "downloads": 3017,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/1.2.1.json"
+        },
+        {
+          "version": "1.2.2",
+          "downloads": 2044,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/1.2.2.json"
+        },
+        {
+          "version": "1.2.3",
+          "downloads": 2822,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/1.2.3.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 2056,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.0.0.json"
+        },
+        {
+          "version": "2.0.1",
+          "downloads": 1879,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.0.1.json"
+        },
+        {
+          "version": "2.0.2",
+          "downloads": 7321,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.0.2.json"
+        },
+        {
+          "version": "2.0.3",
+          "downloads": 1673,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.0.3.json"
+        },
+        {
+          "version": "2.0.4",
+          "downloads": 1604,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.0.4.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 8624,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.1.0.json"
+        },
+        {
+          "version": "2.2.0",
+          "downloads": 2046,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.2.0.json"
+        },
+        {
+          "version": "2.2.1",
+          "downloads": 1767,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.2.1.json"
+        },
+        {
+          "version": "2.3.0",
+          "downloads": 4176,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.3.0.json"
+        },
+        {
+          "version": "2.3.2",
+          "downloads": 934,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.3.2.json"
+        },
+        {
+          "version": "2.3.3",
+          "downloads": 1086,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.3.3.json"
+        },
+        {
+          "version": "2.4.0",
+          "downloads": 1809,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.4.0.json"
+        },
+        {
+          "version": "2.4.1",
+          "downloads": 2655,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.4.1.json"
+        },
+        {
+          "version": "2.5.0",
+          "downloads": 7516,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.5.0.json"
+        },
+        {
+          "version": "2.6.0",
+          "downloads": 2711,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.6.0.json"
+        },
+        {
+          "version": "2.6.1",
+          "downloads": 1598,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.6.1.json"
+        },
+        {
+          "version": "2.6.2",
+          "downloads": 1665,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.6.2.json"
+        },
+        {
+          "version": "2.6.3",
+          "downloads": 4557,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.6.3.json"
+        },
+        {
+          "version": "2.7.0",
+          "downloads": 6133,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.7.0.json"
+        },
+        {
+          "version": "2.8.0",
+          "downloads": 8326,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.8.0.json"
+        },
+        {
+          "version": "2.8.1",
+          "downloads": 4984,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.8.1.json"
+        },
+        {
+          "version": "2.8.2",
+          "downloads": 38355,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.8.2.json"
+        },
+        {
+          "version": "2.8.3",
+          "downloads": 1742,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.8.3.json"
+        },
+        {
+          "version": "2.9.0",
+          "downloads": 3459,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.9.0.json"
+        },
+        {
+          "version": "2.10.0",
+          "downloads": 4894,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.10.0.json"
+        },
+        {
+          "version": "2.11.0",
+          "downloads": 5318,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.11.0.json"
+        },
+        {
+          "version": "2.11.1",
+          "downloads": 281656,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.11.1.json"
+        },
+        {
+          "version": "2.12.0",
+          "downloads": 2366,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.12.0.json"
+        },
+        {
+          "version": "2.13.0",
+          "downloads": 4653,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.13.0.json"
+        },
+        {
+          "version": "2.14.0",
+          "downloads": 20536,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.14.0.json"
+        },
+        {
+          "version": "2.15.0",
+          "downloads": 37635,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.15.0.json"
+        },
+        {
+          "version": "2.16.0",
+          "downloads": 133785,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.16.0.json"
+        },
+        {
+          "version": "2.16.1",
+          "downloads": 2514,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.16.1.json"
+        },
+        {
+          "version": "2.16.2",
+          "downloads": 12891,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.16.2.json"
+        },
+        {
+          "version": "2.17.0",
+          "downloads": 93983,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.17.0.json"
+        },
+        {
+          "version": "2.18.0",
+          "downloads": 67768,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.18.0.json"
+        },
+        {
+          "version": "2.18.1",
+          "downloads": 1926,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.18.1.json"
+        },
+        {
+          "version": "2.18.2",
+          "downloads": 29528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.18.2.json"
+        },
+        {
+          "version": "2.19.0",
+          "downloads": 20847,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.19.0.json"
+        },
+        {
+          "version": "2.20.0",
+          "downloads": 1976,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.20.0.json"
+        },
+        {
+          "version": "2.20.1",
+          "downloads": 285280,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.20.1.json"
+        },
+        {
+          "version": "2.21.0",
+          "downloads": 30347,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.21.0.json"
+        },
+        {
+          "version": "2.21.1",
+          "downloads": 103403,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/2.21.1.json"
+        },
+        {
+          "version": "3.0.0-alpha",
+          "downloads": 508,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/3.0.0-alpha.json"
+        },
+        {
+          "version": "3.0.0-alpha.1",
+          "downloads": 169,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/3.0.0-alpha.1.json"
+        },
+        {
+          "version": "3.0.0-alpha.2",
+          "downloads": 199,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/3.0.0-alpha.2.json"
+        },
+        {
+          "version": "3.0.0-alpha.3",
+          "downloads": 179,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/3.0.0-alpha.3.json"
+        },
+        {
+          "version": "3.0.0-alpha.4",
+          "downloads": 193,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/3.0.0-alpha.4.json"
+        },
+        {
+          "version": "3.0.1",
+          "downloads": 24904,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/3.0.1.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 1034,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/4.0.0.json"
+        },
+        {
+          "version": "4.0.1",
+          "downloads": 2697,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/4.0.1.json"
+        },
+        {
+          "version": "4.0.2",
+          "downloads": 767,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/4.0.2.json"
+        },
+        {
+          "version": "4.0.3",
+          "downloads": 16791,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/pickles.commandline/4.0.3.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nswag.consolecore/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/nswag.consolecore/index.json",
@@ -36347,11 +36368,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/octonotes.githubupdater.tool/index.json",
       "id": "OctoNotes.GitHubUpdater.Tool",
-      "version": "0.0.1538",
+      "version": "0.0.1539",
       "description": "OctoNotes is a tool for generating release notes from Git repositories.\n      Using the information generated by OctoNotes, we can calculate which release a fix landed in, across multiple release branches.\n      We then use this to add a table to the related GitHub issue.",
       "summary": "",
       "title": "OctoNotes.GitHubUpdater.Tool",
-      "licenseUrl": "https://www.nuget.org/packages/OctoNotes.GitHubUpdater.Tool/0.0.1538/license",
+      "licenseUrl": "https://www.nuget.org/packages/OctoNotes.GitHubUpdater.Tool/0.0.1539/license",
       "projectUrl": "https://github.com/OctopusDeploy/OctoNotes",
       "tags": [],
       "authors": [
@@ -40337,6 +40358,11 @@
           "version": "0.0.1538",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octonotes.githubupdater.tool/0.0.1538.json"
+        },
+        {
+          "version": "0.0.1539",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octonotes.githubupdater.tool/0.0.1539.json"
         }
       ],
       "vulnerabilities": []
@@ -50354,12 +50380,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-aspnet-codegenerator/index.json",
       "id": "dotnet-aspnet-codegenerator",
-      "version": "8.0.0",
+      "version": "9.0.0-preview.1.24112.3",
       "description": "Code Generation tool for ASP.NET Core. Contains the dotnet-aspnet-codegenerator command used for generating controllers and views.",
       "summary": "",
       "title": "dotnet-aspnet-codegenerator",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-aspnet-codegenerator/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-aspnet-codegenerator/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-aspnet-codegenerator/9.0.0-preview.1.24112.3/icon",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-aspnet-codegenerator/9.0.0-preview.1.24112.3/license",
       "projectUrl": "https://github.com/dotnet/Scaffolding",
       "tags": [
         "dotnet",
@@ -50856,6 +50882,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-aspnet-codegenerator/7.0.11.json"
         },
         {
+          "version": "7.0.12",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-aspnet-codegenerator/7.0.12.json"
+        },
+        {
           "version": "8.0.0-preview.1.23117.2",
           "downloads": 279,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-aspnet-codegenerator/8.0.0-preview.1.23117.2.json"
@@ -50904,6 +50935,16 @@
           "version": "8.0.0",
           "downloads": 24479,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-aspnet-codegenerator/8.0.0.json"
+        },
+        {
+          "version": "8.0.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-aspnet-codegenerator/8.0.1.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24112.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-aspnet-codegenerator/9.0.0-preview.1.24112.3.json"
         }
       ],
       "vulnerabilities": []
@@ -56846,6 +56887,11 @@
           "version": "15.8.0.16",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/15.8.0.16.json"
+        },
+        {
+          "version": "15.8.0.20",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/15.8.0.20.json"
         },
         {
           "version": "16.0.0.170",
@@ -73250,12 +73296,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fable/index.json",
       "id": "Fable",
-      "version": "4.12.0",
+      "version": "4.12.2",
       "description": "F# to JS compiler",
       "summary": "",
       "title": "Fable",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fable/4.12.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Fable/4.12.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fable/4.12.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Fable/4.12.2/license",
       "projectUrl": "http://fable.io/",
       "tags": [
         "fsharp",
@@ -74252,9 +74298,14 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable/4.11.0.json"
         },
         {
-          "version": "4.12.0",
+          "version": "4.12.1",
           "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable/4.12.0.json"
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable/4.12.1.json"
+        },
+        {
+          "version": "4.12.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable/4.12.2.json"
         }
       ],
       "vulnerabilities": []
@@ -76454,7 +76505,7 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/devprime.cli/index.json",
       "id": "devprime.cli",
-      "version": "8.0.4",
+      "version": "8.0.5",
       "description": "DevPrime CLI",
       "summary": "",
       "title": "devprime.cli",
@@ -76534,6 +76585,11 @@
           "version": "8.0.4",
           "downloads": 513,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/devprime.cli/8.0.4.json"
+        },
+        {
+          "version": "8.0.5",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/devprime.cli/8.0.5.json"
         }
       ],
       "vulnerabilities": []
@@ -79809,6 +79865,452 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/index.json",
+      "id": "dd-trace",
+      "version": "2.46.0",
+      "description": "Auto-instrumentation dotnet global tool for Datadog APM",
+      "summary": "",
+      "title": "Datadog APM Auto-instrumentation Runner",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dd-trace/2.46.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/dd-trace/2.46.0/license",
+      "projectUrl": "https://docs.datadoghq.com/tracing/trace_collection/dd_libraries",
+      "tags": [
+        "Datadog",
+        "APM",
+        "tracing",
+        "profiling",
+        "instrumentation"
+      ],
+      "authors": [
+        "Datadog"
+      ],
+      "owners": [
+        "datadog"
+      ],
+      "totalDownloads": 330718,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.20.0",
+          "downloads": 1309,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.20.0.json"
+        },
+        {
+          "version": "1.21.0",
+          "downloads": 1183,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.21.0.json"
+        },
+        {
+          "version": "1.21.1",
+          "downloads": 1327,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.21.1.json"
+        },
+        {
+          "version": "1.21.2-prerelease",
+          "downloads": 908,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.21.2-prerelease.json"
+        },
+        {
+          "version": "1.22.0",
+          "downloads": 1227,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.22.0.json"
+        },
+        {
+          "version": "1.22.1-prerelease",
+          "downloads": 845,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.22.1-prerelease.json"
+        },
+        {
+          "version": "1.23.0",
+          "downloads": 1240,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.23.0.json"
+        },
+        {
+          "version": "1.24.0",
+          "downloads": 1076,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.24.0.json"
+        },
+        {
+          "version": "1.25.0",
+          "downloads": 1192,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.25.0.json"
+        },
+        {
+          "version": "1.26.0",
+          "downloads": 1165,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.26.0.json"
+        },
+        {
+          "version": "1.26.1",
+          "downloads": 995,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.26.1.json"
+        },
+        {
+          "version": "1.26.2",
+          "downloads": 1084,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.26.2.json"
+        },
+        {
+          "version": "1.27.0",
+          "downloads": 1233,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.27.0.json"
+        },
+        {
+          "version": "1.27.1",
+          "downloads": 1393,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.27.1.json"
+        },
+        {
+          "version": "1.28.0",
+          "downloads": 2111,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.0.json"
+        },
+        {
+          "version": "1.28.1-prerelease",
+          "downloads": 980,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.1-prerelease.json"
+        },
+        {
+          "version": "1.28.2",
+          "downloads": 1755,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.2.json"
+        },
+        {
+          "version": "1.28.3-prerelease",
+          "downloads": 860,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.3-prerelease.json"
+        },
+        {
+          "version": "1.28.4",
+          "downloads": 1788,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.4.json"
+        },
+        {
+          "version": "1.28.5-prerelease",
+          "downloads": 747,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.5-prerelease.json"
+        },
+        {
+          "version": "1.28.6",
+          "downloads": 1775,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.6.json"
+        },
+        {
+          "version": "1.28.7",
+          "downloads": 2411,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.7.json"
+        },
+        {
+          "version": "1.28.8",
+          "downloads": 2220,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.8.json"
+        },
+        {
+          "version": "1.29.0",
+          "downloads": 3372,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.29.0.json"
+        },
+        {
+          "version": "1.29.1-prerelease",
+          "downloads": 935,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.29.1-prerelease.json"
+        },
+        {
+          "version": "1.30.0",
+          "downloads": 2124,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.30.0.json"
+        },
+        {
+          "version": "1.30.1",
+          "downloads": 7033,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.30.1.json"
+        },
+        {
+          "version": "1.31.0",
+          "downloads": 2474,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.31.0.json"
+        },
+        {
+          "version": "1.31.1",
+          "downloads": 1186,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.31.1.json"
+        },
+        {
+          "version": "1.31.2",
+          "downloads": 1089,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.31.2.json"
+        },
+        {
+          "version": "2.0.0-prerelease",
+          "downloads": 976,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.0.0-prerelease.json"
+        },
+        {
+          "version": "2.0.1",
+          "downloads": 2410,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.0.1.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 1778,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.1.0.json"
+        },
+        {
+          "version": "2.1.1",
+          "downloads": 3849,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.1.1.json"
+        },
+        {
+          "version": "2.3.0",
+          "downloads": 2428,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.3.0.json"
+        },
+        {
+          "version": "2.4.0",
+          "downloads": 1592,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.4.0.json"
+        },
+        {
+          "version": "2.4.1",
+          "downloads": 985,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.4.1.json"
+        },
+        {
+          "version": "2.4.2",
+          "downloads": 1718,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.4.2.json"
+        },
+        {
+          "version": "2.4.3",
+          "downloads": 5170,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.4.3.json"
+        },
+        {
+          "version": "2.4.4",
+          "downloads": 1181,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.4.4.json"
+        },
+        {
+          "version": "2.5.1",
+          "downloads": 2337,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.5.1.json"
+        },
+        {
+          "version": "2.6.0",
+          "downloads": 2067,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.6.0.json"
+        },
+        {
+          "version": "2.7.0",
+          "downloads": 1872,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.7.0.json"
+        },
+        {
+          "version": "2.8.0",
+          "downloads": 1627,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.8.0.json"
+        },
+        {
+          "version": "2.9.0",
+          "downloads": 2760,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.9.0.json"
+        },
+        {
+          "version": "2.10.0",
+          "downloads": 2572,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.10.0.json"
+        },
+        {
+          "version": "2.11.0",
+          "downloads": 3503,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.11.0.json"
+        },
+        {
+          "version": "2.12.0",
+          "downloads": 3528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.12.0.json"
+        },
+        {
+          "version": "2.13.0",
+          "downloads": 3656,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.13.0.json"
+        },
+        {
+          "version": "2.14.0",
+          "downloads": 4639,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.14.0.json"
+        },
+        {
+          "version": "2.15.0",
+          "downloads": 5799,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.15.0.json"
+        },
+        {
+          "version": "2.16.0",
+          "downloads": 2038,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.16.0.json"
+        },
+        {
+          "version": "2.17.0",
+          "downloads": 3268,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.17.0.json"
+        },
+        {
+          "version": "2.18.0",
+          "downloads": 4885,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.18.0.json"
+        },
+        {
+          "version": "2.19.0",
+          "downloads": 5418,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.19.0.json"
+        },
+        {
+          "version": "2.20.0",
+          "downloads": 8134,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.20.0.json"
+        },
+        {
+          "version": "2.21.0",
+          "downloads": 6239,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.21.0.json"
+        },
+        {
+          "version": "2.22.0",
+          "downloads": 24907,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.22.0.json"
+        },
+        {
+          "version": "2.23.0",
+          "downloads": 4414,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.23.0.json"
+        },
+        {
+          "version": "2.24.0",
+          "downloads": 2134,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.24.0.json"
+        },
+        {
+          "version": "2.24.1",
+          "downloads": 8566,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.24.1.json"
+        },
+        {
+          "version": "2.26.0",
+          "downloads": 5297,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.26.0.json"
+        },
+        {
+          "version": "2.27.0",
+          "downloads": 10706,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.27.0.json"
+        },
+        {
+          "version": "2.28.0",
+          "downloads": 2544,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.28.0.json"
+        },
+        {
+          "version": "2.29.0",
+          "downloads": 6045,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.29.0.json"
+        },
+        {
+          "version": "2.30.0",
+          "downloads": 7963,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.30.0.json"
+        },
+        {
+          "version": "2.31.0",
+          "downloads": 9988,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.31.0.json"
+        },
+        {
+          "version": "2.32.0",
+          "downloads": 3987,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.32.0.json"
+        },
+        {
+          "version": "2.33.0",
+          "downloads": 10486,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.33.0.json"
+        },
+        {
+          "version": "2.34.0",
+          "downloads": 2284,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.34.0.json"
+        },
+        {
+          "version": "2.35.0",
+          "downloads": 13276,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.35.0.json"
+        },
+        {
+          "version": "2.36.0",
+          "downloads": 3418,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.36.0.json"
+        },
+        {
+          "version": "2.37.0",
+          "downloads": 15919,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.37.0.json"
+        },
+        {
+          "version": "2.38.0",
+          "downloads": 10916,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.38.0.json"
+        },
+        {
+          "version": "2.39.0",
+          "downloads": 3446,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.39.0.json"
+        },
+        {
+          "version": "2.40.0",
+          "downloads": 9581,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.40.0.json"
+        },
+        {
+          "version": "2.41.0",
+          "downloads": 10321,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.41.0.json"
+        },
+        {
+          "version": "2.42.0",
+          "downloads": 718,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.42.0.json"
+        },
+        {
+          "version": "2.43.0",
+          "downloads": 12415,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.43.0.json"
+        },
+        {
+          "version": "2.44.0",
+          "downloads": 7533,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.44.0.json"
+        },
+        {
+          "version": "2.45.0",
+          "downloads": 4423,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.45.0.json"
+        },
+        {
+          "version": "2.46.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.46.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octoversion.tool/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/octoversion.tool/index.json",
@@ -80966,452 +81468,6 @@
           "Legacy"
         ]
       },
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/index.json",
-      "id": "dd-trace",
-      "version": "2.46.0",
-      "description": "Auto-instrumentation dotnet global tool for Datadog APM",
-      "summary": "",
-      "title": "Datadog APM Auto-instrumentation Runner",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dd-trace/2.46.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/dd-trace/2.46.0/license",
-      "projectUrl": "https://docs.datadoghq.com/tracing/trace_collection/dd_libraries",
-      "tags": [
-        "Datadog",
-        "APM",
-        "tracing",
-        "profiling",
-        "instrumentation"
-      ],
-      "authors": [
-        "Datadog"
-      ],
-      "owners": [
-        "datadog"
-      ],
-      "totalDownloads": 330718,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.20.0",
-          "downloads": 1309,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.20.0.json"
-        },
-        {
-          "version": "1.21.0",
-          "downloads": 1183,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.21.0.json"
-        },
-        {
-          "version": "1.21.1",
-          "downloads": 1327,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.21.1.json"
-        },
-        {
-          "version": "1.21.2-prerelease",
-          "downloads": 908,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.21.2-prerelease.json"
-        },
-        {
-          "version": "1.22.0",
-          "downloads": 1227,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.22.0.json"
-        },
-        {
-          "version": "1.22.1-prerelease",
-          "downloads": 845,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.22.1-prerelease.json"
-        },
-        {
-          "version": "1.23.0",
-          "downloads": 1240,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.23.0.json"
-        },
-        {
-          "version": "1.24.0",
-          "downloads": 1076,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.24.0.json"
-        },
-        {
-          "version": "1.25.0",
-          "downloads": 1192,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.25.0.json"
-        },
-        {
-          "version": "1.26.0",
-          "downloads": 1165,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.26.0.json"
-        },
-        {
-          "version": "1.26.1",
-          "downloads": 995,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.26.1.json"
-        },
-        {
-          "version": "1.26.2",
-          "downloads": 1084,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.26.2.json"
-        },
-        {
-          "version": "1.27.0",
-          "downloads": 1233,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.27.0.json"
-        },
-        {
-          "version": "1.27.1",
-          "downloads": 1393,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.27.1.json"
-        },
-        {
-          "version": "1.28.0",
-          "downloads": 2111,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.0.json"
-        },
-        {
-          "version": "1.28.1-prerelease",
-          "downloads": 980,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.1-prerelease.json"
-        },
-        {
-          "version": "1.28.2",
-          "downloads": 1755,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.2.json"
-        },
-        {
-          "version": "1.28.3-prerelease",
-          "downloads": 860,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.3-prerelease.json"
-        },
-        {
-          "version": "1.28.4",
-          "downloads": 1788,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.4.json"
-        },
-        {
-          "version": "1.28.5-prerelease",
-          "downloads": 747,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.5-prerelease.json"
-        },
-        {
-          "version": "1.28.6",
-          "downloads": 1775,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.6.json"
-        },
-        {
-          "version": "1.28.7",
-          "downloads": 2411,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.7.json"
-        },
-        {
-          "version": "1.28.8",
-          "downloads": 2220,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.28.8.json"
-        },
-        {
-          "version": "1.29.0",
-          "downloads": 3372,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.29.0.json"
-        },
-        {
-          "version": "1.29.1-prerelease",
-          "downloads": 935,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.29.1-prerelease.json"
-        },
-        {
-          "version": "1.30.0",
-          "downloads": 2124,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.30.0.json"
-        },
-        {
-          "version": "1.30.1",
-          "downloads": 7033,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.30.1.json"
-        },
-        {
-          "version": "1.31.0",
-          "downloads": 2474,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.31.0.json"
-        },
-        {
-          "version": "1.31.1",
-          "downloads": 1186,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.31.1.json"
-        },
-        {
-          "version": "1.31.2",
-          "downloads": 1089,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/1.31.2.json"
-        },
-        {
-          "version": "2.0.0-prerelease",
-          "downloads": 976,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.0.0-prerelease.json"
-        },
-        {
-          "version": "2.0.1",
-          "downloads": 2410,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.0.1.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 1778,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.1.0.json"
-        },
-        {
-          "version": "2.1.1",
-          "downloads": 3849,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.1.1.json"
-        },
-        {
-          "version": "2.3.0",
-          "downloads": 2428,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.3.0.json"
-        },
-        {
-          "version": "2.4.0",
-          "downloads": 1592,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.4.0.json"
-        },
-        {
-          "version": "2.4.1",
-          "downloads": 985,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.4.1.json"
-        },
-        {
-          "version": "2.4.2",
-          "downloads": 1718,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.4.2.json"
-        },
-        {
-          "version": "2.4.3",
-          "downloads": 5170,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.4.3.json"
-        },
-        {
-          "version": "2.4.4",
-          "downloads": 1181,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.4.4.json"
-        },
-        {
-          "version": "2.5.1",
-          "downloads": 2337,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.5.1.json"
-        },
-        {
-          "version": "2.6.0",
-          "downloads": 2067,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.6.0.json"
-        },
-        {
-          "version": "2.7.0",
-          "downloads": 1872,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.7.0.json"
-        },
-        {
-          "version": "2.8.0",
-          "downloads": 1627,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.8.0.json"
-        },
-        {
-          "version": "2.9.0",
-          "downloads": 2760,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.9.0.json"
-        },
-        {
-          "version": "2.10.0",
-          "downloads": 2572,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.10.0.json"
-        },
-        {
-          "version": "2.11.0",
-          "downloads": 3503,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.11.0.json"
-        },
-        {
-          "version": "2.12.0",
-          "downloads": 3528,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.12.0.json"
-        },
-        {
-          "version": "2.13.0",
-          "downloads": 3656,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.13.0.json"
-        },
-        {
-          "version": "2.14.0",
-          "downloads": 4639,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.14.0.json"
-        },
-        {
-          "version": "2.15.0",
-          "downloads": 5799,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.15.0.json"
-        },
-        {
-          "version": "2.16.0",
-          "downloads": 2038,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.16.0.json"
-        },
-        {
-          "version": "2.17.0",
-          "downloads": 3268,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.17.0.json"
-        },
-        {
-          "version": "2.18.0",
-          "downloads": 4885,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.18.0.json"
-        },
-        {
-          "version": "2.19.0",
-          "downloads": 5418,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.19.0.json"
-        },
-        {
-          "version": "2.20.0",
-          "downloads": 8134,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.20.0.json"
-        },
-        {
-          "version": "2.21.0",
-          "downloads": 6239,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.21.0.json"
-        },
-        {
-          "version": "2.22.0",
-          "downloads": 24907,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.22.0.json"
-        },
-        {
-          "version": "2.23.0",
-          "downloads": 4414,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.23.0.json"
-        },
-        {
-          "version": "2.24.0",
-          "downloads": 2134,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.24.0.json"
-        },
-        {
-          "version": "2.24.1",
-          "downloads": 8566,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.24.1.json"
-        },
-        {
-          "version": "2.26.0",
-          "downloads": 5297,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.26.0.json"
-        },
-        {
-          "version": "2.27.0",
-          "downloads": 10706,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.27.0.json"
-        },
-        {
-          "version": "2.28.0",
-          "downloads": 2544,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.28.0.json"
-        },
-        {
-          "version": "2.29.0",
-          "downloads": 6045,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.29.0.json"
-        },
-        {
-          "version": "2.30.0",
-          "downloads": 7963,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.30.0.json"
-        },
-        {
-          "version": "2.31.0",
-          "downloads": 9988,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.31.0.json"
-        },
-        {
-          "version": "2.32.0",
-          "downloads": 3987,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.32.0.json"
-        },
-        {
-          "version": "2.33.0",
-          "downloads": 10486,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.33.0.json"
-        },
-        {
-          "version": "2.34.0",
-          "downloads": 2284,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.34.0.json"
-        },
-        {
-          "version": "2.35.0",
-          "downloads": 13276,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.35.0.json"
-        },
-        {
-          "version": "2.36.0",
-          "downloads": 3418,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.36.0.json"
-        },
-        {
-          "version": "2.37.0",
-          "downloads": 15919,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.37.0.json"
-        },
-        {
-          "version": "2.38.0",
-          "downloads": 10916,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.38.0.json"
-        },
-        {
-          "version": "2.39.0",
-          "downloads": 3446,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.39.0.json"
-        },
-        {
-          "version": "2.40.0",
-          "downloads": 9581,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.40.0.json"
-        },
-        {
-          "version": "2.41.0",
-          "downloads": 10321,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.41.0.json"
-        },
-        {
-          "version": "2.42.0",
-          "downloads": 718,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.42.0.json"
-        },
-        {
-          "version": "2.43.0",
-          "downloads": 12415,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.43.0.json"
-        },
-        {
-          "version": "2.44.0",
-          "downloads": 7533,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.44.0.json"
-        },
-        {
-          "version": "2.45.0",
-          "downloads": 4423,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.45.0.json"
-        },
-        {
-          "version": "2.46.0",
-          "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/2.46.0.json"
-        }
-      ],
       "vulnerabilities": []
     },
     {
