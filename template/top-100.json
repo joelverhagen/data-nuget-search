@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 2407,
+  "totalHits": 2408,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.functions.worker.projecttemplates/index.json",
@@ -58305,12 +58305,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/uno.templates/index.json",
       "id": "Uno.Templates",
-      "version": "5.3.0-dev.29",
+      "version": "5.3.0-dev.31",
       "description": "Templates for creating Uno Platform apps and libraries",
       "summary": "",
       "title": "Uno.Templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/uno.templates/5.3.0-dev.29/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Uno.Templates/5.3.0-dev.29/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/uno.templates/5.3.0-dev.31/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Uno.Templates/5.3.0-dev.31/license",
       "projectUrl": "https://github.com/unoplatform/uno.templates",
       "tags": [
         "dotnet-new",
@@ -60077,6 +60077,11 @@
           "version": "5.3.0-dev.29",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.templates/5.3.0-dev.29.json"
+        },
+        {
+          "version": "5.3.0-dev.31",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.templates/5.3.0-dev.31.json"
         }
       ],
       "vulnerabilities": []
@@ -74859,6 +74864,818 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/index.json",
+      "id": "KubeOps.Templates",
+      "version": "7.6.1",
+      "description": "dotnet new templates for KubeOps operator sdk.",
+      "summary": "",
+      "title": "KubeOps Templates",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/kubeops.templates/7.6.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/KubeOps.Templates/7.6.1/license",
+      "projectUrl": "https://github.com/buehler/dotnet-operator-sdk.git",
+      "tags": [
+        "dotnet-new",
+        "templates",
+        "Kubernetes",
+        "Operator",
+        "Sdk",
+        "KubeOps"
+      ],
+      "authors": [
+        "Christoph Bühler"
+      ],
+      "owners": [
+        "cbuehler"
+      ],
+      "totalDownloads": 119105,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "Template"
+        }
+      ],
+      "versions": [
+        {
+          "version": "3.1.0-prerelease.1",
+          "downloads": 192,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/3.1.0-prerelease.1.json"
+        },
+        {
+          "version": "3.1.0-prerelease.2",
+          "downloads": 154,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/3.1.0-prerelease.2.json"
+        },
+        {
+          "version": "3.1.0-prerelease.3",
+          "downloads": 152,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/3.1.0-prerelease.3.json"
+        },
+        {
+          "version": "3.1.0-prerelease.4",
+          "downloads": 157,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/3.1.0-prerelease.4.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 934,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/3.1.0.json"
+        },
+        {
+          "version": "3.1.1-prerelease.1",
+          "downloads": 152,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/3.1.1-prerelease.1.json"
+        },
+        {
+          "version": "3.1.1-prerelease.2",
+          "downloads": 194,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/3.1.1-prerelease.2.json"
+        },
+        {
+          "version": "4.0.0-prerelease.1",
+          "downloads": 199,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.0-prerelease.1.json"
+        },
+        {
+          "version": "4.0.0-prerelease.2",
+          "downloads": 203,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.0-prerelease.2.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 1177,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.0.json"
+        },
+        {
+          "version": "4.0.1",
+          "downloads": 1076,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.1.json"
+        },
+        {
+          "version": "4.0.2",
+          "downloads": 780,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.2.json"
+        },
+        {
+          "version": "4.0.3",
+          "downloads": 952,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.3.json"
+        },
+        {
+          "version": "4.0.4",
+          "downloads": 954,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.4.json"
+        },
+        {
+          "version": "4.0.5",
+          "downloads": 912,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.5.json"
+        },
+        {
+          "version": "4.0.6",
+          "downloads": 927,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.6.json"
+        },
+        {
+          "version": "4.0.7",
+          "downloads": 751,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.7.json"
+        },
+        {
+          "version": "4.0.8",
+          "downloads": 922,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.8.json"
+        },
+        {
+          "version": "4.0.9",
+          "downloads": 986,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.9.json"
+        },
+        {
+          "version": "4.0.10",
+          "downloads": 824,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.10.json"
+        },
+        {
+          "version": "4.0.11",
+          "downloads": 978,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.11.json"
+        },
+        {
+          "version": "4.0.12",
+          "downloads": 916,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.12.json"
+        },
+        {
+          "version": "4.0.13",
+          "downloads": 763,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.13.json"
+        },
+        {
+          "version": "4.0.14",
+          "downloads": 688,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.14.json"
+        },
+        {
+          "version": "4.0.15",
+          "downloads": 757,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.15.json"
+        },
+        {
+          "version": "4.0.16",
+          "downloads": 843,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.16.json"
+        },
+        {
+          "version": "4.0.17",
+          "downloads": 898,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.17.json"
+        },
+        {
+          "version": "4.0.19",
+          "downloads": 885,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.19.json"
+        },
+        {
+          "version": "4.0.20",
+          "downloads": 901,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.20.json"
+        },
+        {
+          "version": "4.0.21",
+          "downloads": 821,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.21.json"
+        },
+        {
+          "version": "4.0.22",
+          "downloads": 864,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.22.json"
+        },
+        {
+          "version": "4.0.23",
+          "downloads": 915,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.23.json"
+        },
+        {
+          "version": "4.1.0",
+          "downloads": 840,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.0.json"
+        },
+        {
+          "version": "4.1.1",
+          "downloads": 772,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.1.json"
+        },
+        {
+          "version": "4.1.2",
+          "downloads": 1054,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.2.json"
+        },
+        {
+          "version": "4.1.3",
+          "downloads": 1188,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.3.json"
+        },
+        {
+          "version": "4.1.4",
+          "downloads": 922,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.4.json"
+        },
+        {
+          "version": "4.1.5",
+          "downloads": 1000,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.5.json"
+        },
+        {
+          "version": "4.1.6",
+          "downloads": 1164,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.6.json"
+        },
+        {
+          "version": "4.1.7",
+          "downloads": 687,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.7.json"
+        },
+        {
+          "version": "4.1.8",
+          "downloads": 828,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.8.json"
+        },
+        {
+          "version": "4.1.9",
+          "downloads": 818,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.9.json"
+        },
+        {
+          "version": "4.1.10",
+          "downloads": 828,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.10.json"
+        },
+        {
+          "version": "4.1.11",
+          "downloads": 719,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.11.json"
+        },
+        {
+          "version": "4.1.12",
+          "downloads": 748,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.12.json"
+        },
+        {
+          "version": "4.2.0",
+          "downloads": 678,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.2.0.json"
+        },
+        {
+          "version": "4.3.0",
+          "downloads": 762,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.3.0.json"
+        },
+        {
+          "version": "4.3.1",
+          "downloads": 667,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.3.1.json"
+        },
+        {
+          "version": "4.3.2",
+          "downloads": 904,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.3.2.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 725,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.0.0.json"
+        },
+        {
+          "version": "5.0.1",
+          "downloads": 750,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.0.1.json"
+        },
+        {
+          "version": "5.0.2-prerelease.1",
+          "downloads": 146,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.0.2-prerelease.1.json"
+        },
+        {
+          "version": "5.1.0-prerelease.1",
+          "downloads": 163,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.1.0-prerelease.1.json"
+        },
+        {
+          "version": "5.1.0-prerelease.2",
+          "downloads": 157,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.1.0-prerelease.2.json"
+        },
+        {
+          "version": "5.1.0",
+          "downloads": 670,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.1.0.json"
+        },
+        {
+          "version": "5.1.1",
+          "downloads": 707,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.1.1.json"
+        },
+        {
+          "version": "5.1.2",
+          "downloads": 737,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.1.2.json"
+        },
+        {
+          "version": "5.1.3",
+          "downloads": 834,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.1.3.json"
+        },
+        {
+          "version": "5.1.4",
+          "downloads": 778,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.1.4.json"
+        },
+        {
+          "version": "5.2.0",
+          "downloads": 886,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.2.0.json"
+        },
+        {
+          "version": "5.3.0",
+          "downloads": 873,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.3.0.json"
+        },
+        {
+          "version": "5.3.1",
+          "downloads": 757,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.3.1.json"
+        },
+        {
+          "version": "5.3.2",
+          "downloads": 806,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.3.2.json"
+        },
+        {
+          "version": "5.3.3",
+          "downloads": 856,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.3.3.json"
+        },
+        {
+          "version": "5.3.4",
+          "downloads": 771,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.3.4.json"
+        },
+        {
+          "version": "5.3.5",
+          "downloads": 743,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.3.5.json"
+        },
+        {
+          "version": "5.3.6",
+          "downloads": 980,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.3.6.json"
+        },
+        {
+          "version": "5.4.0",
+          "downloads": 682,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.0.json"
+        },
+        {
+          "version": "5.4.1",
+          "downloads": 718,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.1.json"
+        },
+        {
+          "version": "5.4.2",
+          "downloads": 722,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.2.json"
+        },
+        {
+          "version": "5.4.3",
+          "downloads": 629,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.3.json"
+        },
+        {
+          "version": "5.4.4",
+          "downloads": 671,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.4.json"
+        },
+        {
+          "version": "5.4.5",
+          "downloads": 778,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.5.json"
+        },
+        {
+          "version": "5.4.6",
+          "downloads": 637,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.6.json"
+        },
+        {
+          "version": "5.4.7",
+          "downloads": 818,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.7.json"
+        },
+        {
+          "version": "5.4.8",
+          "downloads": 698,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.8.json"
+        },
+        {
+          "version": "5.4.9",
+          "downloads": 813,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.9.json"
+        },
+        {
+          "version": "6.0.0-prerelease.1",
+          "downloads": 141,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.0-prerelease.1.json"
+        },
+        {
+          "version": "6.0.0-prerelease.2",
+          "downloads": 159,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.0-prerelease.2.json"
+        },
+        {
+          "version": "6.0.0-prerelease.3",
+          "downloads": 164,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.0-prerelease.3.json"
+        },
+        {
+          "version": "6.0.0-prerelease.4",
+          "downloads": 137,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.0-prerelease.4.json"
+        },
+        {
+          "version": "6.0.0-prerelease.5",
+          "downloads": 179,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.0-prerelease.5.json"
+        },
+        {
+          "version": "6.0.0",
+          "downloads": 729,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.0.json"
+        },
+        {
+          "version": "6.0.1",
+          "downloads": 757,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.1.json"
+        },
+        {
+          "version": "6.0.2",
+          "downloads": 790,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.2.json"
+        },
+        {
+          "version": "6.0.3",
+          "downloads": 680,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.3.json"
+        },
+        {
+          "version": "6.0.4",
+          "downloads": 680,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.4.json"
+        },
+        {
+          "version": "6.0.5",
+          "downloads": 704,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.5.json"
+        },
+        {
+          "version": "6.0.6",
+          "downloads": 695,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.6.json"
+        },
+        {
+          "version": "6.0.7",
+          "downloads": 850,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.7.json"
+        },
+        {
+          "version": "6.0.8",
+          "downloads": 714,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.8.json"
+        },
+        {
+          "version": "6.0.9",
+          "downloads": 803,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.9.json"
+        },
+        {
+          "version": "6.0.10",
+          "downloads": 693,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.10.json"
+        },
+        {
+          "version": "6.0.11",
+          "downloads": 673,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.11.json"
+        },
+        {
+          "version": "6.0.12",
+          "downloads": 776,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.12.json"
+        },
+        {
+          "version": "6.0.13",
+          "downloads": 624,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.13.json"
+        },
+        {
+          "version": "6.0.14",
+          "downloads": 1061,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.14.json"
+        },
+        {
+          "version": "6.0.15",
+          "downloads": 774,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.15.json"
+        },
+        {
+          "version": "6.0.16",
+          "downloads": 706,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.16.json"
+        },
+        {
+          "version": "6.0.17",
+          "downloads": 679,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.17.json"
+        },
+        {
+          "version": "6.0.18",
+          "downloads": 677,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.18.json"
+        },
+        {
+          "version": "6.1.0",
+          "downloads": 839,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.1.0.json"
+        },
+        {
+          "version": "6.1.2",
+          "downloads": 738,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.1.2.json"
+        },
+        {
+          "version": "6.2.0",
+          "downloads": 666,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.0.json"
+        },
+        {
+          "version": "6.2.1",
+          "downloads": 810,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.1.json"
+        },
+        {
+          "version": "6.2.2",
+          "downloads": 894,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.2.json"
+        },
+        {
+          "version": "6.2.3",
+          "downloads": 1000,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.3.json"
+        },
+        {
+          "version": "6.2.4",
+          "downloads": 868,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.4.json"
+        },
+        {
+          "version": "6.2.5",
+          "downloads": 860,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.5.json"
+        },
+        {
+          "version": "6.2.6",
+          "downloads": 996,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.6.json"
+        },
+        {
+          "version": "6.2.7",
+          "downloads": 802,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.7.json"
+        },
+        {
+          "version": "6.2.8",
+          "downloads": 845,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.8.json"
+        },
+        {
+          "version": "6.2.9",
+          "downloads": 835,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.9.json"
+        },
+        {
+          "version": "6.2.10",
+          "downloads": 869,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.10.json"
+        },
+        {
+          "version": "6.2.11",
+          "downloads": 813,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.11.json"
+        },
+        {
+          "version": "6.2.12",
+          "downloads": 882,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.12.json"
+        },
+        {
+          "version": "6.2.13",
+          "downloads": 999,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.13.json"
+        },
+        {
+          "version": "6.3.0",
+          "downloads": 884,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.3.0.json"
+        },
+        {
+          "version": "6.3.1",
+          "downloads": 850,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.3.1.json"
+        },
+        {
+          "version": "6.4.0",
+          "downloads": 902,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.4.0.json"
+        },
+        {
+          "version": "6.5.0",
+          "downloads": 930,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.5.0.json"
+        },
+        {
+          "version": "6.5.1",
+          "downloads": 928,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.5.1.json"
+        },
+        {
+          "version": "6.5.2",
+          "downloads": 913,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.5.2.json"
+        },
+        {
+          "version": "6.5.3",
+          "downloads": 1060,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.5.3.json"
+        },
+        {
+          "version": "6.5.4",
+          "downloads": 935,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.5.4.json"
+        },
+        {
+          "version": "6.6.0",
+          "downloads": 1178,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.6.0.json"
+        },
+        {
+          "version": "6.6.1",
+          "downloads": 983,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.6.1.json"
+        },
+        {
+          "version": "6.6.2",
+          "downloads": 781,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.6.2.json"
+        },
+        {
+          "version": "7.0.0-prerelease.1",
+          "downloads": 122,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.0-prerelease.1.json"
+        },
+        {
+          "version": "7.0.0-prerelease.2",
+          "downloads": 144,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.0-prerelease.2.json"
+        },
+        {
+          "version": "7.0.0",
+          "downloads": 624,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.0.json"
+        },
+        {
+          "version": "7.0.1",
+          "downloads": 732,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.1.json"
+        },
+        {
+          "version": "7.0.2",
+          "downloads": 801,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.2.json"
+        },
+        {
+          "version": "7.0.3",
+          "downloads": 735,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.3.json"
+        },
+        {
+          "version": "7.0.4",
+          "downloads": 1033,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.4.json"
+        },
+        {
+          "version": "7.0.5",
+          "downloads": 741,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.5.json"
+        },
+        {
+          "version": "7.0.6",
+          "downloads": 737,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.6.json"
+        },
+        {
+          "version": "7.0.7",
+          "downloads": 740,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.7.json"
+        },
+        {
+          "version": "7.0.8",
+          "downloads": 788,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.8.json"
+        },
+        {
+          "version": "7.0.9",
+          "downloads": 740,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.9.json"
+        },
+        {
+          "version": "7.0.10",
+          "downloads": 660,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.10.json"
+        },
+        {
+          "version": "7.1.0",
+          "downloads": 741,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.1.0.json"
+        },
+        {
+          "version": "7.1.1",
+          "downloads": 1034,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.1.1.json"
+        },
+        {
+          "version": "7.1.2",
+          "downloads": 648,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.1.2.json"
+        },
+        {
+          "version": "7.2.0",
+          "downloads": 691,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.2.0.json"
+        },
+        {
+          "version": "7.3.0",
+          "downloads": 675,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.3.0.json"
+        },
+        {
+          "version": "7.4.0",
+          "downloads": 707,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.4.0.json"
+        },
+        {
+          "version": "7.4.1",
+          "downloads": 767,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.4.1.json"
+        },
+        {
+          "version": "7.4.2",
+          "downloads": 858,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.4.2.json"
+        },
+        {
+          "version": "7.4.3",
+          "downloads": 611,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.4.3.json"
+        },
+        {
+          "version": "7.4.4",
+          "downloads": 811,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.4.4.json"
+        },
+        {
+          "version": "7.4.5",
+          "downloads": 539,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.4.5.json"
+        },
+        {
+          "version": "7.5.0",
+          "downloads": 721,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.5.0.json"
+        },
+        {
+          "version": "7.6.0",
+          "downloads": 685,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.6.0.json"
+        },
+        {
+          "version": "7.6.1",
+          "downloads": 5204,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.6.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/paule96.dotnettemplate.gitignore/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/paule96.dotnettemplate.gitignore/index.json",
@@ -75840,818 +76657,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/index.json",
-      "id": "KubeOps.Templates",
-      "version": "7.6.1",
-      "description": "dotnet new templates for KubeOps operator sdk.",
-      "summary": "",
-      "title": "KubeOps Templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/kubeops.templates/7.6.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/KubeOps.Templates/7.6.1/license",
-      "projectUrl": "https://github.com/buehler/dotnet-operator-sdk.git",
-      "tags": [
-        "dotnet-new",
-        "templates",
-        "Kubernetes",
-        "Operator",
-        "Sdk",
-        "KubeOps"
-      ],
-      "authors": [
-        "Christoph Bühler"
-      ],
-      "owners": [
-        "cbuehler"
-      ],
-      "totalDownloads": 119105,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "Template"
-        }
-      ],
-      "versions": [
-        {
-          "version": "3.1.0-prerelease.1",
-          "downloads": 192,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/3.1.0-prerelease.1.json"
-        },
-        {
-          "version": "3.1.0-prerelease.2",
-          "downloads": 154,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/3.1.0-prerelease.2.json"
-        },
-        {
-          "version": "3.1.0-prerelease.3",
-          "downloads": 152,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/3.1.0-prerelease.3.json"
-        },
-        {
-          "version": "3.1.0-prerelease.4",
-          "downloads": 157,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/3.1.0-prerelease.4.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 934,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/3.1.0.json"
-        },
-        {
-          "version": "3.1.1-prerelease.1",
-          "downloads": 152,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/3.1.1-prerelease.1.json"
-        },
-        {
-          "version": "3.1.1-prerelease.2",
-          "downloads": 194,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/3.1.1-prerelease.2.json"
-        },
-        {
-          "version": "4.0.0-prerelease.1",
-          "downloads": 199,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.0-prerelease.1.json"
-        },
-        {
-          "version": "4.0.0-prerelease.2",
-          "downloads": 203,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.0-prerelease.2.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 1177,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.0.json"
-        },
-        {
-          "version": "4.0.1",
-          "downloads": 1076,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.1.json"
-        },
-        {
-          "version": "4.0.2",
-          "downloads": 780,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.2.json"
-        },
-        {
-          "version": "4.0.3",
-          "downloads": 952,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.3.json"
-        },
-        {
-          "version": "4.0.4",
-          "downloads": 954,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.4.json"
-        },
-        {
-          "version": "4.0.5",
-          "downloads": 912,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.5.json"
-        },
-        {
-          "version": "4.0.6",
-          "downloads": 927,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.6.json"
-        },
-        {
-          "version": "4.0.7",
-          "downloads": 751,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.7.json"
-        },
-        {
-          "version": "4.0.8",
-          "downloads": 922,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.8.json"
-        },
-        {
-          "version": "4.0.9",
-          "downloads": 986,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.9.json"
-        },
-        {
-          "version": "4.0.10",
-          "downloads": 824,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.10.json"
-        },
-        {
-          "version": "4.0.11",
-          "downloads": 978,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.11.json"
-        },
-        {
-          "version": "4.0.12",
-          "downloads": 916,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.12.json"
-        },
-        {
-          "version": "4.0.13",
-          "downloads": 763,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.13.json"
-        },
-        {
-          "version": "4.0.14",
-          "downloads": 688,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.14.json"
-        },
-        {
-          "version": "4.0.15",
-          "downloads": 757,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.15.json"
-        },
-        {
-          "version": "4.0.16",
-          "downloads": 843,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.16.json"
-        },
-        {
-          "version": "4.0.17",
-          "downloads": 898,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.17.json"
-        },
-        {
-          "version": "4.0.19",
-          "downloads": 885,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.19.json"
-        },
-        {
-          "version": "4.0.20",
-          "downloads": 901,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.20.json"
-        },
-        {
-          "version": "4.0.21",
-          "downloads": 821,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.21.json"
-        },
-        {
-          "version": "4.0.22",
-          "downloads": 864,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.22.json"
-        },
-        {
-          "version": "4.0.23",
-          "downloads": 915,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.0.23.json"
-        },
-        {
-          "version": "4.1.0",
-          "downloads": 840,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.0.json"
-        },
-        {
-          "version": "4.1.1",
-          "downloads": 772,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.1.json"
-        },
-        {
-          "version": "4.1.2",
-          "downloads": 1054,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.2.json"
-        },
-        {
-          "version": "4.1.3",
-          "downloads": 1188,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.3.json"
-        },
-        {
-          "version": "4.1.4",
-          "downloads": 922,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.4.json"
-        },
-        {
-          "version": "4.1.5",
-          "downloads": 1000,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.5.json"
-        },
-        {
-          "version": "4.1.6",
-          "downloads": 1164,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.6.json"
-        },
-        {
-          "version": "4.1.7",
-          "downloads": 687,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.7.json"
-        },
-        {
-          "version": "4.1.8",
-          "downloads": 828,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.8.json"
-        },
-        {
-          "version": "4.1.9",
-          "downloads": 818,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.9.json"
-        },
-        {
-          "version": "4.1.10",
-          "downloads": 828,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.10.json"
-        },
-        {
-          "version": "4.1.11",
-          "downloads": 719,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.11.json"
-        },
-        {
-          "version": "4.1.12",
-          "downloads": 748,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.1.12.json"
-        },
-        {
-          "version": "4.2.0",
-          "downloads": 678,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.2.0.json"
-        },
-        {
-          "version": "4.3.0",
-          "downloads": 762,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.3.0.json"
-        },
-        {
-          "version": "4.3.1",
-          "downloads": 667,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.3.1.json"
-        },
-        {
-          "version": "4.3.2",
-          "downloads": 904,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/4.3.2.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 725,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.0.0.json"
-        },
-        {
-          "version": "5.0.1",
-          "downloads": 750,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.0.1.json"
-        },
-        {
-          "version": "5.0.2-prerelease.1",
-          "downloads": 146,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.0.2-prerelease.1.json"
-        },
-        {
-          "version": "5.1.0-prerelease.1",
-          "downloads": 163,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.1.0-prerelease.1.json"
-        },
-        {
-          "version": "5.1.0-prerelease.2",
-          "downloads": 157,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.1.0-prerelease.2.json"
-        },
-        {
-          "version": "5.1.0",
-          "downloads": 670,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.1.0.json"
-        },
-        {
-          "version": "5.1.1",
-          "downloads": 707,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.1.1.json"
-        },
-        {
-          "version": "5.1.2",
-          "downloads": 737,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.1.2.json"
-        },
-        {
-          "version": "5.1.3",
-          "downloads": 834,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.1.3.json"
-        },
-        {
-          "version": "5.1.4",
-          "downloads": 778,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.1.4.json"
-        },
-        {
-          "version": "5.2.0",
-          "downloads": 886,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.2.0.json"
-        },
-        {
-          "version": "5.3.0",
-          "downloads": 873,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.3.0.json"
-        },
-        {
-          "version": "5.3.1",
-          "downloads": 757,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.3.1.json"
-        },
-        {
-          "version": "5.3.2",
-          "downloads": 806,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.3.2.json"
-        },
-        {
-          "version": "5.3.3",
-          "downloads": 856,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.3.3.json"
-        },
-        {
-          "version": "5.3.4",
-          "downloads": 771,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.3.4.json"
-        },
-        {
-          "version": "5.3.5",
-          "downloads": 743,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.3.5.json"
-        },
-        {
-          "version": "5.3.6",
-          "downloads": 980,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.3.6.json"
-        },
-        {
-          "version": "5.4.0",
-          "downloads": 682,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.0.json"
-        },
-        {
-          "version": "5.4.1",
-          "downloads": 718,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.1.json"
-        },
-        {
-          "version": "5.4.2",
-          "downloads": 722,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.2.json"
-        },
-        {
-          "version": "5.4.3",
-          "downloads": 629,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.3.json"
-        },
-        {
-          "version": "5.4.4",
-          "downloads": 671,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.4.json"
-        },
-        {
-          "version": "5.4.5",
-          "downloads": 778,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.5.json"
-        },
-        {
-          "version": "5.4.6",
-          "downloads": 637,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.6.json"
-        },
-        {
-          "version": "5.4.7",
-          "downloads": 818,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.7.json"
-        },
-        {
-          "version": "5.4.8",
-          "downloads": 698,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.8.json"
-        },
-        {
-          "version": "5.4.9",
-          "downloads": 813,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/5.4.9.json"
-        },
-        {
-          "version": "6.0.0-prerelease.1",
-          "downloads": 141,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.0-prerelease.1.json"
-        },
-        {
-          "version": "6.0.0-prerelease.2",
-          "downloads": 159,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.0-prerelease.2.json"
-        },
-        {
-          "version": "6.0.0-prerelease.3",
-          "downloads": 164,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.0-prerelease.3.json"
-        },
-        {
-          "version": "6.0.0-prerelease.4",
-          "downloads": 137,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.0-prerelease.4.json"
-        },
-        {
-          "version": "6.0.0-prerelease.5",
-          "downloads": 179,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.0-prerelease.5.json"
-        },
-        {
-          "version": "6.0.0",
-          "downloads": 729,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.0.json"
-        },
-        {
-          "version": "6.0.1",
-          "downloads": 757,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.1.json"
-        },
-        {
-          "version": "6.0.2",
-          "downloads": 790,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.2.json"
-        },
-        {
-          "version": "6.0.3",
-          "downloads": 680,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.3.json"
-        },
-        {
-          "version": "6.0.4",
-          "downloads": 680,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.4.json"
-        },
-        {
-          "version": "6.0.5",
-          "downloads": 704,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.5.json"
-        },
-        {
-          "version": "6.0.6",
-          "downloads": 695,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.6.json"
-        },
-        {
-          "version": "6.0.7",
-          "downloads": 850,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.7.json"
-        },
-        {
-          "version": "6.0.8",
-          "downloads": 714,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.8.json"
-        },
-        {
-          "version": "6.0.9",
-          "downloads": 803,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.9.json"
-        },
-        {
-          "version": "6.0.10",
-          "downloads": 693,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.10.json"
-        },
-        {
-          "version": "6.0.11",
-          "downloads": 673,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.11.json"
-        },
-        {
-          "version": "6.0.12",
-          "downloads": 776,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.12.json"
-        },
-        {
-          "version": "6.0.13",
-          "downloads": 624,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.13.json"
-        },
-        {
-          "version": "6.0.14",
-          "downloads": 1061,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.14.json"
-        },
-        {
-          "version": "6.0.15",
-          "downloads": 774,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.15.json"
-        },
-        {
-          "version": "6.0.16",
-          "downloads": 706,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.16.json"
-        },
-        {
-          "version": "6.0.17",
-          "downloads": 679,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.17.json"
-        },
-        {
-          "version": "6.0.18",
-          "downloads": 677,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.0.18.json"
-        },
-        {
-          "version": "6.1.0",
-          "downloads": 839,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.1.0.json"
-        },
-        {
-          "version": "6.1.2",
-          "downloads": 738,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.1.2.json"
-        },
-        {
-          "version": "6.2.0",
-          "downloads": 666,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.0.json"
-        },
-        {
-          "version": "6.2.1",
-          "downloads": 810,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.1.json"
-        },
-        {
-          "version": "6.2.2",
-          "downloads": 894,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.2.json"
-        },
-        {
-          "version": "6.2.3",
-          "downloads": 1000,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.3.json"
-        },
-        {
-          "version": "6.2.4",
-          "downloads": 868,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.4.json"
-        },
-        {
-          "version": "6.2.5",
-          "downloads": 860,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.5.json"
-        },
-        {
-          "version": "6.2.6",
-          "downloads": 996,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.6.json"
-        },
-        {
-          "version": "6.2.7",
-          "downloads": 802,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.7.json"
-        },
-        {
-          "version": "6.2.8",
-          "downloads": 845,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.8.json"
-        },
-        {
-          "version": "6.2.9",
-          "downloads": 835,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.9.json"
-        },
-        {
-          "version": "6.2.10",
-          "downloads": 869,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.10.json"
-        },
-        {
-          "version": "6.2.11",
-          "downloads": 813,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.11.json"
-        },
-        {
-          "version": "6.2.12",
-          "downloads": 882,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.12.json"
-        },
-        {
-          "version": "6.2.13",
-          "downloads": 999,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.2.13.json"
-        },
-        {
-          "version": "6.3.0",
-          "downloads": 884,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.3.0.json"
-        },
-        {
-          "version": "6.3.1",
-          "downloads": 850,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.3.1.json"
-        },
-        {
-          "version": "6.4.0",
-          "downloads": 902,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.4.0.json"
-        },
-        {
-          "version": "6.5.0",
-          "downloads": 930,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.5.0.json"
-        },
-        {
-          "version": "6.5.1",
-          "downloads": 928,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.5.1.json"
-        },
-        {
-          "version": "6.5.2",
-          "downloads": 913,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.5.2.json"
-        },
-        {
-          "version": "6.5.3",
-          "downloads": 1060,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.5.3.json"
-        },
-        {
-          "version": "6.5.4",
-          "downloads": 935,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.5.4.json"
-        },
-        {
-          "version": "6.6.0",
-          "downloads": 1178,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.6.0.json"
-        },
-        {
-          "version": "6.6.1",
-          "downloads": 983,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.6.1.json"
-        },
-        {
-          "version": "6.6.2",
-          "downloads": 781,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/6.6.2.json"
-        },
-        {
-          "version": "7.0.0-prerelease.1",
-          "downloads": 122,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.0-prerelease.1.json"
-        },
-        {
-          "version": "7.0.0-prerelease.2",
-          "downloads": 144,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.0-prerelease.2.json"
-        },
-        {
-          "version": "7.0.0",
-          "downloads": 624,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.0.json"
-        },
-        {
-          "version": "7.0.1",
-          "downloads": 732,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.1.json"
-        },
-        {
-          "version": "7.0.2",
-          "downloads": 801,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.2.json"
-        },
-        {
-          "version": "7.0.3",
-          "downloads": 735,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.3.json"
-        },
-        {
-          "version": "7.0.4",
-          "downloads": 1033,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.4.json"
-        },
-        {
-          "version": "7.0.5",
-          "downloads": 741,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.5.json"
-        },
-        {
-          "version": "7.0.6",
-          "downloads": 737,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.6.json"
-        },
-        {
-          "version": "7.0.7",
-          "downloads": 740,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.7.json"
-        },
-        {
-          "version": "7.0.8",
-          "downloads": 788,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.8.json"
-        },
-        {
-          "version": "7.0.9",
-          "downloads": 740,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.9.json"
-        },
-        {
-          "version": "7.0.10",
-          "downloads": 660,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.0.10.json"
-        },
-        {
-          "version": "7.1.0",
-          "downloads": 741,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.1.0.json"
-        },
-        {
-          "version": "7.1.1",
-          "downloads": 1034,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.1.1.json"
-        },
-        {
-          "version": "7.1.2",
-          "downloads": 648,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.1.2.json"
-        },
-        {
-          "version": "7.2.0",
-          "downloads": 691,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.2.0.json"
-        },
-        {
-          "version": "7.3.0",
-          "downloads": 675,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.3.0.json"
-        },
-        {
-          "version": "7.4.0",
-          "downloads": 707,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.4.0.json"
-        },
-        {
-          "version": "7.4.1",
-          "downloads": 767,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.4.1.json"
-        },
-        {
-          "version": "7.4.2",
-          "downloads": 858,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.4.2.json"
-        },
-        {
-          "version": "7.4.3",
-          "downloads": 611,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.4.3.json"
-        },
-        {
-          "version": "7.4.4",
-          "downloads": 811,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.4.4.json"
-        },
-        {
-          "version": "7.4.5",
-          "downloads": 539,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.4.5.json"
-        },
-        {
-          "version": "7.5.0",
-          "downloads": 721,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.5.0.json"
-        },
-        {
-          "version": "7.6.0",
-          "downloads": 685,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.6.0.json"
-        },
-        {
-          "version": "7.6.1",
-          "downloads": 5204,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/7.6.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/tnt.aspnetcore.webapi.template/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/tnt.aspnetcore.webapi.template/index.json",
@@ -77515,102 +77520,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/index.json",
-      "id": "Microsoft.DotNet.Web.ProjectTemplates.2.2",
-      "version": "2.2.8",
-      "description": "ASP.NET Core Web Template Pack for Microsoft Template Engine\n\n    To install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.ProjectTemplates.2.2::2.2.8'.",
-      "summary": "",
-      "title": "Microsoft.DotNet.Web.ProjectTemplates.2.2",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.web.projecttemplates.2.2/2.2.8/icon",
-      "licenseUrl": "https://raw.githubusercontent.com/aspnet/AspNetCore/2.0.0/LICENSE.txt",
-      "projectUrl": "https://asp.net/",
-      "tags": [
-        "aspnet",
-        "templates"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "aspnet",
-        "Microsoft"
-      ],
-      "totalDownloads": 116124,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Template"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.2.0-preview2-35157",
-          "downloads": 944,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.0-preview2-35157.json"
-        },
-        {
-          "version": "2.2.0-preview3-35497",
-          "downloads": 737,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.0-preview3-35497.json"
-        },
-        {
-          "version": "2.2.0",
-          "downloads": 871,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.0.json"
-        },
-        {
-          "version": "2.2.1",
-          "downloads": 715,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.1.json"
-        },
-        {
-          "version": "2.2.2",
-          "downloads": 623,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.2.json"
-        },
-        {
-          "version": "2.2.3",
-          "downloads": 538,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.3.json"
-        },
-        {
-          "version": "2.2.4",
-          "downloads": 549,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.4.json"
-        },
-        {
-          "version": "2.2.5",
-          "downloads": 1128,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.5.json"
-        },
-        {
-          "version": "2.2.6",
-          "downloads": 75224,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.6.json"
-        },
-        {
-          "version": "2.2.7",
-          "downloads": 1310,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.7.json"
-        },
-        {
-          "version": "2.2.8",
-          "downloads": 33485,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.8.json"
-        }
-      ],
-      "deprecation": {
-        "message": "This package has been deprecated as part of the .NET Package Deprecation effort. You can learn more about it from https://github.com/dotnet/announcements/issues/217",
-        "reasons": [
-          "Other",
-          "Legacy"
-        ]
-      },
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fabulous.xamarinforms.templates/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fabulous.xamarinforms.templates/index.json",
@@ -78112,6 +78021,102 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fabulous.xamarinforms.templates/2.4.2.json"
         }
       ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/index.json",
+      "id": "Microsoft.DotNet.Web.ProjectTemplates.2.2",
+      "version": "2.2.8",
+      "description": "ASP.NET Core Web Template Pack for Microsoft Template Engine\n\n    To install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.ProjectTemplates.2.2::2.2.8'.",
+      "summary": "",
+      "title": "Microsoft.DotNet.Web.ProjectTemplates.2.2",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.web.projecttemplates.2.2/2.2.8/icon",
+      "licenseUrl": "https://raw.githubusercontent.com/aspnet/AspNetCore/2.0.0/LICENSE.txt",
+      "projectUrl": "https://asp.net/",
+      "tags": [
+        "aspnet",
+        "templates"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "aspnet",
+        "Microsoft"
+      ],
+      "totalDownloads": 116124,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Template"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.2.0-preview2-35157",
+          "downloads": 944,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.0-preview2-35157.json"
+        },
+        {
+          "version": "2.2.0-preview3-35497",
+          "downloads": 737,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.0-preview3-35497.json"
+        },
+        {
+          "version": "2.2.0",
+          "downloads": 871,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.0.json"
+        },
+        {
+          "version": "2.2.1",
+          "downloads": 715,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.1.json"
+        },
+        {
+          "version": "2.2.2",
+          "downloads": 623,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.2.json"
+        },
+        {
+          "version": "2.2.3",
+          "downloads": 538,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.3.json"
+        },
+        {
+          "version": "2.2.4",
+          "downloads": 549,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.4.json"
+        },
+        {
+          "version": "2.2.5",
+          "downloads": 1128,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.5.json"
+        },
+        {
+          "version": "2.2.6",
+          "downloads": 75224,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.6.json"
+        },
+        {
+          "version": "2.2.7",
+          "downloads": 1310,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.7.json"
+        },
+        {
+          "version": "2.2.8",
+          "downloads": 33485,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.2.2/2.2.8.json"
+        }
+      ],
+      "deprecation": {
+        "message": "This package has been deprecated as part of the .NET Package Deprecation effort. You can learn more about it from https://github.com/dotnet/announcements/issues/217",
+        "reasons": [
+          "Other",
+          "Legacy"
+        ]
+      },
       "vulnerabilities": []
     },
     {
@@ -82982,12 +82987,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/wally.cleanarchitecture.template/index.json",
       "id": "Wally.CleanArchitecture.Template",
-      "version": "1.3.2473",
+      "version": "1.3.2490",
       "description": "CleanArchitecture Template",
       "summary": "",
       "title": "Wally's CleanArchitecture Template",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/wally.cleanarchitecture.template/1.3.2473/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Wally.CleanArchitecture.Template/1.3.2473/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/wally.cleanarchitecture.template/1.3.2490/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Wally.CleanArchitecture.Template/1.3.2490/license",
       "projectUrl": "https://github.com/bwalocha/Wally.CleanArchitecture",
       "tags": [
         "dotnet-new",
@@ -83447,6 +83452,11 @@
           "version": "1.3.2473",
           "downloads": 77,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/wally.cleanarchitecture.template/1.3.2473.json"
+        },
+        {
+          "version": "1.3.2490",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/wally.cleanarchitecture.template/1.3.2490.json"
         }
       ],
       "vulnerabilities": []
@@ -83965,6 +83975,284 @@
           "version": "0.2.8743.9548",
           "downloads": 4012,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coree.template.project/0.2.8743.9548.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/index.json",
+      "id": "DataJuggler.BlazorGallery",
+      "version": "1.6.4",
+      "description": "BlazorGallery is a Blazor project template, allowing you to easily create an image gallery with file upload and\nsaving the data in SQL Server. Create custom folders to showcase your favorite projects and graphics. You can now share your galleries\nwith a public url such as BlazorGallery.com/Gallery/Julia/Drawings.",
+      "summary": "",
+      "title": "DataJuggler.BlazorGallery",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/datajuggler.blazorgallery/1.6.4/icon",
+      "licenseUrl": "https://www.nuget.org/packages/DataJuggler.BlazorGallery/1.6.4/license",
+      "projectUrl": "https://github.com/DataJuggler/BlazorGallery",
+      "tags": [
+        "C#",
+        "SQL",
+        "SQLServer",
+        "Blazor",
+        "FileUpload",
+        "Images",
+        "Gallery"
+      ],
+      "authors": [
+        "Data Juggler"
+      ],
+      "owners": [
+        "DataJuggler"
+      ],
+      "totalDownloads": 80379,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "Template"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.8",
+          "downloads": 2005,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.8.json"
+        },
+        {
+          "version": "1.0.9",
+          "downloads": 2102,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.9.json"
+        },
+        {
+          "version": "1.0.10",
+          "downloads": 2068,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.10.json"
+        },
+        {
+          "version": "1.0.11",
+          "downloads": 1984,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.11.json"
+        },
+        {
+          "version": "1.0.12",
+          "downloads": 2201,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.12.json"
+        },
+        {
+          "version": "1.1.0",
+          "downloads": 1887,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.0.json"
+        },
+        {
+          "version": "1.1.1",
+          "downloads": 2052,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.1.json"
+        },
+        {
+          "version": "1.1.3",
+          "downloads": 1819,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.3.json"
+        },
+        {
+          "version": "1.1.5",
+          "downloads": 1666,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.5.json"
+        },
+        {
+          "version": "1.1.6",
+          "downloads": 1713,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.6.json"
+        },
+        {
+          "version": "1.1.7",
+          "downloads": 1554,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.7.json"
+        },
+        {
+          "version": "1.1.8",
+          "downloads": 1699,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.8.json"
+        },
+        {
+          "version": "1.1.9",
+          "downloads": 1549,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.9.json"
+        },
+        {
+          "version": "1.1.10",
+          "downloads": 1769,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.10.json"
+        },
+        {
+          "version": "1.1.11",
+          "downloads": 1747,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.11.json"
+        },
+        {
+          "version": "1.1.12",
+          "downloads": 1576,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.12.json"
+        },
+        {
+          "version": "1.2.0",
+          "downloads": 1460,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.0.json"
+        },
+        {
+          "version": "1.2.1",
+          "downloads": 1435,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.1.json"
+        },
+        {
+          "version": "1.2.2",
+          "downloads": 1788,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.2.json"
+        },
+        {
+          "version": "1.2.3",
+          "downloads": 1484,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.3.json"
+        },
+        {
+          "version": "1.2.4",
+          "downloads": 1724,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.4.json"
+        },
+        {
+          "version": "1.2.5",
+          "downloads": 1624,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.5.json"
+        },
+        {
+          "version": "1.2.6",
+          "downloads": 1628,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.6.json"
+        },
+        {
+          "version": "1.2.7",
+          "downloads": 1531,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.7.json"
+        },
+        {
+          "version": "1.2.8",
+          "downloads": 1493,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.8.json"
+        },
+        {
+          "version": "1.2.9",
+          "downloads": 1670,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.9.json"
+        },
+        {
+          "version": "1.3.0",
+          "downloads": 1763,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.0.json"
+        },
+        {
+          "version": "1.3.1",
+          "downloads": 1577,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.1.json"
+        },
+        {
+          "version": "1.3.2",
+          "downloads": 1623,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.2.json"
+        },
+        {
+          "version": "1.3.3",
+          "downloads": 1748,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.3.json"
+        },
+        {
+          "version": "1.3.4",
+          "downloads": 1588,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.4.json"
+        },
+        {
+          "version": "1.3.5",
+          "downloads": 1386,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.5.json"
+        },
+        {
+          "version": "1.3.6",
+          "downloads": 1530,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.6.json"
+        },
+        {
+          "version": "1.3.7",
+          "downloads": 1536,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.7.json"
+        },
+        {
+          "version": "1.4.0",
+          "downloads": 1488,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.0.json"
+        },
+        {
+          "version": "1.4.1",
+          "downloads": 1616,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.1.json"
+        },
+        {
+          "version": "1.4.2",
+          "downloads": 1444,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.2.json"
+        },
+        {
+          "version": "1.4.3",
+          "downloads": 1399,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.3.json"
+        },
+        {
+          "version": "1.4.4",
+          "downloads": 1538,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.4.json"
+        },
+        {
+          "version": "1.4.5",
+          "downloads": 1585,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.5.json"
+        },
+        {
+          "version": "1.5.6",
+          "downloads": 1675,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.5.6.json"
+        },
+        {
+          "version": "1.5.7",
+          "downloads": 1412,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.5.7.json"
+        },
+        {
+          "version": "1.5.8",
+          "downloads": 1439,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.5.8.json"
+        },
+        {
+          "version": "1.5.9",
+          "downloads": 1457,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.5.9.json"
+        },
+        {
+          "version": "1.6.0",
+          "downloads": 1425,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.0.json"
+        },
+        {
+          "version": "1.6.1",
+          "downloads": 1592,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.1.json"
+        },
+        {
+          "version": "1.6.3",
+          "downloads": 2048,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.3.json"
+        },
+        {
+          "version": "1.6.4",
+          "downloads": 2282,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.4.json"
         }
       ],
       "vulnerabilities": []
@@ -85074,289 +85362,11 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/index.json",
-      "id": "DataJuggler.BlazorGallery",
-      "version": "1.6.4",
-      "description": "BlazorGallery is a Blazor project template, allowing you to easily create an image gallery with file upload and\nsaving the data in SQL Server. Create custom folders to showcase your favorite projects and graphics. You can now share your galleries\nwith a public url such as BlazorGallery.com/Gallery/Julia/Drawings.",
-      "summary": "",
-      "title": "DataJuggler.BlazorGallery",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/datajuggler.blazorgallery/1.6.4/icon",
-      "licenseUrl": "https://www.nuget.org/packages/DataJuggler.BlazorGallery/1.6.4/license",
-      "projectUrl": "https://github.com/DataJuggler/BlazorGallery",
-      "tags": [
-        "C#",
-        "SQL",
-        "SQLServer",
-        "Blazor",
-        "FileUpload",
-        "Images",
-        "Gallery"
-      ],
-      "authors": [
-        "Data Juggler"
-      ],
-      "owners": [
-        "DataJuggler"
-      ],
-      "totalDownloads": 80379,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "Template"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.8",
-          "downloads": 2005,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.8.json"
-        },
-        {
-          "version": "1.0.9",
-          "downloads": 2102,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.9.json"
-        },
-        {
-          "version": "1.0.10",
-          "downloads": 2068,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.10.json"
-        },
-        {
-          "version": "1.0.11",
-          "downloads": 1984,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.11.json"
-        },
-        {
-          "version": "1.0.12",
-          "downloads": 2201,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.12.json"
-        },
-        {
-          "version": "1.1.0",
-          "downloads": 1887,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.0.json"
-        },
-        {
-          "version": "1.1.1",
-          "downloads": 2052,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.1.json"
-        },
-        {
-          "version": "1.1.3",
-          "downloads": 1819,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.3.json"
-        },
-        {
-          "version": "1.1.5",
-          "downloads": 1666,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.5.json"
-        },
-        {
-          "version": "1.1.6",
-          "downloads": 1713,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.6.json"
-        },
-        {
-          "version": "1.1.7",
-          "downloads": 1554,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.7.json"
-        },
-        {
-          "version": "1.1.8",
-          "downloads": 1699,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.8.json"
-        },
-        {
-          "version": "1.1.9",
-          "downloads": 1549,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.9.json"
-        },
-        {
-          "version": "1.1.10",
-          "downloads": 1769,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.10.json"
-        },
-        {
-          "version": "1.1.11",
-          "downloads": 1747,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.11.json"
-        },
-        {
-          "version": "1.1.12",
-          "downloads": 1576,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.12.json"
-        },
-        {
-          "version": "1.2.0",
-          "downloads": 1460,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.0.json"
-        },
-        {
-          "version": "1.2.1",
-          "downloads": 1435,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.1.json"
-        },
-        {
-          "version": "1.2.2",
-          "downloads": 1788,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.2.json"
-        },
-        {
-          "version": "1.2.3",
-          "downloads": 1484,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.3.json"
-        },
-        {
-          "version": "1.2.4",
-          "downloads": 1724,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.4.json"
-        },
-        {
-          "version": "1.2.5",
-          "downloads": 1624,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.5.json"
-        },
-        {
-          "version": "1.2.6",
-          "downloads": 1628,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.6.json"
-        },
-        {
-          "version": "1.2.7",
-          "downloads": 1531,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.7.json"
-        },
-        {
-          "version": "1.2.8",
-          "downloads": 1493,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.8.json"
-        },
-        {
-          "version": "1.2.9",
-          "downloads": 1670,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.9.json"
-        },
-        {
-          "version": "1.3.0",
-          "downloads": 1763,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.0.json"
-        },
-        {
-          "version": "1.3.1",
-          "downloads": 1577,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.1.json"
-        },
-        {
-          "version": "1.3.2",
-          "downloads": 1623,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.2.json"
-        },
-        {
-          "version": "1.3.3",
-          "downloads": 1748,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.3.json"
-        },
-        {
-          "version": "1.3.4",
-          "downloads": 1588,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.4.json"
-        },
-        {
-          "version": "1.3.5",
-          "downloads": 1386,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.5.json"
-        },
-        {
-          "version": "1.3.6",
-          "downloads": 1530,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.6.json"
-        },
-        {
-          "version": "1.3.7",
-          "downloads": 1536,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.7.json"
-        },
-        {
-          "version": "1.4.0",
-          "downloads": 1488,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.0.json"
-        },
-        {
-          "version": "1.4.1",
-          "downloads": 1616,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.1.json"
-        },
-        {
-          "version": "1.4.2",
-          "downloads": 1444,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.2.json"
-        },
-        {
-          "version": "1.4.3",
-          "downloads": 1399,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.3.json"
-        },
-        {
-          "version": "1.4.4",
-          "downloads": 1538,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.4.json"
-        },
-        {
-          "version": "1.4.5",
-          "downloads": 1585,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.5.json"
-        },
-        {
-          "version": "1.5.6",
-          "downloads": 1675,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.5.6.json"
-        },
-        {
-          "version": "1.5.7",
-          "downloads": 1412,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.5.7.json"
-        },
-        {
-          "version": "1.5.8",
-          "downloads": 1439,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.5.8.json"
-        },
-        {
-          "version": "1.5.9",
-          "downloads": 1457,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.5.9.json"
-        },
-        {
-          "version": "1.6.0",
-          "downloads": 1425,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.0.json"
-        },
-        {
-          "version": "1.6.1",
-          "downloads": 1592,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.1.json"
-        },
-        {
-          "version": "1.6.3",
-          "downloads": 2048,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.3.json"
-        },
-        {
-          "version": "1.6.4",
-          "downloads": 2282,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.4.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ppy.osu.game.templates/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/ppy.osu.game.templates/index.json",
       "id": "ppy.osu.Game.Templates",
-      "version": "2024.412.0",
+      "version": "2024.412.1",
       "description": "Templates to use when creating a ruleset for consumption in osu!.",
       "summary": "",
       "title": "osu! templates",
@@ -86440,6 +86450,11 @@
           "version": "2024.412.0",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ppy.osu.game.templates/2024.412.0.json"
+        },
+        {
+          "version": "2024.412.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ppy.osu.game.templates/2024.412.1.json"
         }
       ],
       "vulnerabilities": []
@@ -88311,12 +88326,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/altv.net.templates/index.json",
       "id": "AltV.Net.Templates",
-      "version": "16.1.0-dev.2",
+      "version": "16.1.0-dev.5",
       "description": "alt:V .NET templates",
       "summary": "",
       "title": "AltV.Net.Templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/altv.net.templates/16.1.0-dev.2/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AltV.Net.Templates/16.1.0-dev.2/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/altv.net.templates/16.1.0-dev.5/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AltV.Net.Templates/16.1.0-dev.5/license",
       "projectUrl": "https://github.com/FabianTerhorst/coreclr-module",
       "tags": [
         "dotnet-new",
@@ -89917,6 +89932,21 @@
           "version": "16.1.0-dev.2",
           "downloads": 46,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/altv.net.templates/16.1.0-dev.2.json"
+        },
+        {
+          "version": "16.1.0-dev.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/altv.net.templates/16.1.0-dev.3.json"
+        },
+        {
+          "version": "16.1.0-dev.4",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/altv.net.templates/16.1.0-dev.4.json"
+        },
+        {
+          "version": "16.1.0-dev.5",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/altv.net.templates/16.1.0-dev.5.json"
         }
       ],
       "vulnerabilities": []
