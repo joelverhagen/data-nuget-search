@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 4655,
+  "totalHits": 4657,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cake.tool/index.json",
@@ -74179,6 +74179,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/4.4.0-dev.20244129144.json"
         },
         {
+          "version": "4.4.0-dev.202441513740+a5d2dbd",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/4.4.0-dev.202441513740.json"
+        },
+        {
           "version": "4.4.0-dev.20244895252+4e55367",
           "downloads": 71,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/4.4.0-dev.20244895252.json"
@@ -75278,899 +75283,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/index.json",
-      "id": "Volo.Abp.Cli",
-      "version": "8.1.0",
-      "description": "Package Description",
-      "summary": "",
-      "title": "Volo.Abp.Cli",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/volo.abp.cli/8.1.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Volo.Abp.Cli/8.1.0/license",
-      "projectUrl": "https://abp.io/",
-      "tags": [
-        "aspnetcore",
-        "boilerplate",
-        "framework",
-        "web",
-        "best-practices",
-        "angular",
-        "maui",
-        "blazor",
-        "mvc",
-        "csharp",
-        "webapp"
-      ],
-      "authors": [
-        "Volo.Abp.Cli"
-      ],
-      "owners": [
-        "hikalkan",
-        "volosoft"
-      ],
-      "totalDownloads": 575855,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.16.0",
-          "downloads": 731,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.16.0.json"
-        },
-        {
-          "version": "0.17.0",
-          "downloads": 930,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.17.0.json"
-        },
-        {
-          "version": "0.18.0",
-          "downloads": 966,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.18.0.json"
-        },
-        {
-          "version": "0.18.1",
-          "downloads": 2381,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.18.1.json"
-        },
-        {
-          "version": "0.19.0",
-          "downloads": 1792,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.19.0.json"
-        },
-        {
-          "version": "0.20.0",
-          "downloads": 707,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.20.0.json"
-        },
-        {
-          "version": "0.20.1",
-          "downloads": 647,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.20.1.json"
-        },
-        {
-          "version": "0.21.0",
-          "downloads": 1455,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.21.0.json"
-        },
-        {
-          "version": "0.22.0",
-          "downloads": 945,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.22.0.json"
-        },
-        {
-          "version": "1.0.0",
-          "downloads": 870,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/1.0.0.json"
-        },
-        {
-          "version": "1.0.2",
-          "downloads": 2587,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/1.0.2.json"
-        },
-        {
-          "version": "1.1.0",
-          "downloads": 942,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/1.1.0.json"
-        },
-        {
-          "version": "1.1.1",
-          "downloads": 771,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/1.1.1.json"
-        },
-        {
-          "version": "1.1.2",
-          "downloads": 1893,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/1.1.2.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 1196,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.0.0.json"
-        },
-        {
-          "version": "2.0.1",
-          "downloads": 1736,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.0.1.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 606,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.1.0.json"
-        },
-        {
-          "version": "2.1.1",
-          "downloads": 1362,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.1.1.json"
-        },
-        {
-          "version": "2.2.0",
-          "downloads": 835,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.2.0.json"
-        },
-        {
-          "version": "2.2.1",
-          "downloads": 1596,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.2.1.json"
-        },
-        {
-          "version": "2.3.0",
-          "downloads": 1945,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.3.0.json"
-        },
-        {
-          "version": "2.4.0",
-          "downloads": 965,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.4.0.json"
-        },
-        {
-          "version": "2.4.1",
-          "downloads": 630,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.4.1.json"
-        },
-        {
-          "version": "2.5.0",
-          "downloads": 1350,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.5.0.json"
-        },
-        {
-          "version": "2.6.0",
-          "downloads": 974,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.6.0.json"
-        },
-        {
-          "version": "2.6.1",
-          "downloads": 745,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.6.1.json"
-        },
-        {
-          "version": "2.6.2",
-          "downloads": 1418,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.6.2.json"
-        },
-        {
-          "version": "2.7.0",
-          "downloads": 1886,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.7.0.json"
-        },
-        {
-          "version": "2.8.0",
-          "downloads": 1967,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.8.0.json"
-        },
-        {
-          "version": "2.9.0",
-          "downloads": 2975,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.9.0.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 833,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.0.0.json"
-        },
-        {
-          "version": "3.0.1",
-          "downloads": 744,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.0.1.json"
-        },
-        {
-          "version": "3.0.2",
-          "downloads": 1048,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.0.2.json"
-        },
-        {
-          "version": "3.0.3",
-          "downloads": 1387,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.0.3.json"
-        },
-        {
-          "version": "3.0.4",
-          "downloads": 2292,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.0.4.json"
-        },
-        {
-          "version": "3.0.5",
-          "downloads": 4597,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.0.5.json"
-        },
-        {
-          "version": "3.1.0-rc.1",
-          "downloads": 327,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.1.0-rc.1.json"
-        },
-        {
-          "version": "3.1.0-rc.2",
-          "downloads": 311,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.1.0-rc.2.json"
-        },
-        {
-          "version": "3.1.0-rc.3",
-          "downloads": 288,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.1.0-rc.3.json"
-        },
-        {
-          "version": "3.1.0-rc.4",
-          "downloads": 277,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.1.0-rc.4.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 1911,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.1.0.json"
-        },
-        {
-          "version": "3.1.1",
-          "downloads": 802,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.1.1.json"
-        },
-        {
-          "version": "3.1.2",
-          "downloads": 3008,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.1.2.json"
-        },
-        {
-          "version": "3.2.0-rc.1",
-          "downloads": 355,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.2.0-rc.1.json"
-        },
-        {
-          "version": "3.2.0-rc.2",
-          "downloads": 381,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.2.0-rc.2.json"
-        },
-        {
-          "version": "3.2.0",
-          "downloads": 1577,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.2.0.json"
-        },
-        {
-          "version": "3.2.1",
-          "downloads": 3294,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.2.1.json"
-        },
-        {
-          "version": "3.3.0-rc.1",
-          "downloads": 309,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.3.0-rc.1.json"
-        },
-        {
-          "version": "3.3.0-rc.2",
-          "downloads": 261,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.3.0-rc.2.json"
-        },
-        {
-          "version": "3.3.0",
-          "downloads": 1756,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.3.0.json"
-        },
-        {
-          "version": "3.3.1",
-          "downloads": 4473,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.3.1.json"
-        },
-        {
-          "version": "3.3.2",
-          "downloads": 1135,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.3.2.json"
-        },
-        {
-          "version": "4.0.0-rc.1",
-          "downloads": 277,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.0.0-rc.1.json"
-        },
-        {
-          "version": "4.0.0-rc.2",
-          "downloads": 282,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.0.0-rc.2.json"
-        },
-        {
-          "version": "4.0.0-rc.3",
-          "downloads": 473,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.0.0-rc.3.json"
-        },
-        {
-          "version": "4.0.0-rc.4",
-          "downloads": 331,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.0.0-rc.4.json"
-        },
-        {
-          "version": "4.0.0-rc.5",
-          "downloads": 299,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.0.0-rc.5.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 2953,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.0.0.json"
-        },
-        {
-          "version": "4.0.1",
-          "downloads": 1762,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.0.1.json"
-        },
-        {
-          "version": "4.0.2",
-          "downloads": 3133,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.0.2.json"
-        },
-        {
-          "version": "4.1.0-rc.1",
-          "downloads": 252,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.1.0-rc.1.json"
-        },
-        {
-          "version": "4.1.0-rc.2",
-          "downloads": 323,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.1.0-rc.2.json"
-        },
-        {
-          "version": "4.1.0",
-          "downloads": 1898,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.1.0.json"
-        },
-        {
-          "version": "4.1.1",
-          "downloads": 1583,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.1.1.json"
-        },
-        {
-          "version": "4.1.2",
-          "downloads": 1913,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.1.2.json"
-        },
-        {
-          "version": "4.2.0-rc.1",
-          "downloads": 207,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.2.0-rc.1.json"
-        },
-        {
-          "version": "4.2.0-rc.2",
-          "downloads": 339,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.2.0-rc.2.json"
-        },
-        {
-          "version": "4.2.0",
-          "downloads": 2781,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.2.0.json"
-        },
-        {
-          "version": "4.2.1",
-          "downloads": 4490,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.2.1.json"
-        },
-        {
-          "version": "4.2.2",
-          "downloads": 8223,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.2.2.json"
-        },
-        {
-          "version": "4.3.0-rc.1",
-          "downloads": 365,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.3.0-rc.1.json"
-        },
-        {
-          "version": "4.3.0-rc.2",
-          "downloads": 353,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.3.0-rc.2.json"
-        },
-        {
-          "version": "4.3.0",
-          "downloads": 4871,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.3.0.json"
-        },
-        {
-          "version": "4.3.1",
-          "downloads": 1737,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.3.1.json"
-        },
-        {
-          "version": "4.3.2",
-          "downloads": 3529,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.3.2.json"
-        },
-        {
-          "version": "4.3.3",
-          "downloads": 6101,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.3.3.json"
-        },
-        {
-          "version": "4.4.0-rc.1",
-          "downloads": 295,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.4.0-rc.1.json"
-        },
-        {
-          "version": "4.4.0-rc.2",
-          "downloads": 336,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.4.0-rc.2.json"
-        },
-        {
-          "version": "4.4.0",
-          "downloads": 5867,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.4.0.json"
-        },
-        {
-          "version": "4.4.1",
-          "downloads": 748,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.4.1.json"
-        },
-        {
-          "version": "4.4.2",
-          "downloads": 4377,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.4.2.json"
-        },
-        {
-          "version": "4.4.3",
-          "downloads": 6191,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.4.3.json"
-        },
-        {
-          "version": "4.4.4",
-          "downloads": 10900,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.4.4.json"
-        },
-        {
-          "version": "5.0.0-beta.1",
-          "downloads": 242,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.0.0-beta.1.json"
-        },
-        {
-          "version": "5.0.0-beta.2",
-          "downloads": 196,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.0.0-beta.2.json"
-        },
-        {
-          "version": "5.0.0-beta.3",
-          "downloads": 227,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.0.0-beta.3.json"
-        },
-        {
-          "version": "5.0.0-rc.1",
-          "downloads": 599,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.0.0-rc.1.json"
-        },
-        {
-          "version": "5.0.0-rc.2",
-          "downloads": 283,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.0.0-rc.2.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 3920,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.0.0.json"
-        },
-        {
-          "version": "5.0.1",
-          "downloads": 2847,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.0.1.json"
-        },
-        {
-          "version": "5.0.2",
-          "downloads": 574,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.0.2.json"
-        },
-        {
-          "version": "5.1.1",
-          "downloads": 2031,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.1.1.json"
-        },
-        {
-          "version": "5.1.2",
-          "downloads": 1831,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.1.2.json"
-        },
-        {
-          "version": "5.1.3",
-          "downloads": 5754,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.1.3.json"
-        },
-        {
-          "version": "5.1.4",
-          "downloads": 7162,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.1.4.json"
-        },
-        {
-          "version": "5.2.0-rc.1",
-          "downloads": 863,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.2.0-rc.1.json"
-        },
-        {
-          "version": "5.2.0-rc.2",
-          "downloads": 313,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.2.0-rc.2.json"
-        },
-        {
-          "version": "5.2.0",
-          "downloads": 3916,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.2.0.json"
-        },
-        {
-          "version": "5.2.1",
-          "downloads": 8256,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.2.1.json"
-        },
-        {
-          "version": "5.2.2",
-          "downloads": 10789,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.2.2.json"
-        },
-        {
-          "version": "5.3.0-rc.1",
-          "downloads": 500,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.0-rc.1.json"
-        },
-        {
-          "version": "5.3.0-rc.2",
-          "downloads": 275,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.0-rc.2.json"
-        },
-        {
-          "version": "5.3.0-rc.3",
-          "downloads": 483,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.0-rc.3.json"
-        },
-        {
-          "version": "5.3.0",
-          "downloads": 19709,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.0.json"
-        },
-        {
-          "version": "5.3.1",
-          "downloads": 3111,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.1.json"
-        },
-        {
-          "version": "5.3.2",
-          "downloads": 5383,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.2.json"
-        },
-        {
-          "version": "5.3.3",
-          "downloads": 11328,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.3.json"
-        },
-        {
-          "version": "5.3.4",
-          "downloads": 12956,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.4.json"
-        },
-        {
-          "version": "5.3.5",
-          "downloads": 1528,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.5.json"
-        },
-        {
-          "version": "6.0.0-rc.1",
-          "downloads": 800,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.0-rc.1.json"
-        },
-        {
-          "version": "6.0.0-rc.2",
-          "downloads": 687,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.0-rc.2.json"
-        },
-        {
-          "version": "6.0.0-rc.3",
-          "downloads": 770,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.0-rc.3.json"
-        },
-        {
-          "version": "6.0.0-rc.4",
-          "downloads": 599,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.0-rc.4.json"
-        },
-        {
-          "version": "6.0.0-rc.5",
-          "downloads": 315,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.0-rc.5.json"
-        },
-        {
-          "version": "6.0.0",
-          "downloads": 11771,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.0.json"
-        },
-        {
-          "version": "6.0.1",
-          "downloads": 13906,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.1.json"
-        },
-        {
-          "version": "6.0.2",
-          "downloads": 21922,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.2.json"
-        },
-        {
-          "version": "6.0.3",
-          "downloads": 4113,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.3.json"
-        },
-        {
-          "version": "7.0.0-rc.1",
-          "downloads": 334,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.0-rc.1.json"
-        },
-        {
-          "version": "7.0.0-rc.2",
-          "downloads": 608,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.0-rc.2.json"
-        },
-        {
-          "version": "7.0.0-rc.3",
-          "downloads": 256,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.0-rc.3.json"
-        },
-        {
-          "version": "7.0.0-rc.4",
-          "downloads": 326,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.0-rc.4.json"
-        },
-        {
-          "version": "7.0.0-rc.5",
-          "downloads": 272,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.0-rc.5.json"
-        },
-        {
-          "version": "7.0.0-rc.6",
-          "downloads": 421,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.0-rc.6.json"
-        },
-        {
-          "version": "7.0.0",
-          "downloads": 10758,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.0.json"
-        },
-        {
-          "version": "7.0.1",
-          "downloads": 26939,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.1.json"
-        },
-        {
-          "version": "7.0.2",
-          "downloads": 8375,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.2.json"
-        },
-        {
-          "version": "7.0.3",
-          "downloads": 6685,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.3.json"
-        },
-        {
-          "version": "7.1.0-rc.1",
-          "downloads": 290,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.1.0-rc.1.json"
-        },
-        {
-          "version": "7.1.0-rc.2",
-          "downloads": 411,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.1.0-rc.2.json"
-        },
-        {
-          "version": "7.1.0-rc.3",
-          "downloads": 698,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.1.0-rc.3.json"
-        },
-        {
-          "version": "7.1.0",
-          "downloads": 7961,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.1.0.json"
-        },
-        {
-          "version": "7.1.1",
-          "downloads": 13735,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.1.1.json"
-        },
-        {
-          "version": "7.2.0-rc.1",
-          "downloads": 387,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.2.0-rc.1.json"
-        },
-        {
-          "version": "7.2.0-rc.2",
-          "downloads": 208,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.2.0-rc.2.json"
-        },
-        {
-          "version": "7.2.1",
-          "downloads": 6132,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.2.1.json"
-        },
-        {
-          "version": "7.2.2",
-          "downloads": 24394,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.2.2.json"
-        },
-        {
-          "version": "7.2.3",
-          "downloads": 5676,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.2.3.json"
-        },
-        {
-          "version": "7.3.0-rc.1",
-          "downloads": 293,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.3.0-rc.1.json"
-        },
-        {
-          "version": "7.3.0-rc.2",
-          "downloads": 215,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.3.0-rc.2.json"
-        },
-        {
-          "version": "7.3.0-rc.3",
-          "downloads": 205,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.3.0-rc.3.json"
-        },
-        {
-          "version": "7.3.0",
-          "downloads": 9138,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.3.0.json"
-        },
-        {
-          "version": "7.3.1",
-          "downloads": 4736,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.3.1.json"
-        },
-        {
-          "version": "7.3.2",
-          "downloads": 19666,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.3.2.json"
-        },
-        {
-          "version": "7.3.3",
-          "downloads": 11385,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.3.3.json"
-        },
-        {
-          "version": "7.4.0-rc.1",
-          "downloads": 260,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.0-rc.1.json"
-        },
-        {
-          "version": "7.4.0-rc.2",
-          "downloads": 372,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.0-rc.2.json"
-        },
-        {
-          "version": "7.4.0-rc.3",
-          "downloads": 232,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.0-rc.3.json"
-        },
-        {
-          "version": "7.4.0-rc.4",
-          "downloads": 781,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.0-rc.4.json"
-        },
-        {
-          "version": "7.4.0-rc.5",
-          "downloads": 217,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.0-rc.5.json"
-        },
-        {
-          "version": "7.4.0",
-          "downloads": 11217,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.0.json"
-        },
-        {
-          "version": "7.4.1",
-          "downloads": 6247,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.1.json"
-        },
-        {
-          "version": "7.4.2",
-          "downloads": 11856,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.2.json"
-        },
-        {
-          "version": "7.4.3",
-          "downloads": 4025,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.3.json"
-        },
-        {
-          "version": "7.4.4",
-          "downloads": 9885,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.4.json"
-        },
-        {
-          "version": "7.4.5",
-          "downloads": 1672,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.5.json"
-        },
-        {
-          "version": "8.0.0-rc.1",
-          "downloads": 687,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.0-rc.1.json"
-        },
-        {
-          "version": "8.0.0-rc.2",
-          "downloads": 681,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.0-rc.2.json"
-        },
-        {
-          "version": "8.0.0-rc.3",
-          "downloads": 793,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.0-rc.3.json"
-        },
-        {
-          "version": "8.0.0",
-          "downloads": 8690,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.0.json"
-        },
-        {
-          "version": "8.0.1",
-          "downloads": 7889,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.1.json"
-        },
-        {
-          "version": "8.0.2",
-          "downloads": 9080,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.2.json"
-        },
-        {
-          "version": "8.0.3",
-          "downloads": 7111,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.3.json"
-        },
-        {
-          "version": "8.0.4",
-          "downloads": 11396,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.4.json"
-        },
-        {
-          "version": "8.0.5",
-          "downloads": 9598,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.5.json"
-        },
-        {
-          "version": "8.1.0-rc.1",
-          "downloads": 382,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.1.0-rc.1.json"
-        },
-        {
-          "version": "8.1.0-rc.2",
-          "downloads": 334,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.1.0-rc.2.json"
-        },
-        {
-          "version": "8.1.0-rc.3",
-          "downloads": 210,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.1.0-rc.3.json"
-        },
-        {
-          "version": "8.1.0-rc.4",
-          "downloads": 130,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.1.0-rc.4.json"
-        },
-        {
-          "version": "8.1.0",
-          "downloads": 2368,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.1.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fable/index.json",
@@ -77205,6 +76317,899 @@
           "version": "4.16.0",
           "downloads": 1517,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fable/4.16.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/index.json",
+      "id": "Volo.Abp.Cli",
+      "version": "8.1.0",
+      "description": "Package Description",
+      "summary": "",
+      "title": "Volo.Abp.Cli",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/volo.abp.cli/8.1.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Volo.Abp.Cli/8.1.0/license",
+      "projectUrl": "https://abp.io/",
+      "tags": [
+        "aspnetcore",
+        "boilerplate",
+        "framework",
+        "web",
+        "best-practices",
+        "angular",
+        "maui",
+        "blazor",
+        "mvc",
+        "csharp",
+        "webapp"
+      ],
+      "authors": [
+        "Volo.Abp.Cli"
+      ],
+      "owners": [
+        "hikalkan",
+        "volosoft"
+      ],
+      "totalDownloads": 575855,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.16.0",
+          "downloads": 731,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.16.0.json"
+        },
+        {
+          "version": "0.17.0",
+          "downloads": 930,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.17.0.json"
+        },
+        {
+          "version": "0.18.0",
+          "downloads": 966,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.18.0.json"
+        },
+        {
+          "version": "0.18.1",
+          "downloads": 2381,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.18.1.json"
+        },
+        {
+          "version": "0.19.0",
+          "downloads": 1792,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.19.0.json"
+        },
+        {
+          "version": "0.20.0",
+          "downloads": 707,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.20.0.json"
+        },
+        {
+          "version": "0.20.1",
+          "downloads": 647,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.20.1.json"
+        },
+        {
+          "version": "0.21.0",
+          "downloads": 1455,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.21.0.json"
+        },
+        {
+          "version": "0.22.0",
+          "downloads": 945,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/0.22.0.json"
+        },
+        {
+          "version": "1.0.0",
+          "downloads": 870,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/1.0.0.json"
+        },
+        {
+          "version": "1.0.2",
+          "downloads": 2587,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/1.0.2.json"
+        },
+        {
+          "version": "1.1.0",
+          "downloads": 942,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/1.1.0.json"
+        },
+        {
+          "version": "1.1.1",
+          "downloads": 771,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/1.1.1.json"
+        },
+        {
+          "version": "1.1.2",
+          "downloads": 1893,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/1.1.2.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 1196,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.0.0.json"
+        },
+        {
+          "version": "2.0.1",
+          "downloads": 1736,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.0.1.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 606,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.1.0.json"
+        },
+        {
+          "version": "2.1.1",
+          "downloads": 1362,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.1.1.json"
+        },
+        {
+          "version": "2.2.0",
+          "downloads": 835,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.2.0.json"
+        },
+        {
+          "version": "2.2.1",
+          "downloads": 1596,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.2.1.json"
+        },
+        {
+          "version": "2.3.0",
+          "downloads": 1945,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.3.0.json"
+        },
+        {
+          "version": "2.4.0",
+          "downloads": 965,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.4.0.json"
+        },
+        {
+          "version": "2.4.1",
+          "downloads": 630,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.4.1.json"
+        },
+        {
+          "version": "2.5.0",
+          "downloads": 1350,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.5.0.json"
+        },
+        {
+          "version": "2.6.0",
+          "downloads": 974,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.6.0.json"
+        },
+        {
+          "version": "2.6.1",
+          "downloads": 745,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.6.1.json"
+        },
+        {
+          "version": "2.6.2",
+          "downloads": 1418,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.6.2.json"
+        },
+        {
+          "version": "2.7.0",
+          "downloads": 1886,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.7.0.json"
+        },
+        {
+          "version": "2.8.0",
+          "downloads": 1967,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.8.0.json"
+        },
+        {
+          "version": "2.9.0",
+          "downloads": 2975,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/2.9.0.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 833,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.0.0.json"
+        },
+        {
+          "version": "3.0.1",
+          "downloads": 744,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.0.1.json"
+        },
+        {
+          "version": "3.0.2",
+          "downloads": 1048,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.0.2.json"
+        },
+        {
+          "version": "3.0.3",
+          "downloads": 1387,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.0.3.json"
+        },
+        {
+          "version": "3.0.4",
+          "downloads": 2292,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.0.4.json"
+        },
+        {
+          "version": "3.0.5",
+          "downloads": 4597,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.0.5.json"
+        },
+        {
+          "version": "3.1.0-rc.1",
+          "downloads": 327,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.1.0-rc.1.json"
+        },
+        {
+          "version": "3.1.0-rc.2",
+          "downloads": 311,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.1.0-rc.2.json"
+        },
+        {
+          "version": "3.1.0-rc.3",
+          "downloads": 288,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.1.0-rc.3.json"
+        },
+        {
+          "version": "3.1.0-rc.4",
+          "downloads": 277,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.1.0-rc.4.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 1911,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.1.0.json"
+        },
+        {
+          "version": "3.1.1",
+          "downloads": 802,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.1.1.json"
+        },
+        {
+          "version": "3.1.2",
+          "downloads": 3008,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.1.2.json"
+        },
+        {
+          "version": "3.2.0-rc.1",
+          "downloads": 355,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.2.0-rc.1.json"
+        },
+        {
+          "version": "3.2.0-rc.2",
+          "downloads": 381,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.2.0-rc.2.json"
+        },
+        {
+          "version": "3.2.0",
+          "downloads": 1577,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.2.0.json"
+        },
+        {
+          "version": "3.2.1",
+          "downloads": 3294,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.2.1.json"
+        },
+        {
+          "version": "3.3.0-rc.1",
+          "downloads": 309,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.3.0-rc.1.json"
+        },
+        {
+          "version": "3.3.0-rc.2",
+          "downloads": 261,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.3.0-rc.2.json"
+        },
+        {
+          "version": "3.3.0",
+          "downloads": 1756,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.3.0.json"
+        },
+        {
+          "version": "3.3.1",
+          "downloads": 4473,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.3.1.json"
+        },
+        {
+          "version": "3.3.2",
+          "downloads": 1135,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/3.3.2.json"
+        },
+        {
+          "version": "4.0.0-rc.1",
+          "downloads": 277,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.0.0-rc.1.json"
+        },
+        {
+          "version": "4.0.0-rc.2",
+          "downloads": 282,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.0.0-rc.2.json"
+        },
+        {
+          "version": "4.0.0-rc.3",
+          "downloads": 473,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.0.0-rc.3.json"
+        },
+        {
+          "version": "4.0.0-rc.4",
+          "downloads": 331,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.0.0-rc.4.json"
+        },
+        {
+          "version": "4.0.0-rc.5",
+          "downloads": 299,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.0.0-rc.5.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 2953,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.0.0.json"
+        },
+        {
+          "version": "4.0.1",
+          "downloads": 1762,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.0.1.json"
+        },
+        {
+          "version": "4.0.2",
+          "downloads": 3133,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.0.2.json"
+        },
+        {
+          "version": "4.1.0-rc.1",
+          "downloads": 252,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.1.0-rc.1.json"
+        },
+        {
+          "version": "4.1.0-rc.2",
+          "downloads": 323,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.1.0-rc.2.json"
+        },
+        {
+          "version": "4.1.0",
+          "downloads": 1898,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.1.0.json"
+        },
+        {
+          "version": "4.1.1",
+          "downloads": 1583,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.1.1.json"
+        },
+        {
+          "version": "4.1.2",
+          "downloads": 1913,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.1.2.json"
+        },
+        {
+          "version": "4.2.0-rc.1",
+          "downloads": 207,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.2.0-rc.1.json"
+        },
+        {
+          "version": "4.2.0-rc.2",
+          "downloads": 339,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.2.0-rc.2.json"
+        },
+        {
+          "version": "4.2.0",
+          "downloads": 2781,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.2.0.json"
+        },
+        {
+          "version": "4.2.1",
+          "downloads": 4490,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.2.1.json"
+        },
+        {
+          "version": "4.2.2",
+          "downloads": 8223,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.2.2.json"
+        },
+        {
+          "version": "4.3.0-rc.1",
+          "downloads": 365,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.3.0-rc.1.json"
+        },
+        {
+          "version": "4.3.0-rc.2",
+          "downloads": 353,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.3.0-rc.2.json"
+        },
+        {
+          "version": "4.3.0",
+          "downloads": 4871,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.3.0.json"
+        },
+        {
+          "version": "4.3.1",
+          "downloads": 1737,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.3.1.json"
+        },
+        {
+          "version": "4.3.2",
+          "downloads": 3529,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.3.2.json"
+        },
+        {
+          "version": "4.3.3",
+          "downloads": 6101,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.3.3.json"
+        },
+        {
+          "version": "4.4.0-rc.1",
+          "downloads": 295,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.4.0-rc.1.json"
+        },
+        {
+          "version": "4.4.0-rc.2",
+          "downloads": 336,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.4.0-rc.2.json"
+        },
+        {
+          "version": "4.4.0",
+          "downloads": 5867,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.4.0.json"
+        },
+        {
+          "version": "4.4.1",
+          "downloads": 748,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.4.1.json"
+        },
+        {
+          "version": "4.4.2",
+          "downloads": 4377,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.4.2.json"
+        },
+        {
+          "version": "4.4.3",
+          "downloads": 6191,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.4.3.json"
+        },
+        {
+          "version": "4.4.4",
+          "downloads": 10900,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/4.4.4.json"
+        },
+        {
+          "version": "5.0.0-beta.1",
+          "downloads": 242,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.0.0-beta.1.json"
+        },
+        {
+          "version": "5.0.0-beta.2",
+          "downloads": 196,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.0.0-beta.2.json"
+        },
+        {
+          "version": "5.0.0-beta.3",
+          "downloads": 227,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.0.0-beta.3.json"
+        },
+        {
+          "version": "5.0.0-rc.1",
+          "downloads": 599,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.0.0-rc.1.json"
+        },
+        {
+          "version": "5.0.0-rc.2",
+          "downloads": 283,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.0.0-rc.2.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 3920,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.0.0.json"
+        },
+        {
+          "version": "5.0.1",
+          "downloads": 2847,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.0.1.json"
+        },
+        {
+          "version": "5.0.2",
+          "downloads": 574,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.0.2.json"
+        },
+        {
+          "version": "5.1.1",
+          "downloads": 2031,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.1.1.json"
+        },
+        {
+          "version": "5.1.2",
+          "downloads": 1831,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.1.2.json"
+        },
+        {
+          "version": "5.1.3",
+          "downloads": 5754,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.1.3.json"
+        },
+        {
+          "version": "5.1.4",
+          "downloads": 7162,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.1.4.json"
+        },
+        {
+          "version": "5.2.0-rc.1",
+          "downloads": 863,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.2.0-rc.1.json"
+        },
+        {
+          "version": "5.2.0-rc.2",
+          "downloads": 313,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.2.0-rc.2.json"
+        },
+        {
+          "version": "5.2.0",
+          "downloads": 3916,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.2.0.json"
+        },
+        {
+          "version": "5.2.1",
+          "downloads": 8256,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.2.1.json"
+        },
+        {
+          "version": "5.2.2",
+          "downloads": 10789,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.2.2.json"
+        },
+        {
+          "version": "5.3.0-rc.1",
+          "downloads": 500,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.0-rc.1.json"
+        },
+        {
+          "version": "5.3.0-rc.2",
+          "downloads": 275,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.0-rc.2.json"
+        },
+        {
+          "version": "5.3.0-rc.3",
+          "downloads": 483,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.0-rc.3.json"
+        },
+        {
+          "version": "5.3.0",
+          "downloads": 19709,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.0.json"
+        },
+        {
+          "version": "5.3.1",
+          "downloads": 3111,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.1.json"
+        },
+        {
+          "version": "5.3.2",
+          "downloads": 5383,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.2.json"
+        },
+        {
+          "version": "5.3.3",
+          "downloads": 11328,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.3.json"
+        },
+        {
+          "version": "5.3.4",
+          "downloads": 12956,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.4.json"
+        },
+        {
+          "version": "5.3.5",
+          "downloads": 1528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/5.3.5.json"
+        },
+        {
+          "version": "6.0.0-rc.1",
+          "downloads": 800,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.0-rc.1.json"
+        },
+        {
+          "version": "6.0.0-rc.2",
+          "downloads": 687,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.0-rc.2.json"
+        },
+        {
+          "version": "6.0.0-rc.3",
+          "downloads": 770,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.0-rc.3.json"
+        },
+        {
+          "version": "6.0.0-rc.4",
+          "downloads": 599,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.0-rc.4.json"
+        },
+        {
+          "version": "6.0.0-rc.5",
+          "downloads": 315,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.0-rc.5.json"
+        },
+        {
+          "version": "6.0.0",
+          "downloads": 11771,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.0.json"
+        },
+        {
+          "version": "6.0.1",
+          "downloads": 13906,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.1.json"
+        },
+        {
+          "version": "6.0.2",
+          "downloads": 21922,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.2.json"
+        },
+        {
+          "version": "6.0.3",
+          "downloads": 4113,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/6.0.3.json"
+        },
+        {
+          "version": "7.0.0-rc.1",
+          "downloads": 334,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.0-rc.1.json"
+        },
+        {
+          "version": "7.0.0-rc.2",
+          "downloads": 608,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.0-rc.2.json"
+        },
+        {
+          "version": "7.0.0-rc.3",
+          "downloads": 256,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.0-rc.3.json"
+        },
+        {
+          "version": "7.0.0-rc.4",
+          "downloads": 326,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.0-rc.4.json"
+        },
+        {
+          "version": "7.0.0-rc.5",
+          "downloads": 272,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.0-rc.5.json"
+        },
+        {
+          "version": "7.0.0-rc.6",
+          "downloads": 421,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.0-rc.6.json"
+        },
+        {
+          "version": "7.0.0",
+          "downloads": 10758,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.0.json"
+        },
+        {
+          "version": "7.0.1",
+          "downloads": 26939,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.1.json"
+        },
+        {
+          "version": "7.0.2",
+          "downloads": 8375,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.2.json"
+        },
+        {
+          "version": "7.0.3",
+          "downloads": 6685,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.0.3.json"
+        },
+        {
+          "version": "7.1.0-rc.1",
+          "downloads": 290,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.1.0-rc.1.json"
+        },
+        {
+          "version": "7.1.0-rc.2",
+          "downloads": 411,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.1.0-rc.2.json"
+        },
+        {
+          "version": "7.1.0-rc.3",
+          "downloads": 698,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.1.0-rc.3.json"
+        },
+        {
+          "version": "7.1.0",
+          "downloads": 7961,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.1.0.json"
+        },
+        {
+          "version": "7.1.1",
+          "downloads": 13735,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.1.1.json"
+        },
+        {
+          "version": "7.2.0-rc.1",
+          "downloads": 387,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.2.0-rc.1.json"
+        },
+        {
+          "version": "7.2.0-rc.2",
+          "downloads": 208,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.2.0-rc.2.json"
+        },
+        {
+          "version": "7.2.1",
+          "downloads": 6132,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.2.1.json"
+        },
+        {
+          "version": "7.2.2",
+          "downloads": 24394,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.2.2.json"
+        },
+        {
+          "version": "7.2.3",
+          "downloads": 5676,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.2.3.json"
+        },
+        {
+          "version": "7.3.0-rc.1",
+          "downloads": 293,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.3.0-rc.1.json"
+        },
+        {
+          "version": "7.3.0-rc.2",
+          "downloads": 215,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.3.0-rc.2.json"
+        },
+        {
+          "version": "7.3.0-rc.3",
+          "downloads": 205,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.3.0-rc.3.json"
+        },
+        {
+          "version": "7.3.0",
+          "downloads": 9138,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.3.0.json"
+        },
+        {
+          "version": "7.3.1",
+          "downloads": 4736,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.3.1.json"
+        },
+        {
+          "version": "7.3.2",
+          "downloads": 19666,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.3.2.json"
+        },
+        {
+          "version": "7.3.3",
+          "downloads": 11385,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.3.3.json"
+        },
+        {
+          "version": "7.4.0-rc.1",
+          "downloads": 260,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.0-rc.1.json"
+        },
+        {
+          "version": "7.4.0-rc.2",
+          "downloads": 372,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.0-rc.2.json"
+        },
+        {
+          "version": "7.4.0-rc.3",
+          "downloads": 232,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.0-rc.3.json"
+        },
+        {
+          "version": "7.4.0-rc.4",
+          "downloads": 781,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.0-rc.4.json"
+        },
+        {
+          "version": "7.4.0-rc.5",
+          "downloads": 217,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.0-rc.5.json"
+        },
+        {
+          "version": "7.4.0",
+          "downloads": 11217,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.0.json"
+        },
+        {
+          "version": "7.4.1",
+          "downloads": 6247,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.1.json"
+        },
+        {
+          "version": "7.4.2",
+          "downloads": 11856,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.2.json"
+        },
+        {
+          "version": "7.4.3",
+          "downloads": 4025,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.3.json"
+        },
+        {
+          "version": "7.4.4",
+          "downloads": 9885,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.4.json"
+        },
+        {
+          "version": "7.4.5",
+          "downloads": 1672,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/7.4.5.json"
+        },
+        {
+          "version": "8.0.0-rc.1",
+          "downloads": 687,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.0-rc.1.json"
+        },
+        {
+          "version": "8.0.0-rc.2",
+          "downloads": 681,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.0-rc.2.json"
+        },
+        {
+          "version": "8.0.0-rc.3",
+          "downloads": 793,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.0-rc.3.json"
+        },
+        {
+          "version": "8.0.0",
+          "downloads": 8690,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.0.json"
+        },
+        {
+          "version": "8.0.1",
+          "downloads": 7889,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.1.json"
+        },
+        {
+          "version": "8.0.2",
+          "downloads": 9080,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.2.json"
+        },
+        {
+          "version": "8.0.3",
+          "downloads": 7111,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.3.json"
+        },
+        {
+          "version": "8.0.4",
+          "downloads": 11396,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.4.json"
+        },
+        {
+          "version": "8.0.5",
+          "downloads": 9598,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.0.5.json"
+        },
+        {
+          "version": "8.1.0-rc.1",
+          "downloads": 382,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.1.0-rc.1.json"
+        },
+        {
+          "version": "8.1.0-rc.2",
+          "downloads": 334,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.1.0-rc.2.json"
+        },
+        {
+          "version": "8.1.0-rc.3",
+          "downloads": 210,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.1.0-rc.3.json"
+        },
+        {
+          "version": "8.1.0-rc.4",
+          "downloads": 130,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.1.0-rc.4.json"
+        },
+        {
+          "version": "8.1.0",
+          "downloads": 2368,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.1.0.json"
         }
       ],
       "vulnerabilities": []
