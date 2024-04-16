@@ -2735,6 +2735,46 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.functions.worker.itemtemplates.netcore/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.functions.worker.itemtemplates.netcore/index.json",
+      "id": "Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore",
+      "version": "4.0.2945",
+      "description": "Collection of templates for Azure Functions .NET Isolated",
+      "summary": "",
+      "title": "Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore",
+      "licenseUrl": "https://go.microsoft.com/fwlink/?linkid=2028464",
+      "projectUrl": "https://go.microsoft.com/fwlink/?linkid=848145",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "azure-sdk",
+        "Microsoft"
+      ],
+      "totalDownloads": 1317356,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Template"
+        }
+      ],
+      "versions": [
+        {
+          "version": "4.0.2941",
+          "downloads": 101,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.functions.worker.itemtemplates.netcore/4.0.2941.json"
+        },
+        {
+          "version": "4.0.2945",
+          "downloads": 1317255,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.functions.worker.itemtemplates.netcore/4.0.2945.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/take.blip.client.templates/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/take.blip.client.templates/index.json",
@@ -4798,46 +4838,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.functions.worker.itemtemplates.netcore/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.functions.worker.itemtemplates.netcore/index.json",
-      "id": "Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore",
-      "version": "4.0.2945",
-      "description": "Collection of templates for Azure Functions .NET Isolated",
-      "summary": "",
-      "title": "Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore",
-      "licenseUrl": "https://go.microsoft.com/fwlink/?linkid=2028464",
-      "projectUrl": "https://go.microsoft.com/fwlink/?linkid=848145",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "azure-sdk",
-        "Microsoft"
-      ],
-      "totalDownloads": 1317356,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Template"
-        }
-      ],
-      "versions": [
-        {
-          "version": "4.0.2941",
-          "downloads": 101,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.functions.worker.itemtemplates.netcore/4.0.2941.json"
-        },
-        {
-          "version": "4.0.2945",
-          "downloads": 1317255,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.functions.worker.itemtemplates.netcore/4.0.2945.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.common.projecttemplates.5.0/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.common.projecttemplates.5.0/index.json",
@@ -6207,12 +6207,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.api/index.json",
       "id": "Furion.Template.Api",
-      "version": "4.9.2.17",
+      "version": "4.9.2.18",
       "description": "基于 Furion 框架快速搭建 Api 多层架构模板。",
       "summary": "",
       "title": "Furion.Template.Api",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.template.api/4.9.2.17/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Furion.Template.Api/4.9.2.17/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.template.api/4.9.2.18/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Furion.Template.Api/4.9.2.18/license",
       "tags": [],
       "authors": [
         "百小僧"
@@ -9244,6 +9244,11 @@
           "version": "4.9.2.17",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.api/4.9.2.17.json"
+        },
+        {
+          "version": "4.9.2.18",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.api/4.9.2.18.json"
         }
       ],
       "vulnerabilities": []
@@ -23107,12 +23112,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.razorwithwebapi/index.json",
       "id": "Furion.Template.RazorWithWebApi",
-      "version": "4.9.2.17",
+      "version": "4.9.2.18",
       "description": "基于 Furion 框架快速搭建 RazorPages和WebApi 多层架构模板。",
       "summary": "",
       "title": "Furion.Template.RazorWithWebApi",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.template.razorwithwebapi/4.9.2.17/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Furion.Template.RazorWithWebApi/4.9.2.17/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.template.razorwithwebapi/4.9.2.18/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Furion.Template.RazorWithWebApi/4.9.2.18/license",
       "tags": [],
       "authors": [
         "百小僧"
@@ -26104,6 +26109,11 @@
           "version": "4.9.2.17",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.razorwithwebapi/4.9.2.17.json"
+        },
+        {
+          "version": "4.9.2.18",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.razorwithwebapi/4.9.2.18.json"
         }
       ],
       "vulnerabilities": []
@@ -26113,12 +26123,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.app/index.json",
       "id": "Furion.Template.App",
-      "version": "4.9.2.17",
+      "version": "4.9.2.18",
       "description": "基于 Furion 框架快速搭建 Mvc/Api 多层架构模板。",
       "summary": "",
       "title": "Furion.Template.App",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.template.app/4.9.2.17/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Furion.Template.App/4.9.2.17/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.template.app/4.9.2.18/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Furion.Template.App/4.9.2.18/license",
       "tags": [],
       "authors": [
         "百小僧"
@@ -29150,6 +29160,11 @@
           "version": "4.9.2.17",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.app/4.9.2.17.json"
+        },
+        {
+          "version": "4.9.2.18",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.app/4.9.2.18.json"
         }
       ],
       "vulnerabilities": []
@@ -29159,12 +29174,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.mvc/index.json",
       "id": "Furion.Template.Mvc",
-      "version": "4.9.2.17",
+      "version": "4.9.2.18",
       "description": "基于 Furion 框架快速搭建 Mvc 多层架构模板。",
       "summary": "",
       "title": "Furion.Template.Mvc",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.template.mvc/4.9.2.17/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Furion.Template.Mvc/4.9.2.17/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.template.mvc/4.9.2.18/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Furion.Template.Mvc/4.9.2.18/license",
       "tags": [],
       "authors": [
         "百小僧"
@@ -32196,6 +32211,11 @@
           "version": "4.9.2.17",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.mvc/4.9.2.17.json"
+        },
+        {
+          "version": "4.9.2.18",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.mvc/4.9.2.18.json"
         }
       ],
       "vulnerabilities": []
@@ -35319,12 +35339,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.mvc/index.json",
       "id": "Furion.SqlSugar.Template.Mvc",
-      "version": "4.9.2.17",
+      "version": "4.9.2.18",
       "description": "基于 Furion 和 SqlSugar 框架快速搭建 Mvc 多层架构模板。",
       "summary": "",
       "title": "Furion.SqlSugar.Template.Mvc",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.sqlsugar.template.mvc/4.9.2.17/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Furion.SqlSugar.Template.Mvc/4.9.2.17/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.sqlsugar.template.mvc/4.9.2.18/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Furion.SqlSugar.Template.Mvc/4.9.2.18/license",
       "tags": [],
       "authors": [
         "百小僧"
@@ -37289,6 +37309,11 @@
           "version": "4.9.2.17",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.mvc/4.9.2.17.json"
+        },
+        {
+          "version": "4.9.2.18",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.mvc/4.9.2.18.json"
         }
       ],
       "vulnerabilities": []
@@ -38491,12 +38516,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.blazor/index.json",
       "id": "Furion.Template.Blazor",
-      "version": "4.9.2.17",
+      "version": "4.9.2.18",
       "description": "基于 Furion 框架快速搭建 Blazor 多层架构模板。",
       "summary": "",
       "title": "Furion.Template.Blazor",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.template.blazor/4.9.2.17/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Furion.Template.Blazor/4.9.2.17/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.template.blazor/4.9.2.18/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Furion.Template.Blazor/4.9.2.18/license",
       "tags": [],
       "authors": [
         "百小僧"
@@ -41528,6 +41553,11 @@
           "version": "4.9.2.17",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.blazor/4.9.2.17.json"
+        },
+        {
+          "version": "4.9.2.18",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.blazor/4.9.2.18.json"
         }
       ],
       "vulnerabilities": []
@@ -41537,12 +41567,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.razor/index.json",
       "id": "Furion.Template.Razor",
-      "version": "4.9.2.17",
+      "version": "4.9.2.18",
       "description": "基于 Furion 框架快速搭建 Razor Pages 多层架构模板。",
       "summary": "",
       "title": "Furion.Template.Razor",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.template.razor/4.9.2.17/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Furion.Template.Razor/4.9.2.17/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.template.razor/4.9.2.18/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Furion.Template.Razor/4.9.2.18/license",
       "tags": [],
       "authors": [
         "百小僧"
@@ -44574,6 +44604,11 @@
           "version": "4.9.2.17",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.razor/4.9.2.17.json"
+        },
+        {
+          "version": "4.9.2.18",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.razor/4.9.2.18.json"
         }
       ],
       "vulnerabilities": []
@@ -44762,12 +44797,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.blazorwithwebapi/index.json",
       "id": "Furion.Template.BlazorWithWebApi",
-      "version": "4.9.2.17",
+      "version": "4.9.2.18",
       "description": "基于 Furion 框架快速搭建 Blazor和WebApi 多层架构模板。",
       "summary": "",
       "title": "Furion.Template.BlazorWithWebApi",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.template.blazorwithwebapi/4.9.2.17/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Furion.Template.BlazorWithWebApi/4.9.2.17/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.template.blazorwithwebapi/4.9.2.18/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Furion.Template.BlazorWithWebApi/4.9.2.18/license",
       "tags": [],
       "authors": [
         "百小僧"
@@ -47754,6 +47789,11 @@
           "version": "4.9.2.17",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.blazorwithwebapi/4.9.2.17.json"
+        },
+        {
+          "version": "4.9.2.18",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.blazorwithwebapi/4.9.2.18.json"
         }
       ],
       "vulnerabilities": []
@@ -60918,12 +60958,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.blazor/index.json",
       "id": "Furion.SqlSugar.Template.Blazor",
-      "version": "4.9.2.17",
+      "version": "4.9.2.18",
       "description": "基于 Furion 和 SqlSugar 框架快速搭建 Blazor 多层架构模板。",
       "summary": "",
       "title": "Furion.SqlSugar.Template.Blazor",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.sqlsugar.template.blazor/4.9.2.17/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Furion.SqlSugar.Template.Blazor/4.9.2.17/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.sqlsugar.template.blazor/4.9.2.18/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Furion.SqlSugar.Template.Blazor/4.9.2.18/license",
       "tags": [],
       "authors": [
         "百小僧"
@@ -62888,6 +62928,11 @@
           "version": "4.9.2.17",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.blazor/4.9.2.17.json"
+        },
+        {
+          "version": "4.9.2.18",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.blazor/4.9.2.18.json"
         }
       ],
       "vulnerabilities": []
@@ -62897,12 +62942,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.api/index.json",
       "id": "Furion.SqlSugar.Template.Api",
-      "version": "4.9.2.17",
+      "version": "4.9.2.18",
       "description": "基于 Furion 和 SqlSugar 框架快速搭建 Api 多层架构模板。",
       "summary": "",
       "title": "Furion.SqlSugar.Template.Api",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.sqlsugar.template.api/4.9.2.17/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Furion.SqlSugar.Template.Api/4.9.2.17/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.sqlsugar.template.api/4.9.2.18/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Furion.SqlSugar.Template.Api/4.9.2.18/license",
       "tags": [],
       "authors": [
         "百小僧"
@@ -64867,6 +64912,11 @@
           "version": "4.9.2.17",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.api/4.9.2.17.json"
+        },
+        {
+          "version": "4.9.2.18",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.api/4.9.2.18.json"
         }
       ],
       "vulnerabilities": []
@@ -65937,12 +65987,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.blazorwithwebapi/index.json",
       "id": "Furion.SqlSugar.Template.BlazorWithWebApi",
-      "version": "4.9.2.17",
+      "version": "4.9.2.18",
       "description": "基于 Furion 和 SqlSugar 框架快速搭建 Blazor和WebApi 多层架构模板。",
       "summary": "",
       "title": "Furion.SqlSugar.Template.BlazorWithWebApi",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.sqlsugar.template.blazorwithwebapi/4.9.2.17/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Furion.SqlSugar.Template.BlazorWithWebApi/4.9.2.17/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.sqlsugar.template.blazorwithwebapi/4.9.2.18/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Furion.SqlSugar.Template.BlazorWithWebApi/4.9.2.18/license",
       "tags": [],
       "authors": [
         "百小僧"
@@ -67907,6 +67957,11 @@
           "version": "4.9.2.17",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.blazorwithwebapi/4.9.2.17.json"
+        },
+        {
+          "version": "4.9.2.18",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.blazorwithwebapi/4.9.2.18.json"
         }
       ],
       "vulnerabilities": []
@@ -67916,12 +67971,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.razor/index.json",
       "id": "Furion.SqlSugar.Template.Razor",
-      "version": "4.9.2.17",
+      "version": "4.9.2.18",
       "description": "基于 Furion 和 SqlSugar 框架快速搭建 Razor Pages 多层架构模板。",
       "summary": "",
       "title": "Furion.SqlSugar.Template.Razor",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.sqlsugar.template.razor/4.9.2.17/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Furion.SqlSugar.Template.Razor/4.9.2.17/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.sqlsugar.template.razor/4.9.2.18/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Furion.SqlSugar.Template.Razor/4.9.2.18/license",
       "tags": [],
       "authors": [
         "百小僧"
@@ -69886,6 +69941,11 @@
           "version": "4.9.2.17",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.razor/4.9.2.17.json"
+        },
+        {
+          "version": "4.9.2.18",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.razor/4.9.2.18.json"
         }
       ],
       "vulnerabilities": []
@@ -69895,12 +69955,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.app/index.json",
       "id": "Furion.SqlSugar.Template.App",
-      "version": "4.9.2.17",
+      "version": "4.9.2.18",
       "description": "基于 Furion 和 SqlSugar 框架快速搭建 Mvc/Api 多层架构模板。",
       "summary": "",
       "title": "Furion.SqlSugar.Template.App",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.sqlsugar.template.app/4.9.2.17/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Furion.SqlSugar.Template.App/4.9.2.17/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.sqlsugar.template.app/4.9.2.18/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Furion.SqlSugar.Template.App/4.9.2.18/license",
       "tags": [],
       "authors": [
         "百小僧"
@@ -71865,6 +71925,11 @@
           "version": "4.9.2.17",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.app/4.9.2.17.json"
+        },
+        {
+          "version": "4.9.2.18",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.app/4.9.2.18.json"
         }
       ],
       "vulnerabilities": []
@@ -72459,12 +72524,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.razorwithwebapi/index.json",
       "id": "Furion.SqlSugar.Template.RazorWithWebApi",
-      "version": "4.9.2.17",
+      "version": "4.9.2.18",
       "description": "基于 Furion 和 SqlSugar 框架快速搭建 RazorPages和WebApi 多层架构模板。",
       "summary": "",
       "title": "Furion.SqlSugar.Template.RazorWithWebApi",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.sqlsugar.template.razorwithwebapi/4.9.2.17/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Furion.SqlSugar.Template.RazorWithWebApi/4.9.2.17/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/furion.sqlsugar.template.razorwithwebapi/4.9.2.18/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Furion.SqlSugar.Template.RazorWithWebApi/4.9.2.18/license",
       "tags": [],
       "authors": [
         "百小僧"
@@ -74429,6 +74494,11 @@
           "version": "4.9.2.17",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.razorwithwebapi/4.9.2.17.json"
+        },
+        {
+          "version": "4.9.2.18",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.razorwithwebapi/4.9.2.18.json"
         }
       ],
       "vulnerabilities": []
