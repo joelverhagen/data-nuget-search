@@ -45,7 +45,7 @@
   },
   {
     "id": "Microsoft.Identity.Client",
-    "version": "4.60.2"
+    "version": "4.60.3"
   },
   {
     "id": "Castle.Core",
@@ -57,7 +57,7 @@
   },
   {
     "id": "AWSSDK.Core",
-    "version": "3.7.303.14"
+    "version": "3.7.303.15"
   },
   {
     "id": "System.Security.Cryptography.Pkcs",
@@ -104,12 +104,16 @@
     "version": "2.22.0"
   },
   {
+    "id": "Swashbuckle.AspNetCore.SwaggerUI",
+    "version": "6.5.0"
+  },
+  {
     "id": "Microsoft.Data.SqlClient",
     "version": "5.2.0"
   },
   {
-    "id": "Swashbuckle.AspNetCore.SwaggerUI",
-    "version": "6.5.0"
+    "id": "System.Threading.Channels",
+    "version": "9.0.0-preview.3.24172.9"
   },
   {
     "id": "Microsoft.Extensions.Hosting",
@@ -118,10 +122,6 @@
   {
     "id": "Microsoft.OpenApi",
     "version": "1.6.14"
-  },
-  {
-    "id": "System.Threading.Channels",
-    "version": "9.0.0-preview.3.24172.9"
   },
   {
     "id": "Azure.Storage.Blobs",
@@ -145,7 +145,7 @@
   },
   {
     "id": "Azure.Identity",
-    "version": "1.11.0"
+    "version": "1.11.1"
   },
   {
     "id": "Microsoft.Extensions.ApiDescription.Server",
@@ -161,7 +161,7 @@
   },
   {
     "id": "Microsoft.Identity.Client.Extensions.Msal",
-    "version": "4.60.2"
+    "version": "4.60.3"
   },
   {
     "id": "FluentValidation",
@@ -184,19 +184,15 @@
     "version": "4.4.0"
   },
   {
-    "id": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
-    "version": "4.4.0"
-  },
-  {
     "id": "StackExchange.Redis",
     "version": "2.7.33"
   },
   {
-    "id": "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions",
-    "version": "9.0.0-preview.3.24172.13"
+    "id": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
+    "version": "4.4.0"
   },
   {
-    "id": "Microsoft.AspNetCore.Mvc.NewtonsoftJson",
+    "id": "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions",
     "version": "9.0.0-preview.3.24172.13"
   },
   {
@@ -204,7 +200,11 @@
     "version": "2.0.1-dev-00969"
   },
   {
-    "id": "Microsoft.Extensions.Logging.EventLog",
+    "id": "Microsoft.AspNetCore.Mvc.NewtonsoftJson",
+    "version": "9.0.0-preview.3.24172.13"
+  },
+  {
+    "id": "System.Formats.Asn1",
     "version": "9.0.0-preview.3.24172.9"
   },
   {
@@ -212,7 +212,7 @@
     "version": "8.0.1-dev-00582"
   },
   {
-    "id": "System.Formats.Asn1",
+    "id": "Microsoft.Extensions.Logging.EventLog",
     "version": "9.0.0-preview.3.24172.9"
   },
   {
@@ -244,12 +244,12 @@
     "version": "9.0.0-preview.3.24172.9"
   },
   {
-    "id": "FluentAssertions",
-    "version": "7.0.0-alpha.3"
-  },
-  {
     "id": "Pipelines.Sockets.Unofficial",
     "version": "2.2.8"
+  },
+  {
+    "id": "FluentAssertions",
+    "version": "7.0.0-alpha.3"
   },
   {
     "id": "NUnit",
@@ -296,12 +296,12 @@
     "version": "1.9.0"
   },
   {
-    "id": "Autofac",
-    "version": "8.0.0"
-  },
-  {
     "id": "Serilog.Sinks.Debug",
     "version": "2.0.0"
+  },
+  {
+    "id": "Autofac",
+    "version": "8.0.0"
   },
   {
     "id": "Azure.Storage.Queues",
@@ -364,16 +364,16 @@
     "version": "1.1.1"
   },
   {
-    "id": "AutoMapper.Extensions.Microsoft.DependencyInjection",
-    "version": "12.0.1"
-  },
-  {
     "id": "Serilog.Sinks.PeriodicBatching",
     "version": "4.0.1"
   },
   {
+    "id": "AutoMapper.Extensions.Microsoft.DependencyInjection",
+    "version": "12.0.1"
+  },
+  {
     "id": "AWSSDK.S3",
-    "version": "3.7.307.15"
+    "version": "3.7.307.16"
   },
   {
     "id": "Azure.Security.KeyVault.Certificates",
@@ -396,7 +396,7 @@
     "version": "2.0.17"
   },
   {
-    "id": "JetBrains.Annotations",
-    "version": "2023.3.0"
+    "id": "SQLitePCLRaw.core",
+    "version": "2.1.8"
   }
 ]
