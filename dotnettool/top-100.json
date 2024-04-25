@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 4682,
+  "totalHits": 4687,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cake.tool/index.json",
@@ -5184,12 +5184,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.tools/index.json",
       "id": "Amazon.Lambda.Tools",
-      "version": "5.10.4",
+      "version": "5.10.5",
       "description": "Amazon.Lambda.Tools adds commands to the dotnet cli to deploy AWS Lambda functions.",
       "summary": "",
       "title": "Amazon.Lambda.Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/amazon.lambda.tools/5.10.4/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Amazon.Lambda.Tools/5.10.4/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/amazon.lambda.tools/5.10.5/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Amazon.Lambda.Tools/5.10.5/license",
       "projectUrl": "https://github.com/aws/aws-extensions-for-dotnet-cli",
       "tags": [
         "AWS",
@@ -5589,6 +5589,11 @@
           "version": "5.10.4",
           "downloads": 274337,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.tools/5.10.4.json"
+        },
+        {
+          "version": "5.10.5",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.tools/5.10.5.json"
         }
       ],
       "vulnerabilities": []
@@ -25019,11 +25024,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/index.json",
       "id": "FunFair.BuildVersion",
-      "version": "6.2.16.398-main",
+      "version": "6.2.16.400-main",
       "description": "Build versioning tool.",
       "summary": "",
       "title": "FunFair.BuildVersion",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.16.398-main/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.16.400-main/icon",
       "projectUrl": "https://github.com/funfair-tech/funfair-build-version",
       "tags": [
         "FunFair",
@@ -30128,6 +30133,11 @@
           "version": "6.2.16.398-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.16.398-main.json"
+        },
+        {
+          "version": "6.2.16.400-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.16.400-main.json"
         }
       ],
       "vulnerabilities": []
@@ -30395,6 +30405,325 @@
           "version": "0.15.1",
           "downloads": 690990,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-6.0/0.15.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/index.json",
+      "id": "CycloneDX",
+      "version": "3.0.6",
+      "description": "A .NET Core global tool to generate CycloneDX bill-of-material documents for use with Software Composition Analysis (SCA).",
+      "summary": "",
+      "title": "CycloneDX",
+      "licenseUrl": "https://www.nuget.org/packages/CycloneDX/3.0.6/license",
+      "projectUrl": "https://github.com/CycloneDX/cyclonedx-dotnet",
+      "tags": [],
+      "authors": [
+        "Steve Springett & Patrick Dwyer"
+      ],
+      "owners": [
+        "CycloneDX"
+      ],
+      "totalDownloads": 2420879,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.1.0",
+          "downloads": 897,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.1.0.json"
+        },
+        {
+          "version": "0.2.0",
+          "downloads": 875,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.2.0.json"
+        },
+        {
+          "version": "0.2.1",
+          "downloads": 880,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.2.1.json"
+        },
+        {
+          "version": "0.3.0",
+          "downloads": 732,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.3.0.json"
+        },
+        {
+          "version": "0.3.1",
+          "downloads": 744,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.3.1.json"
+        },
+        {
+          "version": "0.3.2",
+          "downloads": 752,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.3.2.json"
+        },
+        {
+          "version": "0.3.3",
+          "downloads": 13902,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.3.3.json"
+        },
+        {
+          "version": "0.4.0",
+          "downloads": 1129,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.4.0.json"
+        },
+        {
+          "version": "0.5.0",
+          "downloads": 44584,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.5.0.json"
+        },
+        {
+          "version": "0.9.0",
+          "downloads": 10343,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.9.0.json"
+        },
+        {
+          "version": "0.9.1",
+          "downloads": 729,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.9.1.json"
+        },
+        {
+          "version": "0.9.2",
+          "downloads": 4238,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.9.2.json"
+        },
+        {
+          "version": "0.9.3",
+          "downloads": 2482,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.9.3.json"
+        },
+        {
+          "version": "0.10.0",
+          "downloads": 11115,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.10.0.json"
+        },
+        {
+          "version": "0.10.1",
+          "downloads": 943,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.10.1.json"
+        },
+        {
+          "version": "0.10.2",
+          "downloads": 797,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.10.2.json"
+        },
+        {
+          "version": "0.10.3",
+          "downloads": 1147,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.10.3.json"
+        },
+        {
+          "version": "0.10.4",
+          "downloads": 924,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.10.4.json"
+        },
+        {
+          "version": "0.10.5",
+          "downloads": 2118,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.10.5.json"
+        },
+        {
+          "version": "0.10.6",
+          "downloads": 548,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.10.6.json"
+        },
+        {
+          "version": "0.11.0",
+          "downloads": 2857,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.11.0.json"
+        },
+        {
+          "version": "0.11.1",
+          "downloads": 581,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.11.1.json"
+        },
+        {
+          "version": "1.0.0",
+          "downloads": 3028,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.0.0.json"
+        },
+        {
+          "version": "1.0.1",
+          "downloads": 2568,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.0.1.json"
+        },
+        {
+          "version": "1.0.2",
+          "downloads": 3853,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.0.2.json"
+        },
+        {
+          "version": "1.0.3",
+          "downloads": 1484,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.0.3.json"
+        },
+        {
+          "version": "1.1.0",
+          "downloads": 1497,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.1.0.json"
+        },
+        {
+          "version": "1.2.0",
+          "downloads": 103840,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.2.0.json"
+        },
+        {
+          "version": "1.3.0",
+          "downloads": 81617,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.3.0.json"
+        },
+        {
+          "version": "1.4.0",
+          "downloads": 23631,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.4.0.json"
+        },
+        {
+          "version": "1.5.0",
+          "downloads": 47748,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.5.0.json"
+        },
+        {
+          "version": "1.5.1",
+          "downloads": 395,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.5.1.json"
+        },
+        {
+          "version": "1.6.0",
+          "downloads": 495,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.6.0.json"
+        },
+        {
+          "version": "1.6.1",
+          "downloads": 43787,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.6.1.json"
+        },
+        {
+          "version": "1.6.2",
+          "downloads": 14592,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.6.2.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 4023,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.0.0.json"
+        },
+        {
+          "version": "2.0.1",
+          "downloads": 38625,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.0.1.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 1162,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.1.0.json"
+        },
+        {
+          "version": "2.1.1",
+          "downloads": 3034,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.1.1.json"
+        },
+        {
+          "version": "2.1.2",
+          "downloads": 17673,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.1.2.json"
+        },
+        {
+          "version": "2.2.0",
+          "downloads": 4918,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.2.0.json"
+        },
+        {
+          "version": "2.3.0",
+          "downloads": 682364,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.3.0.json"
+        },
+        {
+          "version": "2.4.1",
+          "downloads": 22046,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.4.1.json"
+        },
+        {
+          "version": "2.5.0",
+          "downloads": 5301,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.5.0.json"
+        },
+        {
+          "version": "2.5.1",
+          "downloads": 122157,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.5.1.json"
+        },
+        {
+          "version": "2.6.0",
+          "downloads": 10110,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.6.0.json"
+        },
+        {
+          "version": "2.7.0",
+          "downloads": 466774,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.7.0.json"
+        },
+        {
+          "version": "2.8.0",
+          "downloads": 26113,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.8.0.json"
+        },
+        {
+          "version": "2.8.1",
+          "downloads": 183509,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.8.1.json"
+        },
+        {
+          "version": "2.9.0",
+          "downloads": 81823,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.9.0.json"
+        },
+        {
+          "version": "2.10.0",
+          "downloads": 87715,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.10.0.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 585,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/3.0.0.json"
+        },
+        {
+          "version": "3.0.1",
+          "downloads": 700,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/3.0.1.json"
+        },
+        {
+          "version": "3.0.2",
+          "downloads": 2366,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/3.0.2.json"
+        },
+        {
+          "version": "3.0.3",
+          "downloads": 417,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/3.0.3.json"
+        },
+        {
+          "version": "3.0.4",
+          "downloads": 14159,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/3.0.4.json"
+        },
+        {
+          "version": "3.0.5",
+          "downloads": 158584,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/3.0.5.json"
+        },
+        {
+          "version": "3.0.6",
+          "downloads": 54869,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/3.0.6.json"
         }
       ],
       "vulnerabilities": []
@@ -34729,325 +35058,6 @@
           "version": "0.0.1616",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octonotes.githubupdater.tool/0.0.1616.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/index.json",
-      "id": "CycloneDX",
-      "version": "3.0.6",
-      "description": "A .NET Core global tool to generate CycloneDX bill-of-material documents for use with Software Composition Analysis (SCA).",
-      "summary": "",
-      "title": "CycloneDX",
-      "licenseUrl": "https://www.nuget.org/packages/CycloneDX/3.0.6/license",
-      "projectUrl": "https://github.com/CycloneDX/cyclonedx-dotnet",
-      "tags": [],
-      "authors": [
-        "Steve Springett & Patrick Dwyer"
-      ],
-      "owners": [
-        "CycloneDX"
-      ],
-      "totalDownloads": 2420879,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.1.0",
-          "downloads": 897,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.1.0.json"
-        },
-        {
-          "version": "0.2.0",
-          "downloads": 875,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.2.0.json"
-        },
-        {
-          "version": "0.2.1",
-          "downloads": 880,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.2.1.json"
-        },
-        {
-          "version": "0.3.0",
-          "downloads": 732,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.3.0.json"
-        },
-        {
-          "version": "0.3.1",
-          "downloads": 744,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.3.1.json"
-        },
-        {
-          "version": "0.3.2",
-          "downloads": 752,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.3.2.json"
-        },
-        {
-          "version": "0.3.3",
-          "downloads": 13902,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.3.3.json"
-        },
-        {
-          "version": "0.4.0",
-          "downloads": 1129,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.4.0.json"
-        },
-        {
-          "version": "0.5.0",
-          "downloads": 44584,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.5.0.json"
-        },
-        {
-          "version": "0.9.0",
-          "downloads": 10343,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.9.0.json"
-        },
-        {
-          "version": "0.9.1",
-          "downloads": 729,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.9.1.json"
-        },
-        {
-          "version": "0.9.2",
-          "downloads": 4238,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.9.2.json"
-        },
-        {
-          "version": "0.9.3",
-          "downloads": 2482,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.9.3.json"
-        },
-        {
-          "version": "0.10.0",
-          "downloads": 11115,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.10.0.json"
-        },
-        {
-          "version": "0.10.1",
-          "downloads": 943,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.10.1.json"
-        },
-        {
-          "version": "0.10.2",
-          "downloads": 797,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.10.2.json"
-        },
-        {
-          "version": "0.10.3",
-          "downloads": 1147,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.10.3.json"
-        },
-        {
-          "version": "0.10.4",
-          "downloads": 924,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.10.4.json"
-        },
-        {
-          "version": "0.10.5",
-          "downloads": 2118,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.10.5.json"
-        },
-        {
-          "version": "0.10.6",
-          "downloads": 548,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.10.6.json"
-        },
-        {
-          "version": "0.11.0",
-          "downloads": 2857,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.11.0.json"
-        },
-        {
-          "version": "0.11.1",
-          "downloads": 581,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/0.11.1.json"
-        },
-        {
-          "version": "1.0.0",
-          "downloads": 3028,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.0.0.json"
-        },
-        {
-          "version": "1.0.1",
-          "downloads": 2568,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.0.1.json"
-        },
-        {
-          "version": "1.0.2",
-          "downloads": 3853,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.0.2.json"
-        },
-        {
-          "version": "1.0.3",
-          "downloads": 1484,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.0.3.json"
-        },
-        {
-          "version": "1.1.0",
-          "downloads": 1497,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.1.0.json"
-        },
-        {
-          "version": "1.2.0",
-          "downloads": 103840,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.2.0.json"
-        },
-        {
-          "version": "1.3.0",
-          "downloads": 81617,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.3.0.json"
-        },
-        {
-          "version": "1.4.0",
-          "downloads": 23631,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.4.0.json"
-        },
-        {
-          "version": "1.5.0",
-          "downloads": 47748,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.5.0.json"
-        },
-        {
-          "version": "1.5.1",
-          "downloads": 395,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.5.1.json"
-        },
-        {
-          "version": "1.6.0",
-          "downloads": 495,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.6.0.json"
-        },
-        {
-          "version": "1.6.1",
-          "downloads": 43787,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.6.1.json"
-        },
-        {
-          "version": "1.6.2",
-          "downloads": 14592,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/1.6.2.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 4023,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.0.0.json"
-        },
-        {
-          "version": "2.0.1",
-          "downloads": 38625,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.0.1.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 1162,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.1.0.json"
-        },
-        {
-          "version": "2.1.1",
-          "downloads": 3034,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.1.1.json"
-        },
-        {
-          "version": "2.1.2",
-          "downloads": 17673,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.1.2.json"
-        },
-        {
-          "version": "2.2.0",
-          "downloads": 4918,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.2.0.json"
-        },
-        {
-          "version": "2.3.0",
-          "downloads": 682364,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.3.0.json"
-        },
-        {
-          "version": "2.4.1",
-          "downloads": 22046,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.4.1.json"
-        },
-        {
-          "version": "2.5.0",
-          "downloads": 5301,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.5.0.json"
-        },
-        {
-          "version": "2.5.1",
-          "downloads": 122157,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.5.1.json"
-        },
-        {
-          "version": "2.6.0",
-          "downloads": 10110,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.6.0.json"
-        },
-        {
-          "version": "2.7.0",
-          "downloads": 466774,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.7.0.json"
-        },
-        {
-          "version": "2.8.0",
-          "downloads": 26113,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.8.0.json"
-        },
-        {
-          "version": "2.8.1",
-          "downloads": 183509,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.8.1.json"
-        },
-        {
-          "version": "2.9.0",
-          "downloads": 81823,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.9.0.json"
-        },
-        {
-          "version": "2.10.0",
-          "downloads": 87715,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/2.10.0.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 585,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/3.0.0.json"
-        },
-        {
-          "version": "3.0.1",
-          "downloads": 700,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/3.0.1.json"
-        },
-        {
-          "version": "3.0.2",
-          "downloads": 2366,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/3.0.2.json"
-        },
-        {
-          "version": "3.0.3",
-          "downloads": 417,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/3.0.3.json"
-        },
-        {
-          "version": "3.0.4",
-          "downloads": 14159,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/3.0.4.json"
-        },
-        {
-          "version": "3.0.5",
-          "downloads": 158584,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/3.0.5.json"
-        },
-        {
-          "version": "3.0.6",
-          "downloads": 54869,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cyclonedx/3.0.6.json"
         }
       ],
       "vulnerabilities": []
@@ -41033,50 +41043,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/index.json",
-      "id": "AWS.CodeArtifact.NuGet.CredentialProvider",
-      "version": "1.0.1",
-      "description": "A tool to configure NuGet credential provider for AWS CodeArtifact sources.",
-      "summary": "",
-      "title": "AWS.CodeArtifact.NuGet.CredentialProvider",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/aws.codeartifact.nuget.credentialprovider/1.0.1/icon",
-      "licenseUrl": "https://aws.amazon.com/apache-2-0/",
-      "projectUrl": "https://aws.amazon.com/codeartifact/",
-      "tags": [
-        "AWS",
-        "Amazon",
-        "CodeArtifact"
-      ],
-      "authors": [
-        "Amazon Web Services"
-      ],
-      "owners": [
-        "awsdotnet"
-      ],
-      "totalDownloads": 1546032,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "downloads": 221247,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/1.0.0.json"
-        },
-        {
-          "version": "1.0.1",
-          "downloads": 1324785,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/1.0.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/index.json",
@@ -41201,6 +41167,50 @@
           "version": "4.6.1",
           "downloads": 29504,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-outdated-tool/4.6.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/index.json",
+      "id": "AWS.CodeArtifact.NuGet.CredentialProvider",
+      "version": "1.0.1",
+      "description": "A tool to configure NuGet credential provider for AWS CodeArtifact sources.",
+      "summary": "",
+      "title": "AWS.CodeArtifact.NuGet.CredentialProvider",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/aws.codeartifact.nuget.credentialprovider/1.0.1/icon",
+      "licenseUrl": "https://aws.amazon.com/apache-2-0/",
+      "projectUrl": "https://aws.amazon.com/codeartifact/",
+      "tags": [
+        "AWS",
+        "Amazon",
+        "CodeArtifact"
+      ],
+      "authors": [
+        "Amazon Web Services"
+      ],
+      "owners": [
+        "awsdotnet"
+      ],
+      "totalDownloads": 1546032,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloads": 221247,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/1.0.0.json"
+        },
+        {
+          "version": "1.0.1",
+          "downloads": 1324785,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/1.0.1.json"
         }
       ],
       "vulnerabilities": []
@@ -42089,11 +42099,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
       "id": "Credfeto.ChangeLog.Cmd",
-      "version": "1.10.20.233-main",
+      "version": "1.10.20.234-main",
       "description": "Changelog manager dotnet tool.",
       "summary": "",
       "title": "Credfeto.ChangeLog.Cmd",
-      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.20.233-main/license",
+      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.20.234-main/license",
       "tags": [
         "Changelog",
         "tool",
@@ -45968,6 +45978,11 @@
           "version": "1.10.20.233-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.20.233-main.json"
+        },
+        {
+          "version": "1.10.20.234-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.20.234-main.json"
         }
       ],
       "vulnerabilities": []
@@ -46161,6 +46176,54 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/index.json",
+      "id": "dotnet-certificate-tool",
+      "version": "2.0.9",
+      "description": "CLI tool that installs a certificate to the specified store (defaults to My).",
+      "summary": "",
+      "title": "dotnet-certificate-tool",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-certificate-tool/2.0.9/license",
+      "tags": [
+        "dotnet",
+        "cli",
+        "tool",
+        "certificate"
+      ],
+      "authors": [
+        "GSoft.CertificateTool"
+      ],
+      "owners": [
+        "stylianosnicoletti"
+      ],
+      "totalDownloads": 1183712,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.0.6",
+          "downloads": 190317,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/2.0.6.json"
+        },
+        {
+          "version": "2.0.7",
+          "downloads": 776786,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/2.0.7.json"
+        },
+        {
+          "version": "2.0.9",
+          "downloads": 22077,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/2.0.9.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-2.1/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-2.1/index.json",
@@ -46250,54 +46313,6 @@
           "version": "0.11.3",
           "downloads": 218208,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-2.1/0.11.3.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/index.json",
-      "id": "dotnet-certificate-tool",
-      "version": "2.0.9",
-      "description": "CLI tool that installs a certificate to the specified store (defaults to My).",
-      "summary": "",
-      "title": "dotnet-certificate-tool",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-certificate-tool/2.0.9/license",
-      "tags": [
-        "dotnet",
-        "cli",
-        "tool",
-        "certificate"
-      ],
-      "authors": [
-        "GSoft.CertificateTool"
-      ],
-      "owners": [
-        "stylianosnicoletti"
-      ],
-      "totalDownloads": 1183712,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.0.6",
-          "downloads": 190317,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/2.0.6.json"
-        },
-        {
-          "version": "2.0.7",
-          "downloads": 776786,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/2.0.7.json"
-        },
-        {
-          "version": "2.0.9",
-          "downloads": 22077,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/2.0.9.json"
         }
       ],
       "vulnerabilities": []
@@ -57903,11 +57918,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/index.json",
       "id": "AWS.Deploy.Tools",
-      "version": "1.19.13",
+      "version": "1.20.8",
       "description": "Opinionated tooling that simplifies deployment of .NET applications with minimum AWS knowledge.",
       "summary": "",
       "title": "AWS.Deploy.Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/aws.deploy.tools/1.19.13/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/aws.deploy.tools/1.20.8/icon",
       "projectUrl": "https://github.com/aws/aws-dotnet-deploy",
       "tags": [
         "AWS",
@@ -58079,6 +58094,11 @@
           "version": "1.19.13",
           "downloads": 41338,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.19.13.json"
+        },
+        {
+          "version": "1.20.8",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.deploy.tools/1.20.8.json"
         }
       ],
       "vulnerabilities": []
@@ -78736,12 +78756,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.elasticbeanstalk.tools/index.json",
       "id": "Amazon.ElasticBeanstalk.Tools",
-      "version": "4.3.3",
+      "version": "4.3.4",
       "description": "Amazon.ElasticBeanstalk.Tools adds commands to the dotnet cli to deploy ASP.NET Core applications to AWS Elastic Beanstalk. For example to deploy an ASP.NET Core application from the command execute \"dotnet eb deploy-environment\" on the command line.",
       "summary": "",
       "title": "Amazon.ElasticBeanstalk.Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/amazon.elasticbeanstalk.tools/4.3.3/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Amazon.ElasticBeanstalk.Tools/4.3.3/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/amazon.elasticbeanstalk.tools/4.3.4/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Amazon.ElasticBeanstalk.Tools/4.3.4/license",
       "projectUrl": "https://github.com/aws/aws-extensions-for-dotnet-cli",
       "tags": [
         "AWS",
@@ -78866,6 +78886,11 @@
           "version": "4.3.3",
           "downloads": 30883,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.elasticbeanstalk.tools/4.3.3.json"
+        },
+        {
+          "version": "4.3.4",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.elasticbeanstalk.tools/4.3.4.json"
         }
       ],
       "vulnerabilities": []
@@ -80880,50 +80905,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/justeattakeaway.watchman/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/justeattakeaway.watchman/index.json",
-      "id": "JustEatTakeaway.Watchman",
-      "version": "2.0.0",
-      "description": "Package Description",
-      "summary": "",
-      "title": "JustEatTakeaway.Watchman",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/justeattakeaway.watchman/2.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/JustEatTakeaway.Watchman/2.0.0/license",
-      "projectUrl": "https://github.com/justeattakeaway/AwsWatchman",
-      "tags": [
-        "alerting",
-        "aws",
-        "monitoring"
-      ],
-      "authors": [
-        "JUSTEAT_OSS"
-      ],
-      "owners": [
-        "JUSTEAT_OSS"
-      ],
-      "totalDownloads": 450382,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.1.1",
-          "downloads": 158893,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/justeattakeaway.watchman/1.1.1.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 291489,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/justeattakeaway.watchman/2.0.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-symbol/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-symbol/index.json",
@@ -81077,6 +81058,50 @@
           "version": "1.0.415602",
           "downloads": 288061,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-symbol/1.0.415602.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/justeattakeaway.watchman/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/justeattakeaway.watchman/index.json",
+      "id": "JustEatTakeaway.Watchman",
+      "version": "2.0.0",
+      "description": "Package Description",
+      "summary": "",
+      "title": "JustEatTakeaway.Watchman",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/justeattakeaway.watchman/2.0.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/JustEatTakeaway.Watchman/2.0.0/license",
+      "projectUrl": "https://github.com/justeattakeaway/AwsWatchman",
+      "tags": [
+        "alerting",
+        "aws",
+        "monitoring"
+      ],
+      "authors": [
+        "JUSTEAT_OSS"
+      ],
+      "owners": [
+        "JUSTEAT_OSS"
+      ],
+      "totalDownloads": 450382,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.1.1",
+          "downloads": 158893,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/justeattakeaway.watchman/1.1.1.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 291489,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/justeattakeaway.watchman/2.0.0.json"
         }
       ],
       "vulnerabilities": []
