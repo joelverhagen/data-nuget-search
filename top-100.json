@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 374776,
+  "totalHits": 374957,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -8918,12 +8918,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "3.7.303.21",
+      "version": "3.7.303.22",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.303.21/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/3.7.303.21/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/3.7.303.22/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/3.7.303.22/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -14219,6 +14219,11 @@
           "version": "3.7.303.21",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.303.21.json"
+        },
+        {
+          "version": "3.7.303.22",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.303.22.json"
         }
       ],
       "vulnerabilities": []
@@ -31890,157 +31895,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/index.json",
-      "id": "Humanizer.Core",
-      "version": "3.0.0-beta.13",
-      "description": "Humanizer core package that contains the library and the neutral language (English) resources",
-      "summary": "",
-      "title": "Humanizer Locale (en)",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/humanizer.core/3.0.0-beta.13/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Humanizer.Core/3.0.0-beta.13/license",
-      "projectUrl": "https://github.com/Humanizr/Humanizer",
-      "tags": [],
-      "authors": [
-        "Mehdi Khalili, Claire Novotny"
-      ],
-      "owners": [
-        "dotnetfoundation",
-        "Humanizer"
-      ],
-      "totalDownloads": 372701115,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.0.0-beta02-0092",
-          "downloads": 8159,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.0.0-beta02-0092.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 246368,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.0.0.json"
-        },
-        {
-          "version": "2.0.1",
-          "downloads": 479242,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.0.1.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 1206557,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.1.0.json"
-        },
-        {
-          "version": "2.2.0",
-          "downloads": 72708222,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.2.0.json"
-        },
-        {
-          "version": "2.3.2",
-          "downloads": 20023,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.3.2.json"
-        },
-        {
-          "version": "2.3.3",
-          "downloads": 1549601,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.3.3.json"
-        },
-        {
-          "version": "2.4.2",
-          "downloads": 1711539,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.4.2.json"
-        },
-        {
-          "version": "2.5.1",
-          "downloads": 1029078,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.5.1.json"
-        },
-        {
-          "version": "2.5.16",
-          "downloads": 2344666,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.5.16.json"
-        },
-        {
-          "version": "2.6.2",
-          "downloads": 4623373,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.6.2.json"
-        },
-        {
-          "version": "2.7.2",
-          "downloads": 545688,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.7.2.json"
-        },
-        {
-          "version": "2.7.9",
-          "downloads": 4587039,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.7.9.json"
-        },
-        {
-          "version": "2.8.2",
-          "downloads": 235624,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.8.2.json"
-        },
-        {
-          "version": "2.8.11",
-          "downloads": 1143400,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.8.11.json"
-        },
-        {
-          "version": "2.8.25",
-          "downloads": 204320,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.8.25.json"
-        },
-        {
-          "version": "2.8.26",
-          "downloads": 160590079,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.8.26.json"
-        },
-        {
-          "version": "2.9.7",
-          "downloads": 18023,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.9.7.json"
-        },
-        {
-          "version": "2.9.9",
-          "downloads": 274355,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.9.9.json"
-        },
-        {
-          "version": "2.10.1",
-          "downloads": 946212,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.10.1.json"
-        },
-        {
-          "version": "2.11.10",
-          "downloads": 10781577,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.11.10.json"
-        },
-        {
-          "version": "2.13.14",
-          "downloads": 4607293,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.13.14.json"
-        },
-        {
-          "version": "2.14.1",
-          "downloads": 102837370,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.14.1.json"
-        },
-        {
-          "version": "3.0.0-beta.13",
-          "downloads": 3307,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/3.0.0-beta.13.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/index.json",
@@ -32210,6 +32064,157 @@
           "version": "4.6.0",
           "downloads": 1565561,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.6.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/index.json",
+      "id": "Humanizer.Core",
+      "version": "3.0.0-beta.13",
+      "description": "Humanizer core package that contains the library and the neutral language (English) resources",
+      "summary": "",
+      "title": "Humanizer Locale (en)",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/humanizer.core/3.0.0-beta.13/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Humanizer.Core/3.0.0-beta.13/license",
+      "projectUrl": "https://github.com/Humanizr/Humanizer",
+      "tags": [],
+      "authors": [
+        "Mehdi Khalili, Claire Novotny"
+      ],
+      "owners": [
+        "dotnetfoundation",
+        "Humanizer"
+      ],
+      "totalDownloads": 372701115,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.0.0-beta02-0092",
+          "downloads": 8159,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.0.0-beta02-0092.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 246368,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.0.0.json"
+        },
+        {
+          "version": "2.0.1",
+          "downloads": 479242,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.0.1.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 1206557,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.1.0.json"
+        },
+        {
+          "version": "2.2.0",
+          "downloads": 72708222,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.2.0.json"
+        },
+        {
+          "version": "2.3.2",
+          "downloads": 20023,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.3.2.json"
+        },
+        {
+          "version": "2.3.3",
+          "downloads": 1549601,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.3.3.json"
+        },
+        {
+          "version": "2.4.2",
+          "downloads": 1711539,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.4.2.json"
+        },
+        {
+          "version": "2.5.1",
+          "downloads": 1029078,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.5.1.json"
+        },
+        {
+          "version": "2.5.16",
+          "downloads": 2344666,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.5.16.json"
+        },
+        {
+          "version": "2.6.2",
+          "downloads": 4623373,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.6.2.json"
+        },
+        {
+          "version": "2.7.2",
+          "downloads": 545688,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.7.2.json"
+        },
+        {
+          "version": "2.7.9",
+          "downloads": 4587039,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.7.9.json"
+        },
+        {
+          "version": "2.8.2",
+          "downloads": 235624,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.8.2.json"
+        },
+        {
+          "version": "2.8.11",
+          "downloads": 1143400,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.8.11.json"
+        },
+        {
+          "version": "2.8.25",
+          "downloads": 204320,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.8.25.json"
+        },
+        {
+          "version": "2.8.26",
+          "downloads": 160590079,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.8.26.json"
+        },
+        {
+          "version": "2.9.7",
+          "downloads": 18023,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.9.7.json"
+        },
+        {
+          "version": "2.9.9",
+          "downloads": 274355,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.9.9.json"
+        },
+        {
+          "version": "2.10.1",
+          "downloads": 946212,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.10.1.json"
+        },
+        {
+          "version": "2.11.10",
+          "downloads": 10781577,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.11.10.json"
+        },
+        {
+          "version": "2.13.14",
+          "downloads": 4607293,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.13.14.json"
+        },
+        {
+          "version": "2.14.1",
+          "downloads": 102837370,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/2.14.1.json"
+        },
+        {
+          "version": "3.0.0-beta.13",
+          "downloads": 3307,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/humanizer.core/3.0.0-beta.13.json"
         }
       ],
       "vulnerabilities": []
@@ -41313,320 +41318,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/index.json",
-      "id": "NUnit3TestAdapter",
-      "version": "4.5.0",
-      "description": "The NUnit3 TestAdapter for Visual Studio, all versions from 2012 and onwards, and DotNet (incl. .Net core), versions .net framework 4.6.2 or higher, .net core 3.1, .net 5 or higher.\n\n      Note that this package ONLY contains the adapter, not the NUnit framework.\n      For VS 2017 and forward, you should add this package to every test project in your solution. (Earlier versions only require a single adapter package per solution.)",
-      "summary": "NUnit3 adapter for running tests in Visual Studio and DotNet. Works with NUnit 3.x, use the NUnit 2 adapter for 2.x tests.",
-      "title": "NUnit3 Test Adapter for Visual Studio and DotNet",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/nunit3testadapter/4.5.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/NUnit3TestAdapter/4.5.0/license",
-      "projectUrl": "https://docs.nunit.org/articles/vs-test-adapter/Index.html",
-      "tags": [
-        "test",
-        "visualstudio",
-        "testadapter",
-        "nunit",
-        "nunit3",
-        "dotnet"
-      ],
-      "authors": [
-        "Charlie Poole, Terje Sandstrom"
-      ],
-      "owners": [
-        "charliepoole",
-        "OsirisTerje",
-        "rprouse"
-      ],
-      "totalDownloads": 259453848,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "3.0.2-ctp-3",
-          "downloads": 7598,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.2-ctp-3.json"
-        },
-        {
-          "version": "3.0.4-ctp-4",
-          "downloads": 10899,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.4-ctp-4.json"
-        },
-        {
-          "version": "3.0.5-ctp-5",
-          "downloads": 6541,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.5-ctp-5.json"
-        },
-        {
-          "version": "3.0.6-ctp-6",
-          "downloads": 7083,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.6-ctp-6.json"
-        },
-        {
-          "version": "3.0.7-ctp-7",
-          "downloads": 7059,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.7-ctp-7.json"
-        },
-        {
-          "version": "3.0.7-ctp-7b",
-          "downloads": 11410,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.7-ctp-7b.json"
-        },
-        {
-          "version": "3.0.8-ctp-8",
-          "downloads": 167685,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.8-ctp-8.json"
-        },
-        {
-          "version": "3.0.9-ctp-9",
-          "downloads": 17339,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.9-ctp-9.json"
-        },
-        {
-          "version": "3.0.10",
-          "downloads": 169337,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.10.json"
-        },
-        {
-          "version": "3.2.0",
-          "downloads": 118462,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.2.0.json"
-        },
-        {
-          "version": "3.4.0",
-          "downloads": 119881,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.4.0.json"
-        },
-        {
-          "version": "3.4.1",
-          "downloads": 729137,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.4.1.json"
-        },
-        {
-          "version": "3.5.0",
-          "downloads": 212597,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.5.0.json"
-        },
-        {
-          "version": "3.5.1",
-          "downloads": 158232,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.5.1.json"
-        },
-        {
-          "version": "3.6.0",
-          "downloads": 765304,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.6.0.json"
-        },
-        {
-          "version": "3.7.0",
-          "downloads": 2162496,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.7.0.json"
-        },
-        {
-          "version": "3.8.0-alpha1",
-          "downloads": 319074,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.8.0-alpha1.json"
-        },
-        {
-          "version": "3.8.0",
-          "downloads": 2891730,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.8.0.json"
-        },
-        {
-          "version": "3.9.0",
-          "downloads": 5200030,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.9.0.json"
-        },
-        {
-          "version": "3.10.0",
-          "downloads": 13433473,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.10.0.json"
-        },
-        {
-          "version": "3.11.0",
-          "downloads": 6011035,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.11.0.json"
-        },
-        {
-          "version": "3.11.1",
-          "downloads": 389173,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.11.1.json"
-        },
-        {
-          "version": "3.11.2",
-          "downloads": 2012087,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.11.2.json"
-        },
-        {
-          "version": "3.12.0",
-          "downloads": 5233572,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.12.0.json"
-        },
-        {
-          "version": "3.13.0",
-          "downloads": 14212728,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.13.0.json"
-        },
-        {
-          "version": "3.14.0",
-          "downloads": 1544432,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.14.0.json"
-        },
-        {
-          "version": "3.15.0",
-          "downloads": 899389,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.15.0.json"
-        },
-        {
-          "version": "3.15.1",
-          "downloads": 21231217,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.15.1.json"
-        },
-        {
-          "version": "3.16.0",
-          "downloads": 1746993,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.16.0.json"
-        },
-        {
-          "version": "3.16.1",
-          "downloads": 30649594,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.16.1.json"
-        },
-        {
-          "version": "3.17.0-beta.1",
-          "downloads": 214562,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.17.0-beta.1.json"
-        },
-        {
-          "version": "3.17.0-beta.2",
-          "downloads": 33745,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.17.0-beta.2.json"
-        },
-        {
-          "version": "3.17.0",
-          "downloads": 35187854,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.17.0.json"
-        },
-        {
-          "version": "4.0.0-alpha.1",
-          "downloads": 247337,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.0.0-alpha.1.json"
-        },
-        {
-          "version": "4.0.0-beta.1",
-          "downloads": 434228,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.0.0-beta.1.json"
-        },
-        {
-          "version": "4.0.0-beta.2",
-          "downloads": 198074,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.0.0-beta.2.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 23387770,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.0.0.json"
-        },
-        {
-          "version": "4.1.0",
-          "downloads": 7667801,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.1.0.json"
-        },
-        {
-          "version": "4.2.0-beta.1",
-          "downloads": 3781,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.2.0-beta.1.json"
-        },
-        {
-          "version": "4.2.0-beta.2",
-          "downloads": 1084,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.2.0-beta.2.json"
-        },
-        {
-          "version": "4.2.0-beta.3",
-          "downloads": 2923,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.2.0-beta.3.json"
-        },
-        {
-          "version": "4.2.0-beta.4",
-          "downloads": 6351,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.2.0-beta.4.json"
-        },
-        {
-          "version": "4.2.0",
-          "downloads": 2088547,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.2.0.json"
-        },
-        {
-          "version": "4.2.1",
-          "downloads": 33004912,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.2.1.json"
-        },
-        {
-          "version": "4.3.0-alpha-net7",
-          "downloads": 46243,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.3.0-alpha-net7.json"
-        },
-        {
-          "version": "4.3.0-alpha-net7.4",
-          "downloads": 193234,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.3.0-alpha-net7.4.json"
-        },
-        {
-          "version": "4.3.0-rc.1",
-          "downloads": 1742,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.3.0-rc.1.json"
-        },
-        {
-          "version": "4.3.0",
-          "downloads": 3952732,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.3.0.json"
-        },
-        {
-          "version": "4.3.1",
-          "downloads": 11315784,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.3.1.json"
-        },
-        {
-          "version": "4.3.2",
-          "downloads": 62923,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.3.2.json"
-        },
-        {
-          "version": "4.4.0-beta.1",
-          "downloads": 5750,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.4.0-beta.1.json"
-        },
-        {
-          "version": "4.4.2",
-          "downloads": 10846402,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.4.2.json"
-        },
-        {
-          "version": "4.5.0-alpha.3",
-          "downloads": 559,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.5.0-alpha.3.json"
-        },
-        {
-          "version": "4.5.0-alpha.4",
-          "downloads": 88267,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.5.0-alpha.4.json"
-        },
-        {
-          "version": "4.5.0",
-          "downloads": 19638342,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.5.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.common/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.common/index.json",
@@ -41955,6 +41646,320 @@
           "version": "12.19.0-beta.2",
           "downloads": 1825,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.common/12.19.0-beta.2.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/index.json",
+      "id": "NUnit3TestAdapter",
+      "version": "4.5.0",
+      "description": "The NUnit3 TestAdapter for Visual Studio, all versions from 2012 and onwards, and DotNet (incl. .Net core), versions .net framework 4.6.2 or higher, .net core 3.1, .net 5 or higher.\n\n      Note that this package ONLY contains the adapter, not the NUnit framework.\n      For VS 2017 and forward, you should add this package to every test project in your solution. (Earlier versions only require a single adapter package per solution.)",
+      "summary": "NUnit3 adapter for running tests in Visual Studio and DotNet. Works with NUnit 3.x, use the NUnit 2 adapter for 2.x tests.",
+      "title": "NUnit3 Test Adapter for Visual Studio and DotNet",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/nunit3testadapter/4.5.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/NUnit3TestAdapter/4.5.0/license",
+      "projectUrl": "https://docs.nunit.org/articles/vs-test-adapter/Index.html",
+      "tags": [
+        "test",
+        "visualstudio",
+        "testadapter",
+        "nunit",
+        "nunit3",
+        "dotnet"
+      ],
+      "authors": [
+        "Charlie Poole, Terje Sandstrom"
+      ],
+      "owners": [
+        "charliepoole",
+        "OsirisTerje",
+        "rprouse"
+      ],
+      "totalDownloads": 259453848,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "3.0.2-ctp-3",
+          "downloads": 7598,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.2-ctp-3.json"
+        },
+        {
+          "version": "3.0.4-ctp-4",
+          "downloads": 10899,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.4-ctp-4.json"
+        },
+        {
+          "version": "3.0.5-ctp-5",
+          "downloads": 6541,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.5-ctp-5.json"
+        },
+        {
+          "version": "3.0.6-ctp-6",
+          "downloads": 7083,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.6-ctp-6.json"
+        },
+        {
+          "version": "3.0.7-ctp-7",
+          "downloads": 7059,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.7-ctp-7.json"
+        },
+        {
+          "version": "3.0.7-ctp-7b",
+          "downloads": 11410,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.7-ctp-7b.json"
+        },
+        {
+          "version": "3.0.8-ctp-8",
+          "downloads": 167685,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.8-ctp-8.json"
+        },
+        {
+          "version": "3.0.9-ctp-9",
+          "downloads": 17339,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.9-ctp-9.json"
+        },
+        {
+          "version": "3.0.10",
+          "downloads": 169337,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.0.10.json"
+        },
+        {
+          "version": "3.2.0",
+          "downloads": 118462,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.2.0.json"
+        },
+        {
+          "version": "3.4.0",
+          "downloads": 119881,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.4.0.json"
+        },
+        {
+          "version": "3.4.1",
+          "downloads": 729137,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.4.1.json"
+        },
+        {
+          "version": "3.5.0",
+          "downloads": 212597,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.5.0.json"
+        },
+        {
+          "version": "3.5.1",
+          "downloads": 158232,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.5.1.json"
+        },
+        {
+          "version": "3.6.0",
+          "downloads": 765304,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.6.0.json"
+        },
+        {
+          "version": "3.7.0",
+          "downloads": 2162496,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.7.0.json"
+        },
+        {
+          "version": "3.8.0-alpha1",
+          "downloads": 319074,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.8.0-alpha1.json"
+        },
+        {
+          "version": "3.8.0",
+          "downloads": 2891730,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.8.0.json"
+        },
+        {
+          "version": "3.9.0",
+          "downloads": 5200030,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.9.0.json"
+        },
+        {
+          "version": "3.10.0",
+          "downloads": 13433473,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.10.0.json"
+        },
+        {
+          "version": "3.11.0",
+          "downloads": 6011035,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.11.0.json"
+        },
+        {
+          "version": "3.11.1",
+          "downloads": 389173,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.11.1.json"
+        },
+        {
+          "version": "3.11.2",
+          "downloads": 2012087,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.11.2.json"
+        },
+        {
+          "version": "3.12.0",
+          "downloads": 5233572,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.12.0.json"
+        },
+        {
+          "version": "3.13.0",
+          "downloads": 14212728,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.13.0.json"
+        },
+        {
+          "version": "3.14.0",
+          "downloads": 1544432,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.14.0.json"
+        },
+        {
+          "version": "3.15.0",
+          "downloads": 899389,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.15.0.json"
+        },
+        {
+          "version": "3.15.1",
+          "downloads": 21231217,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.15.1.json"
+        },
+        {
+          "version": "3.16.0",
+          "downloads": 1746993,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.16.0.json"
+        },
+        {
+          "version": "3.16.1",
+          "downloads": 30649594,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.16.1.json"
+        },
+        {
+          "version": "3.17.0-beta.1",
+          "downloads": 214562,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.17.0-beta.1.json"
+        },
+        {
+          "version": "3.17.0-beta.2",
+          "downloads": 33745,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.17.0-beta.2.json"
+        },
+        {
+          "version": "3.17.0",
+          "downloads": 35187854,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/3.17.0.json"
+        },
+        {
+          "version": "4.0.0-alpha.1",
+          "downloads": 247337,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.0.0-alpha.1.json"
+        },
+        {
+          "version": "4.0.0-beta.1",
+          "downloads": 434228,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.0.0-beta.1.json"
+        },
+        {
+          "version": "4.0.0-beta.2",
+          "downloads": 198074,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.0.0-beta.2.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 23387770,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.0.0.json"
+        },
+        {
+          "version": "4.1.0",
+          "downloads": 7667801,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.1.0.json"
+        },
+        {
+          "version": "4.2.0-beta.1",
+          "downloads": 3781,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.2.0-beta.1.json"
+        },
+        {
+          "version": "4.2.0-beta.2",
+          "downloads": 1084,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.2.0-beta.2.json"
+        },
+        {
+          "version": "4.2.0-beta.3",
+          "downloads": 2923,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.2.0-beta.3.json"
+        },
+        {
+          "version": "4.2.0-beta.4",
+          "downloads": 6351,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.2.0-beta.4.json"
+        },
+        {
+          "version": "4.2.0",
+          "downloads": 2088547,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.2.0.json"
+        },
+        {
+          "version": "4.2.1",
+          "downloads": 33004912,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.2.1.json"
+        },
+        {
+          "version": "4.3.0-alpha-net7",
+          "downloads": 46243,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.3.0-alpha-net7.json"
+        },
+        {
+          "version": "4.3.0-alpha-net7.4",
+          "downloads": 193234,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.3.0-alpha-net7.4.json"
+        },
+        {
+          "version": "4.3.0-rc.1",
+          "downloads": 1742,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.3.0-rc.1.json"
+        },
+        {
+          "version": "4.3.0",
+          "downloads": 3952732,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.3.0.json"
+        },
+        {
+          "version": "4.3.1",
+          "downloads": 11315784,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.3.1.json"
+        },
+        {
+          "version": "4.3.2",
+          "downloads": 62923,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.3.2.json"
+        },
+        {
+          "version": "4.4.0-beta.1",
+          "downloads": 5750,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.4.0-beta.1.json"
+        },
+        {
+          "version": "4.4.2",
+          "downloads": 10846402,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.4.2.json"
+        },
+        {
+          "version": "4.5.0-alpha.3",
+          "downloads": 559,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.5.0-alpha.3.json"
+        },
+        {
+          "version": "4.5.0-alpha.4",
+          "downloads": 88267,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.5.0-alpha.4.json"
+        },
+        {
+          "version": "4.5.0",
+          "downloads": 19638342,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nunit3testadapter/4.5.0.json"
         }
       ],
       "vulnerabilities": []
@@ -43086,12 +43091,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "id": "AWSSDK.S3",
-      "version": "3.7.307.22",
+      "version": "3.7.307.23",
       "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
       "summary": "",
       "title": "AWSSDK - S3",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.307.22/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/3.7.307.22/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/3.7.307.23/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/3.7.307.23/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -48433,6 +48438,11 @@
           "version": "3.7.307.22",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.307.22.json"
+        },
+        {
+          "version": "3.7.307.23",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.307.23.json"
         }
       ],
       "vulnerabilities": []
