@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 5074,
+  "totalHits": 5079,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cake.tool/index.json",
@@ -23168,6 +23168,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nbgv/3.6.143.json"
         },
         {
+          "version": "3.6.146",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nbgv/3.6.146.json"
+        },
+        {
           "version": "3.7.48-alpha",
           "downloads": 2495,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nbgv/3.7.48-alpha.json"
@@ -27351,11 +27356,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/index.json",
       "id": "FunFair.BuildVersion",
-      "version": "6.2.16.683-main",
+      "version": "6.2.16.688-main",
       "description": "Build versioning tool.",
       "summary": "",
       "title": "FunFair.BuildVersion",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.16.683-main/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.16.688-main/icon",
       "projectUrl": "https://github.com/funfair-tech/funfair-build-version",
       "tags": [
         "FunFair",
@@ -33390,6 +33395,26 @@
           "version": "6.2.16.683-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.16.683-main.json"
+        },
+        {
+          "version": "6.2.16.685-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.16.685-main.json"
+        },
+        {
+          "version": "6.2.16.686-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.16.686-main.json"
+        },
+        {
+          "version": "6.2.16.687-update-mezianto",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.16.687-update-mezianto.json"
+        },
+        {
+          "version": "6.2.16.688-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.16.688-main.json"
         }
       ],
       "vulnerabilities": []
@@ -49725,6 +49750,695 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/index.json",
+      "id": "Microsoft.CST.DevSkim.CLI",
+      "version": "1.0.33",
+      "description": "DevSkim is a framework and language analyzer that provides inline security analysis. This is a Dotnet Tool package. For the library package, see Microsoft.CST.DevSkim.",
+      "summary": "",
+      "title": "Microsoft.CST.DevSkim.CLI",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.cst.devskim.cli/1.0.33/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.CST.DevSkim.CLI/1.0.33/license",
+      "projectUrl": "https://github.com/Microsoft/DevSkim",
+      "tags": [
+        "Security",
+        "Linter"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "Microsoft",
+        "nugettwcsecurity"
+      ],
+      "totalDownloads": 1429936,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.4.109",
+          "downloads": 9423,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.109.json"
+        },
+        {
+          "version": "0.4.110",
+          "downloads": 1656,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.110.json"
+        },
+        {
+          "version": "0.4.114",
+          "downloads": 1700,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.114.json"
+        },
+        {
+          "version": "0.4.115",
+          "downloads": 1768,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.115.json"
+        },
+        {
+          "version": "0.4.118",
+          "downloads": 1641,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.118.json"
+        },
+        {
+          "version": "0.4.119",
+          "downloads": 1678,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.119.json"
+        },
+        {
+          "version": "0.4.123",
+          "downloads": 1772,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.123.json"
+        },
+        {
+          "version": "0.4.127",
+          "downloads": 1421,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.127.json"
+        },
+        {
+          "version": "0.4.128",
+          "downloads": 1772,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.128.json"
+        },
+        {
+          "version": "0.4.130",
+          "downloads": 1556,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.130.json"
+        },
+        {
+          "version": "0.4.131",
+          "downloads": 1729,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.131.json"
+        },
+        {
+          "version": "0.4.132",
+          "downloads": 1843,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.132.json"
+        },
+        {
+          "version": "0.4.134",
+          "downloads": 1552,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.134.json"
+        },
+        {
+          "version": "0.4.135",
+          "downloads": 1733,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.135.json"
+        },
+        {
+          "version": "0.4.136",
+          "downloads": 1694,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.136.json"
+        },
+        {
+          "version": "0.4.142",
+          "downloads": 1471,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.142.json"
+        },
+        {
+          "version": "0.4.144",
+          "downloads": 2140,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.144.json"
+        },
+        {
+          "version": "0.4.149",
+          "downloads": 1365,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.149.json"
+        },
+        {
+          "version": "0.4.150",
+          "downloads": 1373,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.150.json"
+        },
+        {
+          "version": "0.4.151",
+          "downloads": 1481,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.151.json"
+        },
+        {
+          "version": "0.4.152",
+          "downloads": 2003,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.152.json"
+        },
+        {
+          "version": "0.4.153",
+          "downloads": 1506,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.153.json"
+        },
+        {
+          "version": "0.4.157",
+          "downloads": 1829,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.157.json"
+        },
+        {
+          "version": "0.4.162",
+          "downloads": 1658,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.162.json"
+        },
+        {
+          "version": "0.4.163",
+          "downloads": 1502,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.163.json"
+        },
+        {
+          "version": "0.4.164",
+          "downloads": 1616,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.164.json"
+        },
+        {
+          "version": "0.4.165",
+          "downloads": 1400,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.165.json"
+        },
+        {
+          "version": "0.4.166",
+          "downloads": 1729,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.166.json"
+        },
+        {
+          "version": "0.4.168",
+          "downloads": 1876,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.168.json"
+        },
+        {
+          "version": "0.4.173",
+          "downloads": 1635,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.173.json"
+        },
+        {
+          "version": "0.4.174",
+          "downloads": 1577,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.174.json"
+        },
+        {
+          "version": "0.4.175",
+          "downloads": 1536,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.175.json"
+        },
+        {
+          "version": "0.4.177",
+          "downloads": 1520,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.177.json"
+        },
+        {
+          "version": "0.4.183",
+          "downloads": 1737,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.183.json"
+        },
+        {
+          "version": "0.4.188",
+          "downloads": 1567,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.188.json"
+        },
+        {
+          "version": "0.4.189",
+          "downloads": 1844,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.189.json"
+        },
+        {
+          "version": "0.4.192",
+          "downloads": 39809,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.192.json"
+        },
+        {
+          "version": "0.4.199",
+          "downloads": 1249,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.199.json"
+        },
+        {
+          "version": "0.4.200",
+          "downloads": 1515,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.200.json"
+        },
+        {
+          "version": "0.4.207",
+          "downloads": 3853,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.207.json"
+        },
+        {
+          "version": "0.4.212",
+          "downloads": 1560,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.212.json"
+        },
+        {
+          "version": "0.4.214",
+          "downloads": 1839,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.214.json"
+        },
+        {
+          "version": "0.4.216",
+          "downloads": 1367,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.216.json"
+        },
+        {
+          "version": "0.4.217",
+          "downloads": 1080,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.217.json"
+        },
+        {
+          "version": "0.4.218",
+          "downloads": 4254,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.218.json"
+        },
+        {
+          "version": "0.4.221",
+          "downloads": 10226,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.221.json"
+        },
+        {
+          "version": "0.4.233",
+          "downloads": 1346,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.233.json"
+        },
+        {
+          "version": "0.4.234",
+          "downloads": 3621,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.234.json"
+        },
+        {
+          "version": "0.4.236",
+          "downloads": 1483,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.236.json"
+        },
+        {
+          "version": "0.4.238",
+          "downloads": 10305,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.238.json"
+        },
+        {
+          "version": "0.4.242",
+          "downloads": 1493,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.242.json"
+        },
+        {
+          "version": "0.4.244",
+          "downloads": 22287,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.244.json"
+        },
+        {
+          "version": "0.4.250",
+          "downloads": 1417,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.250.json"
+        },
+        {
+          "version": "0.4.251",
+          "downloads": 2930,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.251.json"
+        },
+        {
+          "version": "0.4.253",
+          "downloads": 3160,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.253.json"
+        },
+        {
+          "version": "0.4.254",
+          "downloads": 5842,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.254.json"
+        },
+        {
+          "version": "0.4.257",
+          "downloads": 1060,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.257.json"
+        },
+        {
+          "version": "0.5.1",
+          "downloads": 1739,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.5.1.json"
+        },
+        {
+          "version": "0.5.2",
+          "downloads": 1923,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.5.2.json"
+        },
+        {
+          "version": "0.5.3",
+          "downloads": 2375,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.5.3.json"
+        },
+        {
+          "version": "0.5.5",
+          "downloads": 1173,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.5.5.json"
+        },
+        {
+          "version": "0.5.6",
+          "downloads": 2094,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.5.6.json"
+        },
+        {
+          "version": "0.6.1",
+          "downloads": 10235,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.1.json"
+        },
+        {
+          "version": "0.6.4",
+          "downloads": 5819,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.4.json"
+        },
+        {
+          "version": "0.6.5",
+          "downloads": 9771,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.5.json"
+        },
+        {
+          "version": "0.6.6",
+          "downloads": 4422,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.6.json"
+        },
+        {
+          "version": "0.6.9",
+          "downloads": 185935,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.9.json"
+        },
+        {
+          "version": "0.6.29-gccc5aa72f0",
+          "downloads": 1075,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.29-gccc5aa72f0.json"
+        },
+        {
+          "version": "0.6.30",
+          "downloads": 3095,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.30.json"
+        },
+        {
+          "version": "0.6.31",
+          "downloads": 1367,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.31.json"
+        },
+        {
+          "version": "0.6.32",
+          "downloads": 43123,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.32.json"
+        },
+        {
+          "version": "0.7.3-alpha",
+          "downloads": 1071,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.3-alpha.json"
+        },
+        {
+          "version": "0.7.4-alpha",
+          "downloads": 1065,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.4-alpha.json"
+        },
+        {
+          "version": "0.7.5-alpha",
+          "downloads": 1141,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.5-alpha.json"
+        },
+        {
+          "version": "0.7.6-alpha",
+          "downloads": 1185,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.6-alpha.json"
+        },
+        {
+          "version": "0.7.101",
+          "downloads": 68526,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.101.json"
+        },
+        {
+          "version": "0.7.103",
+          "downloads": 36284,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.103.json"
+        },
+        {
+          "version": "0.7.104",
+          "downloads": 43039,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.104.json"
+        },
+        {
+          "version": "0.7.105",
+          "downloads": 48254,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.105.json"
+        },
+        {
+          "version": "0.7.110",
+          "downloads": 42530,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.110.json"
+        },
+        {
+          "version": "0.8.1-alpha",
+          "downloads": 1767,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.1-alpha.json"
+        },
+        {
+          "version": "0.8.2-alpha",
+          "downloads": 1459,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.2-alpha.json"
+        },
+        {
+          "version": "0.8.4-alpha",
+          "downloads": 1227,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.4-alpha.json"
+        },
+        {
+          "version": "0.8.6-alpha",
+          "downloads": 1383,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.6-alpha.json"
+        },
+        {
+          "version": "0.8.7-alpha",
+          "downloads": 1295,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.7-alpha.json"
+        },
+        {
+          "version": "0.8.8-alpha",
+          "downloads": 1341,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.8-alpha.json"
+        },
+        {
+          "version": "0.8.9-alpha",
+          "downloads": 1343,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.9-alpha.json"
+        },
+        {
+          "version": "0.8.10-alpha",
+          "downloads": 1399,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.10-alpha.json"
+        },
+        {
+          "version": "0.8.11-alpha",
+          "downloads": 1745,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.11-alpha.json"
+        },
+        {
+          "version": "0.8.12-alpha",
+          "downloads": 1467,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.12-alpha.json"
+        },
+        {
+          "version": "0.8.13-alpha",
+          "downloads": 1560,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.13-alpha.json"
+        },
+        {
+          "version": "0.8.14-alpha",
+          "downloads": 1249,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.14-alpha.json"
+        },
+        {
+          "version": "0.8.15-alpha",
+          "downloads": 1642,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.15-alpha.json"
+        },
+        {
+          "version": "0.8.16-alpha",
+          "downloads": 1649,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.16-alpha.json"
+        },
+        {
+          "version": "0.8.17-alpha",
+          "downloads": 1525,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.17-alpha.json"
+        },
+        {
+          "version": "0.8.19-alpha",
+          "downloads": 1312,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.19-alpha.json"
+        },
+        {
+          "version": "0.8.31-alpha",
+          "downloads": 1260,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.31-alpha.json"
+        },
+        {
+          "version": "0.8.48-alpha",
+          "downloads": 1363,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.48-alpha.json"
+        },
+        {
+          "version": "0.8.53-alpha",
+          "downloads": 1428,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.53-alpha.json"
+        },
+        {
+          "version": "0.8.55-alpha",
+          "downloads": 1389,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.55-alpha.json"
+        },
+        {
+          "version": "0.8.56-alpha",
+          "downloads": 1108,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.56-alpha.json"
+        },
+        {
+          "version": "0.8.57-alpha",
+          "downloads": 1296,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.57-alpha.json"
+        },
+        {
+          "version": "0.8.59-alpha",
+          "downloads": 1282,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.59-alpha.json"
+        },
+        {
+          "version": "0.8.61-alpha",
+          "downloads": 1126,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.61-alpha.json"
+        },
+        {
+          "version": "0.8.62-alpha",
+          "downloads": 1233,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.62-alpha.json"
+        },
+        {
+          "version": "1.0.1",
+          "downloads": 1716,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.1.json"
+        },
+        {
+          "version": "1.0.2",
+          "downloads": 1249,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.2.json"
+        },
+        {
+          "version": "1.0.3",
+          "downloads": 1673,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.3.json"
+        },
+        {
+          "version": "1.0.4",
+          "downloads": 25231,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.4.json"
+        },
+        {
+          "version": "1.0.6",
+          "downloads": 11934,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.6.json"
+        },
+        {
+          "version": "1.0.7",
+          "downloads": 4753,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.7.json"
+        },
+        {
+          "version": "1.0.8",
+          "downloads": 76813,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.8.json"
+        },
+        {
+          "version": "1.0.9",
+          "downloads": 1589,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.9.json"
+        },
+        {
+          "version": "1.0.10",
+          "downloads": 1877,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.10.json"
+        },
+        {
+          "version": "1.0.11",
+          "downloads": 29850,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.11.json"
+        },
+        {
+          "version": "1.0.13",
+          "downloads": 2407,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.13.json"
+        },
+        {
+          "version": "1.0.14",
+          "downloads": 4485,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.14.json"
+        },
+        {
+          "version": "1.0.15",
+          "downloads": 5956,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.15.json"
+        },
+        {
+          "version": "1.0.16",
+          "downloads": 3721,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.16.json"
+        },
+        {
+          "version": "1.0.17",
+          "downloads": 3386,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.17.json"
+        },
+        {
+          "version": "1.0.18",
+          "downloads": 14611,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.18.json"
+        },
+        {
+          "version": "1.0.19",
+          "downloads": 5821,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.19.json"
+        },
+        {
+          "version": "1.0.20",
+          "downloads": 13548,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.20.json"
+        },
+        {
+          "version": "1.0.21",
+          "downloads": 7489,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.21.json"
+        },
+        {
+          "version": "1.0.22",
+          "downloads": 16035,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.22.json"
+        },
+        {
+          "version": "1.0.23",
+          "downloads": 72427,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.23.json"
+        },
+        {
+          "version": "1.0.27",
+          "downloads": 23533,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.27.json"
+        },
+        {
+          "version": "1.0.28",
+          "downloads": 40829,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.28.json"
+        },
+        {
+          "version": "1.0.30",
+          "downloads": 22044,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.30.json"
+        },
+        {
+          "version": "1.0.32",
+          "downloads": 10770,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.32.json"
+        },
+        {
+          "version": "1.0.33",
+          "downloads": 283546,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.33.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
@@ -54768,695 +55482,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/index.json",
-      "id": "Microsoft.CST.DevSkim.CLI",
-      "version": "1.0.33",
-      "description": "DevSkim is a framework and language analyzer that provides inline security analysis. This is a Dotnet Tool package. For the library package, see Microsoft.CST.DevSkim.",
-      "summary": "",
-      "title": "Microsoft.CST.DevSkim.CLI",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.cst.devskim.cli/1.0.33/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.CST.DevSkim.CLI/1.0.33/license",
-      "projectUrl": "https://github.com/Microsoft/DevSkim",
-      "tags": [
-        "Security",
-        "Linter"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "Microsoft",
-        "nugettwcsecurity"
-      ],
-      "totalDownloads": 1429936,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.4.109",
-          "downloads": 9423,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.109.json"
-        },
-        {
-          "version": "0.4.110",
-          "downloads": 1656,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.110.json"
-        },
-        {
-          "version": "0.4.114",
-          "downloads": 1700,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.114.json"
-        },
-        {
-          "version": "0.4.115",
-          "downloads": 1768,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.115.json"
-        },
-        {
-          "version": "0.4.118",
-          "downloads": 1641,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.118.json"
-        },
-        {
-          "version": "0.4.119",
-          "downloads": 1678,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.119.json"
-        },
-        {
-          "version": "0.4.123",
-          "downloads": 1772,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.123.json"
-        },
-        {
-          "version": "0.4.127",
-          "downloads": 1421,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.127.json"
-        },
-        {
-          "version": "0.4.128",
-          "downloads": 1772,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.128.json"
-        },
-        {
-          "version": "0.4.130",
-          "downloads": 1556,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.130.json"
-        },
-        {
-          "version": "0.4.131",
-          "downloads": 1729,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.131.json"
-        },
-        {
-          "version": "0.4.132",
-          "downloads": 1843,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.132.json"
-        },
-        {
-          "version": "0.4.134",
-          "downloads": 1552,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.134.json"
-        },
-        {
-          "version": "0.4.135",
-          "downloads": 1733,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.135.json"
-        },
-        {
-          "version": "0.4.136",
-          "downloads": 1694,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.136.json"
-        },
-        {
-          "version": "0.4.142",
-          "downloads": 1471,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.142.json"
-        },
-        {
-          "version": "0.4.144",
-          "downloads": 2140,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.144.json"
-        },
-        {
-          "version": "0.4.149",
-          "downloads": 1365,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.149.json"
-        },
-        {
-          "version": "0.4.150",
-          "downloads": 1373,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.150.json"
-        },
-        {
-          "version": "0.4.151",
-          "downloads": 1481,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.151.json"
-        },
-        {
-          "version": "0.4.152",
-          "downloads": 2003,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.152.json"
-        },
-        {
-          "version": "0.4.153",
-          "downloads": 1506,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.153.json"
-        },
-        {
-          "version": "0.4.157",
-          "downloads": 1829,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.157.json"
-        },
-        {
-          "version": "0.4.162",
-          "downloads": 1658,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.162.json"
-        },
-        {
-          "version": "0.4.163",
-          "downloads": 1502,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.163.json"
-        },
-        {
-          "version": "0.4.164",
-          "downloads": 1616,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.164.json"
-        },
-        {
-          "version": "0.4.165",
-          "downloads": 1400,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.165.json"
-        },
-        {
-          "version": "0.4.166",
-          "downloads": 1729,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.166.json"
-        },
-        {
-          "version": "0.4.168",
-          "downloads": 1876,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.168.json"
-        },
-        {
-          "version": "0.4.173",
-          "downloads": 1635,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.173.json"
-        },
-        {
-          "version": "0.4.174",
-          "downloads": 1577,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.174.json"
-        },
-        {
-          "version": "0.4.175",
-          "downloads": 1536,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.175.json"
-        },
-        {
-          "version": "0.4.177",
-          "downloads": 1520,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.177.json"
-        },
-        {
-          "version": "0.4.183",
-          "downloads": 1737,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.183.json"
-        },
-        {
-          "version": "0.4.188",
-          "downloads": 1567,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.188.json"
-        },
-        {
-          "version": "0.4.189",
-          "downloads": 1844,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.189.json"
-        },
-        {
-          "version": "0.4.192",
-          "downloads": 39809,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.192.json"
-        },
-        {
-          "version": "0.4.199",
-          "downloads": 1249,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.199.json"
-        },
-        {
-          "version": "0.4.200",
-          "downloads": 1515,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.200.json"
-        },
-        {
-          "version": "0.4.207",
-          "downloads": 3853,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.207.json"
-        },
-        {
-          "version": "0.4.212",
-          "downloads": 1560,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.212.json"
-        },
-        {
-          "version": "0.4.214",
-          "downloads": 1839,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.214.json"
-        },
-        {
-          "version": "0.4.216",
-          "downloads": 1367,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.216.json"
-        },
-        {
-          "version": "0.4.217",
-          "downloads": 1080,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.217.json"
-        },
-        {
-          "version": "0.4.218",
-          "downloads": 4254,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.218.json"
-        },
-        {
-          "version": "0.4.221",
-          "downloads": 10226,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.221.json"
-        },
-        {
-          "version": "0.4.233",
-          "downloads": 1346,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.233.json"
-        },
-        {
-          "version": "0.4.234",
-          "downloads": 3621,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.234.json"
-        },
-        {
-          "version": "0.4.236",
-          "downloads": 1483,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.236.json"
-        },
-        {
-          "version": "0.4.238",
-          "downloads": 10305,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.238.json"
-        },
-        {
-          "version": "0.4.242",
-          "downloads": 1493,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.242.json"
-        },
-        {
-          "version": "0.4.244",
-          "downloads": 22287,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.244.json"
-        },
-        {
-          "version": "0.4.250",
-          "downloads": 1417,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.250.json"
-        },
-        {
-          "version": "0.4.251",
-          "downloads": 2930,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.251.json"
-        },
-        {
-          "version": "0.4.253",
-          "downloads": 3160,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.253.json"
-        },
-        {
-          "version": "0.4.254",
-          "downloads": 5842,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.254.json"
-        },
-        {
-          "version": "0.4.257",
-          "downloads": 1060,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.4.257.json"
-        },
-        {
-          "version": "0.5.1",
-          "downloads": 1739,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.5.1.json"
-        },
-        {
-          "version": "0.5.2",
-          "downloads": 1923,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.5.2.json"
-        },
-        {
-          "version": "0.5.3",
-          "downloads": 2375,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.5.3.json"
-        },
-        {
-          "version": "0.5.5",
-          "downloads": 1173,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.5.5.json"
-        },
-        {
-          "version": "0.5.6",
-          "downloads": 2094,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.5.6.json"
-        },
-        {
-          "version": "0.6.1",
-          "downloads": 10235,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.1.json"
-        },
-        {
-          "version": "0.6.4",
-          "downloads": 5819,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.4.json"
-        },
-        {
-          "version": "0.6.5",
-          "downloads": 9771,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.5.json"
-        },
-        {
-          "version": "0.6.6",
-          "downloads": 4422,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.6.json"
-        },
-        {
-          "version": "0.6.9",
-          "downloads": 185935,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.9.json"
-        },
-        {
-          "version": "0.6.29-gccc5aa72f0",
-          "downloads": 1075,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.29-gccc5aa72f0.json"
-        },
-        {
-          "version": "0.6.30",
-          "downloads": 3095,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.30.json"
-        },
-        {
-          "version": "0.6.31",
-          "downloads": 1367,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.31.json"
-        },
-        {
-          "version": "0.6.32",
-          "downloads": 43123,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.6.32.json"
-        },
-        {
-          "version": "0.7.3-alpha",
-          "downloads": 1071,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.3-alpha.json"
-        },
-        {
-          "version": "0.7.4-alpha",
-          "downloads": 1065,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.4-alpha.json"
-        },
-        {
-          "version": "0.7.5-alpha",
-          "downloads": 1141,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.5-alpha.json"
-        },
-        {
-          "version": "0.7.6-alpha",
-          "downloads": 1185,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.6-alpha.json"
-        },
-        {
-          "version": "0.7.101",
-          "downloads": 68526,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.101.json"
-        },
-        {
-          "version": "0.7.103",
-          "downloads": 36284,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.103.json"
-        },
-        {
-          "version": "0.7.104",
-          "downloads": 43039,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.104.json"
-        },
-        {
-          "version": "0.7.105",
-          "downloads": 48254,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.105.json"
-        },
-        {
-          "version": "0.7.110",
-          "downloads": 42530,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.7.110.json"
-        },
-        {
-          "version": "0.8.1-alpha",
-          "downloads": 1767,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.1-alpha.json"
-        },
-        {
-          "version": "0.8.2-alpha",
-          "downloads": 1459,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.2-alpha.json"
-        },
-        {
-          "version": "0.8.4-alpha",
-          "downloads": 1227,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.4-alpha.json"
-        },
-        {
-          "version": "0.8.6-alpha",
-          "downloads": 1383,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.6-alpha.json"
-        },
-        {
-          "version": "0.8.7-alpha",
-          "downloads": 1295,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.7-alpha.json"
-        },
-        {
-          "version": "0.8.8-alpha",
-          "downloads": 1341,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.8-alpha.json"
-        },
-        {
-          "version": "0.8.9-alpha",
-          "downloads": 1343,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.9-alpha.json"
-        },
-        {
-          "version": "0.8.10-alpha",
-          "downloads": 1399,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.10-alpha.json"
-        },
-        {
-          "version": "0.8.11-alpha",
-          "downloads": 1745,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.11-alpha.json"
-        },
-        {
-          "version": "0.8.12-alpha",
-          "downloads": 1467,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.12-alpha.json"
-        },
-        {
-          "version": "0.8.13-alpha",
-          "downloads": 1560,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.13-alpha.json"
-        },
-        {
-          "version": "0.8.14-alpha",
-          "downloads": 1249,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.14-alpha.json"
-        },
-        {
-          "version": "0.8.15-alpha",
-          "downloads": 1642,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.15-alpha.json"
-        },
-        {
-          "version": "0.8.16-alpha",
-          "downloads": 1649,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.16-alpha.json"
-        },
-        {
-          "version": "0.8.17-alpha",
-          "downloads": 1525,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.17-alpha.json"
-        },
-        {
-          "version": "0.8.19-alpha",
-          "downloads": 1312,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.19-alpha.json"
-        },
-        {
-          "version": "0.8.31-alpha",
-          "downloads": 1260,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.31-alpha.json"
-        },
-        {
-          "version": "0.8.48-alpha",
-          "downloads": 1363,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.48-alpha.json"
-        },
-        {
-          "version": "0.8.53-alpha",
-          "downloads": 1428,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.53-alpha.json"
-        },
-        {
-          "version": "0.8.55-alpha",
-          "downloads": 1389,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.55-alpha.json"
-        },
-        {
-          "version": "0.8.56-alpha",
-          "downloads": 1108,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.56-alpha.json"
-        },
-        {
-          "version": "0.8.57-alpha",
-          "downloads": 1296,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.57-alpha.json"
-        },
-        {
-          "version": "0.8.59-alpha",
-          "downloads": 1282,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.59-alpha.json"
-        },
-        {
-          "version": "0.8.61-alpha",
-          "downloads": 1126,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.61-alpha.json"
-        },
-        {
-          "version": "0.8.62-alpha",
-          "downloads": 1233,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/0.8.62-alpha.json"
-        },
-        {
-          "version": "1.0.1",
-          "downloads": 1716,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.1.json"
-        },
-        {
-          "version": "1.0.2",
-          "downloads": 1249,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.2.json"
-        },
-        {
-          "version": "1.0.3",
-          "downloads": 1673,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.3.json"
-        },
-        {
-          "version": "1.0.4",
-          "downloads": 25231,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.4.json"
-        },
-        {
-          "version": "1.0.6",
-          "downloads": 11934,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.6.json"
-        },
-        {
-          "version": "1.0.7",
-          "downloads": 4753,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.7.json"
-        },
-        {
-          "version": "1.0.8",
-          "downloads": 76813,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.8.json"
-        },
-        {
-          "version": "1.0.9",
-          "downloads": 1589,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.9.json"
-        },
-        {
-          "version": "1.0.10",
-          "downloads": 1877,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.10.json"
-        },
-        {
-          "version": "1.0.11",
-          "downloads": 29850,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.11.json"
-        },
-        {
-          "version": "1.0.13",
-          "downloads": 2407,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.13.json"
-        },
-        {
-          "version": "1.0.14",
-          "downloads": 4485,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.14.json"
-        },
-        {
-          "version": "1.0.15",
-          "downloads": 5956,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.15.json"
-        },
-        {
-          "version": "1.0.16",
-          "downloads": 3721,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.16.json"
-        },
-        {
-          "version": "1.0.17",
-          "downloads": 3386,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.17.json"
-        },
-        {
-          "version": "1.0.18",
-          "downloads": 14611,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.18.json"
-        },
-        {
-          "version": "1.0.19",
-          "downloads": 5821,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.19.json"
-        },
-        {
-          "version": "1.0.20",
-          "downloads": 13548,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.20.json"
-        },
-        {
-          "version": "1.0.21",
-          "downloads": 7489,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.21.json"
-        },
-        {
-          "version": "1.0.22",
-          "downloads": 16035,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.22.json"
-        },
-        {
-          "version": "1.0.23",
-          "downloads": 72427,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.23.json"
-        },
-        {
-          "version": "1.0.27",
-          "downloads": 23533,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.27.json"
-        },
-        {
-          "version": "1.0.28",
-          "downloads": 40829,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.28.json"
-        },
-        {
-          "version": "1.0.30",
-          "downloads": 22044,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.30.json"
-        },
-        {
-          "version": "1.0.32",
-          "downloads": 10770,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.32.json"
-        },
-        {
-          "version": "1.0.33",
-          "downloads": 283546,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.cst.devskim.cli/1.0.33.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/excubo.webcompiler/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/excubo.webcompiler/index.json",
@@ -56838,12 +56863,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/specsync.azuredevops/index.json",
       "id": "SpecSync.AzureDevOps",
-      "version": "3.4.18-pre20241017-4",
+      "version": "3.4.18-pre20241018-3",
       "description": "SpecSync for Azure DevOps is a synchronization tool that synchronizes Gherkin feature files with Azure DevOps (TFS/VSTS). Please find more information and detailed documentation at https://speclink.me/specsync.",
       "summary": "",
       "title": "SpecSync.AzureDevOps",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/specsync.azuredevops/3.4.18-pre20241017-4/icon",
-      "licenseUrl": "https://www.nuget.org/packages/SpecSync.AzureDevOps/3.4.18-pre20241017-4/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/specsync.azuredevops/3.4.18-pre20241018-3/icon",
+      "licenseUrl": "https://www.nuget.org/packages/SpecSync.AzureDevOps/3.4.18-pre20241018-3/license",
       "projectUrl": "https://speclink.me/specsync",
       "tags": [
         "specflow",
@@ -57242,6 +57267,16 @@
           "version": "3.4.18-pre20241017-4",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/specsync.azuredevops/3.4.18-pre20241017-4.json"
+        },
+        {
+          "version": "3.4.18-pre20241018-1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/specsync.azuredevops/3.4.18-pre20241018-1.json"
+        },
+        {
+          "version": "3.4.18-pre20241018-3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/specsync.azuredevops/3.4.18-pre20241018-3.json"
         }
       ],
       "vulnerabilities": []
@@ -65948,6 +65983,16 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/16.1.1.4.json"
         },
         {
+          "version": "16.1.1.11",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/16.1.1.11.json"
+        },
+        {
+          "version": "16.1.1.12",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/16.1.1.12.json"
+        },
+        {
           "version": "99.1.10.167",
           "downloads": 146,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/99.1.10.167.json"
@@ -67680,6 +67725,773 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/index.json",
+      "id": "fantomas-tool",
+      "version": "5.0.0-alpha-002",
+      "description": "This library aims at formatting F# source files based on a given configuration.\nFantomas will ensure correct indentation and consistent spacing between elements in the source files.\nSome common use cases include:\n(1) Reformatting a code base to conform a universal page width\n(2) Converting legacy code from verbose syntax to light syntax\n(3) Formatting auto-generated F# signatures.",
+      "summary": "",
+      "title": "fantomas-tool",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fantomas-tool/5.0.0-alpha-002/icon",
+      "licenseUrl": "https://www.nuget.org/packages/fantomas-tool/5.0.0-alpha-002/license",
+      "tags": [
+        "F#",
+        "fsharp",
+        "formatting",
+        "beautifier",
+        "indentation",
+        "indenter"
+      ],
+      "authors": [
+        "Florian Verdonck, Jindřich Ivánek"
+      ],
+      "owners": [
+        "jindraivanek",
+        "nojaf"
+      ],
+      "totalDownloads": 753151,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.8.0",
+          "downloads": 1482,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/2.8.0.json"
+        },
+        {
+          "version": "2.8.1",
+          "downloads": 1296,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/2.8.1.json"
+        },
+        {
+          "version": "2.9.0",
+          "downloads": 1314,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/2.9.0.json"
+        },
+        {
+          "version": "2.9.1",
+          "downloads": 1735,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/2.9.1.json"
+        },
+        {
+          "version": "2.9.2",
+          "downloads": 6371,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/2.9.2.json"
+        },
+        {
+          "version": "3.0.0-beta-001",
+          "downloads": 755,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.0.0-beta-001.json"
+        },
+        {
+          "version": "3.0.0-beta-002",
+          "downloads": 954,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.0.0-beta-002.json"
+        },
+        {
+          "version": "3.0.0-beta-003",
+          "downloads": 644,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.0.0-beta-003.json"
+        },
+        {
+          "version": "3.0.0-beta-004",
+          "downloads": 620,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.0.0-beta-004.json"
+        },
+        {
+          "version": "3.0.0-beta-005",
+          "downloads": 587,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.0.0-beta-005.json"
+        },
+        {
+          "version": "3.0.0-beta-006",
+          "downloads": 578,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.0.0-beta-006.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 1425,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.0.0.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 12240,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.1.0.json"
+        },
+        {
+          "version": "3.2.0-beta-001",
+          "downloads": 620,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.2.0-beta-001.json"
+        },
+        {
+          "version": "3.2.0-beta-002",
+          "downloads": 796,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.2.0-beta-002.json"
+        },
+        {
+          "version": "3.2.0",
+          "downloads": 2784,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.2.0.json"
+        },
+        {
+          "version": "3.3.0-beta-001",
+          "downloads": 598,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.3.0-beta-001.json"
+        },
+        {
+          "version": "3.3.0-beta-002",
+          "downloads": 1062,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.3.0-beta-002.json"
+        },
+        {
+          "version": "3.3.0",
+          "downloads": 45211,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.3.0.json"
+        },
+        {
+          "version": "4.0.0-alpha-001",
+          "downloads": 531,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-001.json"
+        },
+        {
+          "version": "4.0.0-alpha-002",
+          "downloads": 563,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-002.json"
+        },
+        {
+          "version": "4.0.0-alpha-003",
+          "downloads": 598,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-003.json"
+        },
+        {
+          "version": "4.0.0-alpha-004",
+          "downloads": 1044,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-004.json"
+        },
+        {
+          "version": "4.0.0-alpha-005",
+          "downloads": 769,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-005.json"
+        },
+        {
+          "version": "4.0.0-alpha-006",
+          "downloads": 638,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-006.json"
+        },
+        {
+          "version": "4.0.0-alpha-007",
+          "downloads": 510,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-007.json"
+        },
+        {
+          "version": "4.0.0-alpha-008",
+          "downloads": 558,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-008.json"
+        },
+        {
+          "version": "4.0.0-alpha-009",
+          "downloads": 517,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-009.json"
+        },
+        {
+          "version": "4.0.0-alpha-010",
+          "downloads": 536,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-010.json"
+        },
+        {
+          "version": "4.0.0-alpha-011",
+          "downloads": 532,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-011.json"
+        },
+        {
+          "version": "4.0.0-alpha-012",
+          "downloads": 885,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-012.json"
+        },
+        {
+          "version": "4.0.0-alpha-013",
+          "downloads": 563,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-013.json"
+        },
+        {
+          "version": "4.0.0-alpha-014",
+          "downloads": 565,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-014.json"
+        },
+        {
+          "version": "4.0.0-beta-001",
+          "downloads": 829,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-beta-001.json"
+        },
+        {
+          "version": "4.0.0-beta-002",
+          "downloads": 1082,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-beta-002.json"
+        },
+        {
+          "version": "4.0.0-beta-003",
+          "downloads": 619,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-beta-003.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 3187,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0.json"
+        },
+        {
+          "version": "4.1.0-alpha-001",
+          "downloads": 558,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.1.0-alpha-001.json"
+        },
+        {
+          "version": "4.1.0-beta-001",
+          "downloads": 593,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.1.0-beta-001.json"
+        },
+        {
+          "version": "4.1.0-beta-002",
+          "downloads": 600,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.1.0-beta-002.json"
+        },
+        {
+          "version": "4.1.0-beta-003",
+          "downloads": 596,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.1.0-beta-003.json"
+        },
+        {
+          "version": "4.1.0-beta-004",
+          "downloads": 740,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.1.0-beta-004.json"
+        },
+        {
+          "version": "4.1.0",
+          "downloads": 1283,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.1.0.json"
+        },
+        {
+          "version": "4.1.1",
+          "downloads": 2218,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.1.1.json"
+        },
+        {
+          "version": "4.2.0-alpha-001",
+          "downloads": 608,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.2.0-alpha-001.json"
+        },
+        {
+          "version": "4.2.0-alpha-002",
+          "downloads": 635,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.2.0-alpha-002.json"
+        },
+        {
+          "version": "4.2.0-alpha-003",
+          "downloads": 544,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.2.0-alpha-003.json"
+        },
+        {
+          "version": "4.2.0-alpha-004",
+          "downloads": 663,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.2.0-alpha-004.json"
+        },
+        {
+          "version": "4.2.0",
+          "downloads": 6497,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.2.0.json"
+        },
+        {
+          "version": "4.3.0-alpha-001",
+          "downloads": 1521,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-alpha-001.json"
+        },
+        {
+          "version": "4.3.0-alpha-002",
+          "downloads": 560,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-alpha-002.json"
+        },
+        {
+          "version": "4.3.0-alpha-003",
+          "downloads": 511,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-alpha-003.json"
+        },
+        {
+          "version": "4.3.0-alpha-004",
+          "downloads": 511,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-alpha-004.json"
+        },
+        {
+          "version": "4.3.0-alpha-005",
+          "downloads": 544,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-alpha-005.json"
+        },
+        {
+          "version": "4.3.0-alpha-006",
+          "downloads": 520,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-alpha-006.json"
+        },
+        {
+          "version": "4.3.0-alpha-007",
+          "downloads": 538,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-alpha-007.json"
+        },
+        {
+          "version": "4.3.0-beta-001",
+          "downloads": 514,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-beta-001.json"
+        },
+        {
+          "version": "4.3.0-beta-002",
+          "downloads": 537,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-beta-002.json"
+        },
+        {
+          "version": "4.3.0",
+          "downloads": 6354,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0.json"
+        },
+        {
+          "version": "4.4.0-alpha-001",
+          "downloads": 492,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-alpha-001.json"
+        },
+        {
+          "version": "4.4.0-alpha-002",
+          "downloads": 484,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-alpha-002.json"
+        },
+        {
+          "version": "4.4.0-alpha-003",
+          "downloads": 604,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-alpha-003.json"
+        },
+        {
+          "version": "4.4.0-alpha-004",
+          "downloads": 499,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-alpha-004.json"
+        },
+        {
+          "version": "4.4.0-alpha-005",
+          "downloads": 543,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-alpha-005.json"
+        },
+        {
+          "version": "4.4.0-alpha-006",
+          "downloads": 543,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-alpha-006.json"
+        },
+        {
+          "version": "4.4.0-alpha-007",
+          "downloads": 2901,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-alpha-007.json"
+        },
+        {
+          "version": "4.4.0-alpha-008",
+          "downloads": 561,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-alpha-008.json"
+        },
+        {
+          "version": "4.4.0-beta-001",
+          "downloads": 508,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-beta-001.json"
+        },
+        {
+          "version": "4.4.0-beta-002",
+          "downloads": 595,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-beta-002.json"
+        },
+        {
+          "version": "4.4.0-beta-003",
+          "downloads": 760,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-beta-003.json"
+        },
+        {
+          "version": "4.4.0-beta-004",
+          "downloads": 695,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-beta-004.json"
+        },
+        {
+          "version": "4.4.0-beta-005",
+          "downloads": 501,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-beta-005.json"
+        },
+        {
+          "version": "4.4.0-beta-006",
+          "downloads": 663,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-beta-006.json"
+        },
+        {
+          "version": "4.4.0-beta-007",
+          "downloads": 406,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-beta-007.json"
+        },
+        {
+          "version": "4.4.0-beta-008",
+          "downloads": 807,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-beta-008.json"
+        },
+        {
+          "version": "4.4.0",
+          "downloads": 29159,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0.json"
+        },
+        {
+          "version": "4.5.0-alpha-001",
+          "downloads": 4969,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-001.json"
+        },
+        {
+          "version": "4.5.0-alpha-002",
+          "downloads": 626,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-002.json"
+        },
+        {
+          "version": "4.5.0-alpha-003",
+          "downloads": 756,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-003.json"
+        },
+        {
+          "version": "4.5.0-alpha-004",
+          "downloads": 500,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-004.json"
+        },
+        {
+          "version": "4.5.0-alpha-005",
+          "downloads": 931,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-005.json"
+        },
+        {
+          "version": "4.5.0-alpha-006",
+          "downloads": 451,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-006.json"
+        },
+        {
+          "version": "4.5.0-alpha-007",
+          "downloads": 526,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-007.json"
+        },
+        {
+          "version": "4.5.0-alpha-008",
+          "downloads": 702,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-008.json"
+        },
+        {
+          "version": "4.5.0-alpha-009",
+          "downloads": 443,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-009.json"
+        },
+        {
+          "version": "4.5.0-alpha-010",
+          "downloads": 698,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-010.json"
+        },
+        {
+          "version": "4.5.0-alpha-011",
+          "downloads": 712,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-011.json"
+        },
+        {
+          "version": "4.5.0-alpha-012",
+          "downloads": 465,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-012.json"
+        },
+        {
+          "version": "4.5.0-alpha-013",
+          "downloads": 566,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-013.json"
+        },
+        {
+          "version": "4.5.0-alpha-014",
+          "downloads": 660,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-014.json"
+        },
+        {
+          "version": "4.5.0-alpha-015",
+          "downloads": 636,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-015.json"
+        },
+        {
+          "version": "4.5.0-alpha-016",
+          "downloads": 452,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-016.json"
+        },
+        {
+          "version": "4.5.0-alpha-017",
+          "downloads": 731,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-017.json"
+        },
+        {
+          "version": "4.5.0-alpha-018",
+          "downloads": 480,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-018.json"
+        },
+        {
+          "version": "4.5.0-alpha-019",
+          "downloads": 821,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-019.json"
+        },
+        {
+          "version": "4.5.0-alpha-020",
+          "downloads": 419,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-020.json"
+        },
+        {
+          "version": "4.5.0-beta-001",
+          "downloads": 2469,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-beta-001.json"
+        },
+        {
+          "version": "4.5.0-beta-002",
+          "downloads": 912,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-beta-002.json"
+        },
+        {
+          "version": "4.5.0-beta-003",
+          "downloads": 483,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-beta-003.json"
+        },
+        {
+          "version": "4.5.0-beta-004",
+          "downloads": 380,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-beta-004.json"
+        },
+        {
+          "version": "4.5.0-beta-005",
+          "downloads": 462,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-beta-005.json"
+        },
+        {
+          "version": "4.5.0",
+          "downloads": 46337,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0.json"
+        },
+        {
+          "version": "4.5.1",
+          "downloads": 5351,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.1.json"
+        },
+        {
+          "version": "4.5.2",
+          "downloads": 13036,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.2.json"
+        },
+        {
+          "version": "4.5.3",
+          "downloads": 8544,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.3.json"
+        },
+        {
+          "version": "4.5.4",
+          "downloads": 12272,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.4.json"
+        },
+        {
+          "version": "4.5.5",
+          "downloads": 1193,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.5.json"
+        },
+        {
+          "version": "4.5.6",
+          "downloads": 1655,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.6.json"
+        },
+        {
+          "version": "4.5.7",
+          "downloads": 1539,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.7.json"
+        },
+        {
+          "version": "4.5.8",
+          "downloads": 2445,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.8.json"
+        },
+        {
+          "version": "4.5.9",
+          "downloads": 7901,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.9.json"
+        },
+        {
+          "version": "4.5.10",
+          "downloads": 8820,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.10.json"
+        },
+        {
+          "version": "4.5.11",
+          "downloads": 2286,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.11.json"
+        },
+        {
+          "version": "4.5.12",
+          "downloads": 1035,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.12.json"
+        },
+        {
+          "version": "4.6.0-alpha-001",
+          "downloads": 375,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-001.json"
+        },
+        {
+          "version": "4.6.0-alpha-002",
+          "downloads": 461,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-002.json"
+        },
+        {
+          "version": "4.6.0-alpha-003",
+          "downloads": 623,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-003.json"
+        },
+        {
+          "version": "4.6.0-alpha-004",
+          "downloads": 38464,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-004.json"
+        },
+        {
+          "version": "4.6.0-alpha-005",
+          "downloads": 686,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-005.json"
+        },
+        {
+          "version": "4.6.0-alpha-006",
+          "downloads": 1233,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-006.json"
+        },
+        {
+          "version": "4.6.0-alpha-007",
+          "downloads": 1192,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-007.json"
+        },
+        {
+          "version": "4.6.0-alpha-008",
+          "downloads": 989,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-008.json"
+        },
+        {
+          "version": "4.6.0-alpha-009",
+          "downloads": 3464,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-009.json"
+        },
+        {
+          "version": "4.6.0-alpha-010",
+          "downloads": 1427,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-010.json"
+        },
+        {
+          "version": "4.6.0-alpha-011",
+          "downloads": 1660,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-011.json"
+        },
+        {
+          "version": "4.6.0-beta-001",
+          "downloads": 686,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-beta-001.json"
+        },
+        {
+          "version": "4.6.0",
+          "downloads": 60071,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0.json"
+        },
+        {
+          "version": "4.6.1",
+          "downloads": 8071,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.1.json"
+        },
+        {
+          "version": "4.6.2",
+          "downloads": 2286,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.2.json"
+        },
+        {
+          "version": "4.6.3",
+          "downloads": 5279,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.3.json"
+        },
+        {
+          "version": "4.6.4",
+          "downloads": 5166,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.4.json"
+        },
+        {
+          "version": "4.6.5",
+          "downloads": 71030,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.5.json"
+        },
+        {
+          "version": "4.6.6",
+          "downloads": 677,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.6.json"
+        },
+        {
+          "version": "4.7.0",
+          "downloads": 7437,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.0.json"
+        },
+        {
+          "version": "4.7.1",
+          "downloads": 17278,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.1.json"
+        },
+        {
+          "version": "4.7.2",
+          "downloads": 49295,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.2.json"
+        },
+        {
+          "version": "4.7.3",
+          "downloads": 9974,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.3.json"
+        },
+        {
+          "version": "4.7.4",
+          "downloads": 964,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.4.json"
+        },
+        {
+          "version": "4.7.5",
+          "downloads": 8389,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.5.json"
+        },
+        {
+          "version": "4.7.6",
+          "downloads": 55861,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.6.json"
+        },
+        {
+          "version": "4.7.7",
+          "downloads": 7641,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.7.json"
+        },
+        {
+          "version": "4.7.8",
+          "downloads": 3093,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.8.json"
+        },
+        {
+          "version": "4.7.9",
+          "downloads": 89373,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.9.json"
+        },
+        {
+          "version": "5.0.0-alpha-001",
+          "downloads": 680,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/5.0.0-alpha-001.json"
+        },
+        {
+          "version": "5.0.0-alpha-002",
+          "downloads": 1698,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/5.0.0-alpha-002.json"
+        }
+      ],
+      "deprecation": {
+        "reasons": [
+          "Legacy"
+        ]
+      },
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/index.json",
@@ -68675,773 +69487,6 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/8.3.2.json"
         }
       ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/index.json",
-      "id": "fantomas-tool",
-      "version": "5.0.0-alpha-002",
-      "description": "This library aims at formatting F# source files based on a given configuration.\nFantomas will ensure correct indentation and consistent spacing between elements in the source files.\nSome common use cases include:\n(1) Reformatting a code base to conform a universal page width\n(2) Converting legacy code from verbose syntax to light syntax\n(3) Formatting auto-generated F# signatures.",
-      "summary": "",
-      "title": "fantomas-tool",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fantomas-tool/5.0.0-alpha-002/icon",
-      "licenseUrl": "https://www.nuget.org/packages/fantomas-tool/5.0.0-alpha-002/license",
-      "tags": [
-        "F#",
-        "fsharp",
-        "formatting",
-        "beautifier",
-        "indentation",
-        "indenter"
-      ],
-      "authors": [
-        "Florian Verdonck, Jindřich Ivánek"
-      ],
-      "owners": [
-        "jindraivanek",
-        "nojaf"
-      ],
-      "totalDownloads": 753151,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.8.0",
-          "downloads": 1482,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/2.8.0.json"
-        },
-        {
-          "version": "2.8.1",
-          "downloads": 1296,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/2.8.1.json"
-        },
-        {
-          "version": "2.9.0",
-          "downloads": 1314,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/2.9.0.json"
-        },
-        {
-          "version": "2.9.1",
-          "downloads": 1735,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/2.9.1.json"
-        },
-        {
-          "version": "2.9.2",
-          "downloads": 6371,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/2.9.2.json"
-        },
-        {
-          "version": "3.0.0-beta-001",
-          "downloads": 755,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.0.0-beta-001.json"
-        },
-        {
-          "version": "3.0.0-beta-002",
-          "downloads": 954,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.0.0-beta-002.json"
-        },
-        {
-          "version": "3.0.0-beta-003",
-          "downloads": 644,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.0.0-beta-003.json"
-        },
-        {
-          "version": "3.0.0-beta-004",
-          "downloads": 620,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.0.0-beta-004.json"
-        },
-        {
-          "version": "3.0.0-beta-005",
-          "downloads": 587,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.0.0-beta-005.json"
-        },
-        {
-          "version": "3.0.0-beta-006",
-          "downloads": 578,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.0.0-beta-006.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 1425,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.0.0.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 12240,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.1.0.json"
-        },
-        {
-          "version": "3.2.0-beta-001",
-          "downloads": 620,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.2.0-beta-001.json"
-        },
-        {
-          "version": "3.2.0-beta-002",
-          "downloads": 796,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.2.0-beta-002.json"
-        },
-        {
-          "version": "3.2.0",
-          "downloads": 2784,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.2.0.json"
-        },
-        {
-          "version": "3.3.0-beta-001",
-          "downloads": 598,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.3.0-beta-001.json"
-        },
-        {
-          "version": "3.3.0-beta-002",
-          "downloads": 1062,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.3.0-beta-002.json"
-        },
-        {
-          "version": "3.3.0",
-          "downloads": 45211,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/3.3.0.json"
-        },
-        {
-          "version": "4.0.0-alpha-001",
-          "downloads": 531,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-001.json"
-        },
-        {
-          "version": "4.0.0-alpha-002",
-          "downloads": 563,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-002.json"
-        },
-        {
-          "version": "4.0.0-alpha-003",
-          "downloads": 598,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-003.json"
-        },
-        {
-          "version": "4.0.0-alpha-004",
-          "downloads": 1044,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-004.json"
-        },
-        {
-          "version": "4.0.0-alpha-005",
-          "downloads": 769,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-005.json"
-        },
-        {
-          "version": "4.0.0-alpha-006",
-          "downloads": 638,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-006.json"
-        },
-        {
-          "version": "4.0.0-alpha-007",
-          "downloads": 510,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-007.json"
-        },
-        {
-          "version": "4.0.0-alpha-008",
-          "downloads": 558,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-008.json"
-        },
-        {
-          "version": "4.0.0-alpha-009",
-          "downloads": 517,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-009.json"
-        },
-        {
-          "version": "4.0.0-alpha-010",
-          "downloads": 536,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-010.json"
-        },
-        {
-          "version": "4.0.0-alpha-011",
-          "downloads": 532,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-011.json"
-        },
-        {
-          "version": "4.0.0-alpha-012",
-          "downloads": 885,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-012.json"
-        },
-        {
-          "version": "4.0.0-alpha-013",
-          "downloads": 563,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-013.json"
-        },
-        {
-          "version": "4.0.0-alpha-014",
-          "downloads": 565,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-alpha-014.json"
-        },
-        {
-          "version": "4.0.0-beta-001",
-          "downloads": 829,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-beta-001.json"
-        },
-        {
-          "version": "4.0.0-beta-002",
-          "downloads": 1082,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-beta-002.json"
-        },
-        {
-          "version": "4.0.0-beta-003",
-          "downloads": 619,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0-beta-003.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 3187,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.0.0.json"
-        },
-        {
-          "version": "4.1.0-alpha-001",
-          "downloads": 558,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.1.0-alpha-001.json"
-        },
-        {
-          "version": "4.1.0-beta-001",
-          "downloads": 593,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.1.0-beta-001.json"
-        },
-        {
-          "version": "4.1.0-beta-002",
-          "downloads": 600,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.1.0-beta-002.json"
-        },
-        {
-          "version": "4.1.0-beta-003",
-          "downloads": 596,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.1.0-beta-003.json"
-        },
-        {
-          "version": "4.1.0-beta-004",
-          "downloads": 740,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.1.0-beta-004.json"
-        },
-        {
-          "version": "4.1.0",
-          "downloads": 1283,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.1.0.json"
-        },
-        {
-          "version": "4.1.1",
-          "downloads": 2218,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.1.1.json"
-        },
-        {
-          "version": "4.2.0-alpha-001",
-          "downloads": 608,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.2.0-alpha-001.json"
-        },
-        {
-          "version": "4.2.0-alpha-002",
-          "downloads": 635,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.2.0-alpha-002.json"
-        },
-        {
-          "version": "4.2.0-alpha-003",
-          "downloads": 544,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.2.0-alpha-003.json"
-        },
-        {
-          "version": "4.2.0-alpha-004",
-          "downloads": 663,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.2.0-alpha-004.json"
-        },
-        {
-          "version": "4.2.0",
-          "downloads": 6497,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.2.0.json"
-        },
-        {
-          "version": "4.3.0-alpha-001",
-          "downloads": 1521,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-alpha-001.json"
-        },
-        {
-          "version": "4.3.0-alpha-002",
-          "downloads": 560,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-alpha-002.json"
-        },
-        {
-          "version": "4.3.0-alpha-003",
-          "downloads": 511,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-alpha-003.json"
-        },
-        {
-          "version": "4.3.0-alpha-004",
-          "downloads": 511,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-alpha-004.json"
-        },
-        {
-          "version": "4.3.0-alpha-005",
-          "downloads": 544,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-alpha-005.json"
-        },
-        {
-          "version": "4.3.0-alpha-006",
-          "downloads": 520,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-alpha-006.json"
-        },
-        {
-          "version": "4.3.0-alpha-007",
-          "downloads": 538,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-alpha-007.json"
-        },
-        {
-          "version": "4.3.0-beta-001",
-          "downloads": 514,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-beta-001.json"
-        },
-        {
-          "version": "4.3.0-beta-002",
-          "downloads": 537,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0-beta-002.json"
-        },
-        {
-          "version": "4.3.0",
-          "downloads": 6354,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.3.0.json"
-        },
-        {
-          "version": "4.4.0-alpha-001",
-          "downloads": 492,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-alpha-001.json"
-        },
-        {
-          "version": "4.4.0-alpha-002",
-          "downloads": 484,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-alpha-002.json"
-        },
-        {
-          "version": "4.4.0-alpha-003",
-          "downloads": 604,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-alpha-003.json"
-        },
-        {
-          "version": "4.4.0-alpha-004",
-          "downloads": 499,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-alpha-004.json"
-        },
-        {
-          "version": "4.4.0-alpha-005",
-          "downloads": 543,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-alpha-005.json"
-        },
-        {
-          "version": "4.4.0-alpha-006",
-          "downloads": 543,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-alpha-006.json"
-        },
-        {
-          "version": "4.4.0-alpha-007",
-          "downloads": 2901,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-alpha-007.json"
-        },
-        {
-          "version": "4.4.0-alpha-008",
-          "downloads": 561,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-alpha-008.json"
-        },
-        {
-          "version": "4.4.0-beta-001",
-          "downloads": 508,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-beta-001.json"
-        },
-        {
-          "version": "4.4.0-beta-002",
-          "downloads": 595,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-beta-002.json"
-        },
-        {
-          "version": "4.4.0-beta-003",
-          "downloads": 760,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-beta-003.json"
-        },
-        {
-          "version": "4.4.0-beta-004",
-          "downloads": 695,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-beta-004.json"
-        },
-        {
-          "version": "4.4.0-beta-005",
-          "downloads": 501,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-beta-005.json"
-        },
-        {
-          "version": "4.4.0-beta-006",
-          "downloads": 663,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-beta-006.json"
-        },
-        {
-          "version": "4.4.0-beta-007",
-          "downloads": 406,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-beta-007.json"
-        },
-        {
-          "version": "4.4.0-beta-008",
-          "downloads": 807,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0-beta-008.json"
-        },
-        {
-          "version": "4.4.0",
-          "downloads": 29159,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.4.0.json"
-        },
-        {
-          "version": "4.5.0-alpha-001",
-          "downloads": 4969,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-001.json"
-        },
-        {
-          "version": "4.5.0-alpha-002",
-          "downloads": 626,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-002.json"
-        },
-        {
-          "version": "4.5.0-alpha-003",
-          "downloads": 756,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-003.json"
-        },
-        {
-          "version": "4.5.0-alpha-004",
-          "downloads": 500,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-004.json"
-        },
-        {
-          "version": "4.5.0-alpha-005",
-          "downloads": 931,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-005.json"
-        },
-        {
-          "version": "4.5.0-alpha-006",
-          "downloads": 451,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-006.json"
-        },
-        {
-          "version": "4.5.0-alpha-007",
-          "downloads": 526,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-007.json"
-        },
-        {
-          "version": "4.5.0-alpha-008",
-          "downloads": 702,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-008.json"
-        },
-        {
-          "version": "4.5.0-alpha-009",
-          "downloads": 443,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-009.json"
-        },
-        {
-          "version": "4.5.0-alpha-010",
-          "downloads": 698,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-010.json"
-        },
-        {
-          "version": "4.5.0-alpha-011",
-          "downloads": 712,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-011.json"
-        },
-        {
-          "version": "4.5.0-alpha-012",
-          "downloads": 465,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-012.json"
-        },
-        {
-          "version": "4.5.0-alpha-013",
-          "downloads": 566,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-013.json"
-        },
-        {
-          "version": "4.5.0-alpha-014",
-          "downloads": 660,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-014.json"
-        },
-        {
-          "version": "4.5.0-alpha-015",
-          "downloads": 636,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-015.json"
-        },
-        {
-          "version": "4.5.0-alpha-016",
-          "downloads": 452,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-016.json"
-        },
-        {
-          "version": "4.5.0-alpha-017",
-          "downloads": 731,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-017.json"
-        },
-        {
-          "version": "4.5.0-alpha-018",
-          "downloads": 480,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-018.json"
-        },
-        {
-          "version": "4.5.0-alpha-019",
-          "downloads": 821,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-019.json"
-        },
-        {
-          "version": "4.5.0-alpha-020",
-          "downloads": 419,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-alpha-020.json"
-        },
-        {
-          "version": "4.5.0-beta-001",
-          "downloads": 2469,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-beta-001.json"
-        },
-        {
-          "version": "4.5.0-beta-002",
-          "downloads": 912,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-beta-002.json"
-        },
-        {
-          "version": "4.5.0-beta-003",
-          "downloads": 483,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-beta-003.json"
-        },
-        {
-          "version": "4.5.0-beta-004",
-          "downloads": 380,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-beta-004.json"
-        },
-        {
-          "version": "4.5.0-beta-005",
-          "downloads": 462,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0-beta-005.json"
-        },
-        {
-          "version": "4.5.0",
-          "downloads": 46337,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.0.json"
-        },
-        {
-          "version": "4.5.1",
-          "downloads": 5351,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.1.json"
-        },
-        {
-          "version": "4.5.2",
-          "downloads": 13036,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.2.json"
-        },
-        {
-          "version": "4.5.3",
-          "downloads": 8544,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.3.json"
-        },
-        {
-          "version": "4.5.4",
-          "downloads": 12272,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.4.json"
-        },
-        {
-          "version": "4.5.5",
-          "downloads": 1193,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.5.json"
-        },
-        {
-          "version": "4.5.6",
-          "downloads": 1655,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.6.json"
-        },
-        {
-          "version": "4.5.7",
-          "downloads": 1539,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.7.json"
-        },
-        {
-          "version": "4.5.8",
-          "downloads": 2445,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.8.json"
-        },
-        {
-          "version": "4.5.9",
-          "downloads": 7901,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.9.json"
-        },
-        {
-          "version": "4.5.10",
-          "downloads": 8820,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.10.json"
-        },
-        {
-          "version": "4.5.11",
-          "downloads": 2286,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.11.json"
-        },
-        {
-          "version": "4.5.12",
-          "downloads": 1035,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.5.12.json"
-        },
-        {
-          "version": "4.6.0-alpha-001",
-          "downloads": 375,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-001.json"
-        },
-        {
-          "version": "4.6.0-alpha-002",
-          "downloads": 461,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-002.json"
-        },
-        {
-          "version": "4.6.0-alpha-003",
-          "downloads": 623,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-003.json"
-        },
-        {
-          "version": "4.6.0-alpha-004",
-          "downloads": 38464,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-004.json"
-        },
-        {
-          "version": "4.6.0-alpha-005",
-          "downloads": 686,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-005.json"
-        },
-        {
-          "version": "4.6.0-alpha-006",
-          "downloads": 1233,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-006.json"
-        },
-        {
-          "version": "4.6.0-alpha-007",
-          "downloads": 1192,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-007.json"
-        },
-        {
-          "version": "4.6.0-alpha-008",
-          "downloads": 989,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-008.json"
-        },
-        {
-          "version": "4.6.0-alpha-009",
-          "downloads": 3464,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-009.json"
-        },
-        {
-          "version": "4.6.0-alpha-010",
-          "downloads": 1427,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-010.json"
-        },
-        {
-          "version": "4.6.0-alpha-011",
-          "downloads": 1660,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-alpha-011.json"
-        },
-        {
-          "version": "4.6.0-beta-001",
-          "downloads": 686,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0-beta-001.json"
-        },
-        {
-          "version": "4.6.0",
-          "downloads": 60071,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.0.json"
-        },
-        {
-          "version": "4.6.1",
-          "downloads": 8071,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.1.json"
-        },
-        {
-          "version": "4.6.2",
-          "downloads": 2286,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.2.json"
-        },
-        {
-          "version": "4.6.3",
-          "downloads": 5279,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.3.json"
-        },
-        {
-          "version": "4.6.4",
-          "downloads": 5166,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.4.json"
-        },
-        {
-          "version": "4.6.5",
-          "downloads": 71030,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.5.json"
-        },
-        {
-          "version": "4.6.6",
-          "downloads": 677,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.6.6.json"
-        },
-        {
-          "version": "4.7.0",
-          "downloads": 7437,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.0.json"
-        },
-        {
-          "version": "4.7.1",
-          "downloads": 17278,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.1.json"
-        },
-        {
-          "version": "4.7.2",
-          "downloads": 49295,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.2.json"
-        },
-        {
-          "version": "4.7.3",
-          "downloads": 9974,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.3.json"
-        },
-        {
-          "version": "4.7.4",
-          "downloads": 964,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.4.json"
-        },
-        {
-          "version": "4.7.5",
-          "downloads": 8389,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.5.json"
-        },
-        {
-          "version": "4.7.6",
-          "downloads": 55861,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.6.json"
-        },
-        {
-          "version": "4.7.7",
-          "downloads": 7641,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.7.json"
-        },
-        {
-          "version": "4.7.8",
-          "downloads": 3093,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.8.json"
-        },
-        {
-          "version": "4.7.9",
-          "downloads": 89373,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/4.7.9.json"
-        },
-        {
-          "version": "5.0.0-alpha-001",
-          "downloads": 680,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/5.0.0-alpha-001.json"
-        },
-        {
-          "version": "5.0.0-alpha-002",
-          "downloads": 1698,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas-tool/5.0.0-alpha-002.json"
-        }
-      ],
-      "deprecation": {
-        "reasons": [
-          "Legacy"
-        ]
-      },
       "vulnerabilities": []
     },
     {
@@ -73961,12 +74006,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/index.json",
       "id": "Libplanet.Tools",
-      "version": "5.4.0-dev.20241016053049+493f65b",
+      "version": "5.4.0-dev.20241018025046+68d8f42",
       "description": "This CLI app is a collection of utilities for application  programmers who create decentralized games powered by Libplanet  (https://libplanet.io/).",
       "summary": "",
       "title": "planet: Libplanet CLI Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/5.4.0-dev.20241016053049/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/5.4.0-dev.20241016053049/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/libplanet.tools/5.4.0-dev.20241018025046/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Libplanet.Tools/5.4.0-dev.20241018025046/license",
       "projectUrl": "https://libplanet.io/",
       "tags": [
         "multiplayer",
@@ -87127,6 +87172,11 @@
           "version": "5.4.0-dev.20241016053049+493f65b",
           "downloads": 38,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/5.4.0-dev.20241016053049.json"
+        },
+        {
+          "version": "5.4.0-dev.20241018025046+68d8f42",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/libplanet.tools/5.4.0-dev.20241018025046.json"
         }
       ],
       "vulnerabilities": []
@@ -88537,11 +88587,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.octoversion.tool/index.json",
       "id": "Octopus.OctoVersion.Tool",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Package Description",
       "summary": "",
       "title": "Octopus.OctoVersion.Tool",
-      "licenseUrl": "https://www.nuget.org/packages/Octopus.OctoVersion.Tool/1.0.0/license",
+      "licenseUrl": "https://www.nuget.org/packages/Octopus.OctoVersion.Tool/1.0.1/license",
       "projectUrl": "https://github.com/OctopusDeploy/OctoVersion",
       "tags": [],
       "authors": [
@@ -89002,6 +89052,11 @@
           "version": "1.0.0",
           "downloads": 151,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.octoversion.tool/1.0.0.json"
+        },
+        {
+          "version": "1.0.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.octoversion.tool/1.0.1.json"
         }
       ],
       "vulnerabilities": []
