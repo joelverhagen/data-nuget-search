@@ -53283,12 +53283,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/uno.templates/index.json",
       "id": "Uno.Templates",
-      "version": "5.6.0-dev.22",
+      "version": "5.6.0-dev.26",
       "description": "Templates for creating Uno Platform apps and libraries",
       "summary": "",
       "title": "Uno.Templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/uno.templates/5.6.0-dev.22/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Uno.Templates/5.6.0-dev.22/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/uno.templates/5.6.0-dev.26/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Uno.Templates/5.6.0-dev.26/license",
       "projectUrl": "https://github.com/unoplatform/uno.templates",
       "tags": [
         "dotnet-new",
@@ -56220,6 +56220,16 @@
           "version": "5.6.0-dev.22",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.templates/5.6.0-dev.22.json"
+        },
+        {
+          "version": "5.6.0-dev.24",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.templates/5.6.0-dev.24.json"
+        },
+        {
+          "version": "5.6.0-dev.26",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.templates/5.6.0-dev.26.json"
         }
       ],
       "vulnerabilities": []
@@ -76034,6 +76044,56 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/monogame.templates.csharp/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/monogame.templates.csharp/index.json",
+      "id": "MonoGame.Templates.CSharp",
+      "version": "3.8.2.1105",
+      "description": "This package contains a set of C# templates written for the MonoGame framework.",
+      "summary": "",
+      "title": "MonoGame project templates",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/monogame.templates.csharp/3.8.2.1105/icon",
+      "licenseUrl": "https://www.nuget.org/packages/MonoGame.Templates.CSharp/3.8.2.1105/license",
+      "projectUrl": "https://www.monogame.net/",
+      "tags": [],
+      "authors": [
+        "MonoGame Team"
+      ],
+      "owners": [
+        "MonoGame"
+      ],
+      "totalDownloads": 172044,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "Template"
+        }
+      ],
+      "versions": [
+        {
+          "version": "3.8.0.1375-develop",
+          "downloads": 982,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/monogame.templates.csharp/3.8.0.1375-develop.json"
+        },
+        {
+          "version": "3.8.0.1641",
+          "downloads": 52908,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/monogame.templates.csharp/3.8.0.1641.json"
+        },
+        {
+          "version": "3.8.1.303",
+          "downloads": 89494,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/monogame.templates.csharp/3.8.1.303.json"
+        },
+        {
+          "version": "3.8.2.1105",
+          "downloads": 16202,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/monogame.templates.csharp/3.8.2.1105.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.app/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.app/index.json",
@@ -78388,56 +78448,6 @@
           "version": "4.9.5.16",
           "downloads": 47,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.sqlsugar.template.app/4.9.5.16.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/monogame.templates.csharp/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/monogame.templates.csharp/index.json",
-      "id": "MonoGame.Templates.CSharp",
-      "version": "3.8.2.1105",
-      "description": "This package contains a set of C# templates written for the MonoGame framework.",
-      "summary": "",
-      "title": "MonoGame project templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/monogame.templates.csharp/3.8.2.1105/icon",
-      "licenseUrl": "https://www.nuget.org/packages/MonoGame.Templates.CSharp/3.8.2.1105/license",
-      "projectUrl": "https://www.monogame.net/",
-      "tags": [],
-      "authors": [
-        "MonoGame Team"
-      ],
-      "owners": [
-        "MonoGame"
-      ],
-      "totalDownloads": 172044,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "Template"
-        }
-      ],
-      "versions": [
-        {
-          "version": "3.8.0.1375-develop",
-          "downloads": 982,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/monogame.templates.csharp/3.8.0.1375-develop.json"
-        },
-        {
-          "version": "3.8.0.1641",
-          "downloads": 52908,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/monogame.templates.csharp/3.8.0.1641.json"
-        },
-        {
-          "version": "3.8.1.303",
-          "downloads": 89494,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/monogame.templates.csharp/3.8.1.303.json"
-        },
-        {
-          "version": "3.8.2.1105",
-          "downloads": 16202,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/monogame.templates.csharp/3.8.2.1105.json"
         }
       ],
       "vulnerabilities": []
