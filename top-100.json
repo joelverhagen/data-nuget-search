@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 405890,
+  "totalHits": 406000,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -15773,6 +15773,205 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/index.json",
+      "id": "Castle.Core",
+      "version": "5.1.1",
+      "description": "Castle Core, including DynamicProxy, Logging Abstractions and DictionaryAdapter",
+      "summary": "",
+      "title": "Castle.Core",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/castle.core/5.1.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Castle.Core/5.1.1/license",
+      "projectUrl": "http://www.castleproject.org/",
+      "tags": [
+        "castle",
+        "dynamicproxy",
+        "dynamic",
+        "proxy",
+        "dynamicproxy2",
+        "dictionaryadapter",
+        "emailsender"
+      ],
+      "authors": [
+        "Castle Project Contributors"
+      ],
+      "owners": [
+        "castleproject",
+        "jonorossi"
+      ],
+      "totalDownloads": 1024484620,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.1.0",
+          "downloads": 522158,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/1.1.0.json"
+        },
+        {
+          "version": "1.2.0",
+          "downloads": 185026,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/1.2.0.json"
+        },
+        {
+          "version": "2.5.1",
+          "downloads": 454982,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/2.5.1.json"
+        },
+        {
+          "version": "2.5.2",
+          "downloads": 2027619,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/2.5.2.json"
+        },
+        {
+          "version": "3.0.0.2001",
+          "downloads": 271370,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.0.0.2001.json"
+        },
+        {
+          "version": "3.0.0.3001",
+          "downloads": 55669,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.0.0.3001.json"
+        },
+        {
+          "version": "3.0.0.4001",
+          "downloads": 883564,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.0.0.4001.json"
+        },
+        {
+          "version": "3.1.0-RC",
+          "downloads": 6876,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.1.0-rc.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 737067,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.1.0.json"
+        },
+        {
+          "version": "3.2.0",
+          "downloads": 3493625,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.2.0.json"
+        },
+        {
+          "version": "3.2.1",
+          "downloads": 242124,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.2.1.json"
+        },
+        {
+          "version": "3.2.2",
+          "downloads": 1492140,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.2.2.json"
+        },
+        {
+          "version": "3.3.0",
+          "downloads": 5203726,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.3.0.json"
+        },
+        {
+          "version": "3.3.1",
+          "downloads": 522555,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.3.1.json"
+        },
+        {
+          "version": "3.3.2",
+          "downloads": 100487,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.3.2.json"
+        },
+        {
+          "version": "3.3.3",
+          "downloads": 20655552,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.3.3.json"
+        },
+        {
+          "version": "4.0.0-alpha001",
+          "downloads": 129821,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.0.0-alpha001.json"
+        },
+        {
+          "version": "4.0.0-beta001",
+          "downloads": 937128,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.0.0-beta001.json"
+        },
+        {
+          "version": "4.0.0-beta002",
+          "downloads": 65408,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.0.0-beta002.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 30394310,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.0.0.json"
+        },
+        {
+          "version": "4.1.0",
+          "downloads": 4047324,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.1.0.json"
+        },
+        {
+          "version": "4.1.1",
+          "downloads": 9699409,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.1.1.json"
+        },
+        {
+          "version": "4.2.0",
+          "downloads": 28666965,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.2.0.json"
+        },
+        {
+          "version": "4.2.1",
+          "downloads": 65851685,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.2.1.json"
+        },
+        {
+          "version": "4.3.0",
+          "downloads": 6355226,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.3.0.json"
+        },
+        {
+          "version": "4.3.1",
+          "downloads": 106217819,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.3.1.json"
+        },
+        {
+          "version": "4.4.0",
+          "downloads": 304840895,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.4.0.json"
+        },
+        {
+          "version": "4.4.1",
+          "downloads": 111733844,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.4.1.json"
+        },
+        {
+          "version": "5.0.0-beta001",
+          "downloads": 3956,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/5.0.0-beta001.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 63388300,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/5.0.0.json"
+        },
+        {
+          "version": "5.1.0",
+          "downloads": 60019980,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/5.1.0.json"
+        },
+        {
+          "version": "5.1.1",
+          "downloads": 195277840,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/5.1.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/index.json",
@@ -16259,205 +16458,6 @@
           "version": "9.0.1",
           "downloads": 31525,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.security.cryptography.pkcs/9.0.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/index.json",
-      "id": "Castle.Core",
-      "version": "5.1.1",
-      "description": "Castle Core, including DynamicProxy, Logging Abstractions and DictionaryAdapter",
-      "summary": "",
-      "title": "Castle.Core",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/castle.core/5.1.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Castle.Core/5.1.1/license",
-      "projectUrl": "http://www.castleproject.org/",
-      "tags": [
-        "castle",
-        "dynamicproxy",
-        "dynamic",
-        "proxy",
-        "dynamicproxy2",
-        "dictionaryadapter",
-        "emailsender"
-      ],
-      "authors": [
-        "Castle Project Contributors"
-      ],
-      "owners": [
-        "castleproject",
-        "jonorossi"
-      ],
-      "totalDownloads": 1024484620,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.1.0",
-          "downloads": 522158,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/1.1.0.json"
-        },
-        {
-          "version": "1.2.0",
-          "downloads": 185026,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/1.2.0.json"
-        },
-        {
-          "version": "2.5.1",
-          "downloads": 454982,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/2.5.1.json"
-        },
-        {
-          "version": "2.5.2",
-          "downloads": 2027619,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/2.5.2.json"
-        },
-        {
-          "version": "3.0.0.2001",
-          "downloads": 271370,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.0.0.2001.json"
-        },
-        {
-          "version": "3.0.0.3001",
-          "downloads": 55669,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.0.0.3001.json"
-        },
-        {
-          "version": "3.0.0.4001",
-          "downloads": 883564,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.0.0.4001.json"
-        },
-        {
-          "version": "3.1.0-RC",
-          "downloads": 6876,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.1.0-rc.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 737067,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.1.0.json"
-        },
-        {
-          "version": "3.2.0",
-          "downloads": 3493625,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.2.0.json"
-        },
-        {
-          "version": "3.2.1",
-          "downloads": 242124,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.2.1.json"
-        },
-        {
-          "version": "3.2.2",
-          "downloads": 1492140,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.2.2.json"
-        },
-        {
-          "version": "3.3.0",
-          "downloads": 5203726,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.3.0.json"
-        },
-        {
-          "version": "3.3.1",
-          "downloads": 522555,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.3.1.json"
-        },
-        {
-          "version": "3.3.2",
-          "downloads": 100487,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.3.2.json"
-        },
-        {
-          "version": "3.3.3",
-          "downloads": 20655552,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/3.3.3.json"
-        },
-        {
-          "version": "4.0.0-alpha001",
-          "downloads": 129821,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.0.0-alpha001.json"
-        },
-        {
-          "version": "4.0.0-beta001",
-          "downloads": 937128,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.0.0-beta001.json"
-        },
-        {
-          "version": "4.0.0-beta002",
-          "downloads": 65408,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.0.0-beta002.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 30394310,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.0.0.json"
-        },
-        {
-          "version": "4.1.0",
-          "downloads": 4047324,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.1.0.json"
-        },
-        {
-          "version": "4.1.1",
-          "downloads": 9699409,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.1.1.json"
-        },
-        {
-          "version": "4.2.0",
-          "downloads": 28666965,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.2.0.json"
-        },
-        {
-          "version": "4.2.1",
-          "downloads": 65851685,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.2.1.json"
-        },
-        {
-          "version": "4.3.0",
-          "downloads": 6355226,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.3.0.json"
-        },
-        {
-          "version": "4.3.1",
-          "downloads": 106217819,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.3.1.json"
-        },
-        {
-          "version": "4.4.0",
-          "downloads": 304840895,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.4.0.json"
-        },
-        {
-          "version": "4.4.1",
-          "downloads": 111733844,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/4.4.1.json"
-        },
-        {
-          "version": "5.0.0-beta001",
-          "downloads": 3956,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/5.0.0-beta001.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 63388300,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/5.0.0.json"
-        },
-        {
-          "version": "5.1.0",
-          "downloads": 60019980,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/5.1.0.json"
-        },
-        {
-          "version": "5.1.1",
-          "downloads": 195277840,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/castle.core/5.1.1.json"
         }
       ],
       "vulnerabilities": []
