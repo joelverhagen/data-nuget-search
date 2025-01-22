@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 406000,
+  "totalHits": 406129,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -15399,6 +15399,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.401.2.json"
         },
         {
+          "version": "3.7.401.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.401.3.json"
+        },
+        {
           "version": "4.0.0-preview",
           "downloads": 33766,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/4.0.0-preview.json"
@@ -20191,12 +20196,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.openapi/index.json",
       "id": "Microsoft.OpenApi",
-      "version": "2.0.0-preview4",
+      "version": "2.0.0-preview5",
       "description": ".NET models with JSON and YAML writers for OpenAPI specification",
       "summary": "",
       "title": "Microsoft.OpenApi",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.openapi/2.0.0-preview4/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.OpenApi/2.0.0-preview4/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.openapi/2.0.0-preview5/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.OpenApi/2.0.0-preview5/license",
       "projectUrl": "https://github.com/Microsoft/OpenAPI.NET",
       "tags": [
         "OpenAPI",
@@ -20606,6 +20611,11 @@
           "version": "2.0.0-preview4",
           "downloads": 1155,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.openapi/2.0.0-preview4.json"
+        },
+        {
+          "version": "2.0.0-preview5",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.openapi/2.0.0-preview5.json"
         }
       ],
       "vulnerabilities": []
@@ -26142,278 +26152,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/index.json",
-      "id": "System.Memory.Data",
-      "version": "9.0.1",
-      "description": "A lightweight abstraction for a payload of bytes. Provides methods for converting between strings, streams, JSON, and bytes.\n\nCommonly Used Types:\nSystem.BinaryData",
-      "summary": "",
-      "title": "System.Memory.Data",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.memory.data/9.0.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Memory.Data/9.0.1/license",
-      "projectUrl": "https://dot.net/",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "azure-sdk",
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 612393550,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0-beta.1",
-          "downloads": 593,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/1.0.0-beta.1.json"
-        },
-        {
-          "version": "1.0.0-beta.2",
-          "downloads": 540,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/1.0.0-beta.2.json"
-        },
-        {
-          "version": "1.0.0",
-          "downloads": 2322277,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/1.0.0.json"
-        },
-        {
-          "version": "1.0.1",
-          "downloads": 93590725,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/1.0.1.json"
-        },
-        {
-          "version": "1.0.2",
-          "downloads": 484543047,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/1.0.2.json"
-        },
-        {
-          "version": "6.0.0-preview.1.21102.12",
-          "downloads": 1976,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-preview.1.21102.12.json"
-        },
-        {
-          "version": "6.0.0-preview.2.21154.6",
-          "downloads": 993,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-preview.2.21154.6.json"
-        },
-        {
-          "version": "6.0.0-preview.3.21201.4",
-          "downloads": 1304,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-preview.3.21201.4.json"
-        },
-        {
-          "version": "6.0.0-preview.4.21253.7",
-          "downloads": 11414,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-preview.4.21253.7.json"
-        },
-        {
-          "version": "6.0.0-preview.5.21301.5",
-          "downloads": 765,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-preview.5.21301.5.json"
-        },
-        {
-          "version": "6.0.0-preview.6.21352.12",
-          "downloads": 1776,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-preview.6.21352.12.json"
-        },
-        {
-          "version": "6.0.0-preview.7.21377.19",
-          "downloads": 2958,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-preview.7.21377.19.json"
-        },
-        {
-          "version": "6.0.0-rc.1.21451.13",
-          "downloads": 2184,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-rc.1.21451.13.json"
-        },
-        {
-          "version": "6.0.0-rc.2.21480.5",
-          "downloads": 963,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-rc.2.21480.5.json"
-        },
-        {
-          "version": "6.0.0",
-          "downloads": 20810601,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0.json"
-        },
-        {
-          "version": "6.0.1",
-          "downloads": 25181,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.1.json"
-        },
-        {
-          "version": "7.0.0-preview.1.22076.8",
-          "downloads": 3475,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-preview.1.22076.8.json"
-        },
-        {
-          "version": "7.0.0-preview.2.22152.2",
-          "downloads": 789,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-preview.2.22152.2.json"
-        },
-        {
-          "version": "7.0.0-preview.3.22175.4",
-          "downloads": 1123,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-preview.3.22175.4.json"
-        },
-        {
-          "version": "7.0.0-preview.4.22229.4",
-          "downloads": 1911,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-preview.4.22229.4.json"
-        },
-        {
-          "version": "7.0.0-preview.5.22301.12",
-          "downloads": 925,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-preview.5.22301.12.json"
-        },
-        {
-          "version": "7.0.0-preview.6.22324.4",
-          "downloads": 796,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-preview.6.22324.4.json"
-        },
-        {
-          "version": "7.0.0-preview.7.22375.6",
-          "downloads": 3116,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-preview.7.22375.6.json"
-        },
-        {
-          "version": "7.0.0-rc.1.22426.10",
-          "downloads": 2414,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-rc.1.22426.10.json"
-        },
-        {
-          "version": "7.0.0-rc.2.22472.3",
-          "downloads": 10060,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-rc.2.22472.3.json"
-        },
-        {
-          "version": "7.0.0",
-          "downloads": 5046737,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0.json"
-        },
-        {
-          "version": "8.0.0-preview.1.23110.8",
-          "downloads": 19675,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-preview.1.23110.8.json"
-        },
-        {
-          "version": "8.0.0-preview.2.23128.3",
-          "downloads": 1152,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-preview.2.23128.3.json"
-        },
-        {
-          "version": "8.0.0-preview.3.23174.8",
-          "downloads": 2690,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-preview.3.23174.8.json"
-        },
-        {
-          "version": "8.0.0-preview.4.23259.5",
-          "downloads": 763,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-preview.4.23259.5.json"
-        },
-        {
-          "version": "8.0.0-preview.5.23280.8",
-          "downloads": 1525,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-preview.5.23280.8.json"
-        },
-        {
-          "version": "8.0.0-preview.6.23329.7",
-          "downloads": 3726,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-preview.6.23329.7.json"
-        },
-        {
-          "version": "8.0.0-preview.7.23375.6",
-          "downloads": 5390,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-preview.7.23375.6.json"
-        },
-        {
-          "version": "8.0.0-rc.1.23419.4",
-          "downloads": 5028,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-rc.1.23419.4.json"
-        },
-        {
-          "version": "8.0.0-rc.2.23479.6",
-          "downloads": 4688,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-rc.2.23479.6.json"
-        },
-        {
-          "version": "8.0.0",
-          "downloads": 4813030,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0.json"
-        },
-        {
-          "version": "8.0.1",
-          "downloads": 820528,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.1.json"
-        },
-        {
-          "version": "9.0.0-preview.1.24080.9",
-          "downloads": 1019,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-preview.1.24080.9.json"
-        },
-        {
-          "version": "9.0.0-preview.2.24128.5",
-          "downloads": 2040,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-preview.2.24128.5.json"
-        },
-        {
-          "version": "9.0.0-preview.3.24172.9",
-          "downloads": 1081,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-preview.3.24172.9.json"
-        },
-        {
-          "version": "9.0.0-preview.4.24266.19",
-          "downloads": 961,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-preview.4.24266.19.json"
-        },
-        {
-          "version": "9.0.0-preview.5.24306.7",
-          "downloads": 2538,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-preview.5.24306.7.json"
-        },
-        {
-          "version": "9.0.0-preview.6.24327.7",
-          "downloads": 1466,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-preview.6.24327.7.json"
-        },
-        {
-          "version": "9.0.0-preview.7.24405.7",
-          "downloads": 1489,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-preview.7.24405.7.json"
-        },
-        {
-          "version": "9.0.0-rc.1.24431.7",
-          "downloads": 10175,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-rc.1.24431.7.json"
-        },
-        {
-          "version": "9.0.0-rc.2.24473.5",
-          "downloads": 7027,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-rc.2.24473.5.json"
-        },
-        {
-          "version": "9.0.0",
-          "downloads": 285407,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0.json"
-        },
-        {
-          "version": "9.0.1",
-          "downloads": 9667,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/index.json",
@@ -27257,6 +26995,278 @@
           "version": "3.29.3",
           "downloads": 93256,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/3.29.3.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/index.json",
+      "id": "System.Memory.Data",
+      "version": "9.0.1",
+      "description": "A lightweight abstraction for a payload of bytes. Provides methods for converting between strings, streams, JSON, and bytes.\n\nCommonly Used Types:\nSystem.BinaryData",
+      "summary": "",
+      "title": "System.Memory.Data",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.memory.data/9.0.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Memory.Data/9.0.1/license",
+      "projectUrl": "https://dot.net/",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "azure-sdk",
+        "dotnetframework",
+        "Microsoft"
+      ],
+      "totalDownloads": 612393550,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0-beta.1",
+          "downloads": 593,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/1.0.0-beta.1.json"
+        },
+        {
+          "version": "1.0.0-beta.2",
+          "downloads": 540,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/1.0.0-beta.2.json"
+        },
+        {
+          "version": "1.0.0",
+          "downloads": 2322277,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/1.0.0.json"
+        },
+        {
+          "version": "1.0.1",
+          "downloads": 93590725,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/1.0.1.json"
+        },
+        {
+          "version": "1.0.2",
+          "downloads": 484543047,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/1.0.2.json"
+        },
+        {
+          "version": "6.0.0-preview.1.21102.12",
+          "downloads": 1976,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-preview.1.21102.12.json"
+        },
+        {
+          "version": "6.0.0-preview.2.21154.6",
+          "downloads": 993,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-preview.2.21154.6.json"
+        },
+        {
+          "version": "6.0.0-preview.3.21201.4",
+          "downloads": 1304,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-preview.3.21201.4.json"
+        },
+        {
+          "version": "6.0.0-preview.4.21253.7",
+          "downloads": 11414,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-preview.4.21253.7.json"
+        },
+        {
+          "version": "6.0.0-preview.5.21301.5",
+          "downloads": 765,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-preview.5.21301.5.json"
+        },
+        {
+          "version": "6.0.0-preview.6.21352.12",
+          "downloads": 1776,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-preview.6.21352.12.json"
+        },
+        {
+          "version": "6.0.0-preview.7.21377.19",
+          "downloads": 2958,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-preview.7.21377.19.json"
+        },
+        {
+          "version": "6.0.0-rc.1.21451.13",
+          "downloads": 2184,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-rc.1.21451.13.json"
+        },
+        {
+          "version": "6.0.0-rc.2.21480.5",
+          "downloads": 963,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0-rc.2.21480.5.json"
+        },
+        {
+          "version": "6.0.0",
+          "downloads": 20810601,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.0.json"
+        },
+        {
+          "version": "6.0.1",
+          "downloads": 25181,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/6.0.1.json"
+        },
+        {
+          "version": "7.0.0-preview.1.22076.8",
+          "downloads": 3475,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-preview.1.22076.8.json"
+        },
+        {
+          "version": "7.0.0-preview.2.22152.2",
+          "downloads": 789,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-preview.2.22152.2.json"
+        },
+        {
+          "version": "7.0.0-preview.3.22175.4",
+          "downloads": 1123,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-preview.3.22175.4.json"
+        },
+        {
+          "version": "7.0.0-preview.4.22229.4",
+          "downloads": 1911,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-preview.4.22229.4.json"
+        },
+        {
+          "version": "7.0.0-preview.5.22301.12",
+          "downloads": 925,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-preview.5.22301.12.json"
+        },
+        {
+          "version": "7.0.0-preview.6.22324.4",
+          "downloads": 796,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-preview.6.22324.4.json"
+        },
+        {
+          "version": "7.0.0-preview.7.22375.6",
+          "downloads": 3116,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-preview.7.22375.6.json"
+        },
+        {
+          "version": "7.0.0-rc.1.22426.10",
+          "downloads": 2414,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-rc.1.22426.10.json"
+        },
+        {
+          "version": "7.0.0-rc.2.22472.3",
+          "downloads": 10060,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0-rc.2.22472.3.json"
+        },
+        {
+          "version": "7.0.0",
+          "downloads": 5046737,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/7.0.0.json"
+        },
+        {
+          "version": "8.0.0-preview.1.23110.8",
+          "downloads": 19675,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-preview.1.23110.8.json"
+        },
+        {
+          "version": "8.0.0-preview.2.23128.3",
+          "downloads": 1152,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-preview.2.23128.3.json"
+        },
+        {
+          "version": "8.0.0-preview.3.23174.8",
+          "downloads": 2690,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-preview.3.23174.8.json"
+        },
+        {
+          "version": "8.0.0-preview.4.23259.5",
+          "downloads": 763,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-preview.4.23259.5.json"
+        },
+        {
+          "version": "8.0.0-preview.5.23280.8",
+          "downloads": 1525,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-preview.5.23280.8.json"
+        },
+        {
+          "version": "8.0.0-preview.6.23329.7",
+          "downloads": 3726,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-preview.6.23329.7.json"
+        },
+        {
+          "version": "8.0.0-preview.7.23375.6",
+          "downloads": 5390,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-preview.7.23375.6.json"
+        },
+        {
+          "version": "8.0.0-rc.1.23419.4",
+          "downloads": 5028,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-rc.1.23419.4.json"
+        },
+        {
+          "version": "8.0.0-rc.2.23479.6",
+          "downloads": 4688,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0-rc.2.23479.6.json"
+        },
+        {
+          "version": "8.0.0",
+          "downloads": 4813030,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.0.json"
+        },
+        {
+          "version": "8.0.1",
+          "downloads": 820528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/8.0.1.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 1019,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-preview.1.24080.9.json"
+        },
+        {
+          "version": "9.0.0-preview.2.24128.5",
+          "downloads": 2040,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-preview.2.24128.5.json"
+        },
+        {
+          "version": "9.0.0-preview.3.24172.9",
+          "downloads": 1081,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-preview.3.24172.9.json"
+        },
+        {
+          "version": "9.0.0-preview.4.24266.19",
+          "downloads": 961,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-preview.4.24266.19.json"
+        },
+        {
+          "version": "9.0.0-preview.5.24306.7",
+          "downloads": 2538,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-preview.5.24306.7.json"
+        },
+        {
+          "version": "9.0.0-preview.6.24327.7",
+          "downloads": 1466,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-preview.6.24327.7.json"
+        },
+        {
+          "version": "9.0.0-preview.7.24405.7",
+          "downloads": 1489,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-preview.7.24405.7.json"
+        },
+        {
+          "version": "9.0.0-rc.1.24431.7",
+          "downloads": 10175,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-rc.1.24431.7.json"
+        },
+        {
+          "version": "9.0.0-rc.2.24473.5",
+          "downloads": 7027,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0-rc.2.24473.5.json"
+        },
+        {
+          "version": "9.0.0",
+          "downloads": 285407,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.0.json"
+        },
+        {
+          "version": "9.0.1",
+          "downloads": 9667,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.memory.data/9.0.1.json"
         }
       ],
       "vulnerabilities": []
@@ -36707,12 +36717,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fluentassertions/index.json",
       "id": "FluentAssertions",
-      "version": "8.0.0",
-      "description": "A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or\n      BDD-style unit tests. Works with .NET Standard 2.0 and higher, .NET Framework 4.7 and higher and .NET 6 and higher.\n      Supports the unit test frameworks MSTest2, NUnit3, NUnit4, XUnit2, XUnit3, MSpec and TUnit.",
+      "version": "8.0.1",
+      "description": "A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or\n      BDD-style unit tests. Works with .NET Standard 2.0 and higher, .NET Framework 4.7 and higher and .NET 6 and higher.\n      Supports the unit test frameworks MSTest2, NUnit3, NUnit4, XUnit2, XUnit3, MSpec and TUnit.\n\n      IMPORTANT: This version is free for open-source projects and non-commercial use, but commercial use requires [a paid license](https://xceed.com/products/unit-testing/fluent-assertions/). \nCheck out the [license page](LICENSE.md) for more information.",
       "summary": "",
       "title": "FluentAssertions",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fluentassertions/8.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/FluentAssertions/8.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fluentassertions/8.0.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/FluentAssertions/8.0.1/license",
       "projectUrl": "https://xceed.com/products/unit-testing/fluent-assertions/",
       "tags": [
         "MSTest2",
@@ -37211,6 +37221,11 @@
           "version": "8.0.0",
           "downloads": 74081,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fluentassertions/8.0.0.json"
+        },
+        {
+          "version": "8.0.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fluentassertions/8.0.1.json"
         }
       ],
       "vulnerabilities": []
@@ -52371,6 +52386,11 @@
           "version": "3.7.412.2",
           "downloads": 2484,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.412.2.json"
+        },
+        {
+          "version": "3.7.412.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.412.3.json"
         },
         {
           "version": "4.0.0-preview",
