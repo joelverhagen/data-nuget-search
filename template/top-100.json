@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 2738,
+  "totalHits": 2741,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.functions.worker.projecttemplates/index.json",
@@ -66985,6 +66985,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates/14.4.0-p.5.json"
         },
         {
+          "version": "14.4.0-p.8",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates/14.4.0-p.8.json"
+        },
+        {
           "version": "15.0.0-p.10",
           "downloads": 58,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hotchocolate.templates/15.0.0-p.10.json"
@@ -88182,12 +88187,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/mudblazor.templates/index.json",
       "id": "MudBlazor.Templates",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "description": "Blazor templates pre configured with MudBlazor.",
       "summary": "",
       "title": "MudBlazor Templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/mudblazor.templates/3.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/MudBlazor.Templates/3.0.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/mudblazor.templates/3.1.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/MudBlazor.Templates/3.1.0/license",
       "projectUrl": "http://mudblazor.com/",
       "tags": [
         "Blazor",
@@ -88345,6 +88350,11 @@
           "version": "3.0.0",
           "downloads": 690,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mudblazor.templates/3.0.0.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mudblazor.templates/3.1.0.json"
         }
       ],
       "vulnerabilities": []
@@ -98257,12 +98267,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/wally.cleanarchitecture.template/index.json",
       "id": "Wally.CleanArchitecture.Template",
-      "version": "1.3.3047",
+      "version": "1.3.3064",
       "description": "CleanArchitecture Template",
       "summary": "",
       "title": "Wally's CleanArchitecture Template",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/wally.cleanarchitecture.template/1.3.3047/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Wally.CleanArchitecture.Template/1.3.3047/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/wally.cleanarchitecture.template/1.3.3064/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Wally.CleanArchitecture.Template/1.3.3064/license",
       "projectUrl": "https://github.com/bwalocha/Wally.CleanArchitecture",
       "tags": [
         "dotnet-new",
@@ -98967,6 +98977,11 @@
           "version": "1.3.3047",
           "downloads": 77,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/wally.cleanarchitecture.template/1.3.3047.json"
+        },
+        {
+          "version": "1.3.3064",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/wally.cleanarchitecture.template/1.3.3064.json"
         }
       ],
       "vulnerabilities": []
@@ -100385,6 +100400,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ppy.osu.game.templates/2025.118.2.json"
         },
         {
+          "version": "2025.118.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ppy.osu.game.templates/2025.118.3.json"
+        },
+        {
           "version": "2025.122.0",
           "downloads": 38,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ppy.osu.game.templates/2025.122.0.json"
@@ -100557,285 +100577,6 @@
           "version": "1.0.0-beta2-20170727-301",
           "downloads": 89076,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.test.projecttemplates.2.0/1.0.0-beta2-20170727-301.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/index.json",
-      "id": "DataJuggler.BlazorGallery",
-      "version": "1.6.5",
-      "description": "A project template for creating a Blazor Image Gallery project that uses SQL Server for a backend.\nYou will need SQL Server or SQL Server Express to run this project. See the Read Me for more info.\nWatch this video to see a demo https://youtu.be/yQz1dqYiy2g.",
-      "summary": "",
-      "title": "DataJuggler.BlazorGallery",
-      "licenseUrl": "https://www.nuget.org/packages/DataJuggler.BlazorGallery/1.6.5/license",
-      "projectUrl": "https://github.com/DataJuggler/BlazorGallery",
-      "tags": [
-        "C#",
-        "Blazor",
-        "FileUpload",
-        "Images"
-      ],
-      "authors": [
-        "DataJuggler.BlazorGallery"
-      ],
-      "owners": [
-        "DataJuggler"
-      ],
-      "totalDownloads": 88742,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "Template"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.8",
-          "downloads": 2229,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.8.json"
-        },
-        {
-          "version": "1.0.9",
-          "downloads": 2311,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.9.json"
-        },
-        {
-          "version": "1.0.10",
-          "downloads": 2207,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.10.json"
-        },
-        {
-          "version": "1.0.11",
-          "downloads": 2154,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.11.json"
-        },
-        {
-          "version": "1.0.12",
-          "downloads": 2440,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.12.json"
-        },
-        {
-          "version": "1.1.0",
-          "downloads": 2081,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.0.json"
-        },
-        {
-          "version": "1.1.1",
-          "downloads": 2189,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.1.json"
-        },
-        {
-          "version": "1.1.3",
-          "downloads": 1966,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.3.json"
-        },
-        {
-          "version": "1.1.5",
-          "downloads": 1797,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.5.json"
-        },
-        {
-          "version": "1.1.6",
-          "downloads": 1882,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.6.json"
-        },
-        {
-          "version": "1.1.7",
-          "downloads": 1767,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.7.json"
-        },
-        {
-          "version": "1.1.8",
-          "downloads": 1945,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.8.json"
-        },
-        {
-          "version": "1.1.9",
-          "downloads": 1683,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.9.json"
-        },
-        {
-          "version": "1.1.10",
-          "downloads": 1947,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.10.json"
-        },
-        {
-          "version": "1.1.11",
-          "downloads": 1890,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.11.json"
-        },
-        {
-          "version": "1.1.12",
-          "downloads": 1739,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.12.json"
-        },
-        {
-          "version": "1.2.0",
-          "downloads": 1616,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.0.json"
-        },
-        {
-          "version": "1.2.1",
-          "downloads": 1597,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.1.json"
-        },
-        {
-          "version": "1.2.2",
-          "downloads": 1905,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.2.json"
-        },
-        {
-          "version": "1.2.3",
-          "downloads": 1645,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.3.json"
-        },
-        {
-          "version": "1.2.4",
-          "downloads": 1890,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.4.json"
-        },
-        {
-          "version": "1.2.5",
-          "downloads": 1781,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.5.json"
-        },
-        {
-          "version": "1.2.6",
-          "downloads": 1806,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.6.json"
-        },
-        {
-          "version": "1.2.7",
-          "downloads": 1707,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.7.json"
-        },
-        {
-          "version": "1.2.8",
-          "downloads": 1676,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.8.json"
-        },
-        {
-          "version": "1.2.9",
-          "downloads": 1836,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.9.json"
-        },
-        {
-          "version": "1.3.0",
-          "downloads": 1939,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.0.json"
-        },
-        {
-          "version": "1.3.1",
-          "downloads": 1716,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.1.json"
-        },
-        {
-          "version": "1.3.2",
-          "downloads": 1765,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.2.json"
-        },
-        {
-          "version": "1.3.3",
-          "downloads": 1915,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.3.json"
-        },
-        {
-          "version": "1.3.4",
-          "downloads": 1724,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.4.json"
-        },
-        {
-          "version": "1.3.5",
-          "downloads": 1539,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.5.json"
-        },
-        {
-          "version": "1.3.6",
-          "downloads": 1665,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.6.json"
-        },
-        {
-          "version": "1.3.7",
-          "downloads": 1692,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.7.json"
-        },
-        {
-          "version": "1.4.0",
-          "downloads": 1650,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.0.json"
-        },
-        {
-          "version": "1.4.1",
-          "downloads": 1782,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.1.json"
-        },
-        {
-          "version": "1.4.2",
-          "downloads": 1588,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.2.json"
-        },
-        {
-          "version": "1.4.3",
-          "downloads": 1564,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.3.json"
-        },
-        {
-          "version": "1.4.4",
-          "downloads": 1726,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.4.json"
-        },
-        {
-          "version": "1.4.5",
-          "downloads": 1721,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.5.json"
-        },
-        {
-          "version": "1.5.6",
-          "downloads": 1810,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.5.6.json"
-        },
-        {
-          "version": "1.5.7",
-          "downloads": 1544,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.5.7.json"
-        },
-        {
-          "version": "1.5.8",
-          "downloads": 1607,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.5.8.json"
-        },
-        {
-          "version": "1.5.9",
-          "downloads": 1631,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.5.9.json"
-        },
-        {
-          "version": "1.6.0",
-          "downloads": 1596,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.0.json"
-        },
-        {
-          "version": "1.6.1",
-          "downloads": 1782,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.1.json"
-        },
-        {
-          "version": "1.6.3",
-          "downloads": 2190,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.3.json"
-        },
-        {
-          "version": "1.6.4",
-          "downloads": 2503,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.4.json"
-        },
-        {
-          "version": "1.6.5",
-          "downloads": 407,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.5.json"
         }
       ],
       "vulnerabilities": []
@@ -102786,6 +102527,285 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/index.json",
+      "id": "DataJuggler.BlazorGallery",
+      "version": "1.6.5",
+      "description": "A project template for creating a Blazor Image Gallery project that uses SQL Server for a backend.\nYou will need SQL Server or SQL Server Express to run this project. See the Read Me for more info.\nWatch this video to see a demo https://youtu.be/yQz1dqYiy2g.",
+      "summary": "",
+      "title": "DataJuggler.BlazorGallery",
+      "licenseUrl": "https://www.nuget.org/packages/DataJuggler.BlazorGallery/1.6.5/license",
+      "projectUrl": "https://github.com/DataJuggler/BlazorGallery",
+      "tags": [
+        "C#",
+        "Blazor",
+        "FileUpload",
+        "Images"
+      ],
+      "authors": [
+        "DataJuggler.BlazorGallery"
+      ],
+      "owners": [
+        "DataJuggler"
+      ],
+      "totalDownloads": 88742,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "Template"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.8",
+          "downloads": 2229,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.8.json"
+        },
+        {
+          "version": "1.0.9",
+          "downloads": 2311,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.9.json"
+        },
+        {
+          "version": "1.0.10",
+          "downloads": 2207,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.10.json"
+        },
+        {
+          "version": "1.0.11",
+          "downloads": 2154,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.11.json"
+        },
+        {
+          "version": "1.0.12",
+          "downloads": 2440,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.0.12.json"
+        },
+        {
+          "version": "1.1.0",
+          "downloads": 2081,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.0.json"
+        },
+        {
+          "version": "1.1.1",
+          "downloads": 2189,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.1.json"
+        },
+        {
+          "version": "1.1.3",
+          "downloads": 1966,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.3.json"
+        },
+        {
+          "version": "1.1.5",
+          "downloads": 1797,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.5.json"
+        },
+        {
+          "version": "1.1.6",
+          "downloads": 1882,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.6.json"
+        },
+        {
+          "version": "1.1.7",
+          "downloads": 1767,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.7.json"
+        },
+        {
+          "version": "1.1.8",
+          "downloads": 1945,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.8.json"
+        },
+        {
+          "version": "1.1.9",
+          "downloads": 1683,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.9.json"
+        },
+        {
+          "version": "1.1.10",
+          "downloads": 1947,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.10.json"
+        },
+        {
+          "version": "1.1.11",
+          "downloads": 1890,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.11.json"
+        },
+        {
+          "version": "1.1.12",
+          "downloads": 1739,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.1.12.json"
+        },
+        {
+          "version": "1.2.0",
+          "downloads": 1616,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.0.json"
+        },
+        {
+          "version": "1.2.1",
+          "downloads": 1597,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.1.json"
+        },
+        {
+          "version": "1.2.2",
+          "downloads": 1905,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.2.json"
+        },
+        {
+          "version": "1.2.3",
+          "downloads": 1645,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.3.json"
+        },
+        {
+          "version": "1.2.4",
+          "downloads": 1890,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.4.json"
+        },
+        {
+          "version": "1.2.5",
+          "downloads": 1781,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.5.json"
+        },
+        {
+          "version": "1.2.6",
+          "downloads": 1806,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.6.json"
+        },
+        {
+          "version": "1.2.7",
+          "downloads": 1707,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.7.json"
+        },
+        {
+          "version": "1.2.8",
+          "downloads": 1676,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.8.json"
+        },
+        {
+          "version": "1.2.9",
+          "downloads": 1836,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.2.9.json"
+        },
+        {
+          "version": "1.3.0",
+          "downloads": 1939,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.0.json"
+        },
+        {
+          "version": "1.3.1",
+          "downloads": 1716,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.1.json"
+        },
+        {
+          "version": "1.3.2",
+          "downloads": 1765,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.2.json"
+        },
+        {
+          "version": "1.3.3",
+          "downloads": 1915,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.3.json"
+        },
+        {
+          "version": "1.3.4",
+          "downloads": 1724,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.4.json"
+        },
+        {
+          "version": "1.3.5",
+          "downloads": 1539,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.5.json"
+        },
+        {
+          "version": "1.3.6",
+          "downloads": 1665,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.6.json"
+        },
+        {
+          "version": "1.3.7",
+          "downloads": 1692,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.3.7.json"
+        },
+        {
+          "version": "1.4.0",
+          "downloads": 1650,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.0.json"
+        },
+        {
+          "version": "1.4.1",
+          "downloads": 1782,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.1.json"
+        },
+        {
+          "version": "1.4.2",
+          "downloads": 1588,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.2.json"
+        },
+        {
+          "version": "1.4.3",
+          "downloads": 1564,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.3.json"
+        },
+        {
+          "version": "1.4.4",
+          "downloads": 1726,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.4.json"
+        },
+        {
+          "version": "1.4.5",
+          "downloads": 1721,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.4.5.json"
+        },
+        {
+          "version": "1.5.6",
+          "downloads": 1810,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.5.6.json"
+        },
+        {
+          "version": "1.5.7",
+          "downloads": 1544,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.5.7.json"
+        },
+        {
+          "version": "1.5.8",
+          "downloads": 1607,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.5.8.json"
+        },
+        {
+          "version": "1.5.9",
+          "downloads": 1631,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.5.9.json"
+        },
+        {
+          "version": "1.6.0",
+          "downloads": 1596,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.0.json"
+        },
+        {
+          "version": "1.6.1",
+          "downloads": 1782,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.1.json"
+        },
+        {
+          "version": "1.6.3",
+          "downloads": 2190,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.3.json"
+        },
+        {
+          "version": "1.6.4",
+          "downloads": 2503,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.4.json"
+        },
+        {
+          "version": "1.6.5",
+          "downloads": 407,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/datajuggler.blazorgallery/1.6.5.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.6.0/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet.web.projecttemplates.6.0/index.json",
@@ -104149,12 +104169,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/meshmakers.octo.constructionkit.templates/index.json",
       "id": "Meshmakers.Octo.ConstructionKit.Templates",
-      "version": "3.2.12",
+      "version": "3.2.13",
       "description": "dotnet new templates for Octo Mesh Construction Kits.",
       "summary": "",
       "title": "Octo Mesh Construction Kit Templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/meshmakers.octo.constructionkit.templates/3.2.12/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Meshmakers.Octo.ConstructionKit.Templates/3.2.12/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/meshmakers.octo.constructionkit.templates/3.2.13/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Meshmakers.Octo.ConstructionKit.Templates/3.2.13/license",
       "projectUrl": "https://www.meshmakers.io/",
       "tags": [
         "dotnet-new",
@@ -106706,6 +106726,11 @@
           "version": "3.2.12",
           "downloads": 28,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/meshmakers.octo.constructionkit.templates/3.2.12.json"
+        },
+        {
+          "version": "3.2.13",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/meshmakers.octo.constructionkit.templates/3.2.13.json"
         }
       ],
       "vulnerabilities": []
