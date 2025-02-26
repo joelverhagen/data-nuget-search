@@ -7,8 +7,8 @@ Azure.Core
 System.Drawing.Common
 Microsoft.Win32.SystemEvents
 Serilog
-System.Windows.Extensions
 Microsoft.Identity.Client
+System.Windows.Extensions
 Microsoft.EntityFrameworkCore
 Microsoft.Extensions.Http
 Microsoft.IdentityModel.Abstractions
@@ -22,7 +22,6 @@ Swashbuckle.AspNetCore.SwaggerGen
 System.Runtime.Caching
 System.Threading.Channels
 Azure.Identity
-Polly
 System.Diagnostics.PerformanceCounter
 Microsoft.Data.SqlClient
 Microsoft.OpenApi
@@ -32,6 +31,7 @@ Microsoft.Extensions.Hosting
 Microsoft.Identity.Client.Extensions.Msal
 Swashbuckle.AspNetCore.SwaggerUI
 Microsoft.ApplicationInsights
+Polly
 System.Formats.Asn1
 Azure.Storage.Blobs
 Swashbuckle.AspNetCore
@@ -54,8 +54,8 @@ coverlet.collector
 Serilog.Formatting.Compact
 Serilog.Settings.Configuration
 Grpc.Core.Api
-Microsoft.AspNetCore.Mvc.NewtonsoftJson
 Azure.Security.KeyVault.Secrets
+Microsoft.AspNetCore.Mvc.NewtonsoftJson
 runtime.win-x86.runtime.native.System.Data.SqlClient.sni
 runtime.win-x64.runtime.native.System.Data.SqlClient.sni
 runtime.win-arm64.runtime.native.System.Data.SqlClient.sni
@@ -64,8 +64,8 @@ Microsoft.IdentityModel.Clients.ActiveDirectory
 FluentAssertions
 Npgsql
 Serilog.Extensions.Hosting
-NUnit
 Dapper
+NUnit
 Serilog.AspNetCore
 Serilog.Sinks.Debug
 Azure.Storage.Common
