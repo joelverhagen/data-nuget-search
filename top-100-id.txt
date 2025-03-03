@@ -21,10 +21,8 @@ Swashbuckle.AspNetCore.SwaggerUI
 Swashbuckle.AspNetCore
 Serilog.Sinks.File
 Microsoft.Extensions.ApiDescription.Server
-Serilog.Sinks.Console
 Azure.Identity
 xunit
-Serilog.Extensions.Logging
 Microsoft.Data.SqlClient.SNI.runtime
 Azure.Storage.Blobs
 Google.Protobuf
@@ -38,8 +36,8 @@ Polly
 runtime.win-x86.runtime.native.System.Data.SqlClient.sni
 runtime.win-x64.runtime.native.System.Data.SqlClient.sni
 runtime.win-arm64.runtime.native.System.Data.SqlClient.sni
-Microsoft.Data.SqlClient
 FluentValidation
+Microsoft.Data.SqlClient
 Microsoft.AspNetCore.Mvc.NewtonsoftJson
 StackExchange.Redis
 Npgsql
@@ -51,9 +49,10 @@ Serilog
 Serilog.AspNetCore
 AutoMapper
 Azure.Storage.Common
-Serilog.Sinks.Debug
 Azure.Security.KeyVault.Secrets
 NLog
+Serilog.Extensions.Logging
+Serilog.Sinks.Console
 RestSharp
 Microsoft.Azure.WebJobs
 Microsoft.Azure.Amqp
@@ -61,7 +60,6 @@ Autofac
 System.Security.Cryptography.Pkcs
 Microsoft.IdentityModel.Clients.ActiveDirectory
 Azure.Messaging.ServiceBus
-Microsoft.ApplicationInsights
 NUnit3TestAdapter
 Microsoft.NET.Sdk.iOS.Manifest-6.0.400
 Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.400
@@ -72,16 +70,16 @@ Microsoft.NET.Sdk.tvOS.Manifest-6.0.400
 AWSSDK.S3
 Grpc.Net.Common
 Microsoft.NET.Sdk.Aspire.Manifest-8.0.100
-Microsoft.Extensions.Logging.EventLog
 Microsoft.NET.Workload.Mono.ToolChain.Manifest-6.0.400
 Microsoft.NET.Workload.Emscripten.Manifest-6.0.400
 Serilog.Sinks.PeriodicBatching
 Grpc.Net.Client
 EntityFramework
+Microsoft.ApplicationInsights
 Microsoft.Bcl.HashCode
 Microsoft.Extensions.Http.Polly
-CsvHelper
 Microsoft.NET.Workload.Mono.ToolChain.Current.Manifest-8.0.100
+CsvHelper
 Microsoft.NET.Workload.Emscripten.Current.Manifest-8.0.100
 Microsoft.NET.Workload.Emscripten.net7.Manifest-8.0.100
 Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-8.0.100
@@ -89,6 +87,7 @@ Microsoft.NET.Workload.Emscripten.net6.Manifest-8.0.100
 Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-8.0.100
 MongoDB.Bson
 Google.Apis
+Serilog.Sinks.Debug
 Google.Apis.Auth
 Microsoft.NET.Sdk.iOS.Manifest-8.0.100
 Microsoft.NET.Sdk.MacCatalyst.Manifest-8.0.100
@@ -98,3 +97,4 @@ Microsoft.NET.Sdk.tvOS.Manifest-8.0.100
 Microsoft.NET.Sdk.Maui.Manifest-8.0.100
 SQLitePCLRaw.core
 Azure.Storage.Queues
+log4net
