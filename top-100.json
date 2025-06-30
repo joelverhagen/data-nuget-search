@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 428858,
+  "totalHits": 428986,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -49018,336 +49018,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/index.json",
-      "id": "Azure.Messaging.ServiceBus",
-      "version": "7.20.1",
-      "description": "Azure Service Bus is a fully managed enterprise integration message broker. Service Bus can decouple applications and services. Service Bus offers a reliable and secure platform for asynchronous transfer of data and state. This client library allows for both sending and receiving messages using Azure Service Bus. For more information about Service Bus, see https://learn.microsoft.com/azure/service-bus-messaging/service-bus-messaging-overview",
-      "summary": "",
-      "title": "Azure.Messaging.ServiceBus",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.messaging.servicebus/7.20.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Azure.Messaging.ServiceBus/7.20.1/license",
-      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Messaging.ServiceBus_7.20.1/sdk/servicebus/Azure.Messaging.ServiceBus/README.md",
-      "tags": [
-        "Azure",
-        "Service",
-        "Bus",
-        "ServiceBus",
-        ".NET",
-        "AMQP",
-        "windowsazureofficial",
-        "azureofficial"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "azure-sdk",
-        "Microsoft"
-      ],
-      "totalDownloads": 222962775,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "7.0.0-preview.1",
-          "downloads": 1268,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0-preview.1.json"
-        },
-        {
-          "version": "7.0.0-preview.2",
-          "downloads": 4287,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0-preview.2.json"
-        },
-        {
-          "version": "7.0.0-preview.3",
-          "downloads": 2219,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0-preview.3.json"
-        },
-        {
-          "version": "7.0.0-preview.4",
-          "downloads": 14738,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0-preview.4.json"
-        },
-        {
-          "version": "7.0.0-preview.6",
-          "downloads": 25727,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0-preview.6.json"
-        },
-        {
-          "version": "7.0.0-preview.7",
-          "downloads": 6578,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0-preview.7.json"
-        },
-        {
-          "version": "7.0.0-preview.8",
-          "downloads": 7730,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0-preview.8.json"
-        },
-        {
-          "version": "7.0.0-preview.9",
-          "downloads": 6887,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0-preview.9.json"
-        },
-        {
-          "version": "7.0.0",
-          "downloads": 1857462,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0.json"
-        },
-        {
-          "version": "7.0.1",
-          "downloads": 673956,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.1.json"
-        },
-        {
-          "version": "7.1.0",
-          "downloads": 1268810,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.1.0.json"
-        },
-        {
-          "version": "7.1.1",
-          "downloads": 2509472,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.1.1.json"
-        },
-        {
-          "version": "7.1.2",
-          "downloads": 4098922,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.1.2.json"
-        },
-        {
-          "version": "7.2.0-beta.1",
-          "downloads": 66006,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.2.0-beta.1.json"
-        },
-        {
-          "version": "7.2.0-beta.2",
-          "downloads": 53803,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.2.0-beta.2.json"
-        },
-        {
-          "version": "7.2.0-beta.3",
-          "downloads": 95750,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.2.0-beta.3.json"
-        },
-        {
-          "version": "7.2.0",
-          "downloads": 918483,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.2.0.json"
-        },
-        {
-          "version": "7.2.1",
-          "downloads": 4355531,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.2.1.json"
-        },
-        {
-          "version": "7.3.0-beta.1",
-          "downloads": 49597,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.3.0-beta.1.json"
-        },
-        {
-          "version": "7.3.0",
-          "downloads": 2071218,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.3.0.json"
-        },
-        {
-          "version": "7.4.0",
-          "downloads": 4156882,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.4.0.json"
-        },
-        {
-          "version": "7.5.0-beta.1",
-          "downloads": 86064,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.5.0-beta.1.json"
-        },
-        {
-          "version": "7.5.0",
-          "downloads": 5300912,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.5.0.json"
-        },
-        {
-          "version": "7.5.1",
-          "downloads": 8479000,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.5.1.json"
-        },
-        {
-          "version": "7.6.0",
-          "downloads": 4144362,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.6.0.json"
-        },
-        {
-          "version": "7.7.0",
-          "downloads": 8927384,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.7.0.json"
-        },
-        {
-          "version": "7.8.0-beta.1",
-          "downloads": 13595,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.8.0-beta.1.json"
-        },
-        {
-          "version": "7.8.0-beta.2",
-          "downloads": 16274,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.8.0-beta.2.json"
-        },
-        {
-          "version": "7.8.0",
-          "downloads": 1304300,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.8.0.json"
-        },
-        {
-          "version": "7.8.1",
-          "downloads": 7322646,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.8.1.json"
-        },
-        {
-          "version": "7.9.0-beta.1",
-          "downloads": 15841,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.9.0-beta.1.json"
-        },
-        {
-          "version": "7.9.0",
-          "downloads": 6016562,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.9.0.json"
-        },
-        {
-          "version": "7.10.0",
-          "downloads": 11745028,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.10.0.json"
-        },
-        {
-          "version": "7.11.0-beta.1",
-          "downloads": 12129,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.11.0-beta.1.json"
-        },
-        {
-          "version": "7.11.0",
-          "downloads": 5820699,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.11.0.json"
-        },
-        {
-          "version": "7.11.1",
-          "downloads": 15268439,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.11.1.json"
-        },
-        {
-          "version": "7.12.0",
-          "downloads": 7484031,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.12.0.json"
-        },
-        {
-          "version": "7.13.0",
-          "downloads": 463249,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.13.0.json"
-        },
-        {
-          "version": "7.13.1",
-          "downloads": 8439448,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.13.1.json"
-        },
-        {
-          "version": "7.14.0",
-          "downloads": 3916826,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.14.0.json"
-        },
-        {
-          "version": "7.15.0",
-          "downloads": 10885446,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.15.0.json"
-        },
-        {
-          "version": "7.16.0",
-          "downloads": 2101552,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.16.0.json"
-        },
-        {
-          "version": "7.16.1",
-          "downloads": 6193696,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.16.1.json"
-        },
-        {
-          "version": "7.16.2",
-          "downloads": 6601963,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.16.2.json"
-        },
-        {
-          "version": "7.17.0",
-          "downloads": 7496700,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.17.0.json"
-        },
-        {
-          "version": "7.17.1",
-          "downloads": 7739206,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.17.1.json"
-        },
-        {
-          "version": "7.17.2",
-          "downloads": 5763909,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.17.2.json"
-        },
-        {
-          "version": "7.17.3",
-          "downloads": 2709839,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.17.3.json"
-        },
-        {
-          "version": "7.17.4",
-          "downloads": 4677037,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.17.4.json"
-        },
-        {
-          "version": "7.17.5",
-          "downloads": 15259667,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.17.5.json"
-        },
-        {
-          "version": "7.18.0-beta.1",
-          "downloads": 142010,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.18.0-beta.1.json"
-        },
-        {
-          "version": "7.18.0",
-          "downloads": 1296860,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.18.0.json"
-        },
-        {
-          "version": "7.18.1",
-          "downloads": 13739941,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.18.1.json"
-        },
-        {
-          "version": "7.18.2",
-          "downloads": 13073694,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.18.2.json"
-        },
-        {
-          "version": "7.18.3",
-          "downloads": 1957012,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.18.3.json"
-        },
-        {
-          "version": "7.18.4",
-          "downloads": 4010200,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.18.4.json"
-        },
-        {
-          "version": "7.19.0",
-          "downloads": 2188108,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.19.0.json"
-        },
-        {
-          "version": "7.20.1",
-          "downloads": 103020,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.20.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
@@ -55979,6 +55649,336 @@
           "version": "4.0.3.1",
           "downloads": 57,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/4.0.3.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/index.json",
+      "id": "Azure.Messaging.ServiceBus",
+      "version": "7.20.1",
+      "description": "Azure Service Bus is a fully managed enterprise integration message broker. Service Bus can decouple applications and services. Service Bus offers a reliable and secure platform for asynchronous transfer of data and state. This client library allows for both sending and receiving messages using Azure Service Bus. For more information about Service Bus, see https://learn.microsoft.com/azure/service-bus-messaging/service-bus-messaging-overview",
+      "summary": "",
+      "title": "Azure.Messaging.ServiceBus",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.messaging.servicebus/7.20.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Azure.Messaging.ServiceBus/7.20.1/license",
+      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Messaging.ServiceBus_7.20.1/sdk/servicebus/Azure.Messaging.ServiceBus/README.md",
+      "tags": [
+        "Azure",
+        "Service",
+        "Bus",
+        "ServiceBus",
+        ".NET",
+        "AMQP",
+        "windowsazureofficial",
+        "azureofficial"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "azure-sdk",
+        "Microsoft"
+      ],
+      "totalDownloads": 222962775,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "7.0.0-preview.1",
+          "downloads": 1268,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0-preview.1.json"
+        },
+        {
+          "version": "7.0.0-preview.2",
+          "downloads": 4287,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0-preview.2.json"
+        },
+        {
+          "version": "7.0.0-preview.3",
+          "downloads": 2219,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0-preview.3.json"
+        },
+        {
+          "version": "7.0.0-preview.4",
+          "downloads": 14738,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0-preview.4.json"
+        },
+        {
+          "version": "7.0.0-preview.6",
+          "downloads": 25727,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0-preview.6.json"
+        },
+        {
+          "version": "7.0.0-preview.7",
+          "downloads": 6578,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0-preview.7.json"
+        },
+        {
+          "version": "7.0.0-preview.8",
+          "downloads": 7730,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0-preview.8.json"
+        },
+        {
+          "version": "7.0.0-preview.9",
+          "downloads": 6887,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0-preview.9.json"
+        },
+        {
+          "version": "7.0.0",
+          "downloads": 1857462,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.0.json"
+        },
+        {
+          "version": "7.0.1",
+          "downloads": 673956,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.0.1.json"
+        },
+        {
+          "version": "7.1.0",
+          "downloads": 1268810,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.1.0.json"
+        },
+        {
+          "version": "7.1.1",
+          "downloads": 2509472,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.1.1.json"
+        },
+        {
+          "version": "7.1.2",
+          "downloads": 4098922,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.1.2.json"
+        },
+        {
+          "version": "7.2.0-beta.1",
+          "downloads": 66006,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.2.0-beta.1.json"
+        },
+        {
+          "version": "7.2.0-beta.2",
+          "downloads": 53803,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.2.0-beta.2.json"
+        },
+        {
+          "version": "7.2.0-beta.3",
+          "downloads": 95750,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.2.0-beta.3.json"
+        },
+        {
+          "version": "7.2.0",
+          "downloads": 918483,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.2.0.json"
+        },
+        {
+          "version": "7.2.1",
+          "downloads": 4355531,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.2.1.json"
+        },
+        {
+          "version": "7.3.0-beta.1",
+          "downloads": 49597,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.3.0-beta.1.json"
+        },
+        {
+          "version": "7.3.0",
+          "downloads": 2071218,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.3.0.json"
+        },
+        {
+          "version": "7.4.0",
+          "downloads": 4156882,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.4.0.json"
+        },
+        {
+          "version": "7.5.0-beta.1",
+          "downloads": 86064,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.5.0-beta.1.json"
+        },
+        {
+          "version": "7.5.0",
+          "downloads": 5300912,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.5.0.json"
+        },
+        {
+          "version": "7.5.1",
+          "downloads": 8479000,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.5.1.json"
+        },
+        {
+          "version": "7.6.0",
+          "downloads": 4144362,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.6.0.json"
+        },
+        {
+          "version": "7.7.0",
+          "downloads": 8927384,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.7.0.json"
+        },
+        {
+          "version": "7.8.0-beta.1",
+          "downloads": 13595,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.8.0-beta.1.json"
+        },
+        {
+          "version": "7.8.0-beta.2",
+          "downloads": 16274,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.8.0-beta.2.json"
+        },
+        {
+          "version": "7.8.0",
+          "downloads": 1304300,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.8.0.json"
+        },
+        {
+          "version": "7.8.1",
+          "downloads": 7322646,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.8.1.json"
+        },
+        {
+          "version": "7.9.0-beta.1",
+          "downloads": 15841,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.9.0-beta.1.json"
+        },
+        {
+          "version": "7.9.0",
+          "downloads": 6016562,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.9.0.json"
+        },
+        {
+          "version": "7.10.0",
+          "downloads": 11745028,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.10.0.json"
+        },
+        {
+          "version": "7.11.0-beta.1",
+          "downloads": 12129,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.11.0-beta.1.json"
+        },
+        {
+          "version": "7.11.0",
+          "downloads": 5820699,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.11.0.json"
+        },
+        {
+          "version": "7.11.1",
+          "downloads": 15268439,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.11.1.json"
+        },
+        {
+          "version": "7.12.0",
+          "downloads": 7484031,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.12.0.json"
+        },
+        {
+          "version": "7.13.0",
+          "downloads": 463249,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.13.0.json"
+        },
+        {
+          "version": "7.13.1",
+          "downloads": 8439448,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.13.1.json"
+        },
+        {
+          "version": "7.14.0",
+          "downloads": 3916826,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.14.0.json"
+        },
+        {
+          "version": "7.15.0",
+          "downloads": 10885446,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.15.0.json"
+        },
+        {
+          "version": "7.16.0",
+          "downloads": 2101552,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.16.0.json"
+        },
+        {
+          "version": "7.16.1",
+          "downloads": 6193696,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.16.1.json"
+        },
+        {
+          "version": "7.16.2",
+          "downloads": 6601963,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.16.2.json"
+        },
+        {
+          "version": "7.17.0",
+          "downloads": 7496700,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.17.0.json"
+        },
+        {
+          "version": "7.17.1",
+          "downloads": 7739206,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.17.1.json"
+        },
+        {
+          "version": "7.17.2",
+          "downloads": 5763909,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.17.2.json"
+        },
+        {
+          "version": "7.17.3",
+          "downloads": 2709839,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.17.3.json"
+        },
+        {
+          "version": "7.17.4",
+          "downloads": 4677037,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.17.4.json"
+        },
+        {
+          "version": "7.17.5",
+          "downloads": 15259667,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.17.5.json"
+        },
+        {
+          "version": "7.18.0-beta.1",
+          "downloads": 142010,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.18.0-beta.1.json"
+        },
+        {
+          "version": "7.18.0",
+          "downloads": 1296860,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.18.0.json"
+        },
+        {
+          "version": "7.18.1",
+          "downloads": 13739941,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.18.1.json"
+        },
+        {
+          "version": "7.18.2",
+          "downloads": 13073694,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.18.2.json"
+        },
+        {
+          "version": "7.18.3",
+          "downloads": 1957012,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.18.3.json"
+        },
+        {
+          "version": "7.18.4",
+          "downloads": 4010200,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.18.4.json"
+        },
+        {
+          "version": "7.19.0",
+          "downloads": 2188108,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.19.0.json"
+        },
+        {
+          "version": "7.20.1",
+          "downloads": 103020,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.messaging.servicebus/7.20.1.json"
         }
       ],
       "vulnerabilities": []
