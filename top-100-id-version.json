@@ -40,11 +40,11 @@
     "version": "4.73.1"
   },
   {
-    "id": "System.Windows.Extensions",
+    "id": "Microsoft.EntityFrameworkCore",
     "version": "10.0.0-preview.5.25277.114"
   },
   {
-    "id": "Microsoft.EntityFrameworkCore",
+    "id": "System.Windows.Extensions",
     "version": "10.0.0-preview.5.25277.114"
   },
   {
@@ -96,12 +96,12 @@
     "version": "10.0.0-preview.5.25277.114"
   },
   {
-    "id": "Polly",
-    "version": "8.6.1"
-  },
-  {
     "id": "Microsoft.OpenApi",
     "version": "2.0.0-preview.31"
+  },
+  {
+    "id": "Polly",
+    "version": "8.6.1"
   },
   {
     "id": "Microsoft.Data.SqlClient",
@@ -124,24 +124,24 @@
     "version": "15.0.0"
   },
   {
-    "id": "System.Formats.Asn1",
-    "version": "10.0.0-preview.5.25277.114"
-  },
-  {
     "id": "Moq",
     "version": "4.20.72"
+  },
+  {
+    "id": "System.Formats.Asn1",
+    "version": "10.0.0-preview.5.25277.114"
   },
   {
     "id": "Swashbuckle.AspNetCore.SwaggerUI",
     "version": "9.0.1"
   },
   {
-    "id": "System.Memory.Data",
-    "version": "10.0.0-preview.5.25277.114"
-  },
-  {
     "id": "Microsoft.ApplicationInsights",
     "version": "2.23.0"
+  },
+  {
+    "id": "System.Memory.Data",
+    "version": "10.0.0-preview.5.25277.114"
   },
   {
     "id": "Google.Protobuf",
@@ -160,6 +160,10 @@
     "version": "7.0.0"
   },
   {
+    "id": "Microsoft.Extensions.ApiDescription.Server",
+    "version": "10.0.0-preview.5.25277.114"
+  },
+  {
     "id": "System.CodeDom",
     "version": "10.0.0-preview.5.25277.114"
   },
@@ -168,12 +172,12 @@
     "version": "6.0.1-dev-00953"
   },
   {
-    "id": "Microsoft.Extensions.ApiDescription.Server",
-    "version": "10.0.0-preview.5.25277.114"
-  },
-  {
     "id": "Microsoft.Data.SqlClient.SNI.runtime",
     "version": "6.0.2"
+  },
+  {
+    "id": "Microsoft.Extensions.Logging.EventLog",
+    "version": "10.0.0-preview.5.25277.114"
   },
   {
     "id": "Serilog.Extensions.Logging",
@@ -184,20 +188,16 @@
     "version": "2.9.3"
   },
   {
-    "id": "Microsoft.Extensions.Logging.EventLog",
-    "version": "10.0.0-preview.5.25277.114"
-  },
-  {
-    "id": "StackExchange.Redis",
-    "version": "2.8.41"
-  },
-  {
     "id": "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions",
     "version": "10.0.0-preview.5.25277.114"
   },
   {
     "id": "FluentValidation",
     "version": "12.0.0"
+  },
+  {
+    "id": "StackExchange.Redis",
+    "version": "2.8.41"
   },
   {
     "id": "Grpc.Core.Api",
@@ -208,12 +208,12 @@
     "version": "10.0.0-preview.5.25277.114"
   },
   {
-    "id": "coverlet.collector",
-    "version": "6.0.4"
-  },
-  {
     "id": "Humanizer.Core",
     "version": "3.0.0-beta.96"
+  },
+  {
+    "id": "coverlet.collector",
+    "version": "6.0.4"
   },
   {
     "id": "Serilog.Settings.Configuration",
@@ -260,6 +260,10 @@
     "version": "9.0.1-dev-02307"
   },
   {
+    "id": "Microsoft.NET.Sdk.Aspire.Manifest-8.0.100",
+    "version": "8.2.2"
+  },
+  {
     "id": "Microsoft.IdentityModel.Clients.ActiveDirectory",
     "version": "5.3.0"
   },
@@ -276,12 +280,12 @@
     "version": "4.4.0-beta.1"
   },
   {
-    "id": "Microsoft.NET.Sdk.Aspire.Manifest-8.0.100",
-    "version": "8.2.2"
-  },
-  {
     "id": "Azure.Storage.Common",
     "version": "12.25.0-beta.1"
+  },
+  {
+    "id": "Microsoft.Extensions.Diagnostics.Abstractions",
+    "version": "10.0.0-preview.5.25277.114"
   },
   {
     "id": "Serilog.Sinks.Debug",
@@ -292,24 +296,12 @@
     "version": "2.71.0"
   },
   {
-    "id": "Microsoft.Extensions.Diagnostics.Abstractions",
-    "version": "10.0.0-preview.5.25277.114"
-  },
-  {
     "id": "NLog",
     "version": "6.0.1"
   },
   {
-    "id": "Microsoft.Azure.WebJobs",
-    "version": "3.0.41"
-  },
-  {
     "id": "Microsoft.Azure.Amqp",
     "version": "2.7.0"
-  },
-  {
-    "id": "Grpc.Net.Client",
-    "version": "2.71.0"
   },
   {
     "id": "Microsoft.NET.Workload.Mono.ToolChain.Current.Manifest-8.0.100",
@@ -322,6 +314,14 @@
   {
     "id": "Microsoft.NET.Workload.Emscripten.net7.Manifest-8.0.100",
     "version": "8.0.17"
+  },
+  {
+    "id": "Microsoft.Azure.WebJobs",
+    "version": "3.0.41"
+  },
+  {
+    "id": "Grpc.Net.Client",
+    "version": "2.71.0"
   },
   {
     "id": "Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-8.0.100",
@@ -338,10 +338,6 @@
   {
     "id": "RestSharp",
     "version": "112.1.1-alpha.0.4"
-  },
-  {
-    "id": "Autofac",
-    "version": "8.3.0"
   },
   {
     "id": "Microsoft.NET.Sdk.iOS.Manifest-8.0.100",
@@ -368,6 +364,10 @@
     "version": "8.0.100"
   },
   {
+    "id": "Autofac",
+    "version": "8.3.0"
+  },
+  {
     "id": "Portable.BouncyCastle",
     "version": "1.9.0"
   },
@@ -392,11 +392,11 @@
     "version": "2.23.0"
   },
   {
-    "id": "Microsoft.NET.Sdk.iOS.Manifest-6.0.400",
-    "version": "16.4.60+sha.701aa230c"
+    "id": "Microsoft.Extensions.Http.Polly",
+    "version": "10.0.0-preview.5.25277.114"
   },
   {
-    "id": "Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.400",
+    "id": "Microsoft.NET.Sdk.iOS.Manifest-6.0.400",
     "version": "16.4.60+sha.701aa230c"
   }
 ]
