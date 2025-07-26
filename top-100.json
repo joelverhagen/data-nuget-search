@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 432561,
+  "totalHits": 432735,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -10662,12 +10662,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "4.0.0.17",
+      "version": "4.0.0.18",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/4.0.0.17/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/4.0.0.17/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/4.0.0.18/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/4.0.0.18/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -17233,6 +17233,11 @@
           "version": "4.0.0.17",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/4.0.0.17.json"
+        },
+        {
+          "version": "4.0.0.18",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/4.0.0.18.json"
         }
       ],
       "vulnerabilities": []
@@ -19804,6 +19809,55 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/index.json",
+      "id": "Newtonsoft.Json.Bson",
+      "version": "1.0.3",
+      "description": "Json.NET BSON adds support for reading and writing BSON",
+      "summary": "",
+      "title": "Newtonsoft.Json.Bson",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/newtonsoft.json.bson/1.0.3/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Newtonsoft.Json.Bson/1.0.3/license",
+      "projectUrl": "http://www.newtonsoft.com/json",
+      "tags": [
+        "bson"
+      ],
+      "authors": [
+        "James Newton-King"
+      ],
+      "owners": [
+        "dotnetfoundation",
+        "jamesnk",
+        "newtonsoft"
+      ],
+      "totalDownloads": 1001802604,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.1",
+          "downloads": 444626759,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.1.json"
+        },
+        {
+          "version": "1.0.2",
+          "downloads": 552019024,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.2.json"
+        },
+        {
+          "version": "1.0.3",
+          "downloads": 4951372,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.3.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/swashbuckle.aspnetcore.swagger/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/swashbuckle.aspnetcore.swagger/index.json",
@@ -20256,55 +20310,6 @@
           "version": "9.0.3",
           "downloads": 527681,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/swashbuckle.aspnetcore.swagger/9.0.3.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/index.json",
-      "id": "Newtonsoft.Json.Bson",
-      "version": "1.0.3",
-      "description": "Json.NET BSON adds support for reading and writing BSON",
-      "summary": "",
-      "title": "Newtonsoft.Json.Bson",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/newtonsoft.json.bson/1.0.3/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Newtonsoft.Json.Bson/1.0.3/license",
-      "projectUrl": "http://www.newtonsoft.com/json",
-      "tags": [
-        "bson"
-      ],
-      "authors": [
-        "James Newton-King"
-      ],
-      "owners": [
-        "dotnetfoundation",
-        "jamesnk",
-        "newtonsoft"
-      ],
-      "totalDownloads": 1001802604,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.1",
-          "downloads": 444626759,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.1.json"
-        },
-        {
-          "version": "1.0.2",
-          "downloads": 552019024,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.2.json"
-        },
-        {
-          "version": "1.0.3",
-          "downloads": 4951372,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.3.json"
         }
       ],
       "vulnerabilities": []
@@ -21760,12 +21765,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/index.json",
       "id": "Microsoft.Data.SqlClient",
-      "version": "6.1.0-preview2.25178.5",
+      "version": "6.1.0",
       "description": "The current data provider for SQL Server and Azure SQL databases. This has replaced System.Data.SqlClient. These classes provide access to SQL and encapsulate database-specific protocols, including tabular data stream (TDS).\n\n      Commonly Used Types:\n      Microsoft.Data.SqlClient.SqlConnection\n      Microsoft.Data.SqlClient.SqlException\n      Microsoft.Data.SqlClient.SqlParameter\n      Microsoft.Data.SqlClient.SqlDataReader\n      Microsoft.Data.SqlClient.SqlCommand\n      Microsoft.Data.SqlClient.SqlTransaction\n      Microsoft.Data.SqlClient.SqlParameterCollection\n      Microsoft.Data.SqlClient.SqlClientFactory\n\n      When using NuGet 3.x this package requires at least version 3.4.",
       "summary": "",
       "title": "Microsoft.Data.SqlClient",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.data.sqlclient/6.1.0-preview2.25178.5/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Data.SqlClient/6.1.0-preview2.25178.5/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.data.sqlclient/6.1.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Data.SqlClient/6.1.0/license",
       "projectUrl": "https://aka.ms/sqlclientproject",
       "tags": [
         "sqlclient",
@@ -22215,6 +22220,11 @@
           "version": "6.1.0-preview2.25178.5",
           "downloads": 10264,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/6.1.0-preview2.25178.5.json"
+        },
+        {
+          "version": "6.1.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.data.sqlclient/6.1.0.json"
         }
       ],
       "vulnerabilities": []
