@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 5908,
+  "totalHits": 5918,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cake.tool/index.json",
@@ -3635,6 +3635,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/8.0.18.json"
         },
         {
+          "version": "8.0.19",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/8.0.19.json"
+        },
+        {
           "version": "9.0.0-preview.1.24081.2",
           "downloads": 1987,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/9.0.0-preview.1.24081.2.json"
@@ -3718,6 +3723,11 @@
           "version": "9.0.7",
           "downloads": 680981,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/9.0.7.json"
+        },
+        {
+          "version": "9.0.8",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-ef/9.0.8.json"
         },
         {
           "version": "10.0.0-preview.1.25081.1",
@@ -7619,6 +7629,11 @@
           "version": "2025.1.4",
           "downloads": 23806,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dotcover.commandlinetools/2025.1.4.json"
+        },
+        {
+          "version": "2025.1.5",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dotcover.commandlinetools/2025.1.5.json"
         },
         {
           "version": "2025.2.0-eap01",
@@ -23303,6 +23318,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2025.1.4.json"
         },
         {
+          "version": "2025.1.5",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2025.1.5.json"
+        },
+        {
           "version": "2025.2.0-eap01",
           "downloads": 224,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2025.2.0-eap01.json"
@@ -23991,12 +24011,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/csharpier/index.json",
       "id": "CSharpier",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "description": "CSharpier is an opinionated code formatter for c#.",
       "summary": "",
       "title": "CSharpier",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/csharpier/1.1.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/CSharpier/1.1.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/csharpier/1.1.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/CSharpier/1.1.1/license",
       "tags": [],
       "authors": [
         "CSharpier"
@@ -24446,6 +24466,11 @@
           "version": "1.1.0",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/csharpier/1.1.0.json"
+        },
+        {
+          "version": "1.1.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/csharpier/1.1.1.json"
         }
       ],
       "vulnerabilities": []
@@ -32088,11 +32113,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/index.json",
       "id": "FunFair.BuildVersion",
-      "version": "6.2.18.1563-main",
+      "version": "6.2.18.1567-main",
       "description": "Build versioning tool.",
       "summary": "",
       "title": "FunFair.BuildVersion",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.18.1563-main/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.18.1567-main/icon",
       "projectUrl": "https://github.com/funfair-tech/funfair-build-version",
       "tags": [
         "FunFair",
@@ -41667,6 +41692,16 @@
           "version": "6.2.18.1563-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.18.1563-main.json"
+        },
+        {
+          "version": "6.2.18.1564-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.18.1564-main.json"
+        },
+        {
+          "version": "6.2.18.1567-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.18.1567-main.json"
         }
       ],
       "vulnerabilities": []
@@ -43544,11 +43579,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/octonotes.githubupdater.tool/index.json",
       "id": "OctoNotes.GitHubUpdater.Tool",
-      "version": "0.0.2208",
+      "version": "0.0.2209",
       "description": "OctoNotes is a tool for generating release notes from Git repositories.\n      Using the information generated by OctoNotes, we can calculate which release a fix landed in, across multiple release branches.\n      We then use this to add a table to the related GitHub issue.",
       "summary": "",
       "title": "OctoNotes.GitHubUpdater.Tool",
-      "licenseUrl": "https://www.nuget.org/packages/OctoNotes.GitHubUpdater.Tool/0.0.2208/license",
+      "licenseUrl": "https://www.nuget.org/packages/OctoNotes.GitHubUpdater.Tool/0.0.2209/license",
       "projectUrl": "https://github.com/OctopusDeploy/OctoNotes",
       "tags": [],
       "authors": [
@@ -50334,6 +50369,11 @@
           "version": "0.0.2208",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octonotes.githubupdater.tool/0.0.2208.json"
+        },
+        {
+          "version": "0.0.2209",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octonotes.githubupdater.tool/0.0.2209.json"
         }
       ],
       "vulnerabilities": []
@@ -59727,11 +59767,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
       "id": "Credfeto.ChangeLog.Cmd",
-      "version": "1.10.180.1348-main",
+      "version": "1.10.180.1349-main",
       "description": "Changelog manager dotnet tool.",
       "summary": "",
       "title": "Credfeto.ChangeLog.Cmd",
-      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.180.1348-main/license",
+      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.180.1349-main/license",
       "tags": [
         "Changelog",
         "tool",
@@ -69106,6 +69146,11 @@
           "version": "1.10.180.1348-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.180.1348-main.json"
+        },
+        {
+          "version": "1.10.180.1349-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.180.1349-main.json"
         }
       ],
       "vulnerabilities": []
@@ -70645,12 +70690,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/index.json",
       "id": "StrawberryShake.Tools",
-      "version": "16.0.0-p.6.8",
+      "version": "16.0.0-p.6.11",
       "description": "Package Description",
       "summary": "",
       "title": "StrawberryShake.Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/strawberryshake.tools/16.0.0-p.6.8/icon",
-      "licenseUrl": "https://www.nuget.org/packages/StrawberryShake.Tools/16.0.0-p.6.8/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/strawberryshake.tools/16.0.0-p.6.11/icon",
+      "licenseUrl": "https://www.nuget.org/packages/StrawberryShake.Tools/16.0.0-p.6.11/license",
       "projectUrl": "https://chillicream.com/",
       "tags": [
         "GraphQL",
@@ -71236,24 +71281,9 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/15.1.8.json"
         },
         {
-          "version": "15.1.9-p.1",
+          "version": "16.0.0-p.6.11",
           "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/15.1.9-p.1.json"
-        },
-        {
-          "version": "16.0.0-p.6.6.5",
-          "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.0.0-p.6.6.5.json"
-        },
-        {
-          "version": "16.0.0-p.6.7",
-          "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.0.0-p.6.7.json"
-        },
-        {
-          "version": "16.0.0-p.6.8",
-          "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.0.0-p.6.8.json"
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.0.0-p.6.11.json"
         }
       ],
       "vulnerabilities": []
@@ -87896,6 +87926,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.18.json"
         },
         {
+          "version": "8.0.19",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.19.json"
+        },
+        {
           "version": "9.0.0-preview.1.24081.5",
           "downloads": 132,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-preview.1.24081.5.json"
@@ -87979,6 +88014,11 @@
           "version": "9.0.7",
           "downloads": 718,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.7.json"
+        },
+        {
+          "version": "9.0.8",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.8.json"
         },
         {
           "version": "10.0.0-preview.1.25120.3",
