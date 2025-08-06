@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 433914,
+  "totalHits": 434127,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -17175,6 +17175,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.500.2.json"
         },
         {
+          "version": "3.7.500.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.500.3.json"
+        },
+        {
           "version": "4.0.0-preview",
           "downloads": 110060,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/4.0.0-preview.json"
@@ -26357,11 +26362,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/index.json",
       "id": "Google.Protobuf",
-      "version": "3.32.0-rc1",
+      "version": "3.32.0-rc2",
       "description": "C# runtime library for Protocol Buffers - Google's data interchange format.",
       "summary": "",
       "title": "Google.Protobuf",
-      "licenseUrl": "https://www.nuget.org/packages/Google.Protobuf/3.32.0-rc1/license",
+      "licenseUrl": "https://www.nuget.org/packages/Google.Protobuf/3.32.0-rc2/license",
       "projectUrl": "https://github.com/protocolbuffers/protobuf",
       "tags": [
         "Protocol",
@@ -27271,6 +27276,11 @@
           "version": "3.32.0-rc1",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/3.32.0-rc1.json"
+        },
+        {
+          "version": "3.32.0-rc2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/3.32.0-rc2.json"
         }
       ],
       "vulnerabilities": []
@@ -44448,12 +44458,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.current.manifest-8.0.100/index.json",
       "id": "Microsoft.NET.Workload.Mono.ToolChain.Current.Manifest-8.0.100",
-      "version": "8.0.18",
+      "version": "8.0.19",
       "description": "Internal toolchain package not meant for direct consumption. Please do not reference directly.",
       "summary": "",
       "title": "Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.mono.toolchain.current.manifest-8.0.100/8.0.18/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.NET.Workload.Mono.ToolChain.Current.Manifest-8.0.100/8.0.18/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.mono.toolchain.current.manifest-8.0.100/8.0.19/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.NET.Workload.Mono.ToolChain.Current.Manifest-8.0.100/8.0.19/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -44560,6 +44570,11 @@
           "version": "8.0.18",
           "downloads": 10416383,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.current.manifest-8.0.100/8.0.18.json"
+        },
+        {
+          "version": "8.0.19",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.current.manifest-8.0.100/8.0.19.json"
         }
       ],
       "vulnerabilities": []
@@ -44569,11 +44584,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/index.json",
       "id": "Microsoft.NET.Workload.Emscripten.Current.Manifest-8.0.100",
-      "version": "8.0.18",
+      "version": "8.0.19",
       "description": "Internal toolchain package not meant for direct consumption. Please do not reference directly.",
       "summary": "",
       "title": "Microsoft.NET.Workload.Emscripten.Current.Manifest",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.18/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.19/icon",
       "licenseUrl": "https://github.com/dotnet/emsdk/blob/main/LICENSE",
       "projectUrl": "https://github.com/dotnet/emsdk",
       "tags": [],
@@ -44681,6 +44696,11 @@
           "version": "8.0.18",
           "downloads": 10403323,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.18.json"
+        },
+        {
+          "version": "8.0.19",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.19.json"
         }
       ],
       "vulnerabilities": []
@@ -44690,11 +44710,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/index.json",
       "id": "Microsoft.NET.Workload.Emscripten.net7.Manifest-8.0.100",
-      "version": "8.0.18",
+      "version": "8.0.19",
       "description": "Internal toolchain package not meant for direct consumption. Please do not reference directly.",
       "summary": "",
       "title": "Microsoft.NET.Workload.Emscripten.net7.Manifest",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.18/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.19/icon",
       "licenseUrl": "https://github.com/dotnet/emsdk/blob/main/LICENSE",
       "projectUrl": "https://github.com/dotnet/emsdk",
       "tags": [],
@@ -44802,6 +44822,11 @@
           "version": "8.0.18",
           "downloads": 10396246,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.18.json"
+        },
+        {
+          "version": "8.0.19",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.19.json"
         }
       ],
       "vulnerabilities": []
@@ -44811,12 +44836,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.net7.manifest-8.0.100/index.json",
       "id": "Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-8.0.100",
-      "version": "8.0.18",
+      "version": "8.0.19",
       "description": "Internal toolchain package not meant for direct consumption. Please do not reference directly.",
       "summary": "",
       "title": "Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.mono.toolchain.net7.manifest-8.0.100/8.0.18/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-8.0.100/8.0.18/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.mono.toolchain.net7.manifest-8.0.100/8.0.19/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-8.0.100/8.0.19/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -44923,6 +44948,11 @@
           "version": "8.0.18",
           "downloads": 10389048,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.net7.manifest-8.0.100/8.0.18.json"
+        },
+        {
+          "version": "8.0.19",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.net7.manifest-8.0.100/8.0.19.json"
         }
       ],
       "vulnerabilities": []
@@ -44932,11 +44962,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net6.manifest-8.0.100/index.json",
       "id": "Microsoft.NET.Workload.Emscripten.net6.Manifest-8.0.100",
-      "version": "8.0.18",
+      "version": "8.0.19",
       "description": "Internal toolchain package not meant for direct consumption. Please do not reference directly.",
       "summary": "",
       "title": "Microsoft.NET.Workload.Emscripten.net6.Manifest",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.emscripten.net6.manifest-8.0.100/8.0.18/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.emscripten.net6.manifest-8.0.100/8.0.19/icon",
       "licenseUrl": "https://github.com/dotnet/emsdk/blob/main/LICENSE",
       "projectUrl": "https://github.com/dotnet/emsdk",
       "tags": [],
@@ -45044,6 +45074,11 @@
           "version": "8.0.18",
           "downloads": 10398532,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net6.manifest-8.0.100/8.0.18.json"
+        },
+        {
+          "version": "8.0.19",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net6.manifest-8.0.100/8.0.19.json"
         }
       ],
       "vulnerabilities": []
@@ -45053,12 +45088,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.net6.manifest-8.0.100/index.json",
       "id": "Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-8.0.100",
-      "version": "8.0.18",
+      "version": "8.0.19",
       "description": "Internal toolchain package not meant for direct consumption. Please do not reference directly.",
       "summary": "",
       "title": "Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.mono.toolchain.net6.manifest-8.0.100/8.0.18/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-8.0.100/8.0.18/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.mono.toolchain.net6.manifest-8.0.100/8.0.19/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-8.0.100/8.0.19/license",
       "projectUrl": "https://dot.net/",
       "tags": [],
       "authors": [
@@ -45165,6 +45200,11 @@
           "version": "8.0.18",
           "downloads": 10390280,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.net6.manifest-8.0.100/8.0.18.json"
+        },
+        {
+          "version": "8.0.19",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.net6.manifest-8.0.100/8.0.19.json"
         }
       ],
       "vulnerabilities": []
@@ -56610,6 +56650,11 @@
           "version": "3.7.500.2",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.500.2.json"
+        },
+        {
+          "version": "3.7.500.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.500.3.json"
         },
         {
           "version": "4.0.0-preview",
