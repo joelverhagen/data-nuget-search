@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 444622,
+  "totalHits": 444791,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -21071,55 +21071,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/index.json",
-      "id": "Newtonsoft.Json.Bson",
-      "version": "1.0.3",
-      "description": "Json.NET BSON adds support for reading and writing BSON",
-      "summary": "",
-      "title": "Newtonsoft.Json.Bson",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/newtonsoft.json.bson/1.0.3/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Newtonsoft.Json.Bson/1.0.3/license",
-      "projectUrl": "http://www.newtonsoft.com/json",
-      "tags": [
-        "bson"
-      ],
-      "authors": [
-        "James Newton-King"
-      ],
-      "owners": [
-        "dotnetfoundation",
-        "jamesnk",
-        "newtonsoft"
-      ],
-      "totalDownloads": 1079374825,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.1",
-          "downloads": 471762275,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.1.json"
-        },
-        {
-          "version": "1.0.2",
-          "downloads": 599590367,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.2.json"
-        },
-        {
-          "version": "1.0.3",
-          "downloads": 7801123,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.3.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/index.json",
@@ -21826,6 +21777,55 @@
           "version": "4.77.1",
           "downloads": 109498,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.identity.client.extensions.msal/4.77.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/index.json",
+      "id": "Newtonsoft.Json.Bson",
+      "version": "1.0.3",
+      "description": "Json.NET BSON adds support for reading and writing BSON",
+      "summary": "",
+      "title": "Newtonsoft.Json.Bson",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/newtonsoft.json.bson/1.0.3/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Newtonsoft.Json.Bson/1.0.3/license",
+      "projectUrl": "http://www.newtonsoft.com/json",
+      "tags": [
+        "bson"
+      ],
+      "authors": [
+        "James Newton-King"
+      ],
+      "owners": [
+        "dotnetfoundation",
+        "jamesnk",
+        "newtonsoft"
+      ],
+      "totalDownloads": 1079374825,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.1",
+          "downloads": 471762275,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.1.json"
+        },
+        {
+          "version": "1.0.2",
+          "downloads": 599590367,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.2.json"
+        },
+        {
+          "version": "1.0.3",
+          "downloads": 7801123,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json.bson/1.0.3.json"
         }
       ],
       "vulnerabilities": []
@@ -50689,12 +50689,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "id": "AWSSDK.S3",
-      "version": "4.0.7.12",
+      "version": "4.0.7.13",
       "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
       "summary": "",
       "title": "AWSSDK - S3",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/4.0.7.12/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/4.0.7.12/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/4.0.7.13/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/4.0.7.13/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -57711,6 +57711,11 @@
           "version": "4.0.7.12",
           "downloads": 16646,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/4.0.7.12.json"
+        },
+        {
+          "version": "4.0.7.13",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/4.0.7.13.json"
         }
       ],
       "vulnerabilities": []
@@ -58822,12 +58827,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/opentelemetry.api/index.json",
       "id": "OpenTelemetry.Api",
-      "version": "1.13.1",
+      "version": "1.14.0-rc.1",
       "description": "OpenTelemetry .NET API",
       "summary": "",
       "title": "OpenTelemetry.Api",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/opentelemetry.api/1.13.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/OpenTelemetry.Api/1.13.1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/opentelemetry.api/1.14.0-rc.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/OpenTelemetry.Api/1.14.0-rc.1/license",
       "projectUrl": "https://opentelemetry.io/",
       "tags": [
         "Observability",
@@ -59206,6 +59211,11 @@
           "version": "1.13.1",
           "downloads": 283162,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/opentelemetry.api/1.13.1.json"
+        },
+        {
+          "version": "1.14.0-rc.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/opentelemetry.api/1.14.0-rc.1.json"
         }
       ],
       "vulnerabilities": []
