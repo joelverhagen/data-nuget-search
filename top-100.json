@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 444791,
+  "totalHits": 444915,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -18750,6 +18750,11 @@
           "version": "3.7.500.34",
           "downloads": 5481,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.500.34.json"
+        },
+        {
+          "version": "3.7.500.35",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.500.35.json"
         },
         {
           "version": "4.0.0-preview",
@@ -39270,165 +39275,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/index.json",
-      "id": "Serilog.Formatting.Compact",
-      "version": "3.0.0",
-      "description": "A simple, compact JSON-based event format for Serilog.",
-      "summary": "",
-      "title": "Serilog.Formatting.Compact",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/serilog.formatting.compact/3.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Serilog.Formatting.Compact/3.0.0/license",
-      "projectUrl": "https://github.com/serilog/serilog-formatting-compact",
-      "tags": [
-        "serilog",
-        "json"
-      ],
-      "authors": [
-        "Serilog Contributors"
-      ],
-      "owners": [
-        "nblumhardt",
-        "serilog"
-      ],
-      "totalDownloads": 681942236,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0-rc-10",
-          "downloads": 2379,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0-rc-10.json"
-        },
-        {
-          "version": "1.0.0-rc-3",
-          "downloads": 2392,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0-rc-3.json"
-        },
-        {
-          "version": "1.0.0-rc-5",
-          "downloads": 2440,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0-rc-5.json"
-        },
-        {
-          "version": "1.0.0-rc-6",
-          "downloads": 2430,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0-rc-6.json"
-        },
-        {
-          "version": "1.0.0-rc-9",
-          "downloads": 2491,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0-rc-9.json"
-        },
-        {
-          "version": "1.0.0-rc-912",
-          "downloads": 2488,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0-rc-912.json"
-        },
-        {
-          "version": "1.0.0-rc-915",
-          "downloads": 2405,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0-rc-915.json"
-        },
-        {
-          "version": "1.0.0-rc-916",
-          "downloads": 2514,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0-rc-916.json"
-        },
-        {
-          "version": "1.0.0",
-          "downloads": 146946742,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0.json"
-        },
-        {
-          "version": "1.0.1-dev-00920",
-          "downloads": 3309,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.1-dev-00920.json"
-        },
-        {
-          "version": "1.0.1-dev-00922",
-          "downloads": 369897,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.1-dev-00922.json"
-        },
-        {
-          "version": "1.0.1-dev-00925",
-          "downloads": 108019,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.1-dev-00925.json"
-        },
-        {
-          "version": "1.0.1-dev-00929",
-          "downloads": 1940,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.1-dev-00929.json"
-        },
-        {
-          "version": "1.0.1-dev-00933",
-          "downloads": 7799,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.1-dev-00933.json"
-        },
-        {
-          "version": "1.1.0-dev-00934",
-          "downloads": 1799,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.1.0-dev-00934.json"
-        },
-        {
-          "version": "1.1.0",
-          "downloads": 356905251,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.1.0.json"
-        },
-        {
-          "version": "1.1.1-dev-00939",
-          "downloads": 7491,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.1.1-dev-00939.json"
-        },
-        {
-          "version": "1.1.1-dev-00940",
-          "downloads": 145274,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.1.1-dev-00940.json"
-        },
-        {
-          "version": "1.1.1-dev-00944",
-          "downloads": 597487,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.1.1-dev-00944.json"
-        },
-        {
-          "version": "2.0.0-dev-00961",
-          "downloads": 110568,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/2.0.0-dev-00961.json"
-        },
-        {
-          "version": "2.0.0-dev-00962",
-          "downloads": 927,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/2.0.0-dev-00962.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 124246165,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/2.0.0.json"
-        },
-        {
-          "version": "2.0.1-dev-00969",
-          "downloads": 29121,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/2.0.1-dev-00969.json"
-        },
-        {
-          "version": "3.0.0-dev-00980",
-          "downloads": 412,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/3.0.0-dev-00980.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 52440496,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/3.0.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.abstractions/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.abstractions/index.json",
@@ -39630,6 +39476,165 @@
           "version": "10.0.0-rc.2.25502.107",
           "downloads": 21467,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics.abstractions/10.0.0-rc.2.25502.107.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/index.json",
+      "id": "Serilog.Formatting.Compact",
+      "version": "3.0.0",
+      "description": "A simple, compact JSON-based event format for Serilog.",
+      "summary": "",
+      "title": "Serilog.Formatting.Compact",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/serilog.formatting.compact/3.0.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Serilog.Formatting.Compact/3.0.0/license",
+      "projectUrl": "https://github.com/serilog/serilog-formatting-compact",
+      "tags": [
+        "serilog",
+        "json"
+      ],
+      "authors": [
+        "Serilog Contributors"
+      ],
+      "owners": [
+        "nblumhardt",
+        "serilog"
+      ],
+      "totalDownloads": 681942236,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0-rc-10",
+          "downloads": 2379,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0-rc-10.json"
+        },
+        {
+          "version": "1.0.0-rc-3",
+          "downloads": 2392,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0-rc-3.json"
+        },
+        {
+          "version": "1.0.0-rc-5",
+          "downloads": 2440,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0-rc-5.json"
+        },
+        {
+          "version": "1.0.0-rc-6",
+          "downloads": 2430,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0-rc-6.json"
+        },
+        {
+          "version": "1.0.0-rc-9",
+          "downloads": 2491,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0-rc-9.json"
+        },
+        {
+          "version": "1.0.0-rc-912",
+          "downloads": 2488,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0-rc-912.json"
+        },
+        {
+          "version": "1.0.0-rc-915",
+          "downloads": 2405,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0-rc-915.json"
+        },
+        {
+          "version": "1.0.0-rc-916",
+          "downloads": 2514,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0-rc-916.json"
+        },
+        {
+          "version": "1.0.0",
+          "downloads": 146946742,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.0.json"
+        },
+        {
+          "version": "1.0.1-dev-00920",
+          "downloads": 3309,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.1-dev-00920.json"
+        },
+        {
+          "version": "1.0.1-dev-00922",
+          "downloads": 369897,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.1-dev-00922.json"
+        },
+        {
+          "version": "1.0.1-dev-00925",
+          "downloads": 108019,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.1-dev-00925.json"
+        },
+        {
+          "version": "1.0.1-dev-00929",
+          "downloads": 1940,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.1-dev-00929.json"
+        },
+        {
+          "version": "1.0.1-dev-00933",
+          "downloads": 7799,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.0.1-dev-00933.json"
+        },
+        {
+          "version": "1.1.0-dev-00934",
+          "downloads": 1799,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.1.0-dev-00934.json"
+        },
+        {
+          "version": "1.1.0",
+          "downloads": 356905251,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.1.0.json"
+        },
+        {
+          "version": "1.1.1-dev-00939",
+          "downloads": 7491,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.1.1-dev-00939.json"
+        },
+        {
+          "version": "1.1.1-dev-00940",
+          "downloads": 145274,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.1.1-dev-00940.json"
+        },
+        {
+          "version": "1.1.1-dev-00944",
+          "downloads": 597487,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/1.1.1-dev-00944.json"
+        },
+        {
+          "version": "2.0.0-dev-00961",
+          "downloads": 110568,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/2.0.0-dev-00961.json"
+        },
+        {
+          "version": "2.0.0-dev-00962",
+          "downloads": 927,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/2.0.0-dev-00962.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 124246165,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/2.0.0.json"
+        },
+        {
+          "version": "2.0.1-dev-00969",
+          "downloads": 29121,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/2.0.1-dev-00969.json"
+        },
+        {
+          "version": "3.0.0-dev-00980",
+          "downloads": 412,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/3.0.0-dev-00980.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 52440496,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.formatting.compact/3.0.0.json"
         }
       ],
       "vulnerabilities": []
@@ -57406,6 +57411,11 @@
           "version": "3.7.501.19",
           "downloads": 2492,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.501.19.json"
+        },
+        {
+          "version": "3.7.501.20",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.501.20.json"
         },
         {
           "version": "4.0.0-preview",
