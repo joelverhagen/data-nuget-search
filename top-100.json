@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 450769,
+  "totalHits": 450921,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -12314,12 +12314,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "4.0.3.2",
+      "version": "4.0.3.3",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/4.0.3.2/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/4.0.3.2/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/4.0.3.3/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/4.0.3.3/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -18987,6 +18987,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.500.47.json"
         },
         {
+          "version": "3.7.500.48",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/3.7.500.48.json"
+        },
+        {
           "version": "4.0.0-preview",
           "downloads": 123035,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/4.0.0-preview.json"
@@ -19260,6 +19265,11 @@
           "version": "4.0.3.2",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/4.0.3.2.json"
+        },
+        {
+          "version": "4.0.3.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/4.0.3.3.json"
         }
       ],
       "vulnerabilities": []
@@ -33207,12 +33217,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.logging/index.json",
       "id": "Serilog.Extensions.Logging",
-      "version": "9.0.3-dev-02320",
+      "version": "10.0.0",
       "description": "Low-level Serilog provider for Microsoft.Extensions.Logging",
       "summary": "",
       "title": "Serilog.Extensions.Logging",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/serilog.extensions.logging/9.0.3-dev-02320/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Serilog.Extensions.Logging/9.0.3-dev-02320/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/serilog.extensions.logging/10.0.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Serilog.Extensions.Logging/10.0.0/license",
       "projectUrl": "https://github.com/serilog/serilog-extensions-logging",
       "tags": [
         "serilog",
@@ -33756,6 +33766,16 @@
           "version": "9.0.3-dev-02320",
           "downloads": 69882,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.logging/9.0.3-dev-02320.json"
+        },
+        {
+          "version": "10.0.0-dev-02334",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.logging/10.0.0-dev-02334.json"
+        },
+        {
+          "version": "10.0.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.logging/10.0.0.json"
         }
       ],
       "vulnerabilities": []
@@ -48393,6 +48413,227 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/index.json",
+      "id": "Microsoft.Extensions.Diagnostics",
+      "version": "10.0.0",
+      "description": "This package includes the default implementation of IMeterFactory and additional extension methods to easily register it with the Dependency Injection framework.",
+      "summary": "",
+      "title": "Microsoft.Extensions.Diagnostics",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.diagnostics/10.0.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Diagnostics/10.0.0/license",
+      "projectUrl": "https://dot.net/",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
+      "totalDownloads": 500637450,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "8.0.0-preview.5.23280.8",
+          "downloads": 665,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/8.0.0-preview.5.23280.8.json"
+        },
+        {
+          "version": "8.0.0-preview.6.23329.7",
+          "downloads": 1041,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/8.0.0-preview.6.23329.7.json"
+        },
+        {
+          "version": "8.0.0-preview.7.23375.6",
+          "downloads": 1750,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/8.0.0-preview.7.23375.6.json"
+        },
+        {
+          "version": "8.0.0-rc.1.23419.4",
+          "downloads": 323667,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/8.0.0-rc.1.23419.4.json"
+        },
+        {
+          "version": "8.0.0-rc.2.23479.6",
+          "downloads": 497905,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/8.0.0-rc.2.23479.6.json"
+        },
+        {
+          "version": "8.0.0",
+          "downloads": 239367964,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/8.0.0.json"
+        },
+        {
+          "version": "8.0.1",
+          "downloads": 126752756,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/8.0.1.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 77827,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-preview.1.24080.9.json"
+        },
+        {
+          "version": "9.0.0-preview.2.24128.5",
+          "downloads": 59620,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-preview.2.24128.5.json"
+        },
+        {
+          "version": "9.0.0-preview.3.24172.9",
+          "downloads": 154594,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-preview.3.24172.9.json"
+        },
+        {
+          "version": "9.0.0-preview.4.24266.19",
+          "downloads": 61986,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-preview.4.24266.19.json"
+        },
+        {
+          "version": "9.0.0-preview.5.24306.7",
+          "downloads": 88310,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-preview.5.24306.7.json"
+        },
+        {
+          "version": "9.0.0-preview.6.24327.7",
+          "downloads": 73923,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-preview.6.24327.7.json"
+        },
+        {
+          "version": "9.0.0-preview.7.24405.7",
+          "downloads": 84072,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-preview.7.24405.7.json"
+        },
+        {
+          "version": "9.0.0-rc.1.24431.7",
+          "downloads": 179044,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-rc.1.24431.7.json"
+        },
+        {
+          "version": "9.0.0-rc.2.24473.5",
+          "downloads": 324138,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-rc.2.24473.5.json"
+        },
+        {
+          "version": "9.0.0",
+          "downloads": 35240023,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0.json"
+        },
+        {
+          "version": "9.0.1",
+          "downloads": 11403202,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.1.json"
+        },
+        {
+          "version": "9.0.2",
+          "downloads": 12713203,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.2.json"
+        },
+        {
+          "version": "9.0.3",
+          "downloads": 10806354,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.3.json"
+        },
+        {
+          "version": "9.0.4",
+          "downloads": 13548286,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.4.json"
+        },
+        {
+          "version": "9.0.5",
+          "downloads": 10104424,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.5.json"
+        },
+        {
+          "version": "9.0.6",
+          "downloads": 8601956,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.6.json"
+        },
+        {
+          "version": "9.0.7",
+          "downloads": 7626972,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.7.json"
+        },
+        {
+          "version": "9.0.8",
+          "downloads": 8788121,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.8.json"
+        },
+        {
+          "version": "9.0.9",
+          "downloads": 7888213,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.9.json"
+        },
+        {
+          "version": "9.0.10",
+          "downloads": 4197338,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.10.json"
+        },
+        {
+          "version": "9.0.11",
+          "downloads": 268321,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.11.json"
+        },
+        {
+          "version": "10.0.0-preview.1.25080.5",
+          "downloads": 138470,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-preview.1.25080.5.json"
+        },
+        {
+          "version": "10.0.0-preview.2.25163.2",
+          "downloads": 45135,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-preview.2.25163.2.json"
+        },
+        {
+          "version": "10.0.0-preview.3.25171.5",
+          "downloads": 68409,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-preview.3.25171.5.json"
+        },
+        {
+          "version": "10.0.0-preview.4.25258.110",
+          "downloads": 54842,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-preview.4.25258.110.json"
+        },
+        {
+          "version": "10.0.0-preview.5.25277.114",
+          "downloads": 66644,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-preview.5.25277.114.json"
+        },
+        {
+          "version": "10.0.0-preview.6.25358.103",
+          "downloads": 60625,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-preview.6.25358.103.json"
+        },
+        {
+          "version": "10.0.0-preview.7.25380.108",
+          "downloads": 67308,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-preview.7.25380.108.json"
+        },
+        {
+          "version": "10.0.0-rc.1.25451.107",
+          "downloads": 195084,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-rc.1.25451.107.json"
+        },
+        {
+          "version": "10.0.0-rc.2.25502.107",
+          "downloads": 153240,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-rc.2.25502.107.json"
+        },
+        {
+          "version": "10.0.0",
+          "downloads": 552018,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.amqp/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.amqp/index.json",
@@ -48671,227 +48912,6 @@
           "version": "2.7.0",
           "downloads": 9603148,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.amqp/2.7.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/index.json",
-      "id": "Microsoft.Extensions.Diagnostics",
-      "version": "10.0.0",
-      "description": "This package includes the default implementation of IMeterFactory and additional extension methods to easily register it with the Dependency Injection framework.",
-      "summary": "",
-      "title": "Microsoft.Extensions.Diagnostics",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.diagnostics/10.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Extensions.Diagnostics/10.0.0/license",
-      "projectUrl": "https://dot.net/",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 500637450,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "8.0.0-preview.5.23280.8",
-          "downloads": 665,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/8.0.0-preview.5.23280.8.json"
-        },
-        {
-          "version": "8.0.0-preview.6.23329.7",
-          "downloads": 1041,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/8.0.0-preview.6.23329.7.json"
-        },
-        {
-          "version": "8.0.0-preview.7.23375.6",
-          "downloads": 1750,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/8.0.0-preview.7.23375.6.json"
-        },
-        {
-          "version": "8.0.0-rc.1.23419.4",
-          "downloads": 323667,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/8.0.0-rc.1.23419.4.json"
-        },
-        {
-          "version": "8.0.0-rc.2.23479.6",
-          "downloads": 497905,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/8.0.0-rc.2.23479.6.json"
-        },
-        {
-          "version": "8.0.0",
-          "downloads": 239367964,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/8.0.0.json"
-        },
-        {
-          "version": "8.0.1",
-          "downloads": 126752756,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/8.0.1.json"
-        },
-        {
-          "version": "9.0.0-preview.1.24080.9",
-          "downloads": 77827,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-preview.1.24080.9.json"
-        },
-        {
-          "version": "9.0.0-preview.2.24128.5",
-          "downloads": 59620,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-preview.2.24128.5.json"
-        },
-        {
-          "version": "9.0.0-preview.3.24172.9",
-          "downloads": 154594,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-preview.3.24172.9.json"
-        },
-        {
-          "version": "9.0.0-preview.4.24266.19",
-          "downloads": 61986,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-preview.4.24266.19.json"
-        },
-        {
-          "version": "9.0.0-preview.5.24306.7",
-          "downloads": 88310,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-preview.5.24306.7.json"
-        },
-        {
-          "version": "9.0.0-preview.6.24327.7",
-          "downloads": 73923,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-preview.6.24327.7.json"
-        },
-        {
-          "version": "9.0.0-preview.7.24405.7",
-          "downloads": 84072,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-preview.7.24405.7.json"
-        },
-        {
-          "version": "9.0.0-rc.1.24431.7",
-          "downloads": 179044,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-rc.1.24431.7.json"
-        },
-        {
-          "version": "9.0.0-rc.2.24473.5",
-          "downloads": 324138,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0-rc.2.24473.5.json"
-        },
-        {
-          "version": "9.0.0",
-          "downloads": 35240023,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.0.json"
-        },
-        {
-          "version": "9.0.1",
-          "downloads": 11403202,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.1.json"
-        },
-        {
-          "version": "9.0.2",
-          "downloads": 12713203,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.2.json"
-        },
-        {
-          "version": "9.0.3",
-          "downloads": 10806354,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.3.json"
-        },
-        {
-          "version": "9.0.4",
-          "downloads": 13548286,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.4.json"
-        },
-        {
-          "version": "9.0.5",
-          "downloads": 10104424,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.5.json"
-        },
-        {
-          "version": "9.0.6",
-          "downloads": 8601956,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.6.json"
-        },
-        {
-          "version": "9.0.7",
-          "downloads": 7626972,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.7.json"
-        },
-        {
-          "version": "9.0.8",
-          "downloads": 8788121,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.8.json"
-        },
-        {
-          "version": "9.0.9",
-          "downloads": 7888213,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.9.json"
-        },
-        {
-          "version": "9.0.10",
-          "downloads": 4197338,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.10.json"
-        },
-        {
-          "version": "9.0.11",
-          "downloads": 268321,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/9.0.11.json"
-        },
-        {
-          "version": "10.0.0-preview.1.25080.5",
-          "downloads": 138470,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-preview.1.25080.5.json"
-        },
-        {
-          "version": "10.0.0-preview.2.25163.2",
-          "downloads": 45135,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-preview.2.25163.2.json"
-        },
-        {
-          "version": "10.0.0-preview.3.25171.5",
-          "downloads": 68409,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-preview.3.25171.5.json"
-        },
-        {
-          "version": "10.0.0-preview.4.25258.110",
-          "downloads": 54842,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-preview.4.25258.110.json"
-        },
-        {
-          "version": "10.0.0-preview.5.25277.114",
-          "downloads": 66644,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-preview.5.25277.114.json"
-        },
-        {
-          "version": "10.0.0-preview.6.25358.103",
-          "downloads": 60625,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-preview.6.25358.103.json"
-        },
-        {
-          "version": "10.0.0-preview.7.25380.108",
-          "downloads": 67308,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-preview.7.25380.108.json"
-        },
-        {
-          "version": "10.0.0-rc.1.25451.107",
-          "downloads": 195084,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-rc.1.25451.107.json"
-        },
-        {
-          "version": "10.0.0-rc.2.25502.107",
-          "downloads": 153240,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0-rc.2.25502.107.json"
-        },
-        {
-          "version": "10.0.0",
-          "downloads": 552018,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.extensions.diagnostics/10.0.0.json"
         }
       ],
       "vulnerabilities": []
@@ -49659,12 +49679,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.webjobs/index.json",
       "id": "Microsoft.Azure.WebJobs",
-      "version": "3.0.42",
+      "version": "3.0.43",
       "description": "This package contains the runtime host components of the WebJobs SDK. For more information, please visit https://go.microsoft.com/fwlink/?linkid=2279708.",
       "summary": "",
       "title": "Microsoft.Azure.WebJobs",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.azure.webjobs/3.0.42/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Azure.WebJobs/3.0.42/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.azure.webjobs/3.0.43/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Azure.WebJobs/3.0.43/license",
       "projectUrl": "https://github.com/Azure/azure-webjobs-sdk",
       "tags": [
         "Microsoft",
@@ -50002,6 +50022,11 @@
           "version": "3.0.42",
           "downloads": 280230,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.webjobs/3.0.42.json"
+        },
+        {
+          "version": "3.0.43",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.webjobs/3.0.43.json"
         }
       ],
       "vulnerabilities": []
@@ -50011,12 +50036,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/restsharp/index.json",
       "id": "RestSharp",
-      "version": "112.1.1-alpha.0.13",
+      "version": "112.1.1-alpha.0.16",
       "description": "Simple REST and HTTP API Client",
       "summary": "",
       "title": "RestSharp",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/restsharp/112.1.1-alpha.0.13/icon",
-      "licenseUrl": "https://www.nuget.org/packages/RestSharp/112.1.1-alpha.0.13/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/restsharp/112.1.1-alpha.0.16/icon",
+      "licenseUrl": "https://www.nuget.org/packages/RestSharp/112.1.1-alpha.0.16/license",
       "projectUrl": "https://restsharp.dev/",
       "tags": [],
       "authors": [
@@ -51543,6 +51568,16 @@
           "version": "112.1.1-alpha.0.13",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/restsharp/112.1.1-alpha.0.13.json"
+        },
+        {
+          "version": "112.1.1-alpha.0.14",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/restsharp/112.1.1-alpha.0.14.json"
+        },
+        {
+          "version": "112.1.1-alpha.0.16",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/restsharp/112.1.1-alpha.0.16.json"
         }
       ],
       "vulnerabilities": []
@@ -51552,12 +51587,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "id": "AWSSDK.S3",
-      "version": "4.0.13",
+      "version": "4.0.13.1",
       "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
       "summary": "",
       "title": "AWSSDK - S3",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/4.0.13/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/4.0.13/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/4.0.13.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/4.0.13.1/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -58341,6 +58376,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.506.json"
         },
         {
+          "version": "3.7.506.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/3.7.506.1.json"
+        },
+        {
           "version": "4.0.0-preview",
           "downloads": 96323,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/4.0.0-preview.json"
@@ -58704,6 +58744,11 @@
           "version": "4.0.13",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/4.0.13.json"
+        },
+        {
+          "version": "4.0.13.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/4.0.13.1.json"
         }
       ],
       "vulnerabilities": []

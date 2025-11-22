@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 6393,
+  "totalHits": 6402,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cake.tool/index.json",
@@ -34975,11 +34975,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/index.json",
       "id": "FunFair.BuildVersion",
-      "version": "6.2.18.1762-main",
+      "version": "6.2.18.1764-main",
       "description": "Build versioning tool.",
       "summary": "",
       "title": "FunFair.BuildVersion",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.18.1762-main/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.18.1764-main/icon",
       "projectUrl": "https://github.com/funfair-tech/funfair-build-version",
       "tags": [
         "FunFair",
@@ -45284,6 +45284,16 @@
           "version": "6.2.18.1762-main",
           "downloads": 74,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.18.1762-main.json"
+        },
+        {
+          "version": "6.2.18.1763-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.18.1763-main.json"
+        },
+        {
+          "version": "6.2.18.1764-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.18.1764-main.json"
         }
       ],
       "vulnerabilities": []
@@ -55993,6 +56003,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/snapx/5.2.101-prerelease.81.json"
         },
         {
+          "version": "5.2.101-prerelease.82",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/snapx/5.2.101-prerelease.82.json"
+        },
+        {
           "version": "5.2.101-prerelease0003",
           "downloads": 589,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/snapx/5.2.101-prerelease0003.json"
@@ -56804,25 +56819,28 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/index.json",
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/index.json",
       "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/index.json",
-      "id": "dotnet-project-licenses",
-      "version": "3.0.0-alpha.9",
-      "description": "Package Description",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/index.json",
+      "id": "Microsoft.dotnet-openapi",
+      "version": "10.0.0",
+      "description": "Command line tool to add an OpenAPI service reference\n\nThis package was built from the source code at https://github.com/dotnet/dotnet/tree/b0f34d51fccc69fd334253924abd8d6853fad7aa",
       "summary": "",
-      "title": ".NET Core Tool to print and validate the licenses of dotnet project(s)",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-project-licenses/3.0.0-alpha.9/license",
-      "projectUrl": "https://github.com/tomchavakis/nuget-license",
+      "title": "Microsoft.dotnet-openapi",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet-openapi/10.0.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.dotnet-openapi/10.0.0/license",
+      "projectUrl": "https://asp.net/",
       "tags": [],
       "authors": [
-        "Tom Chavakis, Simon Ensslen"
+        "Microsoft"
       ],
       "owners": [
-        "tomsmyn1"
+        "aspnet",
+        "dotnetframework",
+        "Microsoft"
       ],
-      "totalDownloads": 2353885,
-      "verified": false,
+      "totalDownloads": 2256117,
+      "verified": true,
       "packageTypes": [
         {
           "name": "DotnetTool"
@@ -56830,199 +56848,1019 @@
       ],
       "versions": [
         {
-          "version": "1.0.1",
-          "downloads": 2104,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/1.0.1.json"
+          "version": "3.0.0-rc1.19457.4",
+          "downloads": 564,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.0.0-rc1.19457.4.json"
         },
         {
-          "version": "1.1.0",
-          "downloads": 2019,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/1.1.0.json"
+          "version": "3.0.0",
+          "downloads": 12103,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.0.0.json"
         },
         {
-          "version": "1.1.1",
-          "downloads": 3552,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/1.1.1.json"
+          "version": "3.0.2",
+          "downloads": 9833,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.0.2.json"
         },
         {
-          "version": "1.2.0",
-          "downloads": 4232,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/1.2.0.json"
+          "version": "3.0.3",
+          "downloads": 9797,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.0.3.json"
         },
         {
-          "version": "2.0.0",
-          "downloads": 2277,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.0.0.json"
+          "version": "3.1.0-preview1.19508.20",
+          "downloads": 572,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.0-preview1.19508.20.json"
         },
         {
-          "version": "2.1.0",
-          "downloads": 2365,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.1.0.json"
+          "version": "3.1.0-preview2.19528.8",
+          "downloads": 555,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.0-preview2.19528.8.json"
         },
         {
-          "version": "2.2.0",
-          "downloads": 4435,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.0.json"
+          "version": "3.1.0-preview3.19555.2",
+          "downloads": 520,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.0-preview3.19555.2.json"
         },
         {
-          "version": "2.2.2",
-          "downloads": 2430,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.2.json"
+          "version": "3.1.0",
+          "downloads": 11584,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.0.json"
         },
         {
-          "version": "2.2.3",
-          "downloads": 2374,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.3.json"
+          "version": "3.1.1",
+          "downloads": 10504,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.1.json"
         },
         {
-          "version": "2.2.4",
-          "downloads": 7775,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.4.json"
+          "version": "3.1.2",
+          "downloads": 11178,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.2.json"
         },
         {
-          "version": "2.2.5",
-          "downloads": 7600,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.5.json"
+          "version": "3.1.3",
+          "downloads": 11763,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.3.json"
         },
         {
-          "version": "2.2.6",
-          "downloads": 20032,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.6.json"
+          "version": "3.1.4",
+          "downloads": 10798,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.4.json"
         },
         {
-          "version": "2.2.7",
-          "downloads": 19565,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.7.json"
+          "version": "3.1.5",
+          "downloads": 11163,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.5.json"
         },
         {
-          "version": "2.2.8",
-          "downloads": 3027,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.8.json"
+          "version": "3.1.6",
+          "downloads": 11287,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.6.json"
         },
         {
-          "version": "2.2.10",
-          "downloads": 11765,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.10.json"
+          "version": "3.1.7",
+          "downloads": 11956,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.7.json"
         },
         {
-          "version": "2.3.0",
-          "downloads": 3232,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.0.json"
+          "version": "3.1.8",
+          "downloads": 10582,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.8.json"
         },
         {
-          "version": "2.3.1",
-          "downloads": 36241,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.1.json"
+          "version": "3.1.9",
+          "downloads": 11137,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.9.json"
         },
         {
-          "version": "2.3.3",
-          "downloads": 9333,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.3.json"
+          "version": "3.1.10",
+          "downloads": 12965,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.10.json"
         },
         {
-          "version": "2.3.4",
-          "downloads": 10370,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.4.json"
+          "version": "3.1.11",
+          "downloads": 9687,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.11.json"
         },
         {
-          "version": "2.3.5",
-          "downloads": 10861,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.5.json"
+          "version": "3.1.12",
+          "downloads": 9875,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.12.json"
         },
         {
-          "version": "2.3.6",
-          "downloads": 15984,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.6.json"
+          "version": "3.1.13",
+          "downloads": 9918,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.13.json"
         },
         {
-          "version": "2.3.8",
-          "downloads": 2171,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.8.json"
+          "version": "3.1.14",
+          "downloads": 9645,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.14.json"
         },
         {
-          "version": "2.3.9",
-          "downloads": 3011,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.9.json"
+          "version": "3.1.15",
+          "downloads": 9642,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.15.json"
         },
         {
-          "version": "2.3.10",
-          "downloads": 8034,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.10.json"
+          "version": "3.1.16",
+          "downloads": 9632,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.16.json"
         },
         {
-          "version": "2.3.11",
-          "downloads": 44983,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.11.json"
+          "version": "3.1.17",
+          "downloads": 9638,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.17.json"
         },
         {
-          "version": "2.3.12",
-          "downloads": 4181,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.12.json"
+          "version": "3.1.18",
+          "downloads": 9723,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.18.json"
         },
         {
-          "version": "2.3.13",
-          "downloads": 32775,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.13.json"
+          "version": "3.1.19",
+          "downloads": 9602,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.19.json"
         },
         {
-          "version": "2.4.0",
-          "downloads": 425599,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.4.0.json"
+          "version": "3.1.20",
+          "downloads": 9669,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.20.json"
         },
         {
-          "version": "2.5.0",
-          "downloads": 56944,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.5.0.json"
+          "version": "3.1.21",
+          "downloads": 9657,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.21.json"
         },
         {
-          "version": "2.6.0",
-          "downloads": 78157,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.6.0.json"
+          "version": "3.1.22",
+          "downloads": 9625,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.22.json"
         },
         {
-          "version": "2.7.0",
-          "downloads": 19575,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.7.0.json"
+          "version": "3.1.23",
+          "downloads": 9755,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.23.json"
         },
         {
-          "version": "2.7.1",
-          "downloads": 1463266,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.7.1.json"
+          "version": "3.1.24",
+          "downloads": 9711,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.24.json"
         },
         {
-          "version": "3.0.0-alpha.1",
-          "downloads": 233,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/3.0.0-alpha.1.json"
+          "version": "3.1.25",
+          "downloads": 9691,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.25.json"
         },
         {
-          "version": "3.0.0-alpha.2",
-          "downloads": 198,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/3.0.0-alpha.2.json"
+          "version": "3.1.26",
+          "downloads": 9676,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.26.json"
         },
         {
-          "version": "3.0.0-alpha.4",
-          "downloads": 223,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/3.0.0-alpha.4.json"
+          "version": "3.1.27",
+          "downloads": 9726,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.27.json"
         },
         {
-          "version": "3.0.0-alpha.5",
-          "downloads": 247,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/3.0.0-alpha.5.json"
+          "version": "3.1.28",
+          "downloads": 9679,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.28.json"
         },
         {
-          "version": "3.0.0-alpha.6",
-          "downloads": 325,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/3.0.0-alpha.6.json"
+          "version": "3.1.29",
+          "downloads": 9652,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.29.json"
         },
         {
-          "version": "3.0.0-alpha.8",
+          "version": "3.1.30",
+          "downloads": 9653,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.30.json"
+        },
+        {
+          "version": "3.1.31",
+          "downloads": 9554,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.31.json"
+        },
+        {
+          "version": "3.1.32",
+          "downloads": 9650,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.32.json"
+        },
+        {
+          "version": "5.0.0-preview.1.20124.5",
+          "downloads": 577,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-preview.1.20124.5.json"
+        },
+        {
+          "version": "5.0.0-preview.2.20167.3",
+          "downloads": 537,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-preview.2.20167.3.json"
+        },
+        {
+          "version": "5.0.0-preview.3.20215.14",
+          "downloads": 504,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-preview.3.20215.14.json"
+        },
+        {
+          "version": "5.0.0-preview.4.20257.10",
+          "downloads": 548,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-preview.4.20257.10.json"
+        },
+        {
+          "version": "5.0.0-preview.5.20279.2",
+          "downloads": 537,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-preview.5.20279.2.json"
+        },
+        {
+          "version": "5.0.0-preview.6.20312.15",
+          "downloads": 532,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-preview.6.20312.15.json"
+        },
+        {
+          "version": "5.0.0-preview.7.20365.19",
+          "downloads": 493,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-preview.7.20365.19.json"
+        },
+        {
+          "version": "5.0.0-preview.8.20414.8",
+          "downloads": 490,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-preview.8.20414.8.json"
+        },
+        {
+          "version": "5.0.0-rc.1.20451.17",
+          "downloads": 518,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-rc.1.20451.17.json"
+        },
+        {
+          "version": "5.0.0-rc.2.20475.17",
+          "downloads": 470,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-rc.2.20475.17.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 11436,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0.json"
+        },
+        {
+          "version": "5.0.1",
+          "downloads": 10696,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.1.json"
+        },
+        {
+          "version": "5.0.2",
+          "downloads": 17517,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.2.json"
+        },
+        {
+          "version": "5.0.3",
+          "downloads": 11255,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.3.json"
+        },
+        {
+          "version": "5.0.4",
+          "downloads": 12965,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.4.json"
+        },
+        {
+          "version": "5.0.5",
+          "downloads": 11405,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.5.json"
+        },
+        {
+          "version": "5.0.6",
+          "downloads": 18512,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.6.json"
+        },
+        {
+          "version": "5.0.7",
+          "downloads": 10296,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.7.json"
+        },
+        {
+          "version": "5.0.8",
+          "downloads": 10068,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.8.json"
+        },
+        {
+          "version": "5.0.9",
+          "downloads": 15569,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.9.json"
+        },
+        {
+          "version": "5.0.10",
+          "downloads": 10294,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.10.json"
+        },
+        {
+          "version": "5.0.11",
+          "downloads": 10163,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.11.json"
+        },
+        {
+          "version": "5.0.12",
+          "downloads": 10405,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.12.json"
+        },
+        {
+          "version": "5.0.13",
+          "downloads": 9908,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.13.json"
+        },
+        {
+          "version": "5.0.14",
+          "downloads": 9819,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.14.json"
+        },
+        {
+          "version": "5.0.15",
+          "downloads": 9796,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.15.json"
+        },
+        {
+          "version": "5.0.16",
+          "downloads": 9860,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.16.json"
+        },
+        {
+          "version": "5.0.17",
+          "downloads": 10055,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.17.json"
+        },
+        {
+          "version": "6.0.0-preview.1.21103.6",
+          "downloads": 389,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-preview.1.21103.6.json"
+        },
+        {
+          "version": "6.0.0-preview.2.21154.6",
+          "downloads": 444,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-preview.2.21154.6.json"
+        },
+        {
+          "version": "6.0.0-preview.3.21201.13",
+          "downloads": 294,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-preview.3.21201.13.json"
+        },
+        {
+          "version": "6.0.0-preview.4.21253.5",
+          "downloads": 274,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-preview.4.21253.5.json"
+        },
+        {
+          "version": "6.0.0-preview.5.21301.17",
+          "downloads": 288,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-preview.5.21301.17.json"
+        },
+        {
+          "version": "6.0.0-preview.6.21355.2",
+          "downloads": 292,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-preview.6.21355.2.json"
+        },
+        {
+          "version": "6.0.0-preview.7.21378.6",
+          "downloads": 319,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-preview.7.21378.6.json"
+        },
+        {
+          "version": "6.0.0-rc.1.21452.15",
+          "downloads": 342,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-rc.1.21452.15.json"
+        },
+        {
+          "version": "6.0.0-rc.2.21480.10",
+          "downloads": 274,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-rc.2.21480.10.json"
+        },
+        {
+          "version": "6.0.0",
+          "downloads": 34010,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0.json"
+        },
+        {
+          "version": "6.0.1",
+          "downloads": 11789,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.1.json"
+        },
+        {
+          "version": "6.0.2",
+          "downloads": 17719,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.2.json"
+        },
+        {
+          "version": "6.0.3",
+          "downloads": 12779,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.3.json"
+        },
+        {
+          "version": "6.0.4",
+          "downloads": 14070,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.4.json"
+        },
+        {
+          "version": "6.0.5",
+          "downloads": 18744,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.5.json"
+        },
+        {
+          "version": "6.0.6",
+          "downloads": 11771,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.6.json"
+        },
+        {
+          "version": "6.0.7",
+          "downloads": 11775,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.7.json"
+        },
+        {
+          "version": "6.0.8",
+          "downloads": 17416,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.8.json"
+        },
+        {
+          "version": "6.0.9",
+          "downloads": 17356,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.9.json"
+        },
+        {
+          "version": "6.0.10",
+          "downloads": 12028,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.10.json"
+        },
+        {
+          "version": "6.0.11",
+          "downloads": 11293,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.11.json"
+        },
+        {
+          "version": "6.0.12",
+          "downloads": 10990,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.12.json"
+        },
+        {
+          "version": "6.0.13",
+          "downloads": 12406,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.13.json"
+        },
+        {
+          "version": "6.0.14",
+          "downloads": 10501,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.14.json"
+        },
+        {
+          "version": "6.0.15",
+          "downloads": 9700,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.15.json"
+        },
+        {
+          "version": "6.0.16",
+          "downloads": 10003,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.16.json"
+        },
+        {
+          "version": "6.0.18",
+          "downloads": 9479,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.18.json"
+        },
+        {
+          "version": "6.0.19",
+          "downloads": 11335,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.19.json"
+        },
+        {
+          "version": "6.0.20",
+          "downloads": 9615,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.20.json"
+        },
+        {
+          "version": "6.0.21",
+          "downloads": 10193,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.21.json"
+        },
+        {
+          "version": "6.0.22",
+          "downloads": 9785,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.22.json"
+        },
+        {
+          "version": "6.0.23",
+          "downloads": 14022,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.23.json"
+        },
+        {
+          "version": "6.0.24",
+          "downloads": 9649,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.24.json"
+        },
+        {
+          "version": "6.0.25",
+          "downloads": 11627,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.25.json"
+        },
+        {
+          "version": "6.0.26",
+          "downloads": 9546,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.26.json"
+        },
+        {
+          "version": "6.0.27",
+          "downloads": 9502,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.27.json"
+        },
+        {
+          "version": "6.0.28",
+          "downloads": 9528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.28.json"
+        },
+        {
+          "version": "6.0.29",
+          "downloads": 9507,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.29.json"
+        },
+        {
+          "version": "6.0.30",
+          "downloads": 9312,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.30.json"
+        },
+        {
+          "version": "6.0.31",
+          "downloads": 9334,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.31.json"
+        },
+        {
+          "version": "6.0.32",
+          "downloads": 9305,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.32.json"
+        },
+        {
+          "version": "6.0.33",
+          "downloads": 9357,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.33.json"
+        },
+        {
+          "version": "6.0.35",
+          "downloads": 9316,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.35.json"
+        },
+        {
+          "version": "6.0.36",
+          "downloads": 9389,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.36.json"
+        },
+        {
+          "version": "7.0.0-preview.1.22109.13",
+          "downloads": 250,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-preview.1.22109.13.json"
+        },
+        {
+          "version": "7.0.0-preview.2.22153.2",
+          "downloads": 260,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-preview.2.22153.2.json"
+        },
+        {
+          "version": "7.0.0-preview.3.22178.4",
           "downloads": 241,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/3.0.0-alpha.8.json"
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-preview.3.22178.4.json"
         },
         {
-          "version": "3.0.0-alpha.9",
-          "downloads": 28441,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/3.0.0-alpha.9.json"
+          "version": "7.0.0-preview.4.22251.1",
+          "downloads": 241,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-preview.4.22251.1.json"
+        },
+        {
+          "version": "7.0.0-preview.5.22303.8",
+          "downloads": 243,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-preview.5.22303.8.json"
+        },
+        {
+          "version": "7.0.0-preview.6.22330.3",
+          "downloads": 241,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-preview.6.22330.3.json"
+        },
+        {
+          "version": "7.0.0-preview.7.22376.6",
+          "downloads": 253,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-preview.7.22376.6.json"
+        },
+        {
+          "version": "7.0.0-rc.1.22427.2",
+          "downloads": 308,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-rc.1.22427.2.json"
+        },
+        {
+          "version": "7.0.0-rc.2.22476.2",
+          "downloads": 214,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-rc.2.22476.2.json"
+        },
+        {
+          "version": "7.0.0",
+          "downloads": 18481,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0.json"
+        },
+        {
+          "version": "7.0.1",
+          "downloads": 10895,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.1.json"
+        },
+        {
+          "version": "7.0.2",
+          "downloads": 35704,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.2.json"
+        },
+        {
+          "version": "7.0.3",
+          "downloads": 14727,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.3.json"
+        },
+        {
+          "version": "7.0.4",
+          "downloads": 15284,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.4.json"
+        },
+        {
+          "version": "7.0.5",
+          "downloads": 18623,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.5.json"
+        },
+        {
+          "version": "7.0.7",
+          "downloads": 10218,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.7.json"
+        },
+        {
+          "version": "7.0.8",
+          "downloads": 10887,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.8.json"
+        },
+        {
+          "version": "7.0.9",
+          "downloads": 50915,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.9.json"
+        },
+        {
+          "version": "7.0.10",
+          "downloads": 27946,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.10.json"
+        },
+        {
+          "version": "7.0.11",
+          "downloads": 18589,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.11.json"
+        },
+        {
+          "version": "7.0.12",
+          "downloads": 10470,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.12.json"
+        },
+        {
+          "version": "7.0.13",
+          "downloads": 11377,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.13.json"
+        },
+        {
+          "version": "7.0.14",
+          "downloads": 11032,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.14.json"
+        },
+        {
+          "version": "7.0.15",
+          "downloads": 9916,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.15.json"
+        },
+        {
+          "version": "7.0.16",
+          "downloads": 9683,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.16.json"
+        },
+        {
+          "version": "7.0.17",
+          "downloads": 9650,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.17.json"
+        },
+        {
+          "version": "7.0.18",
+          "downloads": 9676,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.18.json"
+        },
+        {
+          "version": "7.0.19",
+          "downloads": 9362,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.19.json"
+        },
+        {
+          "version": "7.0.20",
+          "downloads": 9580,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.20.json"
+        },
+        {
+          "version": "8.0.0-preview.1.23112.2",
+          "downloads": 196,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-preview.1.23112.2.json"
+        },
+        {
+          "version": "8.0.0-preview.2.23153.2",
+          "downloads": 188,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-preview.2.23153.2.json"
+        },
+        {
+          "version": "8.0.0-preview.3.23177.8",
+          "downloads": 212,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-preview.3.23177.8.json"
+        },
+        {
+          "version": "8.0.0-preview.4.23260.4",
+          "downloads": 208,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-preview.4.23260.4.json"
+        },
+        {
+          "version": "8.0.0-preview.5.23302.2",
+          "downloads": 183,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-preview.5.23302.2.json"
+        },
+        {
+          "version": "8.0.0-preview.6.23329.11",
+          "downloads": 203,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-preview.6.23329.11.json"
+        },
+        {
+          "version": "8.0.0-preview.7.23375.9",
+          "downloads": 201,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-preview.7.23375.9.json"
+        },
+        {
+          "version": "8.0.0-rc.1.23421.29",
+          "downloads": 178,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-rc.1.23421.29.json"
+        },
+        {
+          "version": "8.0.0-rc.2.23480.2",
+          "downloads": 194,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-rc.2.23480.2.json"
+        },
+        {
+          "version": "8.0.0",
+          "downloads": 167371,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0.json"
+        },
+        {
+          "version": "8.0.1",
+          "downloads": 44217,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.1.json"
+        },
+        {
+          "version": "8.0.2",
+          "downloads": 66578,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.2.json"
+        },
+        {
+          "version": "8.0.3",
+          "downloads": 14064,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.3.json"
+        },
+        {
+          "version": "8.0.4",
+          "downloads": 179999,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.4.json"
+        },
+        {
+          "version": "8.0.5",
+          "downloads": 10415,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.5.json"
+        },
+        {
+          "version": "8.0.6",
+          "downloads": 29213,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.6.json"
+        },
+        {
+          "version": "8.0.7",
+          "downloads": 24289,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.7.json"
+        },
+        {
+          "version": "8.0.8",
+          "downloads": 49153,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.8.json"
+        },
+        {
+          "version": "8.0.10",
+          "downloads": 60146,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.10.json"
+        },
+        {
+          "version": "8.0.11",
+          "downloads": 15931,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.11.json"
+        },
+        {
+          "version": "8.0.12",
+          "downloads": 10221,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.12.json"
+        },
+        {
+          "version": "8.0.13",
+          "downloads": 15852,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.13.json"
+        },
+        {
+          "version": "8.0.14",
+          "downloads": 9533,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.14.json"
+        },
+        {
+          "version": "8.0.15",
+          "downloads": 10890,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.15.json"
+        },
+        {
+          "version": "8.0.16",
+          "downloads": 9790,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.16.json"
+        },
+        {
+          "version": "8.0.17",
+          "downloads": 9567,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.17.json"
+        },
+        {
+          "version": "8.0.18",
+          "downloads": 9721,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.18.json"
+        },
+        {
+          "version": "8.0.19",
+          "downloads": 9679,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.19.json"
+        },
+        {
+          "version": "8.0.20",
+          "downloads": 7983,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.20.json"
+        },
+        {
+          "version": "8.0.21",
+          "downloads": 6427,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.21.json"
+        },
+        {
+          "version": "8.0.22",
+          "downloads": 5436,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.22.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24081.5",
+          "downloads": 144,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-preview.1.24081.5.json"
+        },
+        {
+          "version": "9.0.0-preview.2.24128.4",
+          "downloads": 177,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-preview.2.24128.4.json"
+        },
+        {
+          "version": "9.0.0-preview.3.24172.13",
+          "downloads": 162,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-preview.3.24172.13.json"
+        },
+        {
+          "version": "9.0.0-preview.4.24267.6",
+          "downloads": 132,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-preview.4.24267.6.json"
+        },
+        {
+          "version": "9.0.0-preview.5.24306.11",
+          "downloads": 162,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-preview.5.24306.11.json"
+        },
+        {
+          "version": "9.0.0-preview.6.24328.4",
+          "downloads": 123,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-preview.6.24328.4.json"
+        },
+        {
+          "version": "9.0.0-preview.7.24406.2",
+          "downloads": 150,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-preview.7.24406.2.json"
+        },
+        {
+          "version": "9.0.0-rc.1.24452.1",
+          "downloads": 109,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-rc.1.24452.1.json"
+        },
+        {
+          "version": "9.0.0-rc.2.24474.3",
+          "downloads": 146,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-rc.2.24474.3.json"
+        },
+        {
+          "version": "9.0.0",
+          "downloads": 19240,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0.json"
+        },
+        {
+          "version": "9.0.1",
+          "downloads": 12207,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.1.json"
+        },
+        {
+          "version": "9.0.2",
+          "downloads": 12789,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.2.json"
+        },
+        {
+          "version": "9.0.3",
+          "downloads": 12440,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.3.json"
+        },
+        {
+          "version": "9.0.4",
+          "downloads": 11651,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.4.json"
+        },
+        {
+          "version": "9.0.5",
+          "downloads": 11952,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.5.json"
+        },
+        {
+          "version": "9.0.6",
+          "downloads": 11846,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.6.json"
+        },
+        {
+          "version": "9.0.7",
+          "downloads": 11789,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.7.json"
+        },
+        {
+          "version": "9.0.8",
+          "downloads": 11920,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.8.json"
+        },
+        {
+          "version": "9.0.9",
+          "downloads": 10323,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.9.json"
+        },
+        {
+          "version": "9.0.10",
+          "downloads": 7890,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.10.json"
+        },
+        {
+          "version": "9.0.11",
+          "downloads": 5653,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.11.json"
+        },
+        {
+          "version": "10.0.0-preview.1.25120.3",
+          "downloads": 155,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-preview.1.25120.3.json"
+        },
+        {
+          "version": "10.0.0-preview.2.25164.1",
+          "downloads": 194,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-preview.2.25164.1.json"
+        },
+        {
+          "version": "10.0.0-preview.3.25172.1",
+          "downloads": 177,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-preview.3.25172.1.json"
+        },
+        {
+          "version": "10.0.0-preview.4.25258.110",
+          "downloads": 264,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-preview.4.25258.110.json"
+        },
+        {
+          "version": "10.0.0-preview.5.25277.114",
+          "downloads": 117,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-preview.5.25277.114.json"
+        },
+        {
+          "version": "10.0.0-preview.6.25358.103",
+          "downloads": 154,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-preview.6.25358.103.json"
+        },
+        {
+          "version": "10.0.0-preview.7.25380.108",
+          "downloads": 146,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-preview.7.25380.108.json"
+        },
+        {
+          "version": "10.0.0-rc.1.25451.107",
+          "downloads": 154,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-rc.1.25451.107.json"
+        },
+        {
+          "version": "10.0.0-rc.2.25502.107",
+          "downloads": 162,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-rc.2.25502.107.json"
+        },
+        {
+          "version": "10.0.0",
+          "downloads": 5872,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0.json"
         }
       ],
       "vulnerabilities": []
@@ -58674,6 +59512,230 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/index.json",
+      "id": "dotnet-project-licenses",
+      "version": "3.0.0-alpha.9",
+      "description": "Package Description",
+      "summary": "",
+      "title": ".NET Core Tool to print and validate the licenses of dotnet project(s)",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-project-licenses/3.0.0-alpha.9/license",
+      "projectUrl": "https://github.com/tomchavakis/nuget-license",
+      "tags": [],
+      "authors": [
+        "Tom Chavakis, Simon Ensslen"
+      ],
+      "owners": [
+        "tomsmyn1"
+      ],
+      "totalDownloads": 2353885,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.1",
+          "downloads": 2104,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/1.0.1.json"
+        },
+        {
+          "version": "1.1.0",
+          "downloads": 2019,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/1.1.0.json"
+        },
+        {
+          "version": "1.1.1",
+          "downloads": 3552,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/1.1.1.json"
+        },
+        {
+          "version": "1.2.0",
+          "downloads": 4232,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/1.2.0.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 2277,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.0.0.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 2365,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.1.0.json"
+        },
+        {
+          "version": "2.2.0",
+          "downloads": 4435,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.0.json"
+        },
+        {
+          "version": "2.2.2",
+          "downloads": 2430,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.2.json"
+        },
+        {
+          "version": "2.2.3",
+          "downloads": 2374,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.3.json"
+        },
+        {
+          "version": "2.2.4",
+          "downloads": 7775,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.4.json"
+        },
+        {
+          "version": "2.2.5",
+          "downloads": 7600,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.5.json"
+        },
+        {
+          "version": "2.2.6",
+          "downloads": 20032,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.6.json"
+        },
+        {
+          "version": "2.2.7",
+          "downloads": 19565,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.7.json"
+        },
+        {
+          "version": "2.2.8",
+          "downloads": 3027,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.8.json"
+        },
+        {
+          "version": "2.2.10",
+          "downloads": 11765,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.2.10.json"
+        },
+        {
+          "version": "2.3.0",
+          "downloads": 3232,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.0.json"
+        },
+        {
+          "version": "2.3.1",
+          "downloads": 36241,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.1.json"
+        },
+        {
+          "version": "2.3.3",
+          "downloads": 9333,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.3.json"
+        },
+        {
+          "version": "2.3.4",
+          "downloads": 10370,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.4.json"
+        },
+        {
+          "version": "2.3.5",
+          "downloads": 10861,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.5.json"
+        },
+        {
+          "version": "2.3.6",
+          "downloads": 15984,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.6.json"
+        },
+        {
+          "version": "2.3.8",
+          "downloads": 2171,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.8.json"
+        },
+        {
+          "version": "2.3.9",
+          "downloads": 3011,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.9.json"
+        },
+        {
+          "version": "2.3.10",
+          "downloads": 8034,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.10.json"
+        },
+        {
+          "version": "2.3.11",
+          "downloads": 44983,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.11.json"
+        },
+        {
+          "version": "2.3.12",
+          "downloads": 4181,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.12.json"
+        },
+        {
+          "version": "2.3.13",
+          "downloads": 32775,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.3.13.json"
+        },
+        {
+          "version": "2.4.0",
+          "downloads": 425599,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.4.0.json"
+        },
+        {
+          "version": "2.5.0",
+          "downloads": 56944,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.5.0.json"
+        },
+        {
+          "version": "2.6.0",
+          "downloads": 78157,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.6.0.json"
+        },
+        {
+          "version": "2.7.0",
+          "downloads": 19575,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.7.0.json"
+        },
+        {
+          "version": "2.7.1",
+          "downloads": 1463266,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/2.7.1.json"
+        },
+        {
+          "version": "3.0.0-alpha.1",
+          "downloads": 233,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/3.0.0-alpha.1.json"
+        },
+        {
+          "version": "3.0.0-alpha.2",
+          "downloads": 198,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/3.0.0-alpha.2.json"
+        },
+        {
+          "version": "3.0.0-alpha.4",
+          "downloads": 223,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/3.0.0-alpha.4.json"
+        },
+        {
+          "version": "3.0.0-alpha.5",
+          "downloads": 247,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/3.0.0-alpha.5.json"
+        },
+        {
+          "version": "3.0.0-alpha.6",
+          "downloads": 325,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/3.0.0-alpha.6.json"
+        },
+        {
+          "version": "3.0.0-alpha.8",
+          "downloads": 241,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/3.0.0-alpha.8.json"
+        },
+        {
+          "version": "3.0.0-alpha.9",
+          "downloads": 28441,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-project-licenses/3.0.0-alpha.9.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/index.json",
@@ -59313,1053 +60375,6 @@
           "version": "0.14.1",
           "downloads": 170062,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.14.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/index.json",
-      "id": "Microsoft.dotnet-openapi",
-      "version": "10.0.0",
-      "description": "Command line tool to add an OpenAPI service reference\n\nThis package was built from the source code at https://github.com/dotnet/dotnet/tree/b0f34d51fccc69fd334253924abd8d6853fad7aa",
-      "summary": "",
-      "title": "Microsoft.dotnet-openapi",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet-openapi/10.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.dotnet-openapi/10.0.0/license",
-      "projectUrl": "https://asp.net/",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "aspnet",
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 2256117,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "3.0.0-rc1.19457.4",
-          "downloads": 564,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.0.0-rc1.19457.4.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 12103,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.0.0.json"
-        },
-        {
-          "version": "3.0.2",
-          "downloads": 9833,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.0.2.json"
-        },
-        {
-          "version": "3.0.3",
-          "downloads": 9797,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.0.3.json"
-        },
-        {
-          "version": "3.1.0-preview1.19508.20",
-          "downloads": 572,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.0-preview1.19508.20.json"
-        },
-        {
-          "version": "3.1.0-preview2.19528.8",
-          "downloads": 555,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.0-preview2.19528.8.json"
-        },
-        {
-          "version": "3.1.0-preview3.19555.2",
-          "downloads": 520,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.0-preview3.19555.2.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 11584,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.0.json"
-        },
-        {
-          "version": "3.1.1",
-          "downloads": 10504,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.1.json"
-        },
-        {
-          "version": "3.1.2",
-          "downloads": 11178,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.2.json"
-        },
-        {
-          "version": "3.1.3",
-          "downloads": 11763,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.3.json"
-        },
-        {
-          "version": "3.1.4",
-          "downloads": 10798,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.4.json"
-        },
-        {
-          "version": "3.1.5",
-          "downloads": 11163,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.5.json"
-        },
-        {
-          "version": "3.1.6",
-          "downloads": 11287,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.6.json"
-        },
-        {
-          "version": "3.1.7",
-          "downloads": 11956,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.7.json"
-        },
-        {
-          "version": "3.1.8",
-          "downloads": 10582,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.8.json"
-        },
-        {
-          "version": "3.1.9",
-          "downloads": 11137,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.9.json"
-        },
-        {
-          "version": "3.1.10",
-          "downloads": 12965,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.10.json"
-        },
-        {
-          "version": "3.1.11",
-          "downloads": 9687,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.11.json"
-        },
-        {
-          "version": "3.1.12",
-          "downloads": 9875,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.12.json"
-        },
-        {
-          "version": "3.1.13",
-          "downloads": 9918,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.13.json"
-        },
-        {
-          "version": "3.1.14",
-          "downloads": 9645,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.14.json"
-        },
-        {
-          "version": "3.1.15",
-          "downloads": 9642,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.15.json"
-        },
-        {
-          "version": "3.1.16",
-          "downloads": 9632,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.16.json"
-        },
-        {
-          "version": "3.1.17",
-          "downloads": 9638,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.17.json"
-        },
-        {
-          "version": "3.1.18",
-          "downloads": 9723,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.18.json"
-        },
-        {
-          "version": "3.1.19",
-          "downloads": 9602,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.19.json"
-        },
-        {
-          "version": "3.1.20",
-          "downloads": 9669,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.20.json"
-        },
-        {
-          "version": "3.1.21",
-          "downloads": 9657,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.21.json"
-        },
-        {
-          "version": "3.1.22",
-          "downloads": 9625,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.22.json"
-        },
-        {
-          "version": "3.1.23",
-          "downloads": 9755,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.23.json"
-        },
-        {
-          "version": "3.1.24",
-          "downloads": 9711,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.24.json"
-        },
-        {
-          "version": "3.1.25",
-          "downloads": 9691,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.25.json"
-        },
-        {
-          "version": "3.1.26",
-          "downloads": 9676,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.26.json"
-        },
-        {
-          "version": "3.1.27",
-          "downloads": 9726,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.27.json"
-        },
-        {
-          "version": "3.1.28",
-          "downloads": 9679,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.28.json"
-        },
-        {
-          "version": "3.1.29",
-          "downloads": 9652,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.29.json"
-        },
-        {
-          "version": "3.1.30",
-          "downloads": 9653,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.30.json"
-        },
-        {
-          "version": "3.1.31",
-          "downloads": 9554,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.31.json"
-        },
-        {
-          "version": "3.1.32",
-          "downloads": 9650,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/3.1.32.json"
-        },
-        {
-          "version": "5.0.0-preview.1.20124.5",
-          "downloads": 577,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-preview.1.20124.5.json"
-        },
-        {
-          "version": "5.0.0-preview.2.20167.3",
-          "downloads": 537,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-preview.2.20167.3.json"
-        },
-        {
-          "version": "5.0.0-preview.3.20215.14",
-          "downloads": 504,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-preview.3.20215.14.json"
-        },
-        {
-          "version": "5.0.0-preview.4.20257.10",
-          "downloads": 548,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-preview.4.20257.10.json"
-        },
-        {
-          "version": "5.0.0-preview.5.20279.2",
-          "downloads": 537,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-preview.5.20279.2.json"
-        },
-        {
-          "version": "5.0.0-preview.6.20312.15",
-          "downloads": 532,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-preview.6.20312.15.json"
-        },
-        {
-          "version": "5.0.0-preview.7.20365.19",
-          "downloads": 493,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-preview.7.20365.19.json"
-        },
-        {
-          "version": "5.0.0-preview.8.20414.8",
-          "downloads": 490,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-preview.8.20414.8.json"
-        },
-        {
-          "version": "5.0.0-rc.1.20451.17",
-          "downloads": 518,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-rc.1.20451.17.json"
-        },
-        {
-          "version": "5.0.0-rc.2.20475.17",
-          "downloads": 470,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0-rc.2.20475.17.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 11436,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.0.json"
-        },
-        {
-          "version": "5.0.1",
-          "downloads": 10696,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.1.json"
-        },
-        {
-          "version": "5.0.2",
-          "downloads": 17517,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.2.json"
-        },
-        {
-          "version": "5.0.3",
-          "downloads": 11255,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.3.json"
-        },
-        {
-          "version": "5.0.4",
-          "downloads": 12965,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.4.json"
-        },
-        {
-          "version": "5.0.5",
-          "downloads": 11405,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.5.json"
-        },
-        {
-          "version": "5.0.6",
-          "downloads": 18512,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.6.json"
-        },
-        {
-          "version": "5.0.7",
-          "downloads": 10296,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.7.json"
-        },
-        {
-          "version": "5.0.8",
-          "downloads": 10068,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.8.json"
-        },
-        {
-          "version": "5.0.9",
-          "downloads": 15569,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.9.json"
-        },
-        {
-          "version": "5.0.10",
-          "downloads": 10294,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.10.json"
-        },
-        {
-          "version": "5.0.11",
-          "downloads": 10163,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.11.json"
-        },
-        {
-          "version": "5.0.12",
-          "downloads": 10405,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.12.json"
-        },
-        {
-          "version": "5.0.13",
-          "downloads": 9908,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.13.json"
-        },
-        {
-          "version": "5.0.14",
-          "downloads": 9819,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.14.json"
-        },
-        {
-          "version": "5.0.15",
-          "downloads": 9796,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.15.json"
-        },
-        {
-          "version": "5.0.16",
-          "downloads": 9860,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.16.json"
-        },
-        {
-          "version": "5.0.17",
-          "downloads": 10055,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/5.0.17.json"
-        },
-        {
-          "version": "6.0.0-preview.1.21103.6",
-          "downloads": 389,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-preview.1.21103.6.json"
-        },
-        {
-          "version": "6.0.0-preview.2.21154.6",
-          "downloads": 444,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-preview.2.21154.6.json"
-        },
-        {
-          "version": "6.0.0-preview.3.21201.13",
-          "downloads": 294,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-preview.3.21201.13.json"
-        },
-        {
-          "version": "6.0.0-preview.4.21253.5",
-          "downloads": 274,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-preview.4.21253.5.json"
-        },
-        {
-          "version": "6.0.0-preview.5.21301.17",
-          "downloads": 288,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-preview.5.21301.17.json"
-        },
-        {
-          "version": "6.0.0-preview.6.21355.2",
-          "downloads": 292,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-preview.6.21355.2.json"
-        },
-        {
-          "version": "6.0.0-preview.7.21378.6",
-          "downloads": 319,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-preview.7.21378.6.json"
-        },
-        {
-          "version": "6.0.0-rc.1.21452.15",
-          "downloads": 342,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-rc.1.21452.15.json"
-        },
-        {
-          "version": "6.0.0-rc.2.21480.10",
-          "downloads": 274,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0-rc.2.21480.10.json"
-        },
-        {
-          "version": "6.0.0",
-          "downloads": 34010,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.0.json"
-        },
-        {
-          "version": "6.0.1",
-          "downloads": 11789,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.1.json"
-        },
-        {
-          "version": "6.0.2",
-          "downloads": 17719,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.2.json"
-        },
-        {
-          "version": "6.0.3",
-          "downloads": 12779,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.3.json"
-        },
-        {
-          "version": "6.0.4",
-          "downloads": 14070,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.4.json"
-        },
-        {
-          "version": "6.0.5",
-          "downloads": 18744,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.5.json"
-        },
-        {
-          "version": "6.0.6",
-          "downloads": 11771,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.6.json"
-        },
-        {
-          "version": "6.0.7",
-          "downloads": 11775,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.7.json"
-        },
-        {
-          "version": "6.0.8",
-          "downloads": 17416,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.8.json"
-        },
-        {
-          "version": "6.0.9",
-          "downloads": 17356,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.9.json"
-        },
-        {
-          "version": "6.0.10",
-          "downloads": 12028,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.10.json"
-        },
-        {
-          "version": "6.0.11",
-          "downloads": 11293,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.11.json"
-        },
-        {
-          "version": "6.0.12",
-          "downloads": 10990,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.12.json"
-        },
-        {
-          "version": "6.0.13",
-          "downloads": 12406,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.13.json"
-        },
-        {
-          "version": "6.0.14",
-          "downloads": 10501,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.14.json"
-        },
-        {
-          "version": "6.0.15",
-          "downloads": 9700,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.15.json"
-        },
-        {
-          "version": "6.0.16",
-          "downloads": 10003,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.16.json"
-        },
-        {
-          "version": "6.0.18",
-          "downloads": 9479,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.18.json"
-        },
-        {
-          "version": "6.0.19",
-          "downloads": 11335,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.19.json"
-        },
-        {
-          "version": "6.0.20",
-          "downloads": 9615,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.20.json"
-        },
-        {
-          "version": "6.0.21",
-          "downloads": 10193,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.21.json"
-        },
-        {
-          "version": "6.0.22",
-          "downloads": 9785,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.22.json"
-        },
-        {
-          "version": "6.0.23",
-          "downloads": 14022,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.23.json"
-        },
-        {
-          "version": "6.0.24",
-          "downloads": 9649,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.24.json"
-        },
-        {
-          "version": "6.0.25",
-          "downloads": 11627,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.25.json"
-        },
-        {
-          "version": "6.0.26",
-          "downloads": 9546,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.26.json"
-        },
-        {
-          "version": "6.0.27",
-          "downloads": 9502,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.27.json"
-        },
-        {
-          "version": "6.0.28",
-          "downloads": 9528,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.28.json"
-        },
-        {
-          "version": "6.0.29",
-          "downloads": 9507,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.29.json"
-        },
-        {
-          "version": "6.0.30",
-          "downloads": 9312,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.30.json"
-        },
-        {
-          "version": "6.0.31",
-          "downloads": 9334,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.31.json"
-        },
-        {
-          "version": "6.0.32",
-          "downloads": 9305,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.32.json"
-        },
-        {
-          "version": "6.0.33",
-          "downloads": 9357,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.33.json"
-        },
-        {
-          "version": "6.0.35",
-          "downloads": 9316,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.35.json"
-        },
-        {
-          "version": "6.0.36",
-          "downloads": 9389,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/6.0.36.json"
-        },
-        {
-          "version": "7.0.0-preview.1.22109.13",
-          "downloads": 250,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-preview.1.22109.13.json"
-        },
-        {
-          "version": "7.0.0-preview.2.22153.2",
-          "downloads": 260,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-preview.2.22153.2.json"
-        },
-        {
-          "version": "7.0.0-preview.3.22178.4",
-          "downloads": 241,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-preview.3.22178.4.json"
-        },
-        {
-          "version": "7.0.0-preview.4.22251.1",
-          "downloads": 241,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-preview.4.22251.1.json"
-        },
-        {
-          "version": "7.0.0-preview.5.22303.8",
-          "downloads": 243,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-preview.5.22303.8.json"
-        },
-        {
-          "version": "7.0.0-preview.6.22330.3",
-          "downloads": 241,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-preview.6.22330.3.json"
-        },
-        {
-          "version": "7.0.0-preview.7.22376.6",
-          "downloads": 253,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-preview.7.22376.6.json"
-        },
-        {
-          "version": "7.0.0-rc.1.22427.2",
-          "downloads": 308,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-rc.1.22427.2.json"
-        },
-        {
-          "version": "7.0.0-rc.2.22476.2",
-          "downloads": 214,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0-rc.2.22476.2.json"
-        },
-        {
-          "version": "7.0.0",
-          "downloads": 18481,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.0.json"
-        },
-        {
-          "version": "7.0.1",
-          "downloads": 10895,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.1.json"
-        },
-        {
-          "version": "7.0.2",
-          "downloads": 35704,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.2.json"
-        },
-        {
-          "version": "7.0.3",
-          "downloads": 14727,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.3.json"
-        },
-        {
-          "version": "7.0.4",
-          "downloads": 15284,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.4.json"
-        },
-        {
-          "version": "7.0.5",
-          "downloads": 18623,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.5.json"
-        },
-        {
-          "version": "7.0.7",
-          "downloads": 10218,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.7.json"
-        },
-        {
-          "version": "7.0.8",
-          "downloads": 10887,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.8.json"
-        },
-        {
-          "version": "7.0.9",
-          "downloads": 50915,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.9.json"
-        },
-        {
-          "version": "7.0.10",
-          "downloads": 27946,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.10.json"
-        },
-        {
-          "version": "7.0.11",
-          "downloads": 18589,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.11.json"
-        },
-        {
-          "version": "7.0.12",
-          "downloads": 10470,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.12.json"
-        },
-        {
-          "version": "7.0.13",
-          "downloads": 11377,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.13.json"
-        },
-        {
-          "version": "7.0.14",
-          "downloads": 11032,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.14.json"
-        },
-        {
-          "version": "7.0.15",
-          "downloads": 9916,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.15.json"
-        },
-        {
-          "version": "7.0.16",
-          "downloads": 9683,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.16.json"
-        },
-        {
-          "version": "7.0.17",
-          "downloads": 9650,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.17.json"
-        },
-        {
-          "version": "7.0.18",
-          "downloads": 9676,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.18.json"
-        },
-        {
-          "version": "7.0.19",
-          "downloads": 9362,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.19.json"
-        },
-        {
-          "version": "7.0.20",
-          "downloads": 9580,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/7.0.20.json"
-        },
-        {
-          "version": "8.0.0-preview.1.23112.2",
-          "downloads": 196,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-preview.1.23112.2.json"
-        },
-        {
-          "version": "8.0.0-preview.2.23153.2",
-          "downloads": 188,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-preview.2.23153.2.json"
-        },
-        {
-          "version": "8.0.0-preview.3.23177.8",
-          "downloads": 212,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-preview.3.23177.8.json"
-        },
-        {
-          "version": "8.0.0-preview.4.23260.4",
-          "downloads": 208,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-preview.4.23260.4.json"
-        },
-        {
-          "version": "8.0.0-preview.5.23302.2",
-          "downloads": 183,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-preview.5.23302.2.json"
-        },
-        {
-          "version": "8.0.0-preview.6.23329.11",
-          "downloads": 203,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-preview.6.23329.11.json"
-        },
-        {
-          "version": "8.0.0-preview.7.23375.9",
-          "downloads": 201,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-preview.7.23375.9.json"
-        },
-        {
-          "version": "8.0.0-rc.1.23421.29",
-          "downloads": 178,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-rc.1.23421.29.json"
-        },
-        {
-          "version": "8.0.0-rc.2.23480.2",
-          "downloads": 194,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0-rc.2.23480.2.json"
-        },
-        {
-          "version": "8.0.0",
-          "downloads": 167371,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.0.json"
-        },
-        {
-          "version": "8.0.1",
-          "downloads": 44217,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.1.json"
-        },
-        {
-          "version": "8.0.2",
-          "downloads": 66578,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.2.json"
-        },
-        {
-          "version": "8.0.3",
-          "downloads": 14064,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.3.json"
-        },
-        {
-          "version": "8.0.4",
-          "downloads": 179999,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.4.json"
-        },
-        {
-          "version": "8.0.5",
-          "downloads": 10415,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.5.json"
-        },
-        {
-          "version": "8.0.6",
-          "downloads": 29213,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.6.json"
-        },
-        {
-          "version": "8.0.7",
-          "downloads": 24289,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.7.json"
-        },
-        {
-          "version": "8.0.8",
-          "downloads": 49153,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.8.json"
-        },
-        {
-          "version": "8.0.10",
-          "downloads": 60146,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.10.json"
-        },
-        {
-          "version": "8.0.11",
-          "downloads": 15931,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.11.json"
-        },
-        {
-          "version": "8.0.12",
-          "downloads": 10221,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.12.json"
-        },
-        {
-          "version": "8.0.13",
-          "downloads": 15852,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.13.json"
-        },
-        {
-          "version": "8.0.14",
-          "downloads": 9533,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.14.json"
-        },
-        {
-          "version": "8.0.15",
-          "downloads": 10890,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.15.json"
-        },
-        {
-          "version": "8.0.16",
-          "downloads": 9790,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.16.json"
-        },
-        {
-          "version": "8.0.17",
-          "downloads": 9567,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.17.json"
-        },
-        {
-          "version": "8.0.18",
-          "downloads": 9721,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.18.json"
-        },
-        {
-          "version": "8.0.19",
-          "downloads": 9679,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.19.json"
-        },
-        {
-          "version": "8.0.20",
-          "downloads": 7983,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.20.json"
-        },
-        {
-          "version": "8.0.21",
-          "downloads": 6427,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.21.json"
-        },
-        {
-          "version": "8.0.22",
-          "downloads": 5436,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/8.0.22.json"
-        },
-        {
-          "version": "9.0.0-preview.1.24081.5",
-          "downloads": 144,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-preview.1.24081.5.json"
-        },
-        {
-          "version": "9.0.0-preview.2.24128.4",
-          "downloads": 177,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-preview.2.24128.4.json"
-        },
-        {
-          "version": "9.0.0-preview.3.24172.13",
-          "downloads": 162,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-preview.3.24172.13.json"
-        },
-        {
-          "version": "9.0.0-preview.4.24267.6",
-          "downloads": 132,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-preview.4.24267.6.json"
-        },
-        {
-          "version": "9.0.0-preview.5.24306.11",
-          "downloads": 162,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-preview.5.24306.11.json"
-        },
-        {
-          "version": "9.0.0-preview.6.24328.4",
-          "downloads": 123,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-preview.6.24328.4.json"
-        },
-        {
-          "version": "9.0.0-preview.7.24406.2",
-          "downloads": 150,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-preview.7.24406.2.json"
-        },
-        {
-          "version": "9.0.0-rc.1.24452.1",
-          "downloads": 109,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-rc.1.24452.1.json"
-        },
-        {
-          "version": "9.0.0-rc.2.24474.3",
-          "downloads": 146,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0-rc.2.24474.3.json"
-        },
-        {
-          "version": "9.0.0",
-          "downloads": 19240,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.0.json"
-        },
-        {
-          "version": "9.0.1",
-          "downloads": 12207,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.1.json"
-        },
-        {
-          "version": "9.0.2",
-          "downloads": 12789,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.2.json"
-        },
-        {
-          "version": "9.0.3",
-          "downloads": 12440,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.3.json"
-        },
-        {
-          "version": "9.0.4",
-          "downloads": 11651,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.4.json"
-        },
-        {
-          "version": "9.0.5",
-          "downloads": 11952,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.5.json"
-        },
-        {
-          "version": "9.0.6",
-          "downloads": 11846,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.6.json"
-        },
-        {
-          "version": "9.0.7",
-          "downloads": 11789,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.7.json"
-        },
-        {
-          "version": "9.0.8",
-          "downloads": 11920,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.8.json"
-        },
-        {
-          "version": "9.0.9",
-          "downloads": 10323,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.9.json"
-        },
-        {
-          "version": "9.0.10",
-          "downloads": 7890,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.10.json"
-        },
-        {
-          "version": "9.0.11",
-          "downloads": 5653,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/9.0.11.json"
-        },
-        {
-          "version": "10.0.0-preview.1.25120.3",
-          "downloads": 155,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-preview.1.25120.3.json"
-        },
-        {
-          "version": "10.0.0-preview.2.25164.1",
-          "downloads": 194,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-preview.2.25164.1.json"
-        },
-        {
-          "version": "10.0.0-preview.3.25172.1",
-          "downloads": 177,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-preview.3.25172.1.json"
-        },
-        {
-          "version": "10.0.0-preview.4.25258.110",
-          "downloads": 264,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-preview.4.25258.110.json"
-        },
-        {
-          "version": "10.0.0-preview.5.25277.114",
-          "downloads": 117,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-preview.5.25277.114.json"
-        },
-        {
-          "version": "10.0.0-preview.6.25358.103",
-          "downloads": 154,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-preview.6.25358.103.json"
-        },
-        {
-          "version": "10.0.0-preview.7.25380.108",
-          "downloads": 146,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-preview.7.25380.108.json"
-        },
-        {
-          "version": "10.0.0-rc.1.25451.107",
-          "downloads": 154,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-rc.1.25451.107.json"
-        },
-        {
-          "version": "10.0.0-rc.2.25502.107",
-          "downloads": 162,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0-rc.2.25502.107.json"
-        },
-        {
-          "version": "10.0.0",
-          "downloads": 5872,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.dotnet-openapi/10.0.0.json"
         }
       ],
       "vulnerabilities": []
@@ -64644,11 +64659,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
       "id": "Credfeto.ChangeLog.Cmd",
-      "version": "1.10.194.1539-main",
+      "version": "1.10.194.1541-main",
       "description": "Changelog manager dotnet tool.",
       "summary": "",
       "title": "Credfeto.ChangeLog.Cmd",
-      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.194.1539-main/license",
+      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.194.1541-main/license",
       "tags": [
         "Changelog",
         "tool",
@@ -74918,6 +74933,16 @@
           "version": "1.10.194.1539-main",
           "downloads": 30,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.194.1539-main.json"
+        },
+        {
+          "version": "1.10.194.1540-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.194.1540-main.json"
+        },
+        {
+          "version": "1.10.194.1541-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.194.1541-main.json"
         }
       ],
       "vulnerabilities": []
@@ -78028,11 +78053,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sbom.dotnettool/index.json",
       "id": "Microsoft.Sbom.DotNetTool",
-      "version": "4.1.3",
+      "version": "4.1.4",
       "description": "Highly scalable and enterprise ready .NET tool to create SBOMs for any variety of artifacts.",
       "summary": "",
       "title": "Microsoft.Sbom.DotNetTool",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Sbom.DotNetTool/4.1.3/license",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Sbom.DotNetTool/4.1.4/license",
       "projectUrl": "https://github.com/microsoft/sbom-tool",
       "tags": [],
       "authors": [
@@ -78324,6 +78349,11 @@
           "version": "4.1.3",
           "downloads": 29603,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sbom.dotnettool/4.1.3.json"
+        },
+        {
+          "version": "4.1.4",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sbom.dotnettool/4.1.4.json"
         }
       ],
       "vulnerabilities": []
@@ -90904,272 +90934,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/index.json",
-      "id": "upgrade-assistant",
-      "version": "1.0.518",
-      "description": "A tool to assist developers in upgrading .NET Framework and .NET applications to latest versions of .NET.",
-      "summary": "",
-      "title": "upgrade-assistant",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/upgrade-assistant/1.0.518/icon",
-      "licenseUrl": "https://www.nuget.org/packages/upgrade-assistant/1.0.518/license",
-      "projectUrl": "https://go.microsoft.com/fwlink/?LinkID=2202641",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 965252,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.2.212401",
-          "downloads": 1320,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.212401.json"
-        },
-        {
-          "version": "0.2.212405",
-          "downloads": 4576,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.212405.json"
-        },
-        {
-          "version": "0.2.217201",
-          "downloads": 2387,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.217201.json"
-        },
-        {
-          "version": "0.2.220602",
-          "downloads": 3697,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.220602.json"
-        },
-        {
-          "version": "0.2.222702",
-          "downloads": 2615,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.222702.json"
-        },
-        {
-          "version": "0.2.226201",
-          "downloads": 2962,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.226201.json"
-        },
-        {
-          "version": "0.2.227701",
-          "downloads": 3884,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.227701.json"
-        },
-        {
-          "version": "0.2.231403",
-          "downloads": 3638,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.231403.json"
-        },
-        {
-          "version": "0.2.233001",
-          "downloads": 2879,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.233001.json"
-        },
-        {
-          "version": "0.2.236301",
-          "downloads": 2973,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.236301.json"
-        },
-        {
-          "version": "0.2.237901",
-          "downloads": 3247,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.237901.json"
-        },
-        {
-          "version": "0.2.241603",
-          "downloads": 4130,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.241603.json"
-        },
-        {
-          "version": "0.3.242703",
-          "downloads": 3620,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.242703.json"
-        },
-        {
-          "version": "0.3.246501",
-          "downloads": 10409,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.246501.json"
-        },
-        {
-          "version": "0.3.252501",
-          "downloads": 3493,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.252501.json"
-        },
-        {
-          "version": "0.3.255803",
-          "downloads": 4260,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.255803.json"
-        },
-        {
-          "version": "0.3.256001",
-          "downloads": 8362,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.256001.json"
-        },
-        {
-          "version": "0.3.261302",
-          "downloads": 2005,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.261302.json"
-        },
-        {
-          "version": "0.3.261602",
-          "downloads": 13504,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.261602.json"
-        },
-        {
-          "version": "0.3.310302",
-          "downloads": 1345,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.310302.json"
-        },
-        {
-          "version": "0.3.310801",
-          "downloads": 37800,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.310801.json"
-        },
-        {
-          "version": "0.3.326103",
-          "downloads": 14393,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.326103.json"
-        },
-        {
-          "version": "0.3.330701",
-          "downloads": 16512,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.330701.json"
-        },
-        {
-          "version": "0.4.336902",
-          "downloads": 43593,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.4.336902.json"
-        },
-        {
-          "version": "0.4.346201",
-          "downloads": 3671,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.4.346201.json"
-        },
-        {
-          "version": "0.4.346202",
-          "downloads": 16703,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.4.346202.json"
-        },
-        {
-          "version": "0.4.355802",
-          "downloads": 39301,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.4.355802.json"
-        },
-        {
-          "version": "0.4.410601",
-          "downloads": 46346,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.4.410601.json"
-        },
-        {
-          "version": "0.4.421302",
-          "downloads": 47182,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.4.421302.json"
-        },
-        {
-          "version": "0.5.30",
-          "downloads": 22795,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.30.json"
-        },
-        {
-          "version": "0.5.261",
-          "downloads": 33936,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.261.json"
-        },
-        {
-          "version": "0.5.564",
-          "downloads": 20526,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.564.json"
-        },
-        {
-          "version": "0.5.567",
-          "downloads": 3597,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.567.json"
-        },
-        {
-          "version": "0.5.568",
-          "downloads": 20208,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.568.json"
-        },
-        {
-          "version": "0.5.586",
-          "downloads": 52800,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.586.json"
-        },
-        {
-          "version": "0.5.641",
-          "downloads": 26295,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.641.json"
-        },
-        {
-          "version": "0.5.651",
-          "downloads": 23402,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.651.json"
-        },
-        {
-          "version": "0.5.678",
-          "downloads": 30284,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.678.json"
-        },
-        {
-          "version": "0.5.711",
-          "downloads": 33077,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.711.json"
-        },
-        {
-          "version": "0.5.764",
-          "downloads": 72978,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.764.json"
-        },
-        {
-          "version": "0.5.793",
-          "downloads": 23460,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.793.json"
-        },
-        {
-          "version": "0.5.820",
-          "downloads": 26691,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.820.json"
-        },
-        {
-          "version": "0.5.829",
-          "downloads": 169949,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.829.json"
-        },
-        {
-          "version": "0.5.1073",
-          "downloads": 4336,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.1073.json"
-        },
-        {
-          "version": "0.5.1084",
-          "downloads": 15954,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.1084.json"
-        },
-        {
-          "version": "0.5.1165",
-          "downloads": 4601,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.1165.json"
-        },
-        {
-          "version": "1.0.518",
-          "downloads": 29556,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/1.0.518.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/p/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/p/index.json",
@@ -91630,6 +91394,272 @@
           "version": "3.0.0",
           "downloads": 1753,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/p/3.0.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/index.json",
+      "id": "upgrade-assistant",
+      "version": "1.0.518",
+      "description": "A tool to assist developers in upgrading .NET Framework and .NET applications to latest versions of .NET.",
+      "summary": "",
+      "title": "upgrade-assistant",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/upgrade-assistant/1.0.518/icon",
+      "licenseUrl": "https://www.nuget.org/packages/upgrade-assistant/1.0.518/license",
+      "projectUrl": "https://go.microsoft.com/fwlink/?LinkID=2202641",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
+      "totalDownloads": 965252,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.2.212401",
+          "downloads": 1320,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.212401.json"
+        },
+        {
+          "version": "0.2.212405",
+          "downloads": 4576,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.212405.json"
+        },
+        {
+          "version": "0.2.217201",
+          "downloads": 2387,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.217201.json"
+        },
+        {
+          "version": "0.2.220602",
+          "downloads": 3697,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.220602.json"
+        },
+        {
+          "version": "0.2.222702",
+          "downloads": 2615,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.222702.json"
+        },
+        {
+          "version": "0.2.226201",
+          "downloads": 2962,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.226201.json"
+        },
+        {
+          "version": "0.2.227701",
+          "downloads": 3884,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.227701.json"
+        },
+        {
+          "version": "0.2.231403",
+          "downloads": 3638,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.231403.json"
+        },
+        {
+          "version": "0.2.233001",
+          "downloads": 2879,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.233001.json"
+        },
+        {
+          "version": "0.2.236301",
+          "downloads": 2973,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.236301.json"
+        },
+        {
+          "version": "0.2.237901",
+          "downloads": 3247,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.237901.json"
+        },
+        {
+          "version": "0.2.241603",
+          "downloads": 4130,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.2.241603.json"
+        },
+        {
+          "version": "0.3.242703",
+          "downloads": 3620,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.242703.json"
+        },
+        {
+          "version": "0.3.246501",
+          "downloads": 10409,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.246501.json"
+        },
+        {
+          "version": "0.3.252501",
+          "downloads": 3493,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.252501.json"
+        },
+        {
+          "version": "0.3.255803",
+          "downloads": 4260,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.255803.json"
+        },
+        {
+          "version": "0.3.256001",
+          "downloads": 8362,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.256001.json"
+        },
+        {
+          "version": "0.3.261302",
+          "downloads": 2005,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.261302.json"
+        },
+        {
+          "version": "0.3.261602",
+          "downloads": 13504,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.261602.json"
+        },
+        {
+          "version": "0.3.310302",
+          "downloads": 1345,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.310302.json"
+        },
+        {
+          "version": "0.3.310801",
+          "downloads": 37800,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.310801.json"
+        },
+        {
+          "version": "0.3.326103",
+          "downloads": 14393,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.326103.json"
+        },
+        {
+          "version": "0.3.330701",
+          "downloads": 16512,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.3.330701.json"
+        },
+        {
+          "version": "0.4.336902",
+          "downloads": 43593,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.4.336902.json"
+        },
+        {
+          "version": "0.4.346201",
+          "downloads": 3671,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.4.346201.json"
+        },
+        {
+          "version": "0.4.346202",
+          "downloads": 16703,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.4.346202.json"
+        },
+        {
+          "version": "0.4.355802",
+          "downloads": 39301,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.4.355802.json"
+        },
+        {
+          "version": "0.4.410601",
+          "downloads": 46346,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.4.410601.json"
+        },
+        {
+          "version": "0.4.421302",
+          "downloads": 47182,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.4.421302.json"
+        },
+        {
+          "version": "0.5.30",
+          "downloads": 22795,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.30.json"
+        },
+        {
+          "version": "0.5.261",
+          "downloads": 33936,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.261.json"
+        },
+        {
+          "version": "0.5.564",
+          "downloads": 20526,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.564.json"
+        },
+        {
+          "version": "0.5.567",
+          "downloads": 3597,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.567.json"
+        },
+        {
+          "version": "0.5.568",
+          "downloads": 20208,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.568.json"
+        },
+        {
+          "version": "0.5.586",
+          "downloads": 52800,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.586.json"
+        },
+        {
+          "version": "0.5.641",
+          "downloads": 26295,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.641.json"
+        },
+        {
+          "version": "0.5.651",
+          "downloads": 23402,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.651.json"
+        },
+        {
+          "version": "0.5.678",
+          "downloads": 30284,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.678.json"
+        },
+        {
+          "version": "0.5.711",
+          "downloads": 33077,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.711.json"
+        },
+        {
+          "version": "0.5.764",
+          "downloads": 72978,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.764.json"
+        },
+        {
+          "version": "0.5.793",
+          "downloads": 23460,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.793.json"
+        },
+        {
+          "version": "0.5.820",
+          "downloads": 26691,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.820.json"
+        },
+        {
+          "version": "0.5.829",
+          "downloads": 169949,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.829.json"
+        },
+        {
+          "version": "0.5.1073",
+          "downloads": 4336,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.1073.json"
+        },
+        {
+          "version": "0.5.1084",
+          "downloads": 15954,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.1084.json"
+        },
+        {
+          "version": "0.5.1165",
+          "downloads": 4601,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/0.5.1165.json"
+        },
+        {
+          "version": "1.0.518",
+          "downloads": 29556,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/upgrade-assistant/1.0.518.json"
         }
       ],
       "vulnerabilities": []
