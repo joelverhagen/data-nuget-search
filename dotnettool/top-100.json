@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 7725,
+  "totalHits": 7736,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cake.tool/index.json",
@@ -7730,12 +7730,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dotcover.commandlinetools/index.json",
       "id": "JetBrains.dotCover.CommandLineTools",
-      "version": "2026.1.0",
+      "version": "2026.1.0.1",
       "description": "Cross-platform .NET code coverage tool.",
       "summary": "",
-      "title": "JetBrains dotCover Command Line Tools 2026.1",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.dotcover.commandlinetools/2026.1.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/JetBrains.dotCover.CommandLineTools/2026.1.0/license",
+      "title": "JetBrains dotCover Command Line Tools 2026.1.0.1",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.dotcover.commandlinetools/2026.1.0.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/JetBrains.dotCover.CommandLineTools/2026.1.0.1/license",
       "projectUrl": "https://www.jetbrains.com/dotcover/",
       "tags": [],
       "authors": [
@@ -8596,6 +8596,11 @@
           "version": "2026.1.0",
           "downloads": 27863,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dotcover.commandlinetools/2026.1.0.json"
+        },
+        {
+          "version": "2026.1.0.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dotcover.commandlinetools/2026.1.0.1.json"
         }
       ],
       "vulnerabilities": []
@@ -22887,12 +22892,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/index.json",
       "id": "JetBrains.ReSharper.GlobalTools",
-      "version": "2026.1.0",
+      "version": "2026.1.0.1",
       "description": "Standalone command line tools that enable running ReSharper inspections outside of Visual Studio",
       "summary": "",
-      "title": "JetBrains ReSharper Command Line Tools 2026.1",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.resharper.globaltools/2026.1.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/JetBrains.ReSharper.GlobalTools/2026.1.0/license",
+      "title": "JetBrains ReSharper Command Line Tools 2026.1.0.1",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.resharper.globaltools/2026.1.0.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/JetBrains.ReSharper.GlobalTools/2026.1.0.1/license",
       "projectUrl": "https://www.jetbrains.com/resharper/features/command-line.html",
       "tags": [],
       "authors": [
@@ -24318,6 +24323,11 @@
           "version": "2026.1.0",
           "downloads": 40235,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2026.1.0.json"
+        },
+        {
+          "version": "2026.1.0.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2026.1.0.1.json"
         }
       ],
       "vulnerabilities": []
@@ -36707,6 +36717,55 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/index.json",
+      "id": "AWS.CodeArtifact.NuGet.CredentialProvider",
+      "version": "1.0.2",
+      "description": "A tool to configure NuGet credential provider for AWS CodeArtifact sources.",
+      "summary": "",
+      "title": "AWS.CodeArtifact.NuGet.CredentialProvider",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/aws.codeartifact.nuget.credentialprovider/1.0.2/icon",
+      "licenseUrl": "https://aws.amazon.com/apache-2-0/",
+      "projectUrl": "https://aws.amazon.com/codeartifact/",
+      "tags": [
+        "AWS",
+        "Amazon",
+        "CodeArtifact"
+      ],
+      "authors": [
+        "Amazon Web Services"
+      ],
+      "owners": [
+        "awsdotnet"
+      ],
+      "totalDownloads": 3389513,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloads": 225960,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/1.0.0.json"
+        },
+        {
+          "version": "1.0.1",
+          "downloads": 1557803,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/1.0.1.json"
+        },
+        {
+          "version": "1.0.2",
+          "downloads": 1605750,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/1.0.2.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/rapicgen/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/rapicgen/index.json",
@@ -37727,64 +37786,15 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/index.json",
-      "id": "AWS.CodeArtifact.NuGet.CredentialProvider",
-      "version": "1.0.2",
-      "description": "A tool to configure NuGet credential provider for AWS CodeArtifact sources.",
-      "summary": "",
-      "title": "AWS.CodeArtifact.NuGet.CredentialProvider",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/aws.codeartifact.nuget.credentialprovider/1.0.2/icon",
-      "licenseUrl": "https://aws.amazon.com/apache-2-0/",
-      "projectUrl": "https://aws.amazon.com/codeartifact/",
-      "tags": [
-        "AWS",
-        "Amazon",
-        "CodeArtifact"
-      ],
-      "authors": [
-        "Amazon Web Services"
-      ],
-      "owners": [
-        "awsdotnet"
-      ],
-      "totalDownloads": 3389513,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "downloads": 225960,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/1.0.0.json"
-        },
-        {
-          "version": "1.0.1",
-          "downloads": 1557803,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/1.0.1.json"
-        },
-        {
-          "version": "1.0.2",
-          "downloads": 1605750,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aws.codeartifact.nuget.credentialprovider/1.0.2.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/index.json",
       "id": "FunFair.BuildVersion",
-      "version": "6.2.19.1871-main",
+      "version": "6.2.19.1872-main",
       "description": "Build versioning tool.",
       "summary": "",
       "title": "FunFair.BuildVersion",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.19.1871-main/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.19.1872-main/icon",
       "projectUrl": "https://github.com/funfair-tech/funfair-build-version",
       "tags": [
         "FunFair",
@@ -48494,6 +48504,11 @@
           "version": "6.2.19.1871-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.19.1871-main.json"
+        },
+        {
+          "version": "6.2.19.1872-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.19.1872-main.json"
         }
       ],
       "vulnerabilities": []
@@ -67589,11 +67604,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
       "id": "Credfeto.ChangeLog.Cmd",
-      "version": "1.10.194.1754-main",
+      "version": "1.10.194.1756-main",
       "description": "Changelog manager dotnet tool.",
       "summary": "",
       "title": "Credfeto.ChangeLog.Cmd",
-      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.194.1754-main/license",
+      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.194.1756-main/license",
       "tags": [
         "Changelog",
         "tool",
@@ -78713,6 +78728,11 @@
           "version": "1.10.194.1754-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.194.1754-main.json"
+        },
+        {
+          "version": "1.10.194.1756-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.194.1756-main.json"
         }
       ],
       "vulnerabilities": []
@@ -80289,12 +80309,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/uno.check/index.json",
       "id": "Uno.Check",
-      "version": "1.35.0-dev.20",
+      "version": "1.35.0-dev.21",
       "description": "A dotnet tool for helping set up your Uno Platform environment",
       "summary": "",
       "title": "Uno Platform Check Tool",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/uno.check/1.35.0-dev.20/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Uno.Check/1.35.0-dev.20/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/uno.check/1.35.0-dev.21/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Uno.Check/1.35.0-dev.21/license",
       "projectUrl": "https://github.com/unoplatform/uno.check",
       "tags": [],
       "authors": [
@@ -81955,6 +81975,11 @@
           "version": "1.35.0-dev.20",
           "downloads": 68,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.check/1.35.0-dev.20.json"
+        },
+        {
+          "version": "1.35.0-dev.21",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.check/1.35.0-dev.21.json"
         }
       ],
       "vulnerabilities": []
@@ -88270,12 +88295,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dottrace.globaltools/index.json",
       "id": "JetBrains.dotTrace.GlobalTools",
-      "version": "2026.1.0",
+      "version": "2026.1.0.1",
       "description": "The dotTrace console tool lets you start a profiling session and get performance snapshots from the command line.\nThis can be helpful in various scenarios, like:\n    * profiling an application on a remote server, \n    * automating the process of gathering performance snapshots, for example, as a part of your continuous integration builds,\n    * speeding up profiling routines by creating profiling scripts. \nThe tool supports profiling of .NET Framework, .NET Core, Mono, and Unity applications.\nThe tool is a JetBrains Redistributable Product. This means it is free and can be freely redistributed. Note that it does not require JetBrains dotTrace to be installed on your machine. At the same time, to analyze the collected snapshots, you will need the standalone version of JetBrains dotTrace or JetBrains Rider.",
       "summary": "",
-      "title": "JetBrains dotTrace Command Line Tools 2026.1",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.dottrace.globaltools/2026.1.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/JetBrains.dotTrace.GlobalTools/2026.1.0/license",
+      "title": "JetBrains dotTrace Command Line Tools 2026.1.0.1",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.dottrace.globaltools/2026.1.0.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/JetBrains.dotTrace.GlobalTools/2026.1.0.1/license",
       "projectUrl": "http://www.jetbrains.com/profiler/",
       "tags": [],
       "authors": [
@@ -89551,6 +89576,11 @@
           "version": "2026.1.0",
           "downloads": 25196,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dottrace.globaltools/2026.1.0.json"
+        },
+        {
+          "version": "2026.1.0.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dottrace.globaltools/2026.1.0.1.json"
         }
       ],
       "vulnerabilities": []
@@ -89654,7 +89684,7 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/index.json",
       "id": "Hopex.ApplicationServer.Tool",
-      "version": "62.9.31.1",
+      "version": "62.9.32.1",
       "description": "Package Description",
       "summary": "",
       "title": "Hopex.ApplicationServer.Tool",
@@ -95533,6 +95563,11 @@
           "version": "62.9.31.1",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/62.9.31.1.json"
+        },
+        {
+          "version": "62.9.32.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/hopex.applicationserver.tool/62.9.32.1.json"
         }
       ],
       "vulnerabilities": []
@@ -95542,12 +95577,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/index.json",
       "id": "Microsoft.PowerApps.CLI.Tool",
-      "version": "2.5.1",
+      "version": "2.6.3",
       "description": "Microsoft PowerPlatform CLI is a simple, single-stop, developer command-line interface (CLI) for developing customizations and extensions for Microsoft PowerPlatform. See project site how to install",
       "summary": "",
       "title": "Microsoft PowerPlatform CLI",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.powerapps.cli.tool/2.5.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.PowerApps.CLI.Tool/2.5.1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.powerapps.cli.tool/2.6.3/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.PowerApps.CLI.Tool/2.6.3/license",
       "projectUrl": "https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction",
       "tags": [
         "Dynamics",
@@ -95867,6 +95902,11 @@
           "version": "2.5.1",
           "downloads": 3801,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.5.1.json"
+        },
+        {
+          "version": "2.6.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.6.3.json"
         }
       ],
       "vulnerabilities": []
