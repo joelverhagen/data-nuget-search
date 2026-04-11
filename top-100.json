@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 480649,
+  "totalHits": 480993,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -3050,13 +3050,13 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/index.json",
       "id": "Azure.Core",
-      "version": "1.52.0",
+      "version": "1.53.0",
       "description": "This is the implementation of the Azure Client Pipeline",
       "summary": "",
       "title": "Azure.Core",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.core/1.52.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Azure.Core/1.52.0/license",
-      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Core_1.52.0/sdk/core/Azure.Core/README.md",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.core/1.53.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Azure.Core/1.53.0/license",
+      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Core_1.53.0/sdk/core/Azure.Core/README.md",
       "tags": [
         "Microsoft",
         "Azure",
@@ -3407,6 +3407,11 @@
           "version": "1.52.0",
           "downloads": 365550,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.52.0.json"
+        },
+        {
+          "version": "1.53.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.core/1.53.0.json"
         }
       ],
       "vulnerabilities": []
@@ -13024,12 +13029,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "4.0.3.28",
+      "version": "4.0.3.29",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/4.0.3.28/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/4.0.3.28/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/4.0.3.29/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/4.0.3.29/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -20330,6 +20335,11 @@
           "version": "4.0.3.28",
           "downloads": 2071,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/4.0.3.28.json"
+        },
+        {
+          "version": "4.0.3.29",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/4.0.3.29.json"
         }
       ],
       "vulnerabilities": []
@@ -20339,13 +20349,13 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/index.json",
       "id": "Azure.Identity",
-      "version": "1.20.0",
+      "version": "1.21.0",
       "description": "Provides APIs for authenticating to Microsoft Entra ID",
       "summary": "",
       "title": "Azure.Identity",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.identity/1.20.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Azure.Identity/1.20.0/license",
-      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Identity_1.20.0/sdk/identity/Azure.Identity/README.md",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.identity/1.21.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Azure.Identity/1.21.0/license",
+      "projectUrl": "https://github.com/Azure/azure-sdk-for-net/blob/Azure.Identity_1.21.0/sdk/identity/Azure.Identity/README.md",
       "tags": [
         "Microsoft",
         "Azure",
@@ -20792,6 +20802,11 @@
           "version": "1.20.0",
           "downloads": 243974,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.20.0.json"
+        },
+        {
+          "version": "1.21.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.identity/1.21.0.json"
         }
       ],
       "vulnerabilities": []
@@ -47829,144 +47844,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/index.json",
-      "id": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
-      "version": "4.4.0",
-      "description": "Internal implementation package not meant for direct consumption.  Please do not reference directly. \nd0d5c7b49271cadb6d97de26d8e623e98abdc8db \nWhen using NuGet 3.x this package requires at least version 3.4.",
-      "summary": "",
-      "title": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/icon",
-      "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
-      "projectUrl": "https://dot.net/",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 674747603,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "4.4.0-preview1-25301-01",
-          "downloads": 177486,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0-preview1-25301-01.json"
-        },
-        {
-          "version": "4.4.0-preview2-25312-01",
-          "downloads": 358041,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01.json"
-        },
-        {
-          "version": "4.4.0",
-          "downloads": 674212076,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/index.json",
-      "id": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
-      "version": "4.4.0",
-      "description": "Internal implementation package not meant for direct consumption.  Please do not reference directly. \nd0d5c7b49271cadb6d97de26d8e623e98abdc8db \nWhen using NuGet 3.x this package requires at least version 3.4.",
-      "summary": "",
-      "title": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/icon",
-      "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
-      "projectUrl": "https://dot.net/",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 674703422,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "4.4.0-preview1-25301-01",
-          "downloads": 180308,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0-preview1-25301-01.json"
-        },
-        {
-          "version": "4.4.0-preview2-25312-01",
-          "downloads": 360755,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01.json"
-        },
-        {
-          "version": "4.4.0",
-          "downloads": 674162359,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/index.json",
-      "id": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
-      "version": "4.4.0",
-      "description": "Internal implementation package not meant for direct consumption.  Please do not reference directly. \nd0d5c7b49271cadb6d97de26d8e623e98abdc8db \nWhen using NuGet 3.x this package requires at least version 3.4.",
-      "summary": "",
-      "title": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/icon",
-      "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
-      "projectUrl": "https://dot.net/",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 674500357,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "4.4.0-preview1-25301-01",
-          "downloads": 179386,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0-preview1-25301-01.json"
-        },
-        {
-          "version": "4.4.0-preview2-25312-01",
-          "downloads": 359712,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01.json"
-        },
-        {
-          "version": "4.4.0",
-          "downloads": 673961259,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.common/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.common/index.json",
@@ -48395,6 +48272,144 @@
           "version": "12.28.0-beta.1",
           "downloads": 1930,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.common/12.28.0-beta.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/index.json",
+      "id": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
+      "version": "4.4.0",
+      "description": "Internal implementation package not meant for direct consumption.  Please do not reference directly. \nd0d5c7b49271cadb6d97de26d8e623e98abdc8db \nWhen using NuGet 3.x this package requires at least version 3.4.",
+      "summary": "",
+      "title": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/icon",
+      "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "projectUrl": "https://dot.net/",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
+      "totalDownloads": 674747603,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "4.4.0-preview1-25301-01",
+          "downloads": 177486,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0-preview1-25301-01.json"
+        },
+        {
+          "version": "4.4.0-preview2-25312-01",
+          "downloads": 358041,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01.json"
+        },
+        {
+          "version": "4.4.0",
+          "downloads": 674212076,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/index.json",
+      "id": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
+      "version": "4.4.0",
+      "description": "Internal implementation package not meant for direct consumption.  Please do not reference directly. \nd0d5c7b49271cadb6d97de26d8e623e98abdc8db \nWhen using NuGet 3.x this package requires at least version 3.4.",
+      "summary": "",
+      "title": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/icon",
+      "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "projectUrl": "https://dot.net/",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
+      "totalDownloads": 674703422,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "4.4.0-preview1-25301-01",
+          "downloads": 180308,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0-preview1-25301-01.json"
+        },
+        {
+          "version": "4.4.0-preview2-25312-01",
+          "downloads": 360755,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01.json"
+        },
+        {
+          "version": "4.4.0",
+          "downloads": 674162359,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/index.json",
+      "id": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
+      "version": "4.4.0",
+      "description": "Internal implementation package not meant for direct consumption.  Please do not reference directly. \nd0d5c7b49271cadb6d97de26d8e623e98abdc8db \nWhen using NuGet 3.x this package requires at least version 3.4.",
+      "summary": "",
+      "title": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/icon",
+      "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+      "projectUrl": "https://dot.net/",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
+      "totalDownloads": 674500357,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "4.4.0-preview1-25301-01",
+          "downloads": 179386,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0-preview1-25301-01.json"
+        },
+        {
+          "version": "4.4.0-preview2-25312-01",
+          "downloads": 359712,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01.json"
+        },
+        {
+          "version": "4.4.0",
+          "downloads": 673961259,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0.json"
         }
       ],
       "vulnerabilities": []
@@ -53376,12 +53391,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "id": "AWSSDK.S3",
-      "version": "4.0.21",
+      "version": "4.0.21.1",
       "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
       "summary": "",
       "title": "AWSSDK - S3",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/4.0.21/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/4.0.21/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/4.0.21.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/4.0.21.1/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -60943,6 +60958,11 @@
           "version": "4.0.21",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/4.0.21.json"
+        },
+        {
+          "version": "4.0.21.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/4.0.21.1.json"
         }
       ],
       "vulnerabilities": []
