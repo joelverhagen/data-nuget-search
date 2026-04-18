@@ -49,7 +49,7 @@
   },
   {
     "id": "coverlet.console",
-    "version": "8.0.1"
+    "version": "10.0.0"
   },
   {
     "id": "dotnet-trace",
@@ -89,7 +89,7 @@
   },
   {
     "id": "Refitter",
-    "version": "1.8.0-preview.102"
+    "version": "1.8.0-preview.103"
   },
   {
     "id": "nbgv",
@@ -104,24 +104,24 @@
     "version": "7.0.1"
   },
   {
-    "id": "dotnet-sos",
-    "version": "9.0.661903"
+    "id": "Husky",
+    "version": "0.9.1"
   },
   {
-    "id": "CycloneDX",
-    "version": "6.1.1"
+    "id": "dotnet-sos",
+    "version": "9.0.661903"
   },
   {
     "id": "NSwag.ConsoleCore",
     "version": "14.7.0"
   },
   {
-    "id": "Husky",
-    "version": "0.9.1"
-  },
-  {
     "id": "Microsoft.dotnet-openapi",
     "version": "11.0.0-preview.3.26207.106"
+  },
+  {
+    "id": "CycloneDX",
+    "version": "6.1.1"
   },
   {
     "id": "dd-trace",
@@ -153,19 +153,19 @@
   },
   {
     "id": "Microsoft.SqlPackage",
-    "version": "170.4.43-preview"
+    "version": "170.4.63-preview"
   },
   {
     "id": "minver-cli",
     "version": "8.0.0-alpha.1"
   },
   {
-    "id": "Amazon.Lambda.TestTool-6.0",
-    "version": "0.16.3"
-  },
-  {
     "id": "Microsoft.OpenApi.Kiota",
     "version": "1.31.1"
+  },
+  {
+    "id": "Amazon.Lambda.TestTool-6.0",
+    "version": "0.16.3"
   },
   {
     "id": "AWS.CodeArtifact.NuGet.CredentialProvider",
@@ -177,7 +177,7 @@
   },
   {
     "id": "FunFair.BuildVersion",
-    "version": "6.2.19.1881-main"
+    "version": "6.2.19.1885-main"
   },
   {
     "id": "dotnet-svcutil",
@@ -188,6 +188,10 @@
     "version": "9.0.661903"
   },
   {
+    "id": "Nuke.GlobalTool",
+    "version": "10.1.0"
+  },
+  {
     "id": "dotnet-subset",
     "version": "0.3.2"
   },
@@ -196,8 +200,8 @@
     "version": "9.0.661903"
   },
   {
-    "id": "Nuke.GlobalTool",
-    "version": "10.1.0"
+    "id": "p",
+    "version": "3.0.4"
   },
   {
     "id": "fantomas",
@@ -206,10 +210,6 @@
   {
     "id": "OctoNotes.GitHubUpdater.Tool",
     "version": "0.0.2323"
-  },
-  {
-    "id": "p",
-    "version": "3.0.4"
   },
   {
     "id": "dotnet-project-licenses",
@@ -248,8 +248,12 @@
     "version": "0.14.1"
   },
   {
+    "id": "NuGet.Mcp.Server",
+    "version": "1.2.3"
+  },
+  {
     "id": "StrawberryShake.Tools",
-    "version": "16.0.0-rc.1.32"
+    "version": "16.1.0-p.1.5"
   },
   {
     "id": "Excubo.WebCompiler",
@@ -260,16 +264,12 @@
     "version": "2.0.6"
   },
   {
-    "id": "NuGet.Mcp.Server",
-    "version": "1.2.3"
+    "id": "Pickles.CommandLine",
+    "version": "4.0.3"
   },
   {
     "id": "Credfeto.ChangeLog.Cmd",
-    "version": "1.10.194.1761-main"
-  },
-  {
-    "id": "Pickles.CommandLine",
-    "version": "4.0.3"
+    "version": "1.10.194.1763-main"
   },
   {
     "id": "dotnet-certificate-tool",
@@ -281,7 +281,7 @@
   },
   {
     "id": "SpecSync.AzureDevOps",
-    "version": "5.4.0-pre20260219-1"
+    "version": "5.4.0-pre20260417-1"
   },
   {
     "id": "dotnet-tools-outdated",
@@ -292,16 +292,16 @@
     "version": "0.9.1-beta.26179.1"
   },
   {
+    "id": "Microsoft.Sbom.DotNetTool",
+    "version": "4.1.5"
+  },
+  {
     "id": "Uno.Check",
     "version": "1.35.0-dev.22"
   },
   {
     "id": "dafny-reportgenerator",
     "version": "1.2.0"
-  },
-  {
-    "id": "Microsoft.Sbom.DotNetTool",
-    "version": "4.1.5"
   },
   {
     "id": "Amazon.Lambda.TestTool-8.0",
@@ -344,12 +344,16 @@
     "version": "1.32.0"
   },
   {
+    "id": "Microsoft.VisualStudio.SlnGen.Tool",
+    "version": "12.0.32"
+  },
+  {
     "id": "MiniCover",
     "version": "3.10.0"
   },
   {
-    "id": "Microsoft.VisualStudio.SlnGen.Tool",
-    "version": "12.0.32"
+    "id": "JetBrains.dotTrace.GlobalTools",
+    "version": "2026.1.0.1"
   },
   {
     "id": "Roslynator.DotNet.Cli",
@@ -364,8 +368,8 @@
     "version": "5.6.7"
   },
   {
-    "id": "JetBrains.dotTrace.GlobalTools",
-    "version": "2026.1.0.1"
+    "id": "Microsoft.PowerApps.CLI.Tool",
+    "version": "2.6.4"
   },
   {
     "id": "Amazon.Lambda.TestTool-2.1",
@@ -373,11 +377,7 @@
   },
   {
     "id": "Hopex.ApplicationServer.Tool",
-    "version": "62.9.33.1"
-  },
-  {
-    "id": "Microsoft.PowerApps.CLI.Tool",
-    "version": "2.6.4"
+    "version": "62.10.0.134"
   },
   {
     "id": "GitReleaseManager.Tool",

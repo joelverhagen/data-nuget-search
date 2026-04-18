@@ -96,6 +96,10 @@
     "version": "3.5.2"
   },
   {
+    "id": "Microsoft.Data.SqlClient",
+    "version": "7.0.0"
+  },
+  {
     "id": "Swashbuckle.AspNetCore.SwaggerGen",
     "version": "10.1.7"
   },
@@ -104,15 +108,11 @@
     "version": "10.1.7"
   },
   {
-    "id": "Microsoft.Data.SqlClient",
-    "version": "7.0.0"
-  },
-  {
-    "id": "System.Formats.Asn1",
+    "id": "Microsoft.Extensions.Hosting",
     "version": "11.0.0-preview.3.26207.106"
   },
   {
-    "id": "Microsoft.Extensions.Hosting",
+    "id": "System.Formats.Asn1",
     "version": "11.0.0-preview.3.26207.106"
   },
   {
@@ -124,7 +124,7 @@
     "version": "1.0.3"
   },
   {
-    "id": "System.CodeDom",
+    "id": "Microsoft.Extensions.Diagnostics.Abstractions",
     "version": "11.0.0-preview.3.26207.106"
   },
   {
@@ -132,8 +132,12 @@
     "version": "3.34.1"
   },
   {
-    "id": "Microsoft.Extensions.Diagnostics.Abstractions",
+    "id": "System.CodeDom",
     "version": "11.0.0-preview.3.26207.106"
+  },
+  {
+    "id": "Microsoft.ApplicationInsights",
+    "version": "3.1.0"
   },
   {
     "id": "System.Diagnostics.PerformanceCounter",
@@ -142,10 +146,6 @@
   {
     "id": "Swashbuckle.AspNetCore.SwaggerUI",
     "version": "10.1.7"
-  },
-  {
-    "id": "Microsoft.ApplicationInsights",
-    "version": "3.1.0"
   },
   {
     "id": "Moq",
@@ -168,15 +168,7 @@
     "version": "8.0.0-nblumhardt-02322"
   },
   {
-    "id": "Serilog.Sinks.Console",
-    "version": "6.1.1"
-  },
-  {
     "id": "Microsoft.Extensions.Logging.EventLog",
-    "version": "11.0.0-preview.3.26207.106"
-  },
-  {
-    "id": "Microsoft.Extensions.ApiDescription.Server",
     "version": "11.0.0-preview.3.26207.106"
   },
   {
@@ -184,24 +176,32 @@
     "version": "6.0.2"
   },
   {
-    "id": "StackExchange.Redis",
-    "version": "3.0.2-preview"
+    "id": "Microsoft.Extensions.ApiDescription.Server",
+    "version": "11.0.0-preview.3.26207.106"
   },
   {
-    "id": "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions",
-    "version": "11.0.0-preview.3.26207.106"
+    "id": "Serilog.Sinks.Console",
+    "version": "6.1.1"
   },
   {
     "id": "Grpc.Core.Api",
     "version": "2.80.0-pre1"
   },
   {
-    "id": "Serilog.Extensions.Logging",
-    "version": "10.0.0"
+    "id": "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions",
+    "version": "11.0.0-preview.3.26207.106"
+  },
+  {
+    "id": "StackExchange.Redis",
+    "version": "3.0.2-preview"
   },
   {
     "id": "Microsoft.Extensions.Diagnostics.HealthChecks",
     "version": "11.0.0-preview.3.26207.106"
+  },
+  {
+    "id": "Serilog.Extensions.Logging",
+    "version": "10.0.0"
   },
   {
     "id": "Microsoft.NET.Sdk.Aspire.Manifest-8.0.100",
@@ -212,16 +212,16 @@
     "version": "12.1.1"
   },
   {
-    "id": "xunit",
-    "version": "2.9.3"
-  },
-  {
     "id": "Humanizer.Core",
     "version": "3.0.10"
   },
   {
+    "id": "xunit",
+    "version": "2.9.3"
+  },
+  {
     "id": "coverlet.collector",
-    "version": "8.0.1"
+    "version": "10.0.0"
   },
   {
     "id": "Serilog.Settings.Configuration",
@@ -256,16 +256,16 @@
     "version": "11.0.0-preview.3.26207.106"
   },
   {
-    "id": "Serilog.Extensions.Hosting",
-    "version": "10.0.0"
-  },
-  {
     "id": "Grpc.Net.Common",
     "version": "2.80.0-pre1"
   },
   {
-    "id": "Azure.Storage.Common",
-    "version": "12.28.0-beta.1"
+    "id": "Serilog.Extensions.Hosting",
+    "version": "10.0.0"
+  },
+  {
+    "id": "Grpc.Net.Client",
+    "version": "2.80.0-pre1"
   },
   {
     "id": "Microsoft.NET.Workload.Mono.ToolChain.Current.Manifest-8.0.100",
@@ -292,8 +292,8 @@
     "version": "8.0.26"
   },
   {
-    "id": "Grpc.Net.Client",
-    "version": "2.80.0-pre1"
+    "id": "Azure.Storage.Common",
+    "version": "12.28.0-beta.1"
   },
   {
     "id": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
@@ -314,10 +314,6 @@
   {
     "id": "Serilog.AspNetCore",
     "version": "10.0.0"
-  },
-  {
-    "id": "Dapper",
-    "version": "2.1.72"
   },
   {
     "id": "Microsoft.NET.Sdk.iOS.Manifest-8.0.100",
@@ -342,6 +338,10 @@
   {
     "id": "Microsoft.NET.Sdk.Maui.Manifest-8.0.100",
     "version": "8.0.100"
+  },
+  {
+    "id": "Dapper",
+    "version": "2.1.72"
   },
   {
     "id": "Serilog.Sinks.Debug",
