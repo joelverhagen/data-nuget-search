@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 530098,
+  "totalHits": 530635,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -14164,12 +14164,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "4.0.102.1",
+      "version": "4.0.102.2",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/4.0.102.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/4.0.102.1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/4.0.102.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/4.0.102.2/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -21680,6 +21680,11 @@
           "version": "4.0.102.1",
           "downloads": 540113,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/4.0.102.1.json"
+        },
+        {
+          "version": "4.0.102.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/4.0.102.2.json"
         }
       ],
       "vulnerabilities": []
@@ -29710,647 +29715,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/index.json",
-      "id": "System.Runtime.Caching",
-      "version": "11.0.0-preview.7.26381.103",
-      "description": "Provides classes to use caching facilities.\n\nCommonly Used Types:\nSystem.Runtime.Caching.CacheEntryChangeMonitor\nSystem.Runtime.Caching.CacheEntryRemovedArguments\nSystem.Runtime.Caching.CacheEntryUpdateArguments\nSystem.Runtime.Caching.CacheItem\nSystem.Runtime.Caching.CacheItemPolicy\nSystem.Runtime.Caching.ChangeMonitor\nSystem.Runtime.Caching.FileChangeMonitor\nSystem.Runtime.Caching.HostFileChangeMonitor\nSystem.Runtime.Caching.MemoryCache\nSystem.Runtime.Caching.ObjectCache",
-      "summary": "",
-      "title": "System.Runtime.Caching",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.runtime.caching/11.0.0-preview.7.26381.103/icon",
-      "licenseUrl": "https://www.nuget.org/packages/System.Runtime.Caching/11.0.0-preview.7.26381.103/license",
-      "projectUrl": "https://dot.net/",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 1417522834,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "4.5.0-preview1-25914-04",
-          "downloads": 688949,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.5.0-preview1-25914-04.json"
-        },
-        {
-          "version": "4.5.0-preview1-26216-02",
-          "downloads": 468372,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.5.0-preview1-26216-02.json"
-        },
-        {
-          "version": "4.5.0-preview2-26406-04",
-          "downloads": 262879,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.5.0-preview2-26406-04.json"
-        },
-        {
-          "version": "4.5.0-rc1",
-          "downloads": 100299,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.5.0-rc1.json"
-        },
-        {
-          "version": "4.5.0",
-          "downloads": 174830809,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.5.0.json"
-        },
-        {
-          "version": "4.6.0-preview.18571.3",
-          "downloads": 28776,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview.18571.3.json"
-        },
-        {
-          "version": "4.6.0-preview.19073.11",
-          "downloads": 20482,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview.19073.11.json"
-        },
-        {
-          "version": "4.6.0-preview3.19128.7",
-          "downloads": 23723,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview3.19128.7.json"
-        },
-        {
-          "version": "4.6.0-preview4.19212.13",
-          "downloads": 5629,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview4.19212.13.json"
-        },
-        {
-          "version": "4.6.0-preview5.19224.8",
-          "downloads": 30741,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview5.19224.8.json"
-        },
-        {
-          "version": "4.6.0-preview6.19264.9",
-          "downloads": 1161,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview6.19264.9.json"
-        },
-        {
-          "version": "4.6.0-preview6.19303.8",
-          "downloads": 51764,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview6.19303.8.json"
-        },
-        {
-          "version": "4.6.0-preview7.19362.9",
-          "downloads": 200872,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview7.19362.9.json"
-        },
-        {
-          "version": "4.6.0-preview8.19405.3",
-          "downloads": 75554,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview8.19405.3.json"
-        },
-        {
-          "version": "4.6.0-preview9.19416.11",
-          "downloads": 1170,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview9.19416.11.json"
-        },
-        {
-          "version": "4.6.0-preview9.19421.4",
-          "downloads": 14970,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview9.19421.4.json"
-        },
-        {
-          "version": "4.6.0-rc1.19456.4",
-          "downloads": 6500,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-rc1.19456.4.json"
-        },
-        {
-          "version": "4.6.0",
-          "downloads": 14374504,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0.json"
-        },
-        {
-          "version": "4.7.0-preview1.19504.10",
-          "downloads": 12045,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.7.0-preview1.19504.10.json"
-        },
-        {
-          "version": "4.7.0-preview2.19523.17",
-          "downloads": 24260,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.7.0-preview2.19523.17.json"
-        },
-        {
-          "version": "4.7.0-preview3.19551.4",
-          "downloads": 4997,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.7.0-preview3.19551.4.json"
-        },
-        {
-          "version": "4.7.0",
-          "downloads": 326735217,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.7.0.json"
-        },
-        {
-          "version": "5.0.0-preview.1.20120.5",
-          "downloads": 16048,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-preview.1.20120.5.json"
-        },
-        {
-          "version": "5.0.0-preview.2.20160.6",
-          "downloads": 56384,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-preview.2.20160.6.json"
-        },
-        {
-          "version": "5.0.0-preview.3.20214.6",
-          "downloads": 45103,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-preview.3.20214.6.json"
-        },
-        {
-          "version": "5.0.0-preview.4.20251.6",
-          "downloads": 52003,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-preview.4.20251.6.json"
-        },
-        {
-          "version": "5.0.0-preview.5.20278.1",
-          "downloads": 7529,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-preview.5.20278.1.json"
-        },
-        {
-          "version": "5.0.0-preview.6.20305.6",
-          "downloads": 6103,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-preview.6.20305.6.json"
-        },
-        {
-          "version": "5.0.0-preview.7.20364.11",
-          "downloads": 30681,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-preview.7.20364.11.json"
-        },
-        {
-          "version": "5.0.0-preview.8.20407.11",
-          "downloads": 15807,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-preview.8.20407.11.json"
-        },
-        {
-          "version": "5.0.0-rc.1.20451.14",
-          "downloads": 11373,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-rc.1.20451.14.json"
-        },
-        {
-          "version": "5.0.0-rc.2.20475.5",
-          "downloads": 17930,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-rc.2.20475.5.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 182479362,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0.json"
-        },
-        {
-          "version": "6.0.0-preview.1.21102.12",
-          "downloads": 58839,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-preview.1.21102.12.json"
-        },
-        {
-          "version": "6.0.0-preview.2.21154.6",
-          "downloads": 23330,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-preview.2.21154.6.json"
-        },
-        {
-          "version": "6.0.0-preview.3.21201.4",
-          "downloads": 28495,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-preview.3.21201.4.json"
-        },
-        {
-          "version": "6.0.0-preview.4.21253.7",
-          "downloads": 37520,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-preview.4.21253.7.json"
-        },
-        {
-          "version": "6.0.0-preview.5.21301.5",
-          "downloads": 15271,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-preview.5.21301.5.json"
-        },
-        {
-          "version": "6.0.0-preview.6.21352.12",
-          "downloads": 20277,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-preview.6.21352.12.json"
-        },
-        {
-          "version": "6.0.0-preview.7.21377.19",
-          "downloads": 10312,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-preview.7.21377.19.json"
-        },
-        {
-          "version": "6.0.0-rc.1.21451.13",
-          "downloads": 15658,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-rc.1.21451.13.json"
-        },
-        {
-          "version": "6.0.0-rc.2.21480.5",
-          "downloads": 11985,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-rc.2.21480.5.json"
-        },
-        {
-          "version": "6.0.0",
-          "downloads": 391553910,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0.json"
-        },
-        {
-          "version": "6.0.1",
-          "downloads": 744271,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.1.json"
-        },
-        {
-          "version": "7.0.0-preview.1.22076.8",
-          "downloads": 14722,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-preview.1.22076.8.json"
-        },
-        {
-          "version": "7.0.0-preview.2.22152.2",
-          "downloads": 19826,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-preview.2.22152.2.json"
-        },
-        {
-          "version": "7.0.0-preview.3.22175.4",
-          "downloads": 4749,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-preview.3.22175.4.json"
-        },
-        {
-          "version": "7.0.0-preview.4.22229.4",
-          "downloads": 18082,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-preview.4.22229.4.json"
-        },
-        {
-          "version": "7.0.0-preview.5.22301.12",
-          "downloads": 15691,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-preview.5.22301.12.json"
-        },
-        {
-          "version": "7.0.0-preview.6.22324.4",
-          "downloads": 20553,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-preview.6.22324.4.json"
-        },
-        {
-          "version": "7.0.0-preview.7.22375.6",
-          "downloads": 16996,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-preview.7.22375.6.json"
-        },
-        {
-          "version": "7.0.0-rc.1.22426.10",
-          "downloads": 68026,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-rc.1.22426.10.json"
-        },
-        {
-          "version": "7.0.0-rc.2.22472.3",
-          "downloads": 55956,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-rc.2.22472.3.json"
-        },
-        {
-          "version": "7.0.0",
-          "downloads": 27990491,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0.json"
-        },
-        {
-          "version": "8.0.0-preview.1.23110.8",
-          "downloads": 18535,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-preview.1.23110.8.json"
-        },
-        {
-          "version": "8.0.0-preview.2.23128.3",
-          "downloads": 18440,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-preview.2.23128.3.json"
-        },
-        {
-          "version": "8.0.0-preview.3.23174.8",
-          "downloads": 27649,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-preview.3.23174.8.json"
-        },
-        {
-          "version": "8.0.0-preview.4.23259.5",
-          "downloads": 14993,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-preview.4.23259.5.json"
-        },
-        {
-          "version": "8.0.0-preview.5.23280.8",
-          "downloads": 14608,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-preview.5.23280.8.json"
-        },
-        {
-          "version": "8.0.0-preview.6.23329.7",
-          "downloads": 15853,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-preview.6.23329.7.json"
-        },
-        {
-          "version": "8.0.0-preview.7.23375.6",
-          "downloads": 13120,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-preview.7.23375.6.json"
-        },
-        {
-          "version": "8.0.0-rc.1.23419.4",
-          "downloads": 46517,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-rc.1.23419.4.json"
-        },
-        {
-          "version": "8.0.0-rc.2.23479.6",
-          "downloads": 40365,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-rc.2.23479.6.json"
-        },
-        {
-          "version": "8.0.0",
-          "downloads": 203842835,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0.json"
-        },
-        {
-          "version": "8.0.1",
-          "downloads": 43358209,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.1.json"
-        },
-        {
-          "version": "9.0.0-preview.1.24080.9",
-          "downloads": 45150,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-preview.1.24080.9.json"
-        },
-        {
-          "version": "9.0.0-preview.2.24128.5",
-          "downloads": 10661,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-preview.2.24128.5.json"
-        },
-        {
-          "version": "9.0.0-preview.3.24172.9",
-          "downloads": 16950,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-preview.3.24172.9.json"
-        },
-        {
-          "version": "9.0.0-preview.4.24266.19",
-          "downloads": 14451,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-preview.4.24266.19.json"
-        },
-        {
-          "version": "9.0.0-preview.5.24306.7",
-          "downloads": 8374,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-preview.5.24306.7.json"
-        },
-        {
-          "version": "9.0.0-preview.6.24327.7",
-          "downloads": 26579,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-preview.6.24327.7.json"
-        },
-        {
-          "version": "9.0.0-preview.7.24405.7",
-          "downloads": 19790,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-preview.7.24405.7.json"
-        },
-        {
-          "version": "9.0.0-rc.1.24431.7",
-          "downloads": 15366,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-rc.1.24431.7.json"
-        },
-        {
-          "version": "9.0.0-rc.2.24473.5",
-          "downloads": 143143,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-rc.2.24473.5.json"
-        },
-        {
-          "version": "9.0.0",
-          "downloads": 5671888,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0.json"
-        },
-        {
-          "version": "9.0.1",
-          "downloads": 2369455,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.1.json"
-        },
-        {
-          "version": "9.0.2",
-          "downloads": 2513258,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.2.json"
-        },
-        {
-          "version": "9.0.3",
-          "downloads": 1955212,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.3.json"
-        },
-        {
-          "version": "9.0.4",
-          "downloads": 4527667,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.4.json"
-        },
-        {
-          "version": "9.0.5",
-          "downloads": 1467527,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.5.json"
-        },
-        {
-          "version": "9.0.6",
-          "downloads": 2083269,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.6.json"
-        },
-        {
-          "version": "9.0.7",
-          "downloads": 1312319,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.7.json"
-        },
-        {
-          "version": "9.0.8",
-          "downloads": 2119711,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.8.json"
-        },
-        {
-          "version": "9.0.9",
-          "downloads": 1874136,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.9.json"
-        },
-        {
-          "version": "9.0.10",
-          "downloads": 1954022,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.10.json"
-        },
-        {
-          "version": "9.0.11",
-          "downloads": 679028,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.11.json"
-        },
-        {
-          "version": "9.0.12",
-          "downloads": 163571,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.12.json"
-        },
-        {
-          "version": "9.0.13",
-          "downloads": 103822,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.13.json"
-        },
-        {
-          "version": "9.0.14",
-          "downloads": 171186,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.14.json"
-        },
-        {
-          "version": "9.0.15",
-          "downloads": 134280,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.15.json"
-        },
-        {
-          "version": "9.0.16",
-          "downloads": 65383,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.16.json"
-        },
-        {
-          "version": "9.0.17",
-          "downloads": 84398,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.17.json"
-        },
-        {
-          "version": "9.0.18",
-          "downloads": 59739,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.18.json"
-        },
-        {
-          "version": "9.0.19",
-          "downloads": 16731,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.19.json"
-        },
-        {
-          "version": "10.0.0-preview.1.25080.5",
-          "downloads": 3557,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-preview.1.25080.5.json"
-        },
-        {
-          "version": "10.0.0-preview.2.25163.2",
-          "downloads": 6236,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-preview.2.25163.2.json"
-        },
-        {
-          "version": "10.0.0-preview.3.25171.5",
-          "downloads": 7218,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-preview.3.25171.5.json"
-        },
-        {
-          "version": "10.0.0-preview.4.25258.110",
-          "downloads": 11332,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-preview.4.25258.110.json"
-        },
-        {
-          "version": "10.0.0-preview.5.25277.114",
-          "downloads": 5433,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-preview.5.25277.114.json"
-        },
-        {
-          "version": "10.0.0-preview.6.25358.103",
-          "downloads": 7195,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-preview.6.25358.103.json"
-        },
-        {
-          "version": "10.0.0-preview.7.25380.108",
-          "downloads": 8195,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-preview.7.25380.108.json"
-        },
-        {
-          "version": "10.0.0-rc.1.25451.107",
-          "downloads": 42140,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-rc.1.25451.107.json"
-        },
-        {
-          "version": "10.0.0-rc.2.25502.107",
-          "downloads": 28043,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-rc.2.25502.107.json"
-        },
-        {
-          "version": "10.0.0",
-          "downloads": 3388589,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0.json"
-        },
-        {
-          "version": "10.0.1",
-          "downloads": 1881497,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.1.json"
-        },
-        {
-          "version": "10.0.2",
-          "downloads": 2678774,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.2.json"
-        },
-        {
-          "version": "10.0.3",
-          "downloads": 1461510,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.3.json"
-        },
-        {
-          "version": "10.0.4",
-          "downloads": 144664,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.4.json"
-        },
-        {
-          "version": "10.0.5",
-          "downloads": 2551967,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.5.json"
-        },
-        {
-          "version": "10.0.6",
-          "downloads": 685019,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.6.json"
-        },
-        {
-          "version": "10.0.7",
-          "downloads": 1586431,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.7.json"
-        },
-        {
-          "version": "10.0.8",
-          "downloads": 1454965,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.8.json"
-        },
-        {
-          "version": "10.0.9",
-          "downloads": 1575357,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.9.json"
-        },
-        {
-          "version": "10.0.10",
-          "downloads": 987339,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.10.json"
-        },
-        {
-          "version": "10.0.11",
-          "downloads": 448088,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.11.json"
-        },
-        {
-          "version": "11.0.0-preview.1.26104.118",
-          "downloads": 5199,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/11.0.0-preview.1.26104.118.json"
-        },
-        {
-          "version": "11.0.0-preview.2.26159.112",
-          "downloads": 4051,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/11.0.0-preview.2.26159.112.json"
-        },
-        {
-          "version": "11.0.0-preview.3.26207.106",
-          "downloads": 8204,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/11.0.0-preview.3.26207.106.json"
-        },
-        {
-          "version": "11.0.0-preview.4.26230.115",
-          "downloads": 4056,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/11.0.0-preview.4.26230.115.json"
-        },
-        {
-          "version": "11.0.0-preview.5.26302.115",
-          "downloads": 4601,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/11.0.0-preview.5.26302.115.json"
-        },
-        {
-          "version": "11.0.0-preview.6.26359.118",
-          "downloads": 6083,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/11.0.0-preview.6.26359.118.json"
-        },
-        {
-          "version": "11.0.0-preview.7.26381.103",
-          "downloads": 3437,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/11.0.0-preview.7.26381.103.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/index.json",
@@ -31404,6 +30768,647 @@
           "version": "3.36.1",
           "downloads": 24984,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/google.protobuf/3.36.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/index.json",
+      "id": "System.Runtime.Caching",
+      "version": "11.0.0-preview.7.26381.103",
+      "description": "Provides classes to use caching facilities.\n\nCommonly Used Types:\nSystem.Runtime.Caching.CacheEntryChangeMonitor\nSystem.Runtime.Caching.CacheEntryRemovedArguments\nSystem.Runtime.Caching.CacheEntryUpdateArguments\nSystem.Runtime.Caching.CacheItem\nSystem.Runtime.Caching.CacheItemPolicy\nSystem.Runtime.Caching.ChangeMonitor\nSystem.Runtime.Caching.FileChangeMonitor\nSystem.Runtime.Caching.HostFileChangeMonitor\nSystem.Runtime.Caching.MemoryCache\nSystem.Runtime.Caching.ObjectCache",
+      "summary": "",
+      "title": "System.Runtime.Caching",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/system.runtime.caching/11.0.0-preview.7.26381.103/icon",
+      "licenseUrl": "https://www.nuget.org/packages/System.Runtime.Caching/11.0.0-preview.7.26381.103/license",
+      "projectUrl": "https://dot.net/",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
+      "totalDownloads": 1417522834,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "4.5.0-preview1-25914-04",
+          "downloads": 688949,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.5.0-preview1-25914-04.json"
+        },
+        {
+          "version": "4.5.0-preview1-26216-02",
+          "downloads": 468372,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.5.0-preview1-26216-02.json"
+        },
+        {
+          "version": "4.5.0-preview2-26406-04",
+          "downloads": 262879,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.5.0-preview2-26406-04.json"
+        },
+        {
+          "version": "4.5.0-rc1",
+          "downloads": 100299,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.5.0-rc1.json"
+        },
+        {
+          "version": "4.5.0",
+          "downloads": 174830809,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.5.0.json"
+        },
+        {
+          "version": "4.6.0-preview.18571.3",
+          "downloads": 28776,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview.18571.3.json"
+        },
+        {
+          "version": "4.6.0-preview.19073.11",
+          "downloads": 20482,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview.19073.11.json"
+        },
+        {
+          "version": "4.6.0-preview3.19128.7",
+          "downloads": 23723,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview3.19128.7.json"
+        },
+        {
+          "version": "4.6.0-preview4.19212.13",
+          "downloads": 5629,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview4.19212.13.json"
+        },
+        {
+          "version": "4.6.0-preview5.19224.8",
+          "downloads": 30741,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview5.19224.8.json"
+        },
+        {
+          "version": "4.6.0-preview6.19264.9",
+          "downloads": 1161,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview6.19264.9.json"
+        },
+        {
+          "version": "4.6.0-preview6.19303.8",
+          "downloads": 51764,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview6.19303.8.json"
+        },
+        {
+          "version": "4.6.0-preview7.19362.9",
+          "downloads": 200872,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview7.19362.9.json"
+        },
+        {
+          "version": "4.6.0-preview8.19405.3",
+          "downloads": 75554,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview8.19405.3.json"
+        },
+        {
+          "version": "4.6.0-preview9.19416.11",
+          "downloads": 1170,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview9.19416.11.json"
+        },
+        {
+          "version": "4.6.0-preview9.19421.4",
+          "downloads": 14970,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-preview9.19421.4.json"
+        },
+        {
+          "version": "4.6.0-rc1.19456.4",
+          "downloads": 6500,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0-rc1.19456.4.json"
+        },
+        {
+          "version": "4.6.0",
+          "downloads": 14374504,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.6.0.json"
+        },
+        {
+          "version": "4.7.0-preview1.19504.10",
+          "downloads": 12045,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.7.0-preview1.19504.10.json"
+        },
+        {
+          "version": "4.7.0-preview2.19523.17",
+          "downloads": 24260,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.7.0-preview2.19523.17.json"
+        },
+        {
+          "version": "4.7.0-preview3.19551.4",
+          "downloads": 4997,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.7.0-preview3.19551.4.json"
+        },
+        {
+          "version": "4.7.0",
+          "downloads": 326735217,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/4.7.0.json"
+        },
+        {
+          "version": "5.0.0-preview.1.20120.5",
+          "downloads": 16048,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-preview.1.20120.5.json"
+        },
+        {
+          "version": "5.0.0-preview.2.20160.6",
+          "downloads": 56384,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-preview.2.20160.6.json"
+        },
+        {
+          "version": "5.0.0-preview.3.20214.6",
+          "downloads": 45103,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-preview.3.20214.6.json"
+        },
+        {
+          "version": "5.0.0-preview.4.20251.6",
+          "downloads": 52003,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-preview.4.20251.6.json"
+        },
+        {
+          "version": "5.0.0-preview.5.20278.1",
+          "downloads": 7529,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-preview.5.20278.1.json"
+        },
+        {
+          "version": "5.0.0-preview.6.20305.6",
+          "downloads": 6103,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-preview.6.20305.6.json"
+        },
+        {
+          "version": "5.0.0-preview.7.20364.11",
+          "downloads": 30681,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-preview.7.20364.11.json"
+        },
+        {
+          "version": "5.0.0-preview.8.20407.11",
+          "downloads": 15807,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-preview.8.20407.11.json"
+        },
+        {
+          "version": "5.0.0-rc.1.20451.14",
+          "downloads": 11373,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-rc.1.20451.14.json"
+        },
+        {
+          "version": "5.0.0-rc.2.20475.5",
+          "downloads": 17930,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0-rc.2.20475.5.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 182479362,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/5.0.0.json"
+        },
+        {
+          "version": "6.0.0-preview.1.21102.12",
+          "downloads": 58839,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-preview.1.21102.12.json"
+        },
+        {
+          "version": "6.0.0-preview.2.21154.6",
+          "downloads": 23330,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-preview.2.21154.6.json"
+        },
+        {
+          "version": "6.0.0-preview.3.21201.4",
+          "downloads": 28495,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-preview.3.21201.4.json"
+        },
+        {
+          "version": "6.0.0-preview.4.21253.7",
+          "downloads": 37520,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-preview.4.21253.7.json"
+        },
+        {
+          "version": "6.0.0-preview.5.21301.5",
+          "downloads": 15271,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-preview.5.21301.5.json"
+        },
+        {
+          "version": "6.0.0-preview.6.21352.12",
+          "downloads": 20277,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-preview.6.21352.12.json"
+        },
+        {
+          "version": "6.0.0-preview.7.21377.19",
+          "downloads": 10312,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-preview.7.21377.19.json"
+        },
+        {
+          "version": "6.0.0-rc.1.21451.13",
+          "downloads": 15658,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-rc.1.21451.13.json"
+        },
+        {
+          "version": "6.0.0-rc.2.21480.5",
+          "downloads": 11985,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0-rc.2.21480.5.json"
+        },
+        {
+          "version": "6.0.0",
+          "downloads": 391553910,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.0.json"
+        },
+        {
+          "version": "6.0.1",
+          "downloads": 744271,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/6.0.1.json"
+        },
+        {
+          "version": "7.0.0-preview.1.22076.8",
+          "downloads": 14722,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-preview.1.22076.8.json"
+        },
+        {
+          "version": "7.0.0-preview.2.22152.2",
+          "downloads": 19826,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-preview.2.22152.2.json"
+        },
+        {
+          "version": "7.0.0-preview.3.22175.4",
+          "downloads": 4749,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-preview.3.22175.4.json"
+        },
+        {
+          "version": "7.0.0-preview.4.22229.4",
+          "downloads": 18082,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-preview.4.22229.4.json"
+        },
+        {
+          "version": "7.0.0-preview.5.22301.12",
+          "downloads": 15691,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-preview.5.22301.12.json"
+        },
+        {
+          "version": "7.0.0-preview.6.22324.4",
+          "downloads": 20553,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-preview.6.22324.4.json"
+        },
+        {
+          "version": "7.0.0-preview.7.22375.6",
+          "downloads": 16996,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-preview.7.22375.6.json"
+        },
+        {
+          "version": "7.0.0-rc.1.22426.10",
+          "downloads": 68026,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-rc.1.22426.10.json"
+        },
+        {
+          "version": "7.0.0-rc.2.22472.3",
+          "downloads": 55956,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0-rc.2.22472.3.json"
+        },
+        {
+          "version": "7.0.0",
+          "downloads": 27990491,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/7.0.0.json"
+        },
+        {
+          "version": "8.0.0-preview.1.23110.8",
+          "downloads": 18535,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-preview.1.23110.8.json"
+        },
+        {
+          "version": "8.0.0-preview.2.23128.3",
+          "downloads": 18440,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-preview.2.23128.3.json"
+        },
+        {
+          "version": "8.0.0-preview.3.23174.8",
+          "downloads": 27649,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-preview.3.23174.8.json"
+        },
+        {
+          "version": "8.0.0-preview.4.23259.5",
+          "downloads": 14993,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-preview.4.23259.5.json"
+        },
+        {
+          "version": "8.0.0-preview.5.23280.8",
+          "downloads": 14608,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-preview.5.23280.8.json"
+        },
+        {
+          "version": "8.0.0-preview.6.23329.7",
+          "downloads": 15853,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-preview.6.23329.7.json"
+        },
+        {
+          "version": "8.0.0-preview.7.23375.6",
+          "downloads": 13120,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-preview.7.23375.6.json"
+        },
+        {
+          "version": "8.0.0-rc.1.23419.4",
+          "downloads": 46517,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-rc.1.23419.4.json"
+        },
+        {
+          "version": "8.0.0-rc.2.23479.6",
+          "downloads": 40365,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0-rc.2.23479.6.json"
+        },
+        {
+          "version": "8.0.0",
+          "downloads": 203842835,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.0.json"
+        },
+        {
+          "version": "8.0.1",
+          "downloads": 43358209,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/8.0.1.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24080.9",
+          "downloads": 45150,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-preview.1.24080.9.json"
+        },
+        {
+          "version": "9.0.0-preview.2.24128.5",
+          "downloads": 10661,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-preview.2.24128.5.json"
+        },
+        {
+          "version": "9.0.0-preview.3.24172.9",
+          "downloads": 16950,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-preview.3.24172.9.json"
+        },
+        {
+          "version": "9.0.0-preview.4.24266.19",
+          "downloads": 14451,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-preview.4.24266.19.json"
+        },
+        {
+          "version": "9.0.0-preview.5.24306.7",
+          "downloads": 8374,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-preview.5.24306.7.json"
+        },
+        {
+          "version": "9.0.0-preview.6.24327.7",
+          "downloads": 26579,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-preview.6.24327.7.json"
+        },
+        {
+          "version": "9.0.0-preview.7.24405.7",
+          "downloads": 19790,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-preview.7.24405.7.json"
+        },
+        {
+          "version": "9.0.0-rc.1.24431.7",
+          "downloads": 15366,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-rc.1.24431.7.json"
+        },
+        {
+          "version": "9.0.0-rc.2.24473.5",
+          "downloads": 143143,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0-rc.2.24473.5.json"
+        },
+        {
+          "version": "9.0.0",
+          "downloads": 5671888,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.0.json"
+        },
+        {
+          "version": "9.0.1",
+          "downloads": 2369455,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.1.json"
+        },
+        {
+          "version": "9.0.2",
+          "downloads": 2513258,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.2.json"
+        },
+        {
+          "version": "9.0.3",
+          "downloads": 1955212,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.3.json"
+        },
+        {
+          "version": "9.0.4",
+          "downloads": 4527667,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.4.json"
+        },
+        {
+          "version": "9.0.5",
+          "downloads": 1467527,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.5.json"
+        },
+        {
+          "version": "9.0.6",
+          "downloads": 2083269,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.6.json"
+        },
+        {
+          "version": "9.0.7",
+          "downloads": 1312319,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.7.json"
+        },
+        {
+          "version": "9.0.8",
+          "downloads": 2119711,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.8.json"
+        },
+        {
+          "version": "9.0.9",
+          "downloads": 1874136,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.9.json"
+        },
+        {
+          "version": "9.0.10",
+          "downloads": 1954022,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.10.json"
+        },
+        {
+          "version": "9.0.11",
+          "downloads": 679028,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.11.json"
+        },
+        {
+          "version": "9.0.12",
+          "downloads": 163571,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.12.json"
+        },
+        {
+          "version": "9.0.13",
+          "downloads": 103822,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.13.json"
+        },
+        {
+          "version": "9.0.14",
+          "downloads": 171186,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.14.json"
+        },
+        {
+          "version": "9.0.15",
+          "downloads": 134280,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.15.json"
+        },
+        {
+          "version": "9.0.16",
+          "downloads": 65383,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.16.json"
+        },
+        {
+          "version": "9.0.17",
+          "downloads": 84398,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.17.json"
+        },
+        {
+          "version": "9.0.18",
+          "downloads": 59739,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.18.json"
+        },
+        {
+          "version": "9.0.19",
+          "downloads": 16731,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/9.0.19.json"
+        },
+        {
+          "version": "10.0.0-preview.1.25080.5",
+          "downloads": 3557,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-preview.1.25080.5.json"
+        },
+        {
+          "version": "10.0.0-preview.2.25163.2",
+          "downloads": 6236,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-preview.2.25163.2.json"
+        },
+        {
+          "version": "10.0.0-preview.3.25171.5",
+          "downloads": 7218,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-preview.3.25171.5.json"
+        },
+        {
+          "version": "10.0.0-preview.4.25258.110",
+          "downloads": 11332,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-preview.4.25258.110.json"
+        },
+        {
+          "version": "10.0.0-preview.5.25277.114",
+          "downloads": 5433,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-preview.5.25277.114.json"
+        },
+        {
+          "version": "10.0.0-preview.6.25358.103",
+          "downloads": 7195,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-preview.6.25358.103.json"
+        },
+        {
+          "version": "10.0.0-preview.7.25380.108",
+          "downloads": 8195,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-preview.7.25380.108.json"
+        },
+        {
+          "version": "10.0.0-rc.1.25451.107",
+          "downloads": 42140,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-rc.1.25451.107.json"
+        },
+        {
+          "version": "10.0.0-rc.2.25502.107",
+          "downloads": 28043,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0-rc.2.25502.107.json"
+        },
+        {
+          "version": "10.0.0",
+          "downloads": 3388589,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.0.json"
+        },
+        {
+          "version": "10.0.1",
+          "downloads": 1881497,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.1.json"
+        },
+        {
+          "version": "10.0.2",
+          "downloads": 2678774,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.2.json"
+        },
+        {
+          "version": "10.0.3",
+          "downloads": 1461510,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.3.json"
+        },
+        {
+          "version": "10.0.4",
+          "downloads": 144664,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.4.json"
+        },
+        {
+          "version": "10.0.5",
+          "downloads": 2551967,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.5.json"
+        },
+        {
+          "version": "10.0.6",
+          "downloads": 685019,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.6.json"
+        },
+        {
+          "version": "10.0.7",
+          "downloads": 1586431,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.7.json"
+        },
+        {
+          "version": "10.0.8",
+          "downloads": 1454965,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.8.json"
+        },
+        {
+          "version": "10.0.9",
+          "downloads": 1575357,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.9.json"
+        },
+        {
+          "version": "10.0.10",
+          "downloads": 987339,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.10.json"
+        },
+        {
+          "version": "10.0.11",
+          "downloads": 448088,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/10.0.11.json"
+        },
+        {
+          "version": "11.0.0-preview.1.26104.118",
+          "downloads": 5199,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/11.0.0-preview.1.26104.118.json"
+        },
+        {
+          "version": "11.0.0-preview.2.26159.112",
+          "downloads": 4051,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/11.0.0-preview.2.26159.112.json"
+        },
+        {
+          "version": "11.0.0-preview.3.26207.106",
+          "downloads": 8204,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/11.0.0-preview.3.26207.106.json"
+        },
+        {
+          "version": "11.0.0-preview.4.26230.115",
+          "downloads": 4056,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/11.0.0-preview.4.26230.115.json"
+        },
+        {
+          "version": "11.0.0-preview.5.26302.115",
+          "downloads": 4601,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/11.0.0-preview.5.26302.115.json"
+        },
+        {
+          "version": "11.0.0-preview.6.26359.118",
+          "downloads": 6083,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/11.0.0-preview.6.26359.118.json"
+        },
+        {
+          "version": "11.0.0-preview.7.26381.103",
+          "downloads": 3437,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.runtime.caching/11.0.0-preview.7.26381.103.json"
         }
       ],
       "vulnerabilities": []
@@ -47281,6 +47286,11 @@
           "version": "4.11.0",
           "downloads": 9815228,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.11.0.json"
+        },
+        {
+          "version": "4.11.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.security.keyvault.secrets/4.11.1.json"
         },
         {
           "version": "4.12.0-beta.1",
