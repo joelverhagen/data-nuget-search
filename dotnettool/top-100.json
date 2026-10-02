@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 10179,
+  "totalHits": 10202,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cake.tool/index.json",
@@ -7990,12 +7990,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dotcover.commandlinetools/index.json",
       "id": "JetBrains.dotCover.CommandLineTools",
-      "version": "2026.3.0-eap04",
+      "version": "2026.3.0-eap05",
       "description": "Cross-platform .NET code coverage tool.",
       "summary": "",
-      "title": "JetBrains dotCover Command Line Tools 2026.3 EAP 4",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.dotcover.commandlinetools/2026.3.0-eap04/icon",
-      "licenseUrl": "https://www.nuget.org/packages/JetBrains.dotCover.CommandLineTools/2026.3.0-eap04/license",
+      "title": "JetBrains dotCover Command Line Tools 2026.3 EAP 5",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.dotcover.commandlinetools/2026.3.0-eap05/icon",
+      "licenseUrl": "https://www.nuget.org/packages/JetBrains.dotCover.CommandLineTools/2026.3.0-eap05/license",
       "projectUrl": "https://www.jetbrains.com/dotcover/",
       "tags": [],
       "authors": [
@@ -9018,6 +9018,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dotcover.commandlinetools/2026.2.3.json"
         },
         {
+          "version": "2026.2.3.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dotcover.commandlinetools/2026.2.3.1.json"
+        },
+        {
           "version": "2026.3.0-eap01",
           "downloads": 137,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dotcover.commandlinetools/2026.3.0-eap01.json"
@@ -9036,6 +9041,11 @@
           "version": "2026.3.0-eap04",
           "downloads": 69,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dotcover.commandlinetools/2026.3.0-eap04.json"
+        },
+        {
+          "version": "2026.3.0-eap05",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dotcover.commandlinetools/2026.3.0-eap05.json"
         }
       ],
       "vulnerabilities": []
@@ -23077,12 +23087,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/index.json",
       "id": "JetBrains.ReSharper.GlobalTools",
-      "version": "2026.3.0-eap04",
+      "version": "2026.3.0-eap05",
       "description": "Standalone command line tools that enable running ReSharper inspections outside of Visual Studio",
       "summary": "",
-      "title": "JetBrains ReSharper Command Line Tools 2026.3 EAP 4",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.resharper.globaltools/2026.3.0-eap04/icon",
-      "licenseUrl": "https://www.nuget.org/packages/JetBrains.ReSharper.GlobalTools/2026.3.0-eap04/license",
+      "title": "JetBrains ReSharper Command Line Tools 2026.3 EAP 5",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.resharper.globaltools/2026.3.0-eap05/icon",
+      "licenseUrl": "https://www.nuget.org/packages/JetBrains.ReSharper.GlobalTools/2026.3.0-eap05/license",
       "projectUrl": "https://www.jetbrains.com/resharper/features/command-line.html",
       "tags": [],
       "authors": [
@@ -24670,6 +24680,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2026.2.3.json"
         },
         {
+          "version": "2026.2.3.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2026.2.3.1.json"
+        },
+        {
           "version": "2026.3.0-eap01",
           "downloads": 196,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2026.3.0-eap01.json"
@@ -24683,6 +24698,11 @@
           "version": "2026.3.0-eap04",
           "downloads": 75,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2026.3.0-eap04.json"
+        },
+        {
+          "version": "2026.3.0-eap05",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.resharper.globaltools/2026.3.0-eap05.json"
         }
       ],
       "vulnerabilities": []
@@ -39464,12 +39484,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas/index.json",
       "id": "fantomas",
-      "version": "8.0.5",
+      "version": "8.0.6",
       "description": "This library aims at formatting F# source files based on a given configuration.\nFantomas will ensure correct indentation and consistent spacing between elements in the source files.\nSome common use cases include:\n(1) Reformatting a code base to conform a universal page width\n(2) Converting legacy code from verbose syntax to light syntax\n(3) Formatting auto-generated F# signatures.",
       "summary": "",
       "title": "fantomas",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fantomas/8.0.5/icon",
-      "licenseUrl": "https://www.nuget.org/packages/fantomas/8.0.5/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fantomas/8.0.6/icon",
+      "licenseUrl": "https://www.nuget.org/packages/fantomas/8.0.6/license",
       "projectUrl": "https://fsprojects.github.io/fantomas/",
       "tags": [
         "F#",
@@ -41291,6 +41311,11 @@
           "version": "8.0.5",
           "downloads": 2240,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas/8.0.5.json"
+        },
+        {
+          "version": "8.0.6",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas/8.0.6.json"
         }
       ],
       "vulnerabilities": []
@@ -56316,11 +56341,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/sagefs/index.json",
       "id": "SageFs",
-      "version": "0.6.865",
+      "version": "0.6.875",
       "description": "SageFs — a functional F# REPL, MCP server, and live web development environment.",
       "summary": "",
       "title": "SageFs",
-      "licenseUrl": "https://www.nuget.org/packages/SageFs/0.6.865/license",
+      "licenseUrl": "https://www.nuget.org/packages/SageFs/0.6.875/license",
       "projectUrl": "https://github.com/WillEhrendreich/SageFs",
       "tags": [
         "fsharp",
@@ -59047,6 +59072,16 @@
           "version": "0.6.865",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sagefs/0.6.865.json"
+        },
+        {
+          "version": "0.6.870",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sagefs/0.6.870.json"
+        },
+        {
+          "version": "0.6.875",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sagefs/0.6.875.json"
         }
       ],
       "vulnerabilities": []
@@ -73033,6 +73068,638 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/index.json",
+      "id": "Azure.Mcp",
+      "version": "3.0.0-beta.49",
+      "description": "Azure MCP Server - Model Context Protocol implementation for Azure",
+      "summary": "",
+      "title": "Azure.Mcp",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.mcp/3.0.0-beta.49/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Azure.Mcp/3.0.0-beta.49/license",
+      "projectUrl": "https://github.com/microsoft/mcp/tree/Azure.Mcp.Server-3.0.0-beta.49/servers/Azure.Mcp.Server",
+      "tags": [
+        "azure",
+        "mcp"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "azure-sdk",
+        "Microsoft"
+      ],
+      "totalDownloads": 2345678,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        },
+        {
+          "name": "McpServer"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.6.0",
+          "downloads": 2008,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.6.0.json"
+        },
+        {
+          "version": "0.7.0",
+          "downloads": 2106,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.7.0.json"
+        },
+        {
+          "version": "0.8.0",
+          "downloads": 2106,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.8.0.json"
+        },
+        {
+          "version": "0.8.1",
+          "downloads": 2053,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.8.1.json"
+        },
+        {
+          "version": "0.8.2",
+          "downloads": 1962,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.8.2.json"
+        },
+        {
+          "version": "0.8.3",
+          "downloads": 1967,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.8.3.json"
+        },
+        {
+          "version": "0.8.4",
+          "downloads": 2044,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.8.4.json"
+        },
+        {
+          "version": "0.8.5",
+          "downloads": 1981,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.8.5.json"
+        },
+        {
+          "version": "0.8.6",
+          "downloads": 2004,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.8.6.json"
+        },
+        {
+          "version": "0.9.0",
+          "downloads": 1948,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.0.json"
+        },
+        {
+          "version": "0.9.1",
+          "downloads": 1952,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.1.json"
+        },
+        {
+          "version": "0.9.2",
+          "downloads": 1954,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.2.json"
+        },
+        {
+          "version": "0.9.3",
+          "downloads": 1953,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.3.json"
+        },
+        {
+          "version": "0.9.4",
+          "downloads": 1893,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.4.json"
+        },
+        {
+          "version": "0.9.5",
+          "downloads": 2022,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.5.json"
+        },
+        {
+          "version": "0.9.6",
+          "downloads": 2032,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.6.json"
+        },
+        {
+          "version": "0.9.7",
+          "downloads": 1996,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.7.json"
+        },
+        {
+          "version": "0.9.8",
+          "downloads": 1999,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.8.json"
+        },
+        {
+          "version": "0.9.9",
+          "downloads": 1981,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.9.json"
+        },
+        {
+          "version": "1.0.0",
+          "downloads": 2907,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/1.0.0.json"
+        },
+        {
+          "version": "1.0.1",
+          "downloads": 3465,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/1.0.1.json"
+        },
+        {
+          "version": "1.0.2-beta.1",
+          "downloads": 1037,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/1.0.2-beta.1.json"
+        },
+        {
+          "version": "1.0.2",
+          "downloads": 2503,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/1.0.2.json"
+        },
+        {
+          "version": "1.0.3",
+          "downloads": 1441,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/1.0.3.json"
+        },
+        {
+          "version": "1.0.4",
+          "downloads": 1940,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/1.0.4.json"
+        },
+        {
+          "version": "2.0.0-beta.1",
+          "downloads": 12057,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.1.json"
+        },
+        {
+          "version": "2.0.0-beta.2",
+          "downloads": 11274,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.2.json"
+        },
+        {
+          "version": "2.0.0-beta.3",
+          "downloads": 27943,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.3.json"
+        },
+        {
+          "version": "2.0.0-beta.4",
+          "downloads": 11326,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.4.json"
+        },
+        {
+          "version": "2.0.0-beta.5",
+          "downloads": 38534,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.5.json"
+        },
+        {
+          "version": "2.0.0-beta.6",
+          "downloads": 32521,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.6.json"
+        },
+        {
+          "version": "2.0.0-beta.7",
+          "downloads": 73321,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.7.json"
+        },
+        {
+          "version": "2.0.0-beta.8",
+          "downloads": 77455,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.8.json"
+        },
+        {
+          "version": "2.0.0-beta.9",
+          "downloads": 10357,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.9.json"
+        },
+        {
+          "version": "2.0.0-beta.10",
+          "downloads": 35393,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.10.json"
+        },
+        {
+          "version": "2.0.0-beta.11",
+          "downloads": 7253,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.11.json"
+        },
+        {
+          "version": "2.0.0-beta.12",
+          "downloads": 10965,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.12.json"
+        },
+        {
+          "version": "2.0.0-beta.13",
+          "downloads": 18719,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.13.json"
+        },
+        {
+          "version": "2.0.0-beta.14",
+          "downloads": 11077,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.14.json"
+        },
+        {
+          "version": "2.0.0-beta.15",
+          "downloads": 19073,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.15.json"
+        },
+        {
+          "version": "2.0.0-beta.16",
+          "downloads": 14809,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.16.json"
+        },
+        {
+          "version": "2.0.0-beta.17",
+          "downloads": 18931,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.17.json"
+        },
+        {
+          "version": "2.0.0-beta.18",
+          "downloads": 16903,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.18.json"
+        },
+        {
+          "version": "2.0.0-beta.19",
+          "downloads": 26488,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.19.json"
+        },
+        {
+          "version": "2.0.0-beta.20",
+          "downloads": 7318,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.20.json"
+        },
+        {
+          "version": "2.0.0-beta.21",
+          "downloads": 20831,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.21.json"
+        },
+        {
+          "version": "2.0.0-beta.22",
+          "downloads": 15514,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.22.json"
+        },
+        {
+          "version": "2.0.0-beta.23",
+          "downloads": 15691,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.23.json"
+        },
+        {
+          "version": "2.0.0-beta.24",
+          "downloads": 14470,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.24.json"
+        },
+        {
+          "version": "2.0.0-beta.25",
+          "downloads": 17948,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.25.json"
+        },
+        {
+          "version": "2.0.0-beta.26",
+          "downloads": 31223,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.26.json"
+        },
+        {
+          "version": "2.0.0-beta.27",
+          "downloads": 44574,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.27.json"
+        },
+        {
+          "version": "2.0.0-beta.28",
+          "downloads": 10806,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.28.json"
+        },
+        {
+          "version": "2.0.0-beta.29",
+          "downloads": 9768,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.29.json"
+        },
+        {
+          "version": "2.0.0-beta.30",
+          "downloads": 8341,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.30.json"
+        },
+        {
+          "version": "2.0.0-beta.31",
+          "downloads": 24030,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.31.json"
+        },
+        {
+          "version": "2.0.0-beta.32",
+          "downloads": 9296,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.32.json"
+        },
+        {
+          "version": "2.0.0-beta.33",
+          "downloads": 15587,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.33.json"
+        },
+        {
+          "version": "2.0.0-beta.34",
+          "downloads": 14601,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.34.json"
+        },
+        {
+          "version": "2.0.0-beta.35",
+          "downloads": 7914,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.35.json"
+        },
+        {
+          "version": "2.0.0-beta.36",
+          "downloads": 7149,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.36.json"
+        },
+        {
+          "version": "2.0.0-beta.37",
+          "downloads": 313,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.37.json"
+        },
+        {
+          "version": "2.0.0-beta.38",
+          "downloads": 295,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.38.json"
+        },
+        {
+          "version": "2.0.0-beta.39",
+          "downloads": 286,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.39.json"
+        },
+        {
+          "version": "2.0.0-beta.40",
+          "downloads": 286,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.40.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 1387,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0.json"
+        },
+        {
+          "version": "2.0.1",
+          "downloads": 1783,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.1.json"
+        },
+        {
+          "version": "2.0.2",
+          "downloads": 2435,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.2.json"
+        },
+        {
+          "version": "2.0.3",
+          "downloads": 2451,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.3.json"
+        },
+        {
+          "version": "2.0.4",
+          "downloads": 4486,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.4.json"
+        },
+        {
+          "version": "2.0.5",
+          "downloads": 6736,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.5.json"
+        },
+        {
+          "version": "3.0.0-beta.1",
+          "downloads": 64392,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.1.json"
+        },
+        {
+          "version": "3.0.0-beta.2",
+          "downloads": 22855,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.2.json"
+        },
+        {
+          "version": "3.0.0-beta.3",
+          "downloads": 32476,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.3.json"
+        },
+        {
+          "version": "3.0.0-beta.4",
+          "downloads": 23507,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.4.json"
+        },
+        {
+          "version": "3.0.0-beta.5",
+          "downloads": 32080,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.5.json"
+        },
+        {
+          "version": "3.0.0-beta.6",
+          "downloads": 27795,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.6.json"
+        },
+        {
+          "version": "3.0.0-beta.7",
+          "downloads": 4488,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.7.json"
+        },
+        {
+          "version": "3.0.0-beta.8",
+          "downloads": 19178,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.8.json"
+        },
+        {
+          "version": "3.0.0-beta.9",
+          "downloads": 16643,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.9.json"
+        },
+        {
+          "version": "3.0.0-beta.10",
+          "downloads": 116931,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.10.json"
+        },
+        {
+          "version": "3.0.0-beta.11",
+          "downloads": 39307,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.11.json"
+        },
+        {
+          "version": "3.0.0-beta.12",
+          "downloads": 13588,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.12.json"
+        },
+        {
+          "version": "3.0.0-beta.13",
+          "downloads": 18313,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.13.json"
+        },
+        {
+          "version": "3.0.0-beta.14",
+          "downloads": 10820,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.14.json"
+        },
+        {
+          "version": "3.0.0-beta.15",
+          "downloads": 15810,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.15.json"
+        },
+        {
+          "version": "3.0.0-beta.16",
+          "downloads": 53403,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.16.json"
+        },
+        {
+          "version": "3.0.0-beta.17",
+          "downloads": 64521,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.17.json"
+        },
+        {
+          "version": "3.0.0-beta.18",
+          "downloads": 43918,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.18.json"
+        },
+        {
+          "version": "3.0.0-beta.19",
+          "downloads": 24001,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.19.json"
+        },
+        {
+          "version": "3.0.0-beta.20",
+          "downloads": 40120,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.20.json"
+        },
+        {
+          "version": "3.0.0-beta.21",
+          "downloads": 53526,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.21.json"
+        },
+        {
+          "version": "3.0.0-beta.22",
+          "downloads": 20186,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.22.json"
+        },
+        {
+          "version": "3.0.0-beta.23",
+          "downloads": 37690,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.23.json"
+        },
+        {
+          "version": "3.0.0-beta.24",
+          "downloads": 16885,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.24.json"
+        },
+        {
+          "version": "3.0.0-beta.25",
+          "downloads": 36506,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.25.json"
+        },
+        {
+          "version": "3.0.0-beta.26",
+          "downloads": 28448,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.26.json"
+        },
+        {
+          "version": "3.0.0-beta.27",
+          "downloads": 86643,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.27.json"
+        },
+        {
+          "version": "3.0.0-beta.29",
+          "downloads": 44541,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.29.json"
+        },
+        {
+          "version": "3.0.0-beta.30",
+          "downloads": 37187,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.30.json"
+        },
+        {
+          "version": "3.0.0-beta.31",
+          "downloads": 35259,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.31.json"
+        },
+        {
+          "version": "3.0.0-beta.32",
+          "downloads": 27762,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.32.json"
+        },
+        {
+          "version": "3.0.0-beta.33",
+          "downloads": 29743,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.33.json"
+        },
+        {
+          "version": "3.0.0-beta.34",
+          "downloads": 24054,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.34.json"
+        },
+        {
+          "version": "3.0.0-beta.35",
+          "downloads": 43033,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.35.json"
+        },
+        {
+          "version": "3.0.0-beta.36",
+          "downloads": 21685,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.36.json"
+        },
+        {
+          "version": "3.0.0-beta.37",
+          "downloads": 34335,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.37.json"
+        },
+        {
+          "version": "3.0.0-beta.38",
+          "downloads": 19857,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.38.json"
+        },
+        {
+          "version": "3.0.0-beta.39",
+          "downloads": 44572,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.39.json"
+        },
+        {
+          "version": "3.0.0-beta.40",
+          "downloads": 9190,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.40.json"
+        },
+        {
+          "version": "3.0.0-beta.41",
+          "downloads": 33294,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.41.json"
+        },
+        {
+          "version": "3.0.0-beta.42",
+          "downloads": 31950,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.42.json"
+        },
+        {
+          "version": "3.0.0-beta.43",
+          "downloads": 24489,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.43.json"
+        },
+        {
+          "version": "3.0.0-beta.44",
+          "downloads": 21564,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.44.json"
+        },
+        {
+          "version": "3.0.0-beta.45",
+          "downloads": 34053,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.45.json"
+        },
+        {
+          "version": "3.0.0-beta.46",
+          "downloads": 20967,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.46.json"
+        },
+        {
+          "version": "3.0.0-beta.47",
+          "downloads": 22941,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.47.json"
+        },
+        {
+          "version": "3.0.0-beta.48",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.48.json"
+        },
+        {
+          "version": "3.0.0-beta.49",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.49.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/excubo.webcompiler/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/excubo.webcompiler/index.json",
@@ -73814,633 +74481,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/index.json",
-      "id": "Azure.Mcp",
-      "version": "3.0.0-beta.48",
-      "description": "Azure MCP Server - Model Context Protocol implementation for Azure",
-      "summary": "",
-      "title": "Azure.Mcp",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.mcp/3.0.0-beta.48/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Azure.Mcp/3.0.0-beta.48/license",
-      "projectUrl": "https://github.com/microsoft/mcp/tree/Azure.Mcp.Server-3.0.0-beta.48/servers/Azure.Mcp.Server",
-      "tags": [
-        "azure",
-        "mcp"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "azure-sdk",
-        "Microsoft"
-      ],
-      "totalDownloads": 2345678,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        },
-        {
-          "name": "McpServer"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.6.0",
-          "downloads": 2008,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.6.0.json"
-        },
-        {
-          "version": "0.7.0",
-          "downloads": 2106,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.7.0.json"
-        },
-        {
-          "version": "0.8.0",
-          "downloads": 2106,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.8.0.json"
-        },
-        {
-          "version": "0.8.1",
-          "downloads": 2053,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.8.1.json"
-        },
-        {
-          "version": "0.8.2",
-          "downloads": 1962,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.8.2.json"
-        },
-        {
-          "version": "0.8.3",
-          "downloads": 1967,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.8.3.json"
-        },
-        {
-          "version": "0.8.4",
-          "downloads": 2044,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.8.4.json"
-        },
-        {
-          "version": "0.8.5",
-          "downloads": 1981,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.8.5.json"
-        },
-        {
-          "version": "0.8.6",
-          "downloads": 2004,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.8.6.json"
-        },
-        {
-          "version": "0.9.0",
-          "downloads": 1948,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.0.json"
-        },
-        {
-          "version": "0.9.1",
-          "downloads": 1952,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.1.json"
-        },
-        {
-          "version": "0.9.2",
-          "downloads": 1954,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.2.json"
-        },
-        {
-          "version": "0.9.3",
-          "downloads": 1953,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.3.json"
-        },
-        {
-          "version": "0.9.4",
-          "downloads": 1893,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.4.json"
-        },
-        {
-          "version": "0.9.5",
-          "downloads": 2022,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.5.json"
-        },
-        {
-          "version": "0.9.6",
-          "downloads": 2032,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.6.json"
-        },
-        {
-          "version": "0.9.7",
-          "downloads": 1996,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.7.json"
-        },
-        {
-          "version": "0.9.8",
-          "downloads": 1999,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.8.json"
-        },
-        {
-          "version": "0.9.9",
-          "downloads": 1981,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/0.9.9.json"
-        },
-        {
-          "version": "1.0.0",
-          "downloads": 2907,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/1.0.0.json"
-        },
-        {
-          "version": "1.0.1",
-          "downloads": 3465,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/1.0.1.json"
-        },
-        {
-          "version": "1.0.2-beta.1",
-          "downloads": 1037,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/1.0.2-beta.1.json"
-        },
-        {
-          "version": "1.0.2",
-          "downloads": 2503,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/1.0.2.json"
-        },
-        {
-          "version": "1.0.3",
-          "downloads": 1441,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/1.0.3.json"
-        },
-        {
-          "version": "1.0.4",
-          "downloads": 1940,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/1.0.4.json"
-        },
-        {
-          "version": "2.0.0-beta.1",
-          "downloads": 12057,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.1.json"
-        },
-        {
-          "version": "2.0.0-beta.2",
-          "downloads": 11274,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.2.json"
-        },
-        {
-          "version": "2.0.0-beta.3",
-          "downloads": 27943,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.3.json"
-        },
-        {
-          "version": "2.0.0-beta.4",
-          "downloads": 11326,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.4.json"
-        },
-        {
-          "version": "2.0.0-beta.5",
-          "downloads": 38534,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.5.json"
-        },
-        {
-          "version": "2.0.0-beta.6",
-          "downloads": 32521,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.6.json"
-        },
-        {
-          "version": "2.0.0-beta.7",
-          "downloads": 73321,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.7.json"
-        },
-        {
-          "version": "2.0.0-beta.8",
-          "downloads": 77455,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.8.json"
-        },
-        {
-          "version": "2.0.0-beta.9",
-          "downloads": 10357,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.9.json"
-        },
-        {
-          "version": "2.0.0-beta.10",
-          "downloads": 35393,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.10.json"
-        },
-        {
-          "version": "2.0.0-beta.11",
-          "downloads": 7253,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.11.json"
-        },
-        {
-          "version": "2.0.0-beta.12",
-          "downloads": 10965,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.12.json"
-        },
-        {
-          "version": "2.0.0-beta.13",
-          "downloads": 18719,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.13.json"
-        },
-        {
-          "version": "2.0.0-beta.14",
-          "downloads": 11077,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.14.json"
-        },
-        {
-          "version": "2.0.0-beta.15",
-          "downloads": 19073,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.15.json"
-        },
-        {
-          "version": "2.0.0-beta.16",
-          "downloads": 14809,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.16.json"
-        },
-        {
-          "version": "2.0.0-beta.17",
-          "downloads": 18931,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.17.json"
-        },
-        {
-          "version": "2.0.0-beta.18",
-          "downloads": 16903,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.18.json"
-        },
-        {
-          "version": "2.0.0-beta.19",
-          "downloads": 26488,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.19.json"
-        },
-        {
-          "version": "2.0.0-beta.20",
-          "downloads": 7318,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.20.json"
-        },
-        {
-          "version": "2.0.0-beta.21",
-          "downloads": 20831,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.21.json"
-        },
-        {
-          "version": "2.0.0-beta.22",
-          "downloads": 15514,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.22.json"
-        },
-        {
-          "version": "2.0.0-beta.23",
-          "downloads": 15691,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.23.json"
-        },
-        {
-          "version": "2.0.0-beta.24",
-          "downloads": 14470,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.24.json"
-        },
-        {
-          "version": "2.0.0-beta.25",
-          "downloads": 17948,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.25.json"
-        },
-        {
-          "version": "2.0.0-beta.26",
-          "downloads": 31223,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.26.json"
-        },
-        {
-          "version": "2.0.0-beta.27",
-          "downloads": 44574,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.27.json"
-        },
-        {
-          "version": "2.0.0-beta.28",
-          "downloads": 10806,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.28.json"
-        },
-        {
-          "version": "2.0.0-beta.29",
-          "downloads": 9768,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.29.json"
-        },
-        {
-          "version": "2.0.0-beta.30",
-          "downloads": 8341,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.30.json"
-        },
-        {
-          "version": "2.0.0-beta.31",
-          "downloads": 24030,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.31.json"
-        },
-        {
-          "version": "2.0.0-beta.32",
-          "downloads": 9296,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.32.json"
-        },
-        {
-          "version": "2.0.0-beta.33",
-          "downloads": 15587,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.33.json"
-        },
-        {
-          "version": "2.0.0-beta.34",
-          "downloads": 14601,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.34.json"
-        },
-        {
-          "version": "2.0.0-beta.35",
-          "downloads": 7914,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.35.json"
-        },
-        {
-          "version": "2.0.0-beta.36",
-          "downloads": 7149,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.36.json"
-        },
-        {
-          "version": "2.0.0-beta.37",
-          "downloads": 313,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.37.json"
-        },
-        {
-          "version": "2.0.0-beta.38",
-          "downloads": 295,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.38.json"
-        },
-        {
-          "version": "2.0.0-beta.39",
-          "downloads": 286,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.39.json"
-        },
-        {
-          "version": "2.0.0-beta.40",
-          "downloads": 286,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0-beta.40.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 1387,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.0.json"
-        },
-        {
-          "version": "2.0.1",
-          "downloads": 1783,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.1.json"
-        },
-        {
-          "version": "2.0.2",
-          "downloads": 2435,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.2.json"
-        },
-        {
-          "version": "2.0.3",
-          "downloads": 2451,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.3.json"
-        },
-        {
-          "version": "2.0.4",
-          "downloads": 4486,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.4.json"
-        },
-        {
-          "version": "2.0.5",
-          "downloads": 6736,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/2.0.5.json"
-        },
-        {
-          "version": "3.0.0-beta.1",
-          "downloads": 64392,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.1.json"
-        },
-        {
-          "version": "3.0.0-beta.2",
-          "downloads": 22855,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.2.json"
-        },
-        {
-          "version": "3.0.0-beta.3",
-          "downloads": 32476,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.3.json"
-        },
-        {
-          "version": "3.0.0-beta.4",
-          "downloads": 23507,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.4.json"
-        },
-        {
-          "version": "3.0.0-beta.5",
-          "downloads": 32080,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.5.json"
-        },
-        {
-          "version": "3.0.0-beta.6",
-          "downloads": 27795,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.6.json"
-        },
-        {
-          "version": "3.0.0-beta.7",
-          "downloads": 4488,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.7.json"
-        },
-        {
-          "version": "3.0.0-beta.8",
-          "downloads": 19178,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.8.json"
-        },
-        {
-          "version": "3.0.0-beta.9",
-          "downloads": 16643,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.9.json"
-        },
-        {
-          "version": "3.0.0-beta.10",
-          "downloads": 116931,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.10.json"
-        },
-        {
-          "version": "3.0.0-beta.11",
-          "downloads": 39307,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.11.json"
-        },
-        {
-          "version": "3.0.0-beta.12",
-          "downloads": 13588,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.12.json"
-        },
-        {
-          "version": "3.0.0-beta.13",
-          "downloads": 18313,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.13.json"
-        },
-        {
-          "version": "3.0.0-beta.14",
-          "downloads": 10820,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.14.json"
-        },
-        {
-          "version": "3.0.0-beta.15",
-          "downloads": 15810,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.15.json"
-        },
-        {
-          "version": "3.0.0-beta.16",
-          "downloads": 53403,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.16.json"
-        },
-        {
-          "version": "3.0.0-beta.17",
-          "downloads": 64521,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.17.json"
-        },
-        {
-          "version": "3.0.0-beta.18",
-          "downloads": 43918,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.18.json"
-        },
-        {
-          "version": "3.0.0-beta.19",
-          "downloads": 24001,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.19.json"
-        },
-        {
-          "version": "3.0.0-beta.20",
-          "downloads": 40120,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.20.json"
-        },
-        {
-          "version": "3.0.0-beta.21",
-          "downloads": 53526,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.21.json"
-        },
-        {
-          "version": "3.0.0-beta.22",
-          "downloads": 20186,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.22.json"
-        },
-        {
-          "version": "3.0.0-beta.23",
-          "downloads": 37690,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.23.json"
-        },
-        {
-          "version": "3.0.0-beta.24",
-          "downloads": 16885,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.24.json"
-        },
-        {
-          "version": "3.0.0-beta.25",
-          "downloads": 36506,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.25.json"
-        },
-        {
-          "version": "3.0.0-beta.26",
-          "downloads": 28448,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.26.json"
-        },
-        {
-          "version": "3.0.0-beta.27",
-          "downloads": 86643,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.27.json"
-        },
-        {
-          "version": "3.0.0-beta.29",
-          "downloads": 44541,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.29.json"
-        },
-        {
-          "version": "3.0.0-beta.30",
-          "downloads": 37187,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.30.json"
-        },
-        {
-          "version": "3.0.0-beta.31",
-          "downloads": 35259,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.31.json"
-        },
-        {
-          "version": "3.0.0-beta.32",
-          "downloads": 27762,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.32.json"
-        },
-        {
-          "version": "3.0.0-beta.33",
-          "downloads": 29743,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.33.json"
-        },
-        {
-          "version": "3.0.0-beta.34",
-          "downloads": 24054,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.34.json"
-        },
-        {
-          "version": "3.0.0-beta.35",
-          "downloads": 43033,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.35.json"
-        },
-        {
-          "version": "3.0.0-beta.36",
-          "downloads": 21685,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.36.json"
-        },
-        {
-          "version": "3.0.0-beta.37",
-          "downloads": 34335,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.37.json"
-        },
-        {
-          "version": "3.0.0-beta.38",
-          "downloads": 19857,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.38.json"
-        },
-        {
-          "version": "3.0.0-beta.39",
-          "downloads": 44572,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.39.json"
-        },
-        {
-          "version": "3.0.0-beta.40",
-          "downloads": 9190,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.40.json"
-        },
-        {
-          "version": "3.0.0-beta.41",
-          "downloads": 33294,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.41.json"
-        },
-        {
-          "version": "3.0.0-beta.42",
-          "downloads": 31950,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.42.json"
-        },
-        {
-          "version": "3.0.0-beta.43",
-          "downloads": 24489,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.43.json"
-        },
-        {
-          "version": "3.0.0-beta.44",
-          "downloads": 21564,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.44.json"
-        },
-        {
-          "version": "3.0.0-beta.45",
-          "downloads": 34053,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.45.json"
-        },
-        {
-          "version": "3.0.0-beta.46",
-          "downloads": 20967,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.46.json"
-        },
-        {
-          "version": "3.0.0-beta.47",
-          "downloads": 22941,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.47.json"
-        },
-        {
-          "version": "3.0.0-beta.48",
-          "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0-beta.48.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/index.json",
@@ -74899,11 +74939,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
       "id": "Credfeto.ChangeLog.Cmd",
-      "version": "1.10.207.2679-main",
+      "version": "1.10.207.2680-main",
       "description": "Changelog manager dotnet tool.",
       "summary": "",
       "title": "Credfeto.ChangeLog.Cmd",
-      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.207.2679-main/license",
+      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.207.2680-main/license",
       "tags": [
         "Changelog",
         "tool",
@@ -90248,6 +90288,11 @@
           "version": "1.10.207.2679-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.207.2679-main.json"
+        },
+        {
+          "version": "1.10.207.2680-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.207.2680-main.json"
         }
       ],
       "vulnerabilities": []
@@ -92342,11 +92387,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/browserstack-sdk/index.json",
       "id": "browserstack-sdk",
-      "version": "1.50.0",
+      "version": "1.50.1",
       "description": "Package Description",
       "summary": "",
       "title": "browserstack-sdk",
-      "licenseUrl": "https://www.nuget.org/packages/browserstack-sdk/1.50.0/license",
+      "licenseUrl": "https://www.nuget.org/packages/browserstack-sdk/1.50.1/license",
       "tags": [],
       "authors": [
         "browserstack-sdk"
@@ -93441,6 +93486,11 @@
           "version": "1.50.0",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/browserstack-sdk/1.50.0.json"
+        },
+        {
+          "version": "1.50.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/browserstack-sdk/1.50.1.json"
         }
       ],
       "vulnerabilities": []
@@ -98375,12 +98425,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dottrace.globaltools/index.json",
       "id": "JetBrains.dotTrace.GlobalTools",
-      "version": "2026.3.0-eap04",
+      "version": "2026.3.0-eap05",
       "description": "The dotTrace console tool lets you start a profiling session and get performance snapshots from the command line.\nThis can be helpful in various scenarios, like:\n    * profiling an application on a remote server, \n    * automating the process of gathering performance snapshots, for example, as a part of your continuous integration builds,\n    * speeding up profiling routines by creating profiling scripts. \nThe tool supports profiling of .NET Framework, .NET Core, Mono, and Unity applications.\nThe tool is a JetBrains Redistributable Product. This means it is free and can be freely redistributed. Note that it does not require JetBrains dotTrace to be installed on your machine. At the same time, to analyze the collected snapshots, you will need the standalone version of JetBrains dotTrace or JetBrains Rider.",
       "summary": "",
-      "title": "JetBrains dotTrace Command Line Tools 2026.3 EAP 4",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.dottrace.globaltools/2026.3.0-eap04/icon",
-      "licenseUrl": "https://www.nuget.org/packages/JetBrains.dotTrace.GlobalTools/2026.3.0-eap04/license",
+      "title": "JetBrains dotTrace Command Line Tools 2026.3 EAP 5",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/jetbrains.dottrace.globaltools/2026.3.0-eap05/icon",
+      "licenseUrl": "https://www.nuget.org/packages/JetBrains.dotTrace.GlobalTools/2026.3.0-eap05/license",
       "projectUrl": "http://www.jetbrains.com/profiler/",
       "tags": [],
       "authors": [
@@ -99818,6 +99868,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dottrace.globaltools/2026.2.3.json"
         },
         {
+          "version": "2026.2.3.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dottrace.globaltools/2026.2.3.1.json"
+        },
+        {
           "version": "2026.3.0-eap01",
           "downloads": 134,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dottrace.globaltools/2026.3.0-eap01.json"
@@ -99831,6 +99886,11 @@
           "version": "2026.3.0-eap04",
           "downloads": 42,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dottrace.globaltools/2026.3.0-eap04.json"
+        },
+        {
+          "version": "2026.3.0-eap05",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/jetbrains.dottrace.globaltools/2026.3.0-eap05.json"
         }
       ],
       "vulnerabilities": []
