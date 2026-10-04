@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 10217,
+  "totalHits": 10231,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cake.tool/index.json",
@@ -60377,12 +60377,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/index.json",
       "id": "StrawberryShake.Tools",
-      "version": "16.7.0-p.16",
+      "version": "16.7.0-p.17",
       "description": "Package Description",
       "summary": "",
       "title": "StrawberryShake.Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/strawberryshake.tools/16.7.0-p.16/icon",
-      "licenseUrl": "https://www.nuget.org/packages/StrawberryShake.Tools/16.7.0-p.16/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/strawberryshake.tools/16.7.0-p.17/icon",
+      "licenseUrl": "https://www.nuget.org/packages/StrawberryShake.Tools/16.7.0-p.17/license",
       "projectUrl": "https://chillicream.com/",
       "tags": [
         "GraphQL",
@@ -61241,6 +61241,11 @@
           "version": "16.7.0-p.16",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.7.0-p.16.json"
+        },
+        {
+          "version": "16.7.0-p.17",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.7.0-p.17.json"
         }
       ],
       "vulnerabilities": []
@@ -73719,11 +73724,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/excubo.webcompiler/index.json",
       "id": "Excubo.WebCompiler",
-      "version": "4.4.1",
+      "version": "4.4.2",
       "description": "Excubo.WebCompiler is a dotnet global tool that compiles Scss files (other languages on the road map).",
       "summary": "",
       "title": "Web Compiler",
-      "licenseUrl": "https://www.nuget.org/packages/Excubo.WebCompiler/4.4.1/license",
+      "licenseUrl": "https://www.nuget.org/packages/Excubo.WebCompiler/4.4.2/license",
       "projectUrl": "https://github.com/excubo-ag/WebCompiler",
       "tags": [
         "sass",
@@ -74491,6 +74496,11 @@
           "version": "4.4.1",
           "downloads": 36483,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/excubo.webcompiler/4.4.1.json"
+        },
+        {
+          "version": "4.4.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/excubo.webcompiler/4.4.2.json"
         }
       ],
       "vulnerabilities": []
@@ -74629,11 +74639,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
       "id": "Credfeto.ChangeLog.Cmd",
-      "version": "1.10.207.2681-main",
+      "version": "1.10.207.2683-main",
       "description": "Changelog manager dotnet tool.",
       "summary": "",
       "title": "Credfeto.ChangeLog.Cmd",
-      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.207.2681-main/license",
+      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.207.2683-main/license",
       "tags": [
         "Changelog",
         "tool",
@@ -89988,6 +89998,16 @@
           "version": "1.10.207.2681-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.207.2681-main.json"
+        },
+        {
+          "version": "1.10.207.2682-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.207.2682-main.json"
+        },
+        {
+          "version": "1.10.207.2683-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.207.2683-main.json"
         }
       ],
       "vulnerabilities": []
@@ -101225,6 +101245,104 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/index.json",
+      "id": "dotnetsay",
+      "version": "3.0.3",
+      "description": "A simple .NET tool that prints dotnetbot",
+      "summary": "",
+      "title": "dotnetsay",
+      "licenseUrl": "https://www.nuget.org/packages/dotnetsay/3.0.3/license",
+      "tags": [],
+      "authors": [
+        "Richard Lander"
+      ],
+      "owners": [
+        "richlander"
+      ],
+      "totalDownloads": 1425046,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloads": 2021,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/1.0.0.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 2322,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.0.0.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 1776,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.0.json"
+        },
+        {
+          "version": "2.1.1",
+          "downloads": 1617,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.1.json"
+        },
+        {
+          "version": "2.1.2",
+          "downloads": 1698,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.2.json"
+        },
+        {
+          "version": "2.1.3",
+          "downloads": 2909,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.3.json"
+        },
+        {
+          "version": "2.1.4",
+          "downloads": 47296,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.4.json"
+        },
+        {
+          "version": "2.1.5",
+          "downloads": 743,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.5.json"
+        },
+        {
+          "version": "2.1.6",
+          "downloads": 788,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.6.json"
+        },
+        {
+          "version": "2.1.7",
+          "downloads": 191367,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.7.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 171,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.0.json"
+        },
+        {
+          "version": "3.0.1",
+          "downloads": 208,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.1.json"
+        },
+        {
+          "version": "3.0.2",
+          "downloads": 324,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.2.json"
+        },
+        {
+          "version": "3.0.3",
+          "downloads": 1171806,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.3.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/index.json",
@@ -103596,104 +103714,6 @@
           "version": "1.2.161",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/vpk/1.2.161.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/index.json",
-      "id": "dotnetsay",
-      "version": "3.0.3",
-      "description": "A simple .NET tool that prints dotnetbot",
-      "summary": "",
-      "title": "dotnetsay",
-      "licenseUrl": "https://www.nuget.org/packages/dotnetsay/3.0.3/license",
-      "tags": [],
-      "authors": [
-        "Richard Lander"
-      ],
-      "owners": [
-        "richlander"
-      ],
-      "totalDownloads": 1425046,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "downloads": 2021,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/1.0.0.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 2322,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.0.0.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 1776,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.0.json"
-        },
-        {
-          "version": "2.1.1",
-          "downloads": 1617,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.1.json"
-        },
-        {
-          "version": "2.1.2",
-          "downloads": 1698,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.2.json"
-        },
-        {
-          "version": "2.1.3",
-          "downloads": 2909,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.3.json"
-        },
-        {
-          "version": "2.1.4",
-          "downloads": 47296,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.4.json"
-        },
-        {
-          "version": "2.1.5",
-          "downloads": 743,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.5.json"
-        },
-        {
-          "version": "2.1.6",
-          "downloads": 788,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.6.json"
-        },
-        {
-          "version": "2.1.7",
-          "downloads": 191367,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.7.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 171,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.0.json"
-        },
-        {
-          "version": "3.0.1",
-          "downloads": 208,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.1.json"
-        },
-        {
-          "version": "3.0.2",
-          "downloads": 324,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.2.json"
-        },
-        {
-          "version": "3.0.3",
-          "downloads": 1171806,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.3.json"
         }
       ],
       "vulnerabilities": []
