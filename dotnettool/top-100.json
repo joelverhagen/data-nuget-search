@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 10315,
+  "totalHits": 10335,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cake.tool/index.json",
@@ -27394,6 +27394,84 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/index.json",
+      "id": "beetle",
+      "version": "1.0.6",
+      "description": "A tool to record all .NET exceptions system-wide with callstacks.",
+      "summary": "",
+      "title": "beetle",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/beetle/1.0.6/icon",
+      "licenseUrl": "https://www.nuget.org/packages/beetle/1.0.6/license",
+      "projectUrl": "https://github.com/KirillOsenkov/Beetle",
+      "tags": [
+        ".NET",
+        "dotnet",
+        "ETW",
+        "etl",
+        "trace",
+        "log",
+        "exception",
+        "error",
+        "logging",
+        "record",
+        "recorder",
+        "assembly"
+      ],
+      "authors": [
+        "Kirill Osenkov"
+      ],
+      "owners": [
+        "kirillosenkov"
+      ],
+      "totalDownloads": 10491499,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloads": 70664,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/1.0.0.json"
+        },
+        {
+          "version": "1.0.1",
+          "downloads": 119601,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/1.0.1.json"
+        },
+        {
+          "version": "1.0.2",
+          "downloads": 2733901,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/1.0.2.json"
+        },
+        {
+          "version": "1.0.3",
+          "downloads": 228,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/1.0.3.json"
+        },
+        {
+          "version": "1.0.4",
+          "downloads": 1284,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/1.0.4.json"
+        },
+        {
+          "version": "1.0.5",
+          "downloads": 7564513,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/1.0.5.json"
+        },
+        {
+          "version": "1.0.6",
+          "downloads": 1304,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/1.0.6.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/husky/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/husky/index.json",
@@ -27612,84 +27690,6 @@
           "version": "0.9.1",
           "downloads": 1351451,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/husky/0.9.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/index.json",
-      "id": "beetle",
-      "version": "1.0.6",
-      "description": "A tool to record all .NET exceptions system-wide with callstacks.",
-      "summary": "",
-      "title": "beetle",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/beetle/1.0.6/icon",
-      "licenseUrl": "https://www.nuget.org/packages/beetle/1.0.6/license",
-      "projectUrl": "https://github.com/KirillOsenkov/Beetle",
-      "tags": [
-        ".NET",
-        "dotnet",
-        "ETW",
-        "etl",
-        "trace",
-        "log",
-        "exception",
-        "error",
-        "logging",
-        "record",
-        "recorder",
-        "assembly"
-      ],
-      "authors": [
-        "Kirill Osenkov"
-      ],
-      "owners": [
-        "kirillosenkov"
-      ],
-      "totalDownloads": 10491499,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "downloads": 70664,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/1.0.0.json"
-        },
-        {
-          "version": "1.0.1",
-          "downloads": 119601,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/1.0.1.json"
-        },
-        {
-          "version": "1.0.2",
-          "downloads": 2733901,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/1.0.2.json"
-        },
-        {
-          "version": "1.0.3",
-          "downloads": 228,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/1.0.3.json"
-        },
-        {
-          "version": "1.0.4",
-          "downloads": 1284,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/1.0.4.json"
-        },
-        {
-          "version": "1.0.5",
-          "downloads": 7564513,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/1.0.5.json"
-        },
-        {
-          "version": "1.0.6",
-          "downloads": 1304,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/beetle/1.0.6.json"
         }
       ],
       "vulnerabilities": []
@@ -28113,12 +28113,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/index.json",
       "id": "dd-trace",
-      "version": "3.55.0",
+      "version": "3.55.1",
       "description": "Auto-instrumentation dotnet global tool for Datadog APM",
       "summary": "",
       "title": "Datadog APM Auto-instrumentation Runner",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dd-trace/3.55.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/dd-trace/3.55.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dd-trace/3.55.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/dd-trace/3.55.1/license",
       "projectUrl": "https://docs.datadoghq.com/tracing/trace_collection/dd_libraries",
       "tags": [
         "Datadog",
@@ -28990,6 +28990,11 @@
           "version": "3.55.0",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/3.55.0.json"
+        },
+        {
+          "version": "3.55.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dd-trace/3.55.1.json"
         }
       ],
       "vulnerabilities": []
@@ -44014,11 +44019,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/index.json",
       "id": "FunFair.BuildVersion",
-      "version": "6.2.20.2397-main",
+      "version": "6.2.20.2399-main",
       "description": "Build versioning tool.",
       "summary": "",
       "title": "FunFair.BuildVersion",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.20.2397-main/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.20.2399-main/icon",
       "projectUrl": "https://github.com/funfair-tech/funfair-build-version",
       "tags": [
         "FunFair",
@@ -57063,6 +57068,16 @@
           "version": "6.2.20.2397-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2397-main.json"
+        },
+        {
+          "version": "6.2.20.2398-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2398-main.json"
+        },
+        {
+          "version": "6.2.20.2399-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2399-main.json"
         }
       ],
       "vulnerabilities": []
@@ -60522,12 +60537,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/index.json",
       "id": "StrawberryShake.Tools",
-      "version": "16.7.0-p.21",
+      "version": "16.7.0-p.22",
       "description": "Package Description",
       "summary": "",
       "title": "StrawberryShake.Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/strawberryshake.tools/16.7.0-p.21/icon",
-      "licenseUrl": "https://www.nuget.org/packages/StrawberryShake.Tools/16.7.0-p.21/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/strawberryshake.tools/16.7.0-p.22/icon",
+      "licenseUrl": "https://www.nuget.org/packages/StrawberryShake.Tools/16.7.0-p.22/license",
       "projectUrl": "https://chillicream.com/",
       "tags": [
         "GraphQL",
@@ -61363,6 +61378,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.6.7.json"
         },
         {
+          "version": "16.6.8",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.6.8.json"
+        },
+        {
           "version": "16.7.0-p.12",
           "downloads": 61,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.7.0-p.12.json"
@@ -61411,6 +61431,11 @@
           "version": "16.7.0-p.21",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.7.0-p.21.json"
+        },
+        {
+          "version": "16.7.0-p.22",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.7.0-p.22.json"
         }
       ],
       "vulnerabilities": []
@@ -74805,6 +74830,341 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/index.json",
+      "id": "ilspycmd",
+      "version": "11.1.0.9782",
+      "description": "Command-line decompiler using the ILSpy decompilation engine",
+      "summary": "",
+      "title": "ilspycmd",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/ilspycmd/11.1.0.9782/icon",
+      "licenseUrl": "https://www.nuget.org/packages/ilspycmd/11.1.0.9782/license",
+      "projectUrl": "https://github.com/icsharpcode/ILSpy/",
+      "tags": [],
+      "authors": [
+        "ILSpy Team"
+      ],
+      "owners": [
+        "SharpDevelop"
+      ],
+      "totalDownloads": 2106689,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloads": 2377,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/1.0.0.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 2374,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/2.0.0.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 2583,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/3.0.0.json"
+        },
+        {
+          "version": "3.5.0",
+          "downloads": 1929,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/3.5.0.json"
+        },
+        {
+          "version": "3.8.0",
+          "downloads": 2449,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/3.8.0.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 4528,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/4.0.0.json"
+        },
+        {
+          "version": "5.0.0-preview1",
+          "downloads": 826,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/5.0.0-preview1.json"
+        },
+        {
+          "version": "5.0.0-preview2",
+          "downloads": 755,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/5.0.0-preview2.json"
+        },
+        {
+          "version": "5.0.0-preview3",
+          "downloads": 720,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/5.0.0-preview3.json"
+        },
+        {
+          "version": "5.0.0-preview4",
+          "downloads": 707,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/5.0.0-preview4.json"
+        },
+        {
+          "version": "5.0.0-rc1",
+          "downloads": 645,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/5.0.0-rc1.json"
+        },
+        {
+          "version": "5.0.0.5124",
+          "downloads": 2008,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/5.0.0.5124.json"
+        },
+        {
+          "version": "5.0.1.5145",
+          "downloads": 1889,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/5.0.1.5145.json"
+        },
+        {
+          "version": "5.0.2",
+          "downloads": 4310,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/5.0.2.json"
+        },
+        {
+          "version": "6.0.0.5420-preview1",
+          "downloads": 1591,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.0.0.5420-preview1.json"
+        },
+        {
+          "version": "6.0.0.5559-preview2",
+          "downloads": 704,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.0.0.5559-preview2.json"
+        },
+        {
+          "version": "6.0.0.5671-preview3",
+          "downloads": 636,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.0.0.5671-preview3.json"
+        },
+        {
+          "version": "6.0.0.5800-preview4",
+          "downloads": 624,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.0.0.5800-preview4.json"
+        },
+        {
+          "version": "6.0.0.5830-rc1",
+          "downloads": 589,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.0.0.5830-rc1.json"
+        },
+        {
+          "version": "6.0.0.5836",
+          "downloads": 2149,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.0.0.5836.json"
+        },
+        {
+          "version": "6.1.0.5902",
+          "downloads": 2191,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.1.0.5902.json"
+        },
+        {
+          "version": "6.2.0.6062-preview1",
+          "downloads": 604,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.2.0.6062-preview1.json"
+        },
+        {
+          "version": "6.2.0.6118-preview2",
+          "downloads": 642,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.2.0.6118-preview2.json"
+        },
+        {
+          "version": "6.2.0.6124",
+          "downloads": 5838,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.2.0.6124.json"
+        },
+        {
+          "version": "7.0.0.6291-preview2",
+          "downloads": 574,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.0.0.6291-preview2.json"
+        },
+        {
+          "version": "7.0.0.6372-preview3",
+          "downloads": 502,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.0.0.6372-preview3.json"
+        },
+        {
+          "version": "7.0.0.6472-rc1",
+          "downloads": 512,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.0.0.6472-rc1.json"
+        },
+        {
+          "version": "7.0.0.6485-rc2",
+          "downloads": 571,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.0.0.6485-rc2.json"
+        },
+        {
+          "version": "7.0.0.6488",
+          "downloads": 3591,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.0.0.6488.json"
+        },
+        {
+          "version": "7.1.0.6543",
+          "downloads": 52681,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.1.0.6543.json"
+        },
+        {
+          "version": "7.2.0.6702-preview2",
+          "downloads": 924,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.2.0.6702-preview2.json"
+        },
+        {
+          "version": "7.2.0.6791-preview3",
+          "downloads": 546,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.2.0.6791-preview3.json"
+        },
+        {
+          "version": "7.2.0.6839-preview4",
+          "downloads": 454,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.2.0.6839-preview4.json"
+        },
+        {
+          "version": "7.2.0.6844",
+          "downloads": 16942,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.2.0.6844.json"
+        },
+        {
+          "version": "7.2.1.6856",
+          "downloads": 59188,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.2.1.6856.json"
+        },
+        {
+          "version": "8.0.0.7007-preview1",
+          "downloads": 574,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.0.0.7007-preview1.json"
+        },
+        {
+          "version": "8.0.0.7106-preview2",
+          "downloads": 674,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.0.0.7106-preview2.json"
+        },
+        {
+          "version": "8.0.0.7246-preview3",
+          "downloads": 1574,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.0.0.7246-preview3.json"
+        },
+        {
+          "version": "8.0.0.7313-preview4",
+          "downloads": 466,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.0.0.7313-preview4.json"
+        },
+        {
+          "version": "8.0.0.7339-rc1",
+          "downloads": 448,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.0.0.7339-rc1.json"
+        },
+        {
+          "version": "8.0.0.7345",
+          "downloads": 20169,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.0.0.7345.json"
+        },
+        {
+          "version": "8.1.0.7455",
+          "downloads": 5507,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.1.0.7455.json"
+        },
+        {
+          "version": "8.1.1.7464",
+          "downloads": 8680,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.1.1.7464.json"
+        },
+        {
+          "version": "8.2.0.7535",
+          "downloads": 256119,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.2.0.7535.json"
+        },
+        {
+          "version": "9.0.0.7618-preview1",
+          "downloads": 493,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/9.0.0.7618-preview1.json"
+        },
+        {
+          "version": "9.0.0.7660-preview2",
+          "downloads": 1065,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/9.0.0.7660-preview2.json"
+        },
+        {
+          "version": "9.0.0.7833-preview3",
+          "downloads": 798,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/9.0.0.7833-preview3.json"
+        },
+        {
+          "version": "9.0.0.7876-RC",
+          "downloads": 363,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/9.0.0.7876-rc.json"
+        },
+        {
+          "version": "9.0.0.7889",
+          "downloads": 74658,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/9.0.0.7889.json"
+        },
+        {
+          "version": "9.1.0.7988",
+          "downloads": 528419,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/9.1.0.7988.json"
+        },
+        {
+          "version": "10.0.0.8079-preview1",
+          "downloads": 1125,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/10.0.0.8079-preview1.json"
+        },
+        {
+          "version": "10.0.0.8282-preview2",
+          "downloads": 2169,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/10.0.0.8282-preview2.json"
+        },
+        {
+          "version": "10.0.0.8323-preview3",
+          "downloads": 514,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/10.0.0.8323-preview3.json"
+        },
+        {
+          "version": "10.0.0.8330",
+          "downloads": 78468,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/10.0.0.8330.json"
+        },
+        {
+          "version": "10.0.1.8346",
+          "downloads": 81167,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/10.0.1.8346.json"
+        },
+        {
+          "version": "10.1.0.8386",
+          "downloads": 260918,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/10.1.0.8386.json"
+        },
+        {
+          "version": "10.1.1.8388",
+          "downloads": 209452,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/10.1.1.8388.json"
+        },
+        {
+          "version": "11.0.0.9223-preview1",
+          "downloads": 1009,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/11.0.0.9223-preview1.json"
+        },
+        {
+          "version": "11.0.0.9335-rc",
+          "downloads": 723,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/11.0.0.9335-rc.json"
+        },
+        {
+          "version": "11.0.0.9375",
+          "downloads": 337277,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/11.0.0.9375.json"
+        },
+        {
+          "version": "11.1.0.9782",
+          "downloads": 53051,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/11.1.0.9782.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sbom.dotnettool/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sbom.dotnettool/index.json",
@@ -75134,11 +75494,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
       "id": "Credfeto.ChangeLog.Cmd",
-      "version": "1.10.207.2694-main",
+      "version": "1.10.207.2696-main",
       "description": "Changelog manager dotnet tool.",
       "summary": "",
       "title": "Credfeto.ChangeLog.Cmd",
-      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.207.2694-main/license",
+      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.207.2696-main/license",
       "tags": [
         "Changelog",
         "tool",
@@ -90558,341 +90918,16 @@
           "version": "1.10.207.2694-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.207.2694-main.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/index.json",
-      "id": "ilspycmd",
-      "version": "11.1.0.9782",
-      "description": "Command-line decompiler using the ILSpy decompilation engine",
-      "summary": "",
-      "title": "ilspycmd",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/ilspycmd/11.1.0.9782/icon",
-      "licenseUrl": "https://www.nuget.org/packages/ilspycmd/11.1.0.9782/license",
-      "projectUrl": "https://github.com/icsharpcode/ILSpy/",
-      "tags": [],
-      "authors": [
-        "ILSpy Team"
-      ],
-      "owners": [
-        "SharpDevelop"
-      ],
-      "totalDownloads": 2106689,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "downloads": 2377,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/1.0.0.json"
         },
         {
-          "version": "2.0.0",
-          "downloads": 2374,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/2.0.0.json"
+          "version": "1.10.207.2695-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.207.2695-main.json"
         },
         {
-          "version": "3.0.0",
-          "downloads": 2583,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/3.0.0.json"
-        },
-        {
-          "version": "3.5.0",
-          "downloads": 1929,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/3.5.0.json"
-        },
-        {
-          "version": "3.8.0",
-          "downloads": 2449,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/3.8.0.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 4528,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/4.0.0.json"
-        },
-        {
-          "version": "5.0.0-preview1",
-          "downloads": 826,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/5.0.0-preview1.json"
-        },
-        {
-          "version": "5.0.0-preview2",
-          "downloads": 755,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/5.0.0-preview2.json"
-        },
-        {
-          "version": "5.0.0-preview3",
-          "downloads": 720,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/5.0.0-preview3.json"
-        },
-        {
-          "version": "5.0.0-preview4",
-          "downloads": 707,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/5.0.0-preview4.json"
-        },
-        {
-          "version": "5.0.0-rc1",
-          "downloads": 645,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/5.0.0-rc1.json"
-        },
-        {
-          "version": "5.0.0.5124",
-          "downloads": 2008,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/5.0.0.5124.json"
-        },
-        {
-          "version": "5.0.1.5145",
-          "downloads": 1889,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/5.0.1.5145.json"
-        },
-        {
-          "version": "5.0.2",
-          "downloads": 4310,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/5.0.2.json"
-        },
-        {
-          "version": "6.0.0.5420-preview1",
-          "downloads": 1591,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.0.0.5420-preview1.json"
-        },
-        {
-          "version": "6.0.0.5559-preview2",
-          "downloads": 704,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.0.0.5559-preview2.json"
-        },
-        {
-          "version": "6.0.0.5671-preview3",
-          "downloads": 636,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.0.0.5671-preview3.json"
-        },
-        {
-          "version": "6.0.0.5800-preview4",
-          "downloads": 624,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.0.0.5800-preview4.json"
-        },
-        {
-          "version": "6.0.0.5830-rc1",
-          "downloads": 589,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.0.0.5830-rc1.json"
-        },
-        {
-          "version": "6.0.0.5836",
-          "downloads": 2149,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.0.0.5836.json"
-        },
-        {
-          "version": "6.1.0.5902",
-          "downloads": 2191,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.1.0.5902.json"
-        },
-        {
-          "version": "6.2.0.6062-preview1",
-          "downloads": 604,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.2.0.6062-preview1.json"
-        },
-        {
-          "version": "6.2.0.6118-preview2",
-          "downloads": 642,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.2.0.6118-preview2.json"
-        },
-        {
-          "version": "6.2.0.6124",
-          "downloads": 5838,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/6.2.0.6124.json"
-        },
-        {
-          "version": "7.0.0.6291-preview2",
-          "downloads": 574,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.0.0.6291-preview2.json"
-        },
-        {
-          "version": "7.0.0.6372-preview3",
-          "downloads": 502,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.0.0.6372-preview3.json"
-        },
-        {
-          "version": "7.0.0.6472-rc1",
-          "downloads": 512,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.0.0.6472-rc1.json"
-        },
-        {
-          "version": "7.0.0.6485-rc2",
-          "downloads": 571,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.0.0.6485-rc2.json"
-        },
-        {
-          "version": "7.0.0.6488",
-          "downloads": 3591,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.0.0.6488.json"
-        },
-        {
-          "version": "7.1.0.6543",
-          "downloads": 52681,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.1.0.6543.json"
-        },
-        {
-          "version": "7.2.0.6702-preview2",
-          "downloads": 924,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.2.0.6702-preview2.json"
-        },
-        {
-          "version": "7.2.0.6791-preview3",
-          "downloads": 546,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.2.0.6791-preview3.json"
-        },
-        {
-          "version": "7.2.0.6839-preview4",
-          "downloads": 454,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.2.0.6839-preview4.json"
-        },
-        {
-          "version": "7.2.0.6844",
-          "downloads": 16942,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.2.0.6844.json"
-        },
-        {
-          "version": "7.2.1.6856",
-          "downloads": 59188,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/7.2.1.6856.json"
-        },
-        {
-          "version": "8.0.0.7007-preview1",
-          "downloads": 574,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.0.0.7007-preview1.json"
-        },
-        {
-          "version": "8.0.0.7106-preview2",
-          "downloads": 674,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.0.0.7106-preview2.json"
-        },
-        {
-          "version": "8.0.0.7246-preview3",
-          "downloads": 1574,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.0.0.7246-preview3.json"
-        },
-        {
-          "version": "8.0.0.7313-preview4",
-          "downloads": 466,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.0.0.7313-preview4.json"
-        },
-        {
-          "version": "8.0.0.7339-rc1",
-          "downloads": 448,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.0.0.7339-rc1.json"
-        },
-        {
-          "version": "8.0.0.7345",
-          "downloads": 20169,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.0.0.7345.json"
-        },
-        {
-          "version": "8.1.0.7455",
-          "downloads": 5507,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.1.0.7455.json"
-        },
-        {
-          "version": "8.1.1.7464",
-          "downloads": 8680,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.1.1.7464.json"
-        },
-        {
-          "version": "8.2.0.7535",
-          "downloads": 256119,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/8.2.0.7535.json"
-        },
-        {
-          "version": "9.0.0.7618-preview1",
-          "downloads": 493,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/9.0.0.7618-preview1.json"
-        },
-        {
-          "version": "9.0.0.7660-preview2",
-          "downloads": 1065,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/9.0.0.7660-preview2.json"
-        },
-        {
-          "version": "9.0.0.7833-preview3",
-          "downloads": 798,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/9.0.0.7833-preview3.json"
-        },
-        {
-          "version": "9.0.0.7876-RC",
-          "downloads": 363,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/9.0.0.7876-rc.json"
-        },
-        {
-          "version": "9.0.0.7889",
-          "downloads": 74658,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/9.0.0.7889.json"
-        },
-        {
-          "version": "9.1.0.7988",
-          "downloads": 528419,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/9.1.0.7988.json"
-        },
-        {
-          "version": "10.0.0.8079-preview1",
-          "downloads": 1125,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/10.0.0.8079-preview1.json"
-        },
-        {
-          "version": "10.0.0.8282-preview2",
-          "downloads": 2169,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/10.0.0.8282-preview2.json"
-        },
-        {
-          "version": "10.0.0.8323-preview3",
-          "downloads": 514,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/10.0.0.8323-preview3.json"
-        },
-        {
-          "version": "10.0.0.8330",
-          "downloads": 78468,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/10.0.0.8330.json"
-        },
-        {
-          "version": "10.0.1.8346",
-          "downloads": 81167,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/10.0.1.8346.json"
-        },
-        {
-          "version": "10.1.0.8386",
-          "downloads": 260918,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/10.1.0.8386.json"
-        },
-        {
-          "version": "10.1.1.8388",
-          "downloads": 209452,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/10.1.1.8388.json"
-        },
-        {
-          "version": "11.0.0.9223-preview1",
-          "downloads": 1009,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/11.0.0.9223-preview1.json"
-        },
-        {
-          "version": "11.0.0.9335-rc",
-          "downloads": 723,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/11.0.0.9335-rc.json"
-        },
-        {
-          "version": "11.0.0.9375",
-          "downloads": 337277,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/11.0.0.9375.json"
-        },
-        {
-          "version": "11.1.0.9782",
-          "downloads": 53051,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/11.1.0.9782.json"
+          "version": "1.10.207.2696-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.207.2696-main.json"
         }
       ],
       "vulnerabilities": []
@@ -91212,11 +91247,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/browserstack-sdk/index.json",
       "id": "browserstack-sdk",
-      "version": "1.50.2",
+      "version": "1.50.3",
       "description": "Package Description",
       "summary": "",
       "title": "browserstack-sdk",
-      "licenseUrl": "https://www.nuget.org/packages/browserstack-sdk/1.50.2/license",
+      "licenseUrl": "https://www.nuget.org/packages/browserstack-sdk/1.50.3/license",
       "tags": [],
       "authors": [
         "browserstack-sdk"
@@ -92321,6 +92356,11 @@
           "version": "1.50.2",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/browserstack-sdk/1.50.2.json"
+        },
+        {
+          "version": "1.50.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/browserstack-sdk/1.50.3.json"
         }
       ],
       "vulnerabilities": []
