@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 10335,
+  "totalHits": 10351,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cake.tool/index.json",
@@ -37584,12 +37584,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.openapi.kiota/index.json",
       "id": "Microsoft.OpenApi.Kiota",
-      "version": "1.35.0",
+      "version": "1.36.0",
       "description": "OpenAPI based client generator.",
       "summary": "",
       "title": "Microsoft.OpenApi.Kiota",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.openapi.kiota/1.35.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.OpenApi.Kiota/1.35.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.openapi.kiota/1.36.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.OpenApi.Kiota/1.36.0/license",
       "projectUrl": "https://github.com/microsoft/kiota",
       "tags": [
         "OpenAPI",
@@ -38309,6 +38309,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.openapi.kiota/1.29.1.json"
         },
         {
+          "version": "1.29.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.openapi.kiota/1.29.2.json"
+        },
+        {
           "version": "1.30.0",
           "downloads": 296278,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.openapi.kiota/1.30.0.json"
@@ -38387,6 +38392,11 @@
           "version": "1.35.0",
           "downloads": 43241,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.openapi.kiota/1.35.0.json"
+        },
+        {
+          "version": "1.36.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.openapi.kiota/1.36.0.json"
         }
       ],
       "vulnerabilities": []
@@ -39425,12 +39435,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas/index.json",
       "id": "fantomas",
-      "version": "8.0.7",
+      "version": "8.0.8",
       "description": "This library aims at formatting F# source files based on a given configuration.\nFantomas will ensure correct indentation and consistent spacing between elements in the source files.\nSome common use cases include:\n(1) Reformatting a code base to conform a universal page width\n(2) Converting legacy code from verbose syntax to light syntax\n(3) Formatting auto-generated F# signatures.",
       "summary": "",
       "title": "fantomas",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fantomas/8.0.7/icon",
-      "licenseUrl": "https://www.nuget.org/packages/fantomas/8.0.7/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fantomas/8.0.8/icon",
+      "licenseUrl": "https://www.nuget.org/packages/fantomas/8.0.8/license",
       "projectUrl": "https://fsprojects.github.io/fantomas/",
       "tags": [
         "F#",
@@ -41262,6 +41272,11 @@
           "version": "8.0.7",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas/8.0.7.json"
+        },
+        {
+          "version": "8.0.8",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fantomas/8.0.8.json"
         }
       ],
       "vulnerabilities": []
@@ -41473,6 +41488,637 @@
           "version": "0.3.2",
           "downloads": 3299615,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-subset/0.3.2.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/index.json",
+      "id": "Microsoft.Crank.Agent",
+      "version": "0.2.0-alpha.26316.1",
+      "description": "The benchmarking agent",
+      "summary": "",
+      "title": "Microsoft.Crank.Agent",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.crank.agent/0.2.0-alpha.26316.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Crank.Agent/0.2.0-alpha.26316.1/license",
+      "projectUrl": "https://github.com/dotnet/crank",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "aspnet",
+        "Microsoft"
+      ],
+      "totalDownloads": 3078274,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.1.0-alpha.20269.2",
+          "downloads": 736,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20269.2.json"
+        },
+        {
+          "version": "0.1.0-alpha.20301.3",
+          "downloads": 646,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20301.3.json"
+        },
+        {
+          "version": "0.1.0-alpha.20316.2",
+          "downloads": 654,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20316.2.json"
+        },
+        {
+          "version": "0.1.0-alpha.20316.3",
+          "downloads": 670,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20316.3.json"
+        },
+        {
+          "version": "0.1.0-alpha.20351.1",
+          "downloads": 615,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20351.1.json"
+        },
+        {
+          "version": "0.1.0-alpha.20356.3",
+          "downloads": 682,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20356.3.json"
+        },
+        {
+          "version": "0.1.0-alpha.20357.3",
+          "downloads": 609,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20357.3.json"
+        },
+        {
+          "version": "0.1.0-alpha.20358.1",
+          "downloads": 627,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20358.1.json"
+        },
+        {
+          "version": "0.1.0-alpha.20365.1",
+          "downloads": 699,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20365.1.json"
+        },
+        {
+          "version": "0.1.0-alpha.20380.1",
+          "downloads": 655,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20380.1.json"
+        },
+        {
+          "version": "0.1.0-alpha.20411.6",
+          "downloads": 660,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20411.6.json"
+        },
+        {
+          "version": "0.1.0-alpha.20413.3",
+          "downloads": 621,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20413.3.json"
+        },
+        {
+          "version": "0.1.0-alpha.20414.1",
+          "downloads": 679,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20414.1.json"
+        },
+        {
+          "version": "0.1.0-alpha.20464.1",
+          "downloads": 604,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20464.1.json"
+        },
+        {
+          "version": "0.1.0-alpha.20473.1",
+          "downloads": 598,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20473.1.json"
+        },
+        {
+          "version": "0.1.0-alpha.20474.2",
+          "downloads": 616,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20474.2.json"
+        },
+        {
+          "version": "0.1.0-alpha.20478.2",
+          "downloads": 658,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20478.2.json"
+        },
+        {
+          "version": "0.1.0-alpha.20480.3",
+          "downloads": 604,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20480.3.json"
+        },
+        {
+          "version": "0.1.0-alpha.20480.4",
+          "downloads": 642,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20480.4.json"
+        },
+        {
+          "version": "0.1.0-alpha.20501.1",
+          "downloads": 583,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20501.1.json"
+        },
+        {
+          "version": "0.1.0-alpha.20529.1",
+          "downloads": 601,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20529.1.json"
+        },
+        {
+          "version": "0.1.0-alpha.20530.4",
+          "downloads": 660,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20530.4.json"
+        },
+        {
+          "version": "0.1.0-alpha.20530.5",
+          "downloads": 661,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20530.5.json"
+        },
+        {
+          "version": "0.1.0-alpha.20568.1",
+          "downloads": 577,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20568.1.json"
+        },
+        {
+          "version": "0.1.0-alpha.20574.3",
+          "downloads": 568,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20574.3.json"
+        },
+        {
+          "version": "0.1.0-alpha.20580.1",
+          "downloads": 610,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20580.1.json"
+        },
+        {
+          "version": "0.1.0-alpha.20608.2",
+          "downloads": 567,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20608.2.json"
+        },
+        {
+          "version": "0.1.0-alpha.20614.1",
+          "downloads": 565,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20614.1.json"
+        },
+        {
+          "version": "0.1.0-alpha.20615.1",
+          "downloads": 564,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20615.1.json"
+        },
+        {
+          "version": "0.1.0-alpha.20618.1",
+          "downloads": 664,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20618.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21061.3",
+          "downloads": 551,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21061.3.json"
+        },
+        {
+          "version": "0.2.0-alpha.21069.1",
+          "downloads": 572,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21069.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21080.1",
+          "downloads": 507,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21080.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21105.1",
+          "downloads": 555,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21105.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21109.2",
+          "downloads": 545,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21109.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.21117.2",
+          "downloads": 491,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21117.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.21151.2",
+          "downloads": 547,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21151.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.21172.3",
+          "downloads": 485,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21172.3.json"
+        },
+        {
+          "version": "0.2.0-alpha.21173.2",
+          "downloads": 370,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21173.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.21180.5",
+          "downloads": 405,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21180.5.json"
+        },
+        {
+          "version": "0.2.0-alpha.21209.2",
+          "downloads": 342,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21209.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.21213.1",
+          "downloads": 312,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21213.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21214.1",
+          "downloads": 344,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21214.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21216.1",
+          "downloads": 380,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21216.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21217.1",
+          "downloads": 361,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21217.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21220.2",
+          "downloads": 333,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21220.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.21221.1",
+          "downloads": 395,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21221.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21229.1",
+          "downloads": 326,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21229.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21252.1",
+          "downloads": 341,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21252.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21255.1",
+          "downloads": 346,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21255.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21268.1",
+          "downloads": 681,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21268.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21269.1",
+          "downloads": 377,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21269.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21310.2",
+          "downloads": 371,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21310.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.21417.2",
+          "downloads": 337,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21417.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.21431.1",
+          "downloads": 313,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21431.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21457.1",
+          "downloads": 362,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21457.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21478.1",
+          "downloads": 373,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21478.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21514.1",
+          "downloads": 396,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21514.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21522.1",
+          "downloads": 358,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21522.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21554.2",
+          "downloads": 319,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21554.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.21558.1",
+          "downloads": 347,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21558.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21561.2",
+          "downloads": 384,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21561.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.21566.1",
+          "downloads": 306,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21566.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21567.1",
+          "downloads": 495,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21567.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21576.1",
+          "downloads": 1593,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21576.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21601.1",
+          "downloads": 842,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21601.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.21608.2",
+          "downloads": 509,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21608.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.22071.1",
+          "downloads": 536,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22071.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.22074.1",
+          "downloads": 577,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22074.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.22074.2",
+          "downloads": 581,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22074.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.22103.6",
+          "downloads": 592,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22103.6.json"
+        },
+        {
+          "version": "0.2.0-alpha.22110.2",
+          "downloads": 670,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22110.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.22154.1",
+          "downloads": 346,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22154.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.22212.1",
+          "downloads": 289,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22212.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.22212.2",
+          "downloads": 314,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22212.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.22215.2",
+          "downloads": 323,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22215.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.22221.1",
+          "downloads": 304,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22221.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.22228.2",
+          "downloads": 943,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22228.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.22419.1",
+          "downloads": 331,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22419.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.22466.1",
+          "downloads": 353,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22466.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.22510.1",
+          "downloads": 410,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22510.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.22566.1",
+          "downloads": 247,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22566.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.22568.1",
+          "downloads": 325,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22568.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.22608.1",
+          "downloads": 231,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22608.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.22613.1",
+          "downloads": 247,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22613.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.22619.1",
+          "downloads": 446,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22619.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.23114.2",
+          "downloads": 240,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23114.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.23116.1",
+          "downloads": 362,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23116.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.23156.1",
+          "downloads": 591,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23156.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.23269.1",
+          "downloads": 1101,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23269.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.23381.1",
+          "downloads": 225,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23381.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.23401.2",
+          "downloads": 228,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23401.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.23407.3",
+          "downloads": 215,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23407.3.json"
+        },
+        {
+          "version": "0.2.0-alpha.23410.1",
+          "downloads": 286,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23410.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.23414.1",
+          "downloads": 211,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23414.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.23422.5",
+          "downloads": 1334,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23422.5.json"
+        },
+        {
+          "version": "0.2.0-alpha.23517.3",
+          "downloads": 815,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23517.3.json"
+        },
+        {
+          "version": "0.2.0-alpha.23555.1",
+          "downloads": 270,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23555.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.23557.3",
+          "downloads": 300,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23557.3.json"
+        },
+        {
+          "version": "0.2.0-alpha.23564.1",
+          "downloads": 914,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23564.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.23614.5",
+          "downloads": 702,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23614.5.json"
+        },
+        {
+          "version": "0.2.0-alpha.24062.1",
+          "downloads": 218,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24062.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.24066.1",
+          "downloads": 968,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24066.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.24114.2",
+          "downloads": 54660,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24114.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.24305.2",
+          "downloads": 264,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24305.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.24310.2",
+          "downloads": 198,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24310.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.24313.2",
+          "downloads": 4651,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24313.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.24421.1",
+          "downloads": 26461,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24421.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.24468.1",
+          "downloads": 49290,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24468.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.24551.1",
+          "downloads": 1693,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24551.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.24576.2",
+          "downloads": 21939,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24576.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.25056.1",
+          "downloads": 1373712,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.25056.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.25114.3",
+          "downloads": 327850,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.25114.3.json"
+        },
+        {
+          "version": "0.2.0-alpha.25118.2",
+          "downloads": 288920,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.25118.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.25128.2",
+          "downloads": 159081,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.25128.2.json"
+        },
+        {
+          "version": "0.2.0-alpha.25418.1",
+          "downloads": 705,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.25418.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.25426.3",
+          "downloads": 376,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.25426.3.json"
+        },
+        {
+          "version": "0.2.0-alpha.25426.4",
+          "downloads": 3561,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.25426.4.json"
+        },
+        {
+          "version": "0.2.0-alpha.25473.1",
+          "downloads": 47666,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.25473.1.json"
+        },
+        {
+          "version": "0.2.0-alpha.26316.1",
+          "downloads": 664436,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.26316.1.json"
         }
       ],
       "vulnerabilities": []
@@ -42508,637 +43154,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/index.json",
-      "id": "Microsoft.Crank.Agent",
-      "version": "0.2.0-alpha.26316.1",
-      "description": "The benchmarking agent",
-      "summary": "",
-      "title": "Microsoft.Crank.Agent",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.crank.agent/0.2.0-alpha.26316.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Crank.Agent/0.2.0-alpha.26316.1/license",
-      "projectUrl": "https://github.com/dotnet/crank",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "aspnet",
-        "Microsoft"
-      ],
-      "totalDownloads": 3078274,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.1.0-alpha.20269.2",
-          "downloads": 736,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20269.2.json"
-        },
-        {
-          "version": "0.1.0-alpha.20301.3",
-          "downloads": 646,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20301.3.json"
-        },
-        {
-          "version": "0.1.0-alpha.20316.2",
-          "downloads": 654,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20316.2.json"
-        },
-        {
-          "version": "0.1.0-alpha.20316.3",
-          "downloads": 670,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20316.3.json"
-        },
-        {
-          "version": "0.1.0-alpha.20351.1",
-          "downloads": 615,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20351.1.json"
-        },
-        {
-          "version": "0.1.0-alpha.20356.3",
-          "downloads": 682,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20356.3.json"
-        },
-        {
-          "version": "0.1.0-alpha.20357.3",
-          "downloads": 609,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20357.3.json"
-        },
-        {
-          "version": "0.1.0-alpha.20358.1",
-          "downloads": 627,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20358.1.json"
-        },
-        {
-          "version": "0.1.0-alpha.20365.1",
-          "downloads": 699,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20365.1.json"
-        },
-        {
-          "version": "0.1.0-alpha.20380.1",
-          "downloads": 655,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20380.1.json"
-        },
-        {
-          "version": "0.1.0-alpha.20411.6",
-          "downloads": 660,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20411.6.json"
-        },
-        {
-          "version": "0.1.0-alpha.20413.3",
-          "downloads": 621,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20413.3.json"
-        },
-        {
-          "version": "0.1.0-alpha.20414.1",
-          "downloads": 679,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20414.1.json"
-        },
-        {
-          "version": "0.1.0-alpha.20464.1",
-          "downloads": 604,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20464.1.json"
-        },
-        {
-          "version": "0.1.0-alpha.20473.1",
-          "downloads": 598,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20473.1.json"
-        },
-        {
-          "version": "0.1.0-alpha.20474.2",
-          "downloads": 616,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20474.2.json"
-        },
-        {
-          "version": "0.1.0-alpha.20478.2",
-          "downloads": 658,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20478.2.json"
-        },
-        {
-          "version": "0.1.0-alpha.20480.3",
-          "downloads": 604,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20480.3.json"
-        },
-        {
-          "version": "0.1.0-alpha.20480.4",
-          "downloads": 642,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20480.4.json"
-        },
-        {
-          "version": "0.1.0-alpha.20501.1",
-          "downloads": 583,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20501.1.json"
-        },
-        {
-          "version": "0.1.0-alpha.20529.1",
-          "downloads": 601,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20529.1.json"
-        },
-        {
-          "version": "0.1.0-alpha.20530.4",
-          "downloads": 660,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20530.4.json"
-        },
-        {
-          "version": "0.1.0-alpha.20530.5",
-          "downloads": 661,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20530.5.json"
-        },
-        {
-          "version": "0.1.0-alpha.20568.1",
-          "downloads": 577,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20568.1.json"
-        },
-        {
-          "version": "0.1.0-alpha.20574.3",
-          "downloads": 568,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20574.3.json"
-        },
-        {
-          "version": "0.1.0-alpha.20580.1",
-          "downloads": 610,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20580.1.json"
-        },
-        {
-          "version": "0.1.0-alpha.20608.2",
-          "downloads": 567,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20608.2.json"
-        },
-        {
-          "version": "0.1.0-alpha.20614.1",
-          "downloads": 565,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20614.1.json"
-        },
-        {
-          "version": "0.1.0-alpha.20615.1",
-          "downloads": 564,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20615.1.json"
-        },
-        {
-          "version": "0.1.0-alpha.20618.1",
-          "downloads": 664,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.1.0-alpha.20618.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21061.3",
-          "downloads": 551,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21061.3.json"
-        },
-        {
-          "version": "0.2.0-alpha.21069.1",
-          "downloads": 572,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21069.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21080.1",
-          "downloads": 507,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21080.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21105.1",
-          "downloads": 555,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21105.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21109.2",
-          "downloads": 545,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21109.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.21117.2",
-          "downloads": 491,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21117.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.21151.2",
-          "downloads": 547,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21151.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.21172.3",
-          "downloads": 485,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21172.3.json"
-        },
-        {
-          "version": "0.2.0-alpha.21173.2",
-          "downloads": 370,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21173.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.21180.5",
-          "downloads": 405,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21180.5.json"
-        },
-        {
-          "version": "0.2.0-alpha.21209.2",
-          "downloads": 342,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21209.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.21213.1",
-          "downloads": 312,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21213.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21214.1",
-          "downloads": 344,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21214.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21216.1",
-          "downloads": 380,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21216.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21217.1",
-          "downloads": 361,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21217.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21220.2",
-          "downloads": 333,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21220.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.21221.1",
-          "downloads": 395,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21221.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21229.1",
-          "downloads": 326,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21229.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21252.1",
-          "downloads": 341,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21252.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21255.1",
-          "downloads": 346,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21255.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21268.1",
-          "downloads": 681,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21268.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21269.1",
-          "downloads": 377,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21269.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21310.2",
-          "downloads": 371,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21310.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.21417.2",
-          "downloads": 337,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21417.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.21431.1",
-          "downloads": 313,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21431.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21457.1",
-          "downloads": 362,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21457.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21478.1",
-          "downloads": 373,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21478.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21514.1",
-          "downloads": 396,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21514.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21522.1",
-          "downloads": 358,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21522.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21554.2",
-          "downloads": 319,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21554.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.21558.1",
-          "downloads": 347,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21558.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21561.2",
-          "downloads": 384,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21561.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.21566.1",
-          "downloads": 306,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21566.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21567.1",
-          "downloads": 495,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21567.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21576.1",
-          "downloads": 1593,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21576.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21601.1",
-          "downloads": 842,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21601.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.21608.2",
-          "downloads": 509,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.21608.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.22071.1",
-          "downloads": 536,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22071.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.22074.1",
-          "downloads": 577,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22074.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.22074.2",
-          "downloads": 581,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22074.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.22103.6",
-          "downloads": 592,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22103.6.json"
-        },
-        {
-          "version": "0.2.0-alpha.22110.2",
-          "downloads": 670,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22110.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.22154.1",
-          "downloads": 346,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22154.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.22212.1",
-          "downloads": 289,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22212.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.22212.2",
-          "downloads": 314,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22212.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.22215.2",
-          "downloads": 323,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22215.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.22221.1",
-          "downloads": 304,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22221.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.22228.2",
-          "downloads": 943,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22228.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.22419.1",
-          "downloads": 331,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22419.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.22466.1",
-          "downloads": 353,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22466.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.22510.1",
-          "downloads": 410,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22510.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.22566.1",
-          "downloads": 247,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22566.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.22568.1",
-          "downloads": 325,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22568.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.22608.1",
-          "downloads": 231,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22608.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.22613.1",
-          "downloads": 247,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22613.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.22619.1",
-          "downloads": 446,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.22619.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.23114.2",
-          "downloads": 240,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23114.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.23116.1",
-          "downloads": 362,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23116.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.23156.1",
-          "downloads": 591,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23156.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.23269.1",
-          "downloads": 1101,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23269.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.23381.1",
-          "downloads": 225,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23381.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.23401.2",
-          "downloads": 228,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23401.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.23407.3",
-          "downloads": 215,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23407.3.json"
-        },
-        {
-          "version": "0.2.0-alpha.23410.1",
-          "downloads": 286,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23410.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.23414.1",
-          "downloads": 211,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23414.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.23422.5",
-          "downloads": 1334,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23422.5.json"
-        },
-        {
-          "version": "0.2.0-alpha.23517.3",
-          "downloads": 815,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23517.3.json"
-        },
-        {
-          "version": "0.2.0-alpha.23555.1",
-          "downloads": 270,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23555.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.23557.3",
-          "downloads": 300,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23557.3.json"
-        },
-        {
-          "version": "0.2.0-alpha.23564.1",
-          "downloads": 914,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23564.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.23614.5",
-          "downloads": 702,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.23614.5.json"
-        },
-        {
-          "version": "0.2.0-alpha.24062.1",
-          "downloads": 218,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24062.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.24066.1",
-          "downloads": 968,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24066.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.24114.2",
-          "downloads": 54660,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24114.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.24305.2",
-          "downloads": 264,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24305.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.24310.2",
-          "downloads": 198,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24310.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.24313.2",
-          "downloads": 4651,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24313.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.24421.1",
-          "downloads": 26461,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24421.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.24468.1",
-          "downloads": 49290,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24468.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.24551.1",
-          "downloads": 1693,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24551.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.24576.2",
-          "downloads": 21939,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.24576.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.25056.1",
-          "downloads": 1373712,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.25056.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.25114.3",
-          "downloads": 327850,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.25114.3.json"
-        },
-        {
-          "version": "0.2.0-alpha.25118.2",
-          "downloads": 288920,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.25118.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.25128.2",
-          "downloads": 159081,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.25128.2.json"
-        },
-        {
-          "version": "0.2.0-alpha.25418.1",
-          "downloads": 705,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.25418.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.25426.3",
-          "downloads": 376,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.25426.3.json"
-        },
-        {
-          "version": "0.2.0-alpha.25426.4",
-          "downloads": 3561,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.25426.4.json"
-        },
-        {
-          "version": "0.2.0-alpha.25473.1",
-          "downloads": 47666,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.25473.1.json"
-        },
-        {
-          "version": "0.2.0-alpha.26316.1",
-          "downloads": 664436,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.26316.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nuke.globaltool/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/nuke.globaltool/index.json",
@@ -44019,11 +44034,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/index.json",
       "id": "FunFair.BuildVersion",
-      "version": "6.2.20.2399-main",
+      "version": "6.2.20.2401-main",
       "description": "Build versioning tool.",
       "summary": "",
       "title": "FunFair.BuildVersion",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.20.2399-main/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.20.2401-main/icon",
       "projectUrl": "https://github.com/funfair-tech/funfair-build-version",
       "tags": [
         "FunFair",
@@ -57078,6 +57093,16 @@
           "version": "6.2.20.2399-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2399-main.json"
+        },
+        {
+          "version": "6.2.20.2400-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2400-main.json"
+        },
+        {
+          "version": "6.2.20.2401-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2401-main.json"
         }
       ],
       "vulnerabilities": []
@@ -60537,12 +60562,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/index.json",
       "id": "StrawberryShake.Tools",
-      "version": "16.7.0-p.22",
+      "version": "16.7.0-p.24",
       "description": "Package Description",
       "summary": "",
       "title": "StrawberryShake.Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/strawberryshake.tools/16.7.0-p.22/icon",
-      "licenseUrl": "https://www.nuget.org/packages/StrawberryShake.Tools/16.7.0-p.22/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/strawberryshake.tools/16.7.0-p.24/icon",
+      "licenseUrl": "https://www.nuget.org/packages/StrawberryShake.Tools/16.7.0-p.24/license",
       "projectUrl": "https://chillicream.com/",
       "tags": [
         "GraphQL",
@@ -61436,6 +61461,16 @@
           "version": "16.7.0-p.22",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.7.0-p.22.json"
+        },
+        {
+          "version": "16.7.0-p.23",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.7.0-p.23.json"
+        },
+        {
+          "version": "16.7.0-p.24",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.7.0-p.24.json"
         }
       ],
       "vulnerabilities": []
@@ -74701,135 +74736,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/index.json",
-      "id": "Amazon.Lambda.TestTool-3.1",
-      "version": "0.14.1",
-      "description": "A tool to help debug and test your .NET Core 3.1 AWS Lambda functions locally.",
-      "summary": "",
-      "title": "Amazon.Lambda.TestTool-3.1",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/amazon.lambda.testtool-3.1/0.14.1/icon",
-      "licenseUrl": "http://aws.amazon.com/apache2.0/",
-      "projectUrl": "https://github.com/aws/aws-lambda-dotnet",
-      "tags": [
-        "AWS",
-        "Amazon",
-        "Lambda"
-      ],
-      "authors": [
-        "Amazon Web Services"
-      ],
-      "owners": [
-        "awsdotnet"
-      ],
-      "totalDownloads": 2301859,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.10.0",
-          "downloads": 93736,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.10.0.json"
-        },
-        {
-          "version": "0.10.1",
-          "downloads": 160178,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.10.1.json"
-        },
-        {
-          "version": "0.11.0",
-          "downloads": 47482,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.0.json"
-        },
-        {
-          "version": "0.11.1",
-          "downloads": 114120,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.1.json"
-        },
-        {
-          "version": "0.11.2",
-          "downloads": 17073,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.2.json"
-        },
-        {
-          "version": "0.11.3",
-          "downloads": 527888,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.3.json"
-        },
-        {
-          "version": "0.11.4",
-          "downloads": 188867,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.4.json"
-        },
-        {
-          "version": "0.12.0",
-          "downloads": 55452,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.0.json"
-        },
-        {
-          "version": "0.12.1",
-          "downloads": 128756,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.1.json"
-        },
-        {
-          "version": "0.12.2",
-          "downloads": 146209,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.2.json"
-        },
-        {
-          "version": "0.12.3",
-          "downloads": 174678,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.3.json"
-        },
-        {
-          "version": "0.12.4",
-          "downloads": 42875,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.4.json"
-        },
-        {
-          "version": "0.12.5",
-          "downloads": 4028,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.5.json"
-        },
-        {
-          "version": "0.12.6",
-          "downloads": 70219,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.6.json"
-        },
-        {
-          "version": "0.12.7",
-          "downloads": 234153,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.7.json"
-        },
-        {
-          "version": "0.13.0",
-          "downloads": 65263,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.13.0.json"
-        },
-        {
-          "version": "0.13.1",
-          "downloads": 37867,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.13.1.json"
-        },
-        {
-          "version": "0.14.0",
-          "downloads": 14001,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.14.0.json"
-        },
-        {
-          "version": "0.14.1",
-          "downloads": 179014,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.14.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/ilspycmd/index.json",
@@ -75165,6 +75071,135 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/index.json",
+      "id": "Amazon.Lambda.TestTool-3.1",
+      "version": "0.14.1",
+      "description": "A tool to help debug and test your .NET Core 3.1 AWS Lambda functions locally.",
+      "summary": "",
+      "title": "Amazon.Lambda.TestTool-3.1",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/amazon.lambda.testtool-3.1/0.14.1/icon",
+      "licenseUrl": "http://aws.amazon.com/apache2.0/",
+      "projectUrl": "https://github.com/aws/aws-lambda-dotnet",
+      "tags": [
+        "AWS",
+        "Amazon",
+        "Lambda"
+      ],
+      "authors": [
+        "Amazon Web Services"
+      ],
+      "owners": [
+        "awsdotnet"
+      ],
+      "totalDownloads": 2301859,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.10.0",
+          "downloads": 93736,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.10.0.json"
+        },
+        {
+          "version": "0.10.1",
+          "downloads": 160178,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.10.1.json"
+        },
+        {
+          "version": "0.11.0",
+          "downloads": 47482,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.0.json"
+        },
+        {
+          "version": "0.11.1",
+          "downloads": 114120,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.1.json"
+        },
+        {
+          "version": "0.11.2",
+          "downloads": 17073,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.2.json"
+        },
+        {
+          "version": "0.11.3",
+          "downloads": 527888,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.3.json"
+        },
+        {
+          "version": "0.11.4",
+          "downloads": 188867,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.4.json"
+        },
+        {
+          "version": "0.12.0",
+          "downloads": 55452,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.0.json"
+        },
+        {
+          "version": "0.12.1",
+          "downloads": 128756,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.1.json"
+        },
+        {
+          "version": "0.12.2",
+          "downloads": 146209,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.2.json"
+        },
+        {
+          "version": "0.12.3",
+          "downloads": 174678,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.3.json"
+        },
+        {
+          "version": "0.12.4",
+          "downloads": 42875,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.4.json"
+        },
+        {
+          "version": "0.12.5",
+          "downloads": 4028,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.5.json"
+        },
+        {
+          "version": "0.12.6",
+          "downloads": 70219,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.6.json"
+        },
+        {
+          "version": "0.12.7",
+          "downloads": 234153,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.7.json"
+        },
+        {
+          "version": "0.13.0",
+          "downloads": 65263,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.13.0.json"
+        },
+        {
+          "version": "0.13.1",
+          "downloads": 37867,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.13.1.json"
+        },
+        {
+          "version": "0.14.0",
+          "downloads": 14001,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.14.0.json"
+        },
+        {
+          "version": "0.14.1",
+          "downloads": 179014,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.14.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sbom.dotnettool/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sbom.dotnettool/index.json",
@@ -75494,11 +75529,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
       "id": "Credfeto.ChangeLog.Cmd",
-      "version": "1.10.207.2696-main",
+      "version": "1.10.207.2700-main",
       "description": "Changelog manager dotnet tool.",
       "summary": "",
       "title": "Credfeto.ChangeLog.Cmd",
-      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.207.2696-main/license",
+      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.207.2700-main/license",
       "tags": [
         "Changelog",
         "tool",
@@ -90928,6 +90963,26 @@
           "version": "1.10.207.2696-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.207.2696-main.json"
+        },
+        {
+          "version": "1.10.207.2697-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.207.2697-main.json"
+        },
+        {
+          "version": "1.10.207.2698-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.207.2698-main.json"
+        },
+        {
+          "version": "1.10.207.2699-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.207.2699-main.json"
+        },
+        {
+          "version": "1.10.207.2700-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.207.2700-main.json"
         }
       ],
       "vulnerabilities": []
@@ -91247,11 +91302,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/browserstack-sdk/index.json",
       "id": "browserstack-sdk",
-      "version": "1.50.3",
+      "version": "1.50.4",
       "description": "Package Description",
       "summary": "",
       "title": "browserstack-sdk",
-      "licenseUrl": "https://www.nuget.org/packages/browserstack-sdk/1.50.3/license",
+      "licenseUrl": "https://www.nuget.org/packages/browserstack-sdk/1.50.4/license",
       "tags": [],
       "authors": [
         "browserstack-sdk"
@@ -92361,6 +92416,11 @@
           "version": "1.50.3",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/browserstack-sdk/1.50.3.json"
+        },
+        {
+          "version": "1.50.4",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/browserstack-sdk/1.50.4.json"
         }
       ],
       "vulnerabilities": []
@@ -97779,6 +97839,104 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/index.json",
+      "id": "dotnetsay",
+      "version": "3.0.3",
+      "description": "A simple .NET tool that prints dotnetbot",
+      "summary": "",
+      "title": "dotnetsay",
+      "licenseUrl": "https://www.nuget.org/packages/dotnetsay/3.0.3/license",
+      "tags": [],
+      "authors": [
+        "Richard Lander"
+      ],
+      "owners": [
+        "richlander"
+      ],
+      "totalDownloads": 1425046,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloads": 2021,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/1.0.0.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 2322,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.0.0.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 1776,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.0.json"
+        },
+        {
+          "version": "2.1.1",
+          "downloads": 1617,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.1.json"
+        },
+        {
+          "version": "2.1.2",
+          "downloads": 1698,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.2.json"
+        },
+        {
+          "version": "2.1.3",
+          "downloads": 2909,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.3.json"
+        },
+        {
+          "version": "2.1.4",
+          "downloads": 47296,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.4.json"
+        },
+        {
+          "version": "2.1.5",
+          "downloads": 743,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.5.json"
+        },
+        {
+          "version": "2.1.6",
+          "downloads": 788,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.6.json"
+        },
+        {
+          "version": "2.1.7",
+          "downloads": 191367,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.7.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 171,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.0.json"
+        },
+        {
+          "version": "3.0.1",
+          "downloads": 208,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.1.json"
+        },
+        {
+          "version": "3.0.2",
+          "downloads": 324,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.2.json"
+        },
+        {
+          "version": "3.0.3",
+          "downloads": 1171806,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.3.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.octoversion.tool/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.octoversion.tool/index.json",
@@ -98398,104 +98556,6 @@
           "version": "1.1.79",
           "downloads": 7869,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.octoversion.tool/1.1.79.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/index.json",
-      "id": "dotnetsay",
-      "version": "3.0.3",
-      "description": "A simple .NET tool that prints dotnetbot",
-      "summary": "",
-      "title": "dotnetsay",
-      "licenseUrl": "https://www.nuget.org/packages/dotnetsay/3.0.3/license",
-      "tags": [],
-      "authors": [
-        "Richard Lander"
-      ],
-      "owners": [
-        "richlander"
-      ],
-      "totalDownloads": 1425046,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "downloads": 2021,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/1.0.0.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 2322,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.0.0.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 1776,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.0.json"
-        },
-        {
-          "version": "2.1.1",
-          "downloads": 1617,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.1.json"
-        },
-        {
-          "version": "2.1.2",
-          "downloads": 1698,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.2.json"
-        },
-        {
-          "version": "2.1.3",
-          "downloads": 2909,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.3.json"
-        },
-        {
-          "version": "2.1.4",
-          "downloads": 47296,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.4.json"
-        },
-        {
-          "version": "2.1.5",
-          "downloads": 743,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.5.json"
-        },
-        {
-          "version": "2.1.6",
-          "downloads": 788,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.6.json"
-        },
-        {
-          "version": "2.1.7",
-          "downloads": 191367,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.7.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 171,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.0.json"
-        },
-        {
-          "version": "3.0.1",
-          "downloads": 208,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.1.json"
-        },
-        {
-          "version": "3.0.2",
-          "downloads": 324,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.2.json"
-        },
-        {
-          "version": "3.0.3",
-          "downloads": 1171806,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.3.json"
         }
       ],
       "vulnerabilities": []
