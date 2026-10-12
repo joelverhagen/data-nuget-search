@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 544899,
+  "totalHits": 545363,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -49198,291 +49198,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/index.json",
-      "id": "Serilog.Extensions.Hosting",
-      "version": "10.0.0",
-      "description": "Serilog support for .NET Core logging in hosted services",
-      "summary": "",
-      "title": "Serilog.Extensions.Hosting",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/serilog.extensions.hosting/10.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Serilog.Extensions.Hosting/10.0.0/license",
-      "projectUrl": "https://github.com/serilog/serilog-extensions-hosting",
-      "tags": [
-        "serilog",
-        "aspnet",
-        "aspnetcore",
-        "hosting"
-      ],
-      "authors": [
-        "Microsoft,Serilog Contributors"
-      ],
-      "owners": [
-        "serilog"
-      ],
-      "totalDownloads": 883921730,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.0.0-dev-00001",
-          "downloads": 23508,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/2.0.0-dev-00001.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 3726306,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/2.0.0.json"
-        },
-        {
-          "version": "2.0.1-dev-00004",
-          "downloads": 2717,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/2.0.1-dev-00004.json"
-        },
-        {
-          "version": "2.0.1-dev-00007",
-          "downloads": 2792,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/2.0.1-dev-00007.json"
-        },
-        {
-          "version": "2.0.1-dev-00009",
-          "downloads": 111975,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/2.0.1-dev-00009.json"
-        },
-        {
-          "version": "3.0.0-dev-00015",
-          "downloads": 1672,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.0.0-dev-00015.json"
-        },
-        {
-          "version": "3.0.0-dev-00016",
-          "downloads": 6422,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.0.0-dev-00016.json"
-        },
-        {
-          "version": "3.0.0-dev-00019",
-          "downloads": 136235,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.0.0-dev-00019.json"
-        },
-        {
-          "version": "3.0.0-dev-00024",
-          "downloads": 1593,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.0.0-dev-00024.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 64056762,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.0.0.json"
-        },
-        {
-          "version": "3.1.0-dev-00035",
-          "downloads": 29755,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.1.0-dev-00035.json"
-        },
-        {
-          "version": "3.1.0-dev-00037",
-          "downloads": 1640,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.1.0-dev-00037.json"
-        },
-        {
-          "version": "3.1.0-dev-00041",
-          "downloads": 1543,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.1.0-dev-00041.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 56161895,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.1.0.json"
-        },
-        {
-          "version": "4.0.0-dev-00050",
-          "downloads": 1451,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.0.0-dev-00050.json"
-        },
-        {
-          "version": "4.0.0-dev-00051",
-          "downloads": 104532,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.0.0-dev-00051.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 1478505,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.0.0.json"
-        },
-        {
-          "version": "4.1.0-dev-00054",
-          "downloads": 1434,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.1.0-dev-00054.json"
-        },
-        {
-          "version": "4.1.0",
-          "downloads": 1432629,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.1.0.json"
-        },
-        {
-          "version": "4.1.1-dev-00058",
-          "downloads": 1938,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.1.1-dev-00058.json"
-        },
-        {
-          "version": "4.1.1",
-          "downloads": 1137043,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.1.1.json"
-        },
-        {
-          "version": "4.1.2-dev-00062",
-          "downloads": 1391,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.1.2-dev-00062.json"
-        },
-        {
-          "version": "4.1.2",
-          "downloads": 94626920,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.1.2.json"
-        },
-        {
-          "version": "4.2.0-dev-00079",
-          "downloads": 1192,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.2.0-dev-00079.json"
-        },
-        {
-          "version": "4.2.0",
-          "downloads": 66185270,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.2.0.json"
-        },
-        {
-          "version": "4.2.1-dev-00092",
-          "downloads": 17023,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.2.1-dev-00092.json"
-        },
-        {
-          "version": "5.0.0-dev-00093",
-          "downloads": 388742,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/5.0.0-dev-00093.json"
-        },
-        {
-          "version": "5.0.0-dev-00094",
-          "downloads": 1144,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/5.0.0-dev-00094.json"
-        },
-        {
-          "version": "5.0.0-dev-00095",
-          "downloads": 55581,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/5.0.0-dev-00095.json"
-        },
-        {
-          "version": "5.0.0-dev-00108",
-          "downloads": 1114,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/5.0.0-dev-00108.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 3914404,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/5.0.0.json"
-        },
-        {
-          "version": "5.0.1-dev-00113",
-          "downloads": 1553,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/5.0.1-dev-00113.json"
-        },
-        {
-          "version": "5.0.1",
-          "downloads": 129127193,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/5.0.1.json"
-        },
-        {
-          "version": "5.1.0-dev-00123",
-          "downloads": 21978,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/5.1.0-dev-00123.json"
-        },
-        {
-          "version": "7.0.0-dev-00126",
-          "downloads": 1078,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/7.0.0-dev-00126.json"
-        },
-        {
-          "version": "7.0.0-dev-00129",
-          "downloads": 8731,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/7.0.0-dev-00129.json"
-        },
-        {
-          "version": "7.0.0-dev-00131",
-          "downloads": 1134,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/7.0.0-dev-00131.json"
-        },
-        {
-          "version": "7.0.0",
-          "downloads": 51848394,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/7.0.0.json"
-        },
-        {
-          "version": "8.0.0-dev-00137",
-          "downloads": 879,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/8.0.0-dev-00137.json"
-        },
-        {
-          "version": "8.0.0-dev-00140",
-          "downloads": 623,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/8.0.0-dev-00140.json"
-        },
-        {
-          "version": "8.0.0-dev-00143",
-          "downloads": 646,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/8.0.0-dev-00143.json"
-        },
-        {
-          "version": "8.0.0-dev-00145",
-          "downloads": 672,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/8.0.0-dev-00145.json"
-        },
-        {
-          "version": "8.0.0",
-          "downloads": 223568475,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/8.0.0.json"
-        },
-        {
-          "version": "9.0.0-dev-02301",
-          "downloads": 535,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/9.0.0-dev-02301.json"
-        },
-        {
-          "version": "9.0.0-dev-02303",
-          "downloads": 24781,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/9.0.0-dev-02303.json"
-        },
-        {
-          "version": "9.0.0",
-          "downloads": 109714569,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/9.0.0.json"
-        },
-        {
-          "version": "9.0.1-dev-02307",
-          "downloads": 147369,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/9.0.1-dev-02307.json"
-        },
-        {
-          "version": "10.0.0-dev-02309",
-          "downloads": 477,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/10.0.0-dev-02309.json"
-        },
-        {
-          "version": "10.0.0-dev-02310",
-          "downloads": 524,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/10.0.0-dev-02310.json"
-        },
-        {
-          "version": "10.0.0",
-          "downloads": 75836991,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/10.0.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.common/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.storage.common/index.json",
@@ -49936,6 +49651,291 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/index.json",
+      "id": "Serilog.Extensions.Hosting",
+      "version": "10.0.0",
+      "description": "Serilog support for .NET Core logging in hosted services",
+      "summary": "",
+      "title": "Serilog.Extensions.Hosting",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/serilog.extensions.hosting/10.0.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Serilog.Extensions.Hosting/10.0.0/license",
+      "projectUrl": "https://github.com/serilog/serilog-extensions-hosting",
+      "tags": [
+        "serilog",
+        "aspnet",
+        "aspnetcore",
+        "hosting"
+      ],
+      "authors": [
+        "Microsoft,Serilog Contributors"
+      ],
+      "owners": [
+        "serilog"
+      ],
+      "totalDownloads": 883921730,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.0.0-dev-00001",
+          "downloads": 23508,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/2.0.0-dev-00001.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 3726306,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/2.0.0.json"
+        },
+        {
+          "version": "2.0.1-dev-00004",
+          "downloads": 2717,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/2.0.1-dev-00004.json"
+        },
+        {
+          "version": "2.0.1-dev-00007",
+          "downloads": 2792,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/2.0.1-dev-00007.json"
+        },
+        {
+          "version": "2.0.1-dev-00009",
+          "downloads": 111975,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/2.0.1-dev-00009.json"
+        },
+        {
+          "version": "3.0.0-dev-00015",
+          "downloads": 1672,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.0.0-dev-00015.json"
+        },
+        {
+          "version": "3.0.0-dev-00016",
+          "downloads": 6422,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.0.0-dev-00016.json"
+        },
+        {
+          "version": "3.0.0-dev-00019",
+          "downloads": 136235,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.0.0-dev-00019.json"
+        },
+        {
+          "version": "3.0.0-dev-00024",
+          "downloads": 1593,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.0.0-dev-00024.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 64056762,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.0.0.json"
+        },
+        {
+          "version": "3.1.0-dev-00035",
+          "downloads": 29755,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.1.0-dev-00035.json"
+        },
+        {
+          "version": "3.1.0-dev-00037",
+          "downloads": 1640,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.1.0-dev-00037.json"
+        },
+        {
+          "version": "3.1.0-dev-00041",
+          "downloads": 1543,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.1.0-dev-00041.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 56161895,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/3.1.0.json"
+        },
+        {
+          "version": "4.0.0-dev-00050",
+          "downloads": 1451,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.0.0-dev-00050.json"
+        },
+        {
+          "version": "4.0.0-dev-00051",
+          "downloads": 104532,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.0.0-dev-00051.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 1478505,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.0.0.json"
+        },
+        {
+          "version": "4.1.0-dev-00054",
+          "downloads": 1434,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.1.0-dev-00054.json"
+        },
+        {
+          "version": "4.1.0",
+          "downloads": 1432629,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.1.0.json"
+        },
+        {
+          "version": "4.1.1-dev-00058",
+          "downloads": 1938,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.1.1-dev-00058.json"
+        },
+        {
+          "version": "4.1.1",
+          "downloads": 1137043,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.1.1.json"
+        },
+        {
+          "version": "4.1.2-dev-00062",
+          "downloads": 1391,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.1.2-dev-00062.json"
+        },
+        {
+          "version": "4.1.2",
+          "downloads": 94626920,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.1.2.json"
+        },
+        {
+          "version": "4.2.0-dev-00079",
+          "downloads": 1192,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.2.0-dev-00079.json"
+        },
+        {
+          "version": "4.2.0",
+          "downloads": 66185270,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.2.0.json"
+        },
+        {
+          "version": "4.2.1-dev-00092",
+          "downloads": 17023,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/4.2.1-dev-00092.json"
+        },
+        {
+          "version": "5.0.0-dev-00093",
+          "downloads": 388742,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/5.0.0-dev-00093.json"
+        },
+        {
+          "version": "5.0.0-dev-00094",
+          "downloads": 1144,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/5.0.0-dev-00094.json"
+        },
+        {
+          "version": "5.0.0-dev-00095",
+          "downloads": 55581,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/5.0.0-dev-00095.json"
+        },
+        {
+          "version": "5.0.0-dev-00108",
+          "downloads": 1114,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/5.0.0-dev-00108.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 3914404,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/5.0.0.json"
+        },
+        {
+          "version": "5.0.1-dev-00113",
+          "downloads": 1553,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/5.0.1-dev-00113.json"
+        },
+        {
+          "version": "5.0.1",
+          "downloads": 129127193,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/5.0.1.json"
+        },
+        {
+          "version": "5.1.0-dev-00123",
+          "downloads": 21978,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/5.1.0-dev-00123.json"
+        },
+        {
+          "version": "7.0.0-dev-00126",
+          "downloads": 1078,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/7.0.0-dev-00126.json"
+        },
+        {
+          "version": "7.0.0-dev-00129",
+          "downloads": 8731,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/7.0.0-dev-00129.json"
+        },
+        {
+          "version": "7.0.0-dev-00131",
+          "downloads": 1134,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/7.0.0-dev-00131.json"
+        },
+        {
+          "version": "7.0.0",
+          "downloads": 51848394,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/7.0.0.json"
+        },
+        {
+          "version": "8.0.0-dev-00137",
+          "downloads": 879,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/8.0.0-dev-00137.json"
+        },
+        {
+          "version": "8.0.0-dev-00140",
+          "downloads": 623,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/8.0.0-dev-00140.json"
+        },
+        {
+          "version": "8.0.0-dev-00143",
+          "downloads": 646,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/8.0.0-dev-00143.json"
+        },
+        {
+          "version": "8.0.0-dev-00145",
+          "downloads": 672,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/8.0.0-dev-00145.json"
+        },
+        {
+          "version": "8.0.0",
+          "downloads": 223568475,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/8.0.0.json"
+        },
+        {
+          "version": "9.0.0-dev-02301",
+          "downloads": 535,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/9.0.0-dev-02301.json"
+        },
+        {
+          "version": "9.0.0-dev-02303",
+          "downloads": 24781,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/9.0.0-dev-02303.json"
+        },
+        {
+          "version": "9.0.0",
+          "downloads": 109714569,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/9.0.0.json"
+        },
+        {
+          "version": "9.0.1-dev-02307",
+          "downloads": 147369,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/9.0.1-dev-02307.json"
+        },
+        {
+          "version": "10.0.0-dev-02309",
+          "downloads": 477,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/10.0.0-dev-02309.json"
+        },
+        {
+          "version": "10.0.0-dev-02310",
+          "downloads": 524,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/10.0.0-dev-02310.json"
+        },
+        {
+          "version": "10.0.0",
+          "downloads": 75836991,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/serilog.extensions.hosting/10.0.0.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.current.manifest-8.0.100/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.current.manifest-8.0.100/index.json",
@@ -50117,6 +50117,378 @@
           "version": "8.0.31",
           "downloads": 18691715,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.mono.toolchain.current.manifest-8.0.100/8.0.31.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/index.json",
+      "id": "Microsoft.NET.Workload.Emscripten.Current.Manifest-8.0.100",
+      "version": "8.0.31",
+      "description": "Internal toolchain package not meant for direct consumption. Please do not reference directly.",
+      "summary": "",
+      "title": "Microsoft.NET.Workload.Emscripten.Current.Manifest",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.31/icon",
+      "licenseUrl": "https://github.com/dotnet/emsdk/blob/main/LICENSE",
+      "projectUrl": "https://github.com/dotnet/emsdk",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
+      "totalDownloads": 849764261,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "8.0.0",
+          "downloads": 10508961,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.0.json"
+        },
+        {
+          "version": "8.0.1",
+          "downloads": 12716912,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.1.json"
+        },
+        {
+          "version": "8.0.2",
+          "downloads": 12874018,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.2.json"
+        },
+        {
+          "version": "8.0.3",
+          "downloads": 13629153,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.3.json"
+        },
+        {
+          "version": "8.0.4",
+          "downloads": 18698768,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.4.json"
+        },
+        {
+          "version": "8.0.5",
+          "downloads": 8804286,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.5.json"
+        },
+        {
+          "version": "8.0.6",
+          "downloads": 28326507,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.6.json"
+        },
+        {
+          "version": "8.0.7",
+          "downloads": 23023303,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.7.json"
+        },
+        {
+          "version": "8.0.8",
+          "downloads": 50584921,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.8.json"
+        },
+        {
+          "version": "8.0.10",
+          "downloads": 34663253,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.10.json"
+        },
+        {
+          "version": "8.0.11",
+          "downloads": 54389525,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.11.json"
+        },
+        {
+          "version": "8.0.12",
+          "downloads": 25203467,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.12.json"
+        },
+        {
+          "version": "8.0.13",
+          "downloads": 26954668,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.13.json"
+        },
+        {
+          "version": "8.0.14",
+          "downloads": 26799918,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.14.json"
+        },
+        {
+          "version": "8.0.15",
+          "downloads": 33027399,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.15.json"
+        },
+        {
+          "version": "8.0.16",
+          "downloads": 28127929,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.16.json"
+        },
+        {
+          "version": "8.0.17",
+          "downloads": 27664770,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.17.json"
+        },
+        {
+          "version": "8.0.18",
+          "downloads": 21068136,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.18.json"
+        },
+        {
+          "version": "8.0.19",
+          "downloads": 33581584,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.19.json"
+        },
+        {
+          "version": "8.0.20",
+          "downloads": 34178333,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.20.json"
+        },
+        {
+          "version": "8.0.21",
+          "downloads": 26152915,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.21.json"
+        },
+        {
+          "version": "8.0.22",
+          "downloads": 53556355,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.22.json"
+        },
+        {
+          "version": "8.0.23",
+          "downloads": 25314645,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.23.json"
+        },
+        {
+          "version": "8.0.24",
+          "downloads": 26200662,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.24.json"
+        },
+        {
+          "version": "8.0.25",
+          "downloads": 31766211,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.25.json"
+        },
+        {
+          "version": "8.0.26",
+          "downloads": 24684002,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.26.json"
+        },
+        {
+          "version": "8.0.27",
+          "downloads": 24222148,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.27.json"
+        },
+        {
+          "version": "8.0.28",
+          "downloads": 32290874,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.28.json"
+        },
+        {
+          "version": "8.0.29",
+          "downloads": 29083386,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.29.json"
+        },
+        {
+          "version": "8.0.30",
+          "downloads": 32973735,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.30.json"
+        },
+        {
+          "version": "8.0.31",
+          "downloads": 18693517,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.31.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/index.json",
+      "id": "Microsoft.NET.Workload.Emscripten.net7.Manifest-8.0.100",
+      "version": "8.0.31",
+      "description": "Internal toolchain package not meant for direct consumption. Please do not reference directly.",
+      "summary": "",
+      "title": "Microsoft.NET.Workload.Emscripten.net7.Manifest",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.31/icon",
+      "licenseUrl": "https://github.com/dotnet/emsdk/blob/main/LICENSE",
+      "projectUrl": "https://github.com/dotnet/emsdk",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft"
+      ],
+      "totalDownloads": 849408870,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Dependency"
+        }
+      ],
+      "versions": [
+        {
+          "version": "8.0.0",
+          "downloads": 10506161,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.0.json"
+        },
+        {
+          "version": "8.0.1",
+          "downloads": 12706148,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.1.json"
+        },
+        {
+          "version": "8.0.2",
+          "downloads": 12862559,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.2.json"
+        },
+        {
+          "version": "8.0.3",
+          "downloads": 13620245,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.3.json"
+        },
+        {
+          "version": "8.0.4",
+          "downloads": 18685964,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.4.json"
+        },
+        {
+          "version": "8.0.5",
+          "downloads": 8795674,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.5.json"
+        },
+        {
+          "version": "8.0.6",
+          "downloads": 28308082,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.6.json"
+        },
+        {
+          "version": "8.0.7",
+          "downloads": 23009799,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.7.json"
+        },
+        {
+          "version": "8.0.8",
+          "downloads": 50549293,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.8.json"
+        },
+        {
+          "version": "8.0.10",
+          "downloads": 34634474,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.10.json"
+        },
+        {
+          "version": "8.0.11",
+          "downloads": 54370589,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.11.json"
+        },
+        {
+          "version": "8.0.12",
+          "downloads": 25196509,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.12.json"
+        },
+        {
+          "version": "8.0.13",
+          "downloads": 26948615,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.13.json"
+        },
+        {
+          "version": "8.0.14",
+          "downloads": 26791768,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.14.json"
+        },
+        {
+          "version": "8.0.15",
+          "downloads": 33012372,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.15.json"
+        },
+        {
+          "version": "8.0.16",
+          "downloads": 28111184,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.16.json"
+        },
+        {
+          "version": "8.0.17",
+          "downloads": 27648047,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.17.json"
+        },
+        {
+          "version": "8.0.18",
+          "downloads": 21059510,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.18.json"
+        },
+        {
+          "version": "8.0.19",
+          "downloads": 33565490,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.19.json"
+        },
+        {
+          "version": "8.0.20",
+          "downloads": 34173102,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.20.json"
+        },
+        {
+          "version": "8.0.21",
+          "downloads": 26146436,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.21.json"
+        },
+        {
+          "version": "8.0.22",
+          "downloads": 53510773,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.22.json"
+        },
+        {
+          "version": "8.0.23",
+          "downloads": 25310771,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.23.json"
+        },
+        {
+          "version": "8.0.24",
+          "downloads": 26197281,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.24.json"
+        },
+        {
+          "version": "8.0.25",
+          "downloads": 31765492,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.25.json"
+        },
+        {
+          "version": "8.0.26",
+          "downloads": 24675330,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.26.json"
+        },
+        {
+          "version": "8.0.27",
+          "downloads": 24216048,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.27.json"
+        },
+        {
+          "version": "8.0.28",
+          "downloads": 32287141,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.28.json"
+        },
+        {
+          "version": "8.0.29",
+          "downloads": 29084182,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.29.json"
+        },
+        {
+          "version": "8.0.30",
+          "downloads": 32964889,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.30.json"
+        },
+        {
+          "version": "8.0.31",
+          "downloads": 18694942,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.31.json"
         }
       ],
       "vulnerabilities": []
@@ -50590,378 +50962,6 @@
           "version": "1.19.1",
           "downloads": 857091,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/opentelemetry.api/1.19.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/index.json",
-      "id": "Microsoft.NET.Workload.Emscripten.Current.Manifest-8.0.100",
-      "version": "8.0.31",
-      "description": "Internal toolchain package not meant for direct consumption. Please do not reference directly.",
-      "summary": "",
-      "title": "Microsoft.NET.Workload.Emscripten.Current.Manifest",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.31/icon",
-      "licenseUrl": "https://github.com/dotnet/emsdk/blob/main/LICENSE",
-      "projectUrl": "https://github.com/dotnet/emsdk",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 849764261,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "8.0.0",
-          "downloads": 10508961,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.0.json"
-        },
-        {
-          "version": "8.0.1",
-          "downloads": 12716912,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.1.json"
-        },
-        {
-          "version": "8.0.2",
-          "downloads": 12874018,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.2.json"
-        },
-        {
-          "version": "8.0.3",
-          "downloads": 13629153,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.3.json"
-        },
-        {
-          "version": "8.0.4",
-          "downloads": 18698768,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.4.json"
-        },
-        {
-          "version": "8.0.5",
-          "downloads": 8804286,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.5.json"
-        },
-        {
-          "version": "8.0.6",
-          "downloads": 28326507,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.6.json"
-        },
-        {
-          "version": "8.0.7",
-          "downloads": 23023303,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.7.json"
-        },
-        {
-          "version": "8.0.8",
-          "downloads": 50584921,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.8.json"
-        },
-        {
-          "version": "8.0.10",
-          "downloads": 34663253,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.10.json"
-        },
-        {
-          "version": "8.0.11",
-          "downloads": 54389525,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.11.json"
-        },
-        {
-          "version": "8.0.12",
-          "downloads": 25203467,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.12.json"
-        },
-        {
-          "version": "8.0.13",
-          "downloads": 26954668,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.13.json"
-        },
-        {
-          "version": "8.0.14",
-          "downloads": 26799918,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.14.json"
-        },
-        {
-          "version": "8.0.15",
-          "downloads": 33027399,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.15.json"
-        },
-        {
-          "version": "8.0.16",
-          "downloads": 28127929,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.16.json"
-        },
-        {
-          "version": "8.0.17",
-          "downloads": 27664770,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.17.json"
-        },
-        {
-          "version": "8.0.18",
-          "downloads": 21068136,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.18.json"
-        },
-        {
-          "version": "8.0.19",
-          "downloads": 33581584,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.19.json"
-        },
-        {
-          "version": "8.0.20",
-          "downloads": 34178333,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.20.json"
-        },
-        {
-          "version": "8.0.21",
-          "downloads": 26152915,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.21.json"
-        },
-        {
-          "version": "8.0.22",
-          "downloads": 53556355,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.22.json"
-        },
-        {
-          "version": "8.0.23",
-          "downloads": 25314645,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.23.json"
-        },
-        {
-          "version": "8.0.24",
-          "downloads": 26200662,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.24.json"
-        },
-        {
-          "version": "8.0.25",
-          "downloads": 31766211,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.25.json"
-        },
-        {
-          "version": "8.0.26",
-          "downloads": 24684002,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.26.json"
-        },
-        {
-          "version": "8.0.27",
-          "downloads": 24222148,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.27.json"
-        },
-        {
-          "version": "8.0.28",
-          "downloads": 32290874,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.28.json"
-        },
-        {
-          "version": "8.0.29",
-          "downloads": 29083386,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.29.json"
-        },
-        {
-          "version": "8.0.30",
-          "downloads": 32973735,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.30.json"
-        },
-        {
-          "version": "8.0.31",
-          "downloads": 18693517,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.current.manifest-8.0.100/8.0.31.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/index.json",
-      "id": "Microsoft.NET.Workload.Emscripten.net7.Manifest-8.0.100",
-      "version": "8.0.31",
-      "description": "Internal toolchain package not meant for direct consumption. Please do not reference directly.",
-      "summary": "",
-      "title": "Microsoft.NET.Workload.Emscripten.net7.Manifest",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.31/icon",
-      "licenseUrl": "https://github.com/dotnet/emsdk/blob/main/LICENSE",
-      "projectUrl": "https://github.com/dotnet/emsdk",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft"
-      ],
-      "totalDownloads": 849408870,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Dependency"
-        }
-      ],
-      "versions": [
-        {
-          "version": "8.0.0",
-          "downloads": 10506161,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.0.json"
-        },
-        {
-          "version": "8.0.1",
-          "downloads": 12706148,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.1.json"
-        },
-        {
-          "version": "8.0.2",
-          "downloads": 12862559,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.2.json"
-        },
-        {
-          "version": "8.0.3",
-          "downloads": 13620245,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.3.json"
-        },
-        {
-          "version": "8.0.4",
-          "downloads": 18685964,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.4.json"
-        },
-        {
-          "version": "8.0.5",
-          "downloads": 8795674,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.5.json"
-        },
-        {
-          "version": "8.0.6",
-          "downloads": 28308082,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.6.json"
-        },
-        {
-          "version": "8.0.7",
-          "downloads": 23009799,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.7.json"
-        },
-        {
-          "version": "8.0.8",
-          "downloads": 50549293,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.8.json"
-        },
-        {
-          "version": "8.0.10",
-          "downloads": 34634474,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.10.json"
-        },
-        {
-          "version": "8.0.11",
-          "downloads": 54370589,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.11.json"
-        },
-        {
-          "version": "8.0.12",
-          "downloads": 25196509,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.12.json"
-        },
-        {
-          "version": "8.0.13",
-          "downloads": 26948615,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.13.json"
-        },
-        {
-          "version": "8.0.14",
-          "downloads": 26791768,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.14.json"
-        },
-        {
-          "version": "8.0.15",
-          "downloads": 33012372,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.15.json"
-        },
-        {
-          "version": "8.0.16",
-          "downloads": 28111184,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.16.json"
-        },
-        {
-          "version": "8.0.17",
-          "downloads": 27648047,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.17.json"
-        },
-        {
-          "version": "8.0.18",
-          "downloads": 21059510,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.18.json"
-        },
-        {
-          "version": "8.0.19",
-          "downloads": 33565490,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.19.json"
-        },
-        {
-          "version": "8.0.20",
-          "downloads": 34173102,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.20.json"
-        },
-        {
-          "version": "8.0.21",
-          "downloads": 26146436,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.21.json"
-        },
-        {
-          "version": "8.0.22",
-          "downloads": 53510773,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.22.json"
-        },
-        {
-          "version": "8.0.23",
-          "downloads": 25310771,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.23.json"
-        },
-        {
-          "version": "8.0.24",
-          "downloads": 26197281,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.24.json"
-        },
-        {
-          "version": "8.0.25",
-          "downloads": 31765492,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.25.json"
-        },
-        {
-          "version": "8.0.26",
-          "downloads": 24675330,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.26.json"
-        },
-        {
-          "version": "8.0.27",
-          "downloads": 24216048,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.27.json"
-        },
-        {
-          "version": "8.0.28",
-          "downloads": 32287141,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.28.json"
-        },
-        {
-          "version": "8.0.29",
-          "downloads": 29084182,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.29.json"
-        },
-        {
-          "version": "8.0.30",
-          "downloads": 32964889,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.30.json"
-        },
-        {
-          "version": "8.0.31",
-          "downloads": 18694942,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.workload.emscripten.net7.manifest-8.0.100/8.0.31.json"
         }
       ],
       "vulnerabilities": []
