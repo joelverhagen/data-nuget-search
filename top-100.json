@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 546419,
+  "totalHits": 546830,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/newtonsoft.json/index.json",
@@ -14559,12 +14559,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/index.json",
       "id": "AWSSDK.Core",
-      "version": "4.0.102.10",
+      "version": "4.0.102.11",
       "description": "The Amazon Web Services SDK for .NET - Core Runtime",
       "summary": "",
       "title": "AWSSDK - Core Runtime",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/4.0.102.10/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/4.0.102.10/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.core/4.0.102.11/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.Core/4.0.102.11/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -22120,6 +22120,11 @@
           "version": "4.0.102.10",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/4.0.102.10.json"
+        },
+        {
+          "version": "4.0.102.11",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.core/4.0.102.11.json"
         }
       ],
       "vulnerabilities": []
@@ -53870,6 +53875,108 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/index.json",
+      "id": "Microsoft.NET.Sdk.iOS.Manifest-8.0.100",
+      "version": "18.0.8319",
+      "description": ".NET Workload for iOS platforms",
+      "summary": "",
+      "title": "Microsoft.NET.Sdk.iOS.Manifest-8.0.100",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.sdk.ios.manifest-8.0.100/18.0.8319/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.NET.Sdk.iOS.Manifest-8.0.100/18.0.8319/license",
+      "projectUrl": "https://dot.net/",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft",
+        "Xamarin"
+      ],
+      "totalDownloads": 804015516,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetPlatform"
+        }
+      ],
+      "versions": [
+        {
+          "version": "17.0.8478+sha.4c40479cc",
+          "downloads": 4902896,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.0.8478.json"
+        },
+        {
+          "version": "17.0.8490+sha.42fd006bf",
+          "downloads": 7542573,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.0.8490.json"
+        },
+        {
+          "version": "17.2.8004+sha.a9cf72fde",
+          "downloads": 10589859,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.2.8004.json"
+        },
+        {
+          "version": "17.2.8022+sha.7075fa1d8",
+          "downloads": 9542525,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.2.8022.json"
+        },
+        {
+          "version": "17.2.8043+sha.2cb9d6666",
+          "downloads": 12430880,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.2.8043.json"
+        },
+        {
+          "version": "17.2.8053+sha.cf27e95d7",
+          "downloads": 53519486,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.2.8053.json"
+        },
+        {
+          "version": "17.2.8078+sha.80944cffc",
+          "downloads": 17504460,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.2.8078.json"
+        },
+        {
+          "version": "17.5.8018+sha.271132311",
+          "downloads": 5029763,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.5.8018.json"
+        },
+        {
+          "version": "17.5.8020+sha.700c59ad0",
+          "downloads": 22732413,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.5.8020.json"
+        },
+        {
+          "version": "17.5.8030",
+          "downloads": 16782413,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.5.8030.json"
+        },
+        {
+          "version": "18.0.8303",
+          "downloads": 42631937,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/18.0.8303.json"
+        },
+        {
+          "version": "18.0.8314",
+          "downloads": 15123693,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/18.0.8314.json"
+        },
+        {
+          "version": "18.0.8316",
+          "downloads": 22550117,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/18.0.8316.json"
+        },
+        {
+          "version": "18.0.8319",
+          "downloads": 563132501,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/18.0.8319.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.io.hashing/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/system.io.hashing/index.json",
@@ -54346,108 +54453,6 @@
           "version": "11.0.0-rc.2.26504.105",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/system.io.hashing/11.0.0-rc.2.26504.105.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/index.json",
-      "id": "Microsoft.NET.Sdk.iOS.Manifest-8.0.100",
-      "version": "18.0.8319",
-      "description": ".NET Workload for iOS platforms",
-      "summary": "",
-      "title": "Microsoft.NET.Sdk.iOS.Manifest-8.0.100",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.net.sdk.ios.manifest-8.0.100/18.0.8319/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.NET.Sdk.iOS.Manifest-8.0.100/18.0.8319/license",
-      "projectUrl": "https://dot.net/",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft",
-        "Xamarin"
-      ],
-      "totalDownloads": 804015516,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetPlatform"
-        }
-      ],
-      "versions": [
-        {
-          "version": "17.0.8478+sha.4c40479cc",
-          "downloads": 4902896,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.0.8478.json"
-        },
-        {
-          "version": "17.0.8490+sha.42fd006bf",
-          "downloads": 7542573,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.0.8490.json"
-        },
-        {
-          "version": "17.2.8004+sha.a9cf72fde",
-          "downloads": 10589859,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.2.8004.json"
-        },
-        {
-          "version": "17.2.8022+sha.7075fa1d8",
-          "downloads": 9542525,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.2.8022.json"
-        },
-        {
-          "version": "17.2.8043+sha.2cb9d6666",
-          "downloads": 12430880,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.2.8043.json"
-        },
-        {
-          "version": "17.2.8053+sha.cf27e95d7",
-          "downloads": 53519486,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.2.8053.json"
-        },
-        {
-          "version": "17.2.8078+sha.80944cffc",
-          "downloads": 17504460,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.2.8078.json"
-        },
-        {
-          "version": "17.5.8018+sha.271132311",
-          "downloads": 5029763,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.5.8018.json"
-        },
-        {
-          "version": "17.5.8020+sha.700c59ad0",
-          "downloads": 22732413,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.5.8020.json"
-        },
-        {
-          "version": "17.5.8030",
-          "downloads": 16782413,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/17.5.8030.json"
-        },
-        {
-          "version": "18.0.8303",
-          "downloads": 42631937,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/18.0.8303.json"
-        },
-        {
-          "version": "18.0.8314",
-          "downloads": 15123693,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/18.0.8314.json"
-        },
-        {
-          "version": "18.0.8316",
-          "downloads": 22550117,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/18.0.8316.json"
-        },
-        {
-          "version": "18.0.8319",
-          "downloads": 563132501,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.net.sdk.ios.manifest-8.0.100/18.0.8319.json"
         }
       ],
       "vulnerabilities": []
@@ -58566,12 +58571,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/index.json",
       "id": "AWSSDK.S3",
-      "version": "4.0.104.3",
+      "version": "4.0.104.4",
       "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
       "summary": "",
       "title": "AWSSDK - S3",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/4.0.104.3/icon",
-      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/4.0.104.3/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/awssdk.s3/4.0.104.4/icon",
+      "licenseUrl": "https://www.nuget.org/packages/AWSSDK.S3/4.0.104.4/license",
       "projectUrl": "https://github.com/aws/aws-sdk-net/",
       "tags": [
         "AWS",
@@ -66393,6 +66398,11 @@
           "version": "4.0.104.3",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/4.0.104.3.json"
+        },
+        {
+          "version": "4.0.104.4",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/awssdk.s3/4.0.104.4.json"
         }
       ],
       "vulnerabilities": []
