@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 3808,
+  "totalHits": 3815,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.azure.functions.worker.projecttemplates/index.json",
@@ -2618,6 +2618,347 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/index.json",
+      "id": "Aspire.ProjectTemplates",
+      "version": "13.6.1",
+      "description": "Aspire Template Pack for Microsoft Template Engine",
+      "summary": "",
+      "title": "Aspire.ProjectTemplates",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/aspire.projecttemplates/13.6.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Aspire.ProjectTemplates/13.6.1/license",
+      "projectUrl": "https://github.com/microsoft/aspire",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "aspire",
+        "Microsoft"
+      ],
+      "totalDownloads": 9258329,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Template"
+        }
+      ],
+      "versions": [
+        {
+          "version": "8.0.0-preview.1.23557.2",
+          "downloads": 74466,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.0-preview.1.23557.2.json"
+        },
+        {
+          "version": "8.0.0-preview.2.23619.3",
+          "downloads": 14878,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.0-preview.2.23619.3.json"
+        },
+        {
+          "version": "8.0.0-preview.3.24105.21",
+          "downloads": 16170,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.0-preview.3.24105.21.json"
+        },
+        {
+          "version": "8.0.0-preview.4.24156.9",
+          "downloads": 17455,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.0-preview.4.24156.9.json"
+        },
+        {
+          "version": "8.0.0-preview.5.24201.12",
+          "downloads": 14277,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.0-preview.5.24201.12.json"
+        },
+        {
+          "version": "8.0.0-preview.6.24214.1",
+          "downloads": 12489,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.0-preview.6.24214.1.json"
+        },
+        {
+          "version": "8.0.0-preview.7.24251.11",
+          "downloads": 19392,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.0-preview.7.24251.11.json"
+        },
+        {
+          "version": "8.0.0",
+          "downloads": 2087,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.0.json"
+        },
+        {
+          "version": "8.0.1",
+          "downloads": 75326,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.1.json"
+        },
+        {
+          "version": "8.0.2",
+          "downloads": 50576,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.2.json"
+        },
+        {
+          "version": "8.1.0",
+          "downloads": 118494,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.1.0.json"
+        },
+        {
+          "version": "8.2.0",
+          "downloads": 118819,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.2.0.json"
+        },
+        {
+          "version": "8.2.1",
+          "downloads": 127230,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.2.1.json"
+        },
+        {
+          "version": "8.2.2",
+          "downloads": 1887436,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.2.2.json"
+        },
+        {
+          "version": "9.0.0-preview.1.24113.3",
+          "downloads": 2786,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.0.0-preview.1.24113.3.json"
+        },
+        {
+          "version": "9.0.0-preview.2.24162.2",
+          "downloads": 2604,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.0.0-preview.2.24162.2.json"
+        },
+        {
+          "version": "9.0.0-preview.3.24210.17",
+          "downloads": 4526,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.0.0-preview.3.24210.17.json"
+        },
+        {
+          "version": "9.0.0-rc.1.24511.1",
+          "downloads": 2641,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.0.0-rc.1.24511.1.json"
+        },
+        {
+          "version": "9.0.0",
+          "downloads": 31548,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.0.0.json"
+        },
+        {
+          "version": "9.1.0",
+          "downloads": 18071,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.1.0.json"
+        },
+        {
+          "version": "9.2.0",
+          "downloads": 7421,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.2.0.json"
+        },
+        {
+          "version": "9.2.1",
+          "downloads": 9717,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.2.1.json"
+        },
+        {
+          "version": "9.3.0",
+          "downloads": 10476,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.3.0.json"
+        },
+        {
+          "version": "9.3.1",
+          "downloads": 17161,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.3.1.json"
+        },
+        {
+          "version": "9.4.0",
+          "downloads": 6429,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.4.0.json"
+        },
+        {
+          "version": "9.4.1",
+          "downloads": 10222,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.4.1.json"
+        },
+        {
+          "version": "9.4.2",
+          "downloads": 11166,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.4.2.json"
+        },
+        {
+          "version": "9.5.0",
+          "downloads": 6876,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.5.0.json"
+        },
+        {
+          "version": "9.5.1",
+          "downloads": 12690,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.5.1.json"
+        },
+        {
+          "version": "9.5.2",
+          "downloads": 12467,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.5.2.json"
+        },
+        {
+          "version": "13.0.0",
+          "downloads": 14553,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.0.0.json"
+        },
+        {
+          "version": "13.0.1",
+          "downloads": 5576,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.0.1.json"
+        },
+        {
+          "version": "13.0.2",
+          "downloads": 8118,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.0.2.json"
+        },
+        {
+          "version": "13.1.0",
+          "downloads": 27953,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.1.0.json"
+        },
+        {
+          "version": "13.1.1",
+          "downloads": 8297,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.1.1.json"
+        },
+        {
+          "version": "13.1.2",
+          "downloads": 14342,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.1.2.json"
+        },
+        {
+          "version": "13.1.3",
+          "downloads": 2519,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.1.3.json"
+        },
+        {
+          "version": "13.2.0",
+          "downloads": 4659,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.2.0.json"
+        },
+        {
+          "version": "13.2.1",
+          "downloads": 4752,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.2.1.json"
+        },
+        {
+          "version": "13.2.2",
+          "downloads": 7044,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.2.2.json"
+        },
+        {
+          "version": "13.2.3",
+          "downloads": 2056,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.2.3.json"
+        },
+        {
+          "version": "13.2.4",
+          "downloads": 6848,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.2.4.json"
+        },
+        {
+          "version": "13.3.0",
+          "downloads": 3585,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.3.0.json"
+        },
+        {
+          "version": "13.3.1",
+          "downloads": 1489,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.3.1.json"
+        },
+        {
+          "version": "13.3.2",
+          "downloads": 1470,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.3.2.json"
+        },
+        {
+          "version": "13.3.3",
+          "downloads": 3022,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.3.3.json"
+        },
+        {
+          "version": "13.3.4",
+          "downloads": 1172,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.3.4.json"
+        },
+        {
+          "version": "13.3.5",
+          "downloads": 9234,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.3.5.json"
+        },
+        {
+          "version": "13.4.0",
+          "downloads": 3083,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.4.0.json"
+        },
+        {
+          "version": "13.4.1",
+          "downloads": 1321,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.4.1.json"
+        },
+        {
+          "version": "13.4.2",
+          "downloads": 4319,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.4.2.json"
+        },
+        {
+          "version": "13.4.3",
+          "downloads": 4437,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.4.3.json"
+        },
+        {
+          "version": "13.4.4",
+          "downloads": 6353,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.4.4.json"
+        },
+        {
+          "version": "13.4.5",
+          "downloads": 25768,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.4.5.json"
+        },
+        {
+          "version": "13.4.6",
+          "downloads": 1389968,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.4.6.json"
+        },
+        {
+          "version": "13.5.0",
+          "downloads": 317672,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.5.0.json"
+        },
+        {
+          "version": "13.5.1",
+          "downloads": 97068,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.5.1.json"
+        },
+        {
+          "version": "13.5.2",
+          "downloads": 563421,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.5.2.json"
+        },
+        {
+          "version": "13.5.3",
+          "downloads": 2293540,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.5.3.json"
+        },
+        {
+          "version": "13.5.4",
+          "downloads": 1708794,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.5.4.json"
+        },
+        {
+          "version": "13.6.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.6.0.json"
+        },
+        {
+          "version": "13.6.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.6.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.ios.templates/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.ios.templates/index.json",
@@ -3500,347 +3841,6 @@
           "version": "27.0.12212-net11-rc.2",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.ios.templates/27.0.12212-net11-rc.2.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/index.json",
-      "id": "Aspire.ProjectTemplates",
-      "version": "13.6.1",
-      "description": "Aspire Template Pack for Microsoft Template Engine",
-      "summary": "",
-      "title": "Aspire.ProjectTemplates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/aspire.projecttemplates/13.6.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Aspire.ProjectTemplates/13.6.1/license",
-      "projectUrl": "https://github.com/microsoft/aspire",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "aspire",
-        "Microsoft"
-      ],
-      "totalDownloads": 9258329,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Template"
-        }
-      ],
-      "versions": [
-        {
-          "version": "8.0.0-preview.1.23557.2",
-          "downloads": 74466,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.0-preview.1.23557.2.json"
-        },
-        {
-          "version": "8.0.0-preview.2.23619.3",
-          "downloads": 14878,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.0-preview.2.23619.3.json"
-        },
-        {
-          "version": "8.0.0-preview.3.24105.21",
-          "downloads": 16170,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.0-preview.3.24105.21.json"
-        },
-        {
-          "version": "8.0.0-preview.4.24156.9",
-          "downloads": 17455,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.0-preview.4.24156.9.json"
-        },
-        {
-          "version": "8.0.0-preview.5.24201.12",
-          "downloads": 14277,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.0-preview.5.24201.12.json"
-        },
-        {
-          "version": "8.0.0-preview.6.24214.1",
-          "downloads": 12489,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.0-preview.6.24214.1.json"
-        },
-        {
-          "version": "8.0.0-preview.7.24251.11",
-          "downloads": 19392,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.0-preview.7.24251.11.json"
-        },
-        {
-          "version": "8.0.0",
-          "downloads": 2087,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.0.json"
-        },
-        {
-          "version": "8.0.1",
-          "downloads": 75326,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.1.json"
-        },
-        {
-          "version": "8.0.2",
-          "downloads": 50576,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.0.2.json"
-        },
-        {
-          "version": "8.1.0",
-          "downloads": 118494,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.1.0.json"
-        },
-        {
-          "version": "8.2.0",
-          "downloads": 118819,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.2.0.json"
-        },
-        {
-          "version": "8.2.1",
-          "downloads": 127230,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.2.1.json"
-        },
-        {
-          "version": "8.2.2",
-          "downloads": 1887436,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/8.2.2.json"
-        },
-        {
-          "version": "9.0.0-preview.1.24113.3",
-          "downloads": 2786,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.0.0-preview.1.24113.3.json"
-        },
-        {
-          "version": "9.0.0-preview.2.24162.2",
-          "downloads": 2604,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.0.0-preview.2.24162.2.json"
-        },
-        {
-          "version": "9.0.0-preview.3.24210.17",
-          "downloads": 4526,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.0.0-preview.3.24210.17.json"
-        },
-        {
-          "version": "9.0.0-rc.1.24511.1",
-          "downloads": 2641,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.0.0-rc.1.24511.1.json"
-        },
-        {
-          "version": "9.0.0",
-          "downloads": 31548,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.0.0.json"
-        },
-        {
-          "version": "9.1.0",
-          "downloads": 18071,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.1.0.json"
-        },
-        {
-          "version": "9.2.0",
-          "downloads": 7421,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.2.0.json"
-        },
-        {
-          "version": "9.2.1",
-          "downloads": 9717,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.2.1.json"
-        },
-        {
-          "version": "9.3.0",
-          "downloads": 10476,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.3.0.json"
-        },
-        {
-          "version": "9.3.1",
-          "downloads": 17161,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.3.1.json"
-        },
-        {
-          "version": "9.4.0",
-          "downloads": 6429,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.4.0.json"
-        },
-        {
-          "version": "9.4.1",
-          "downloads": 10222,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.4.1.json"
-        },
-        {
-          "version": "9.4.2",
-          "downloads": 11166,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.4.2.json"
-        },
-        {
-          "version": "9.5.0",
-          "downloads": 6876,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.5.0.json"
-        },
-        {
-          "version": "9.5.1",
-          "downloads": 12690,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.5.1.json"
-        },
-        {
-          "version": "9.5.2",
-          "downloads": 12467,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/9.5.2.json"
-        },
-        {
-          "version": "13.0.0",
-          "downloads": 14553,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.0.0.json"
-        },
-        {
-          "version": "13.0.1",
-          "downloads": 5576,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.0.1.json"
-        },
-        {
-          "version": "13.0.2",
-          "downloads": 8118,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.0.2.json"
-        },
-        {
-          "version": "13.1.0",
-          "downloads": 27953,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.1.0.json"
-        },
-        {
-          "version": "13.1.1",
-          "downloads": 8297,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.1.1.json"
-        },
-        {
-          "version": "13.1.2",
-          "downloads": 14342,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.1.2.json"
-        },
-        {
-          "version": "13.1.3",
-          "downloads": 2519,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.1.3.json"
-        },
-        {
-          "version": "13.2.0",
-          "downloads": 4659,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.2.0.json"
-        },
-        {
-          "version": "13.2.1",
-          "downloads": 4752,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.2.1.json"
-        },
-        {
-          "version": "13.2.2",
-          "downloads": 7044,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.2.2.json"
-        },
-        {
-          "version": "13.2.3",
-          "downloads": 2056,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.2.3.json"
-        },
-        {
-          "version": "13.2.4",
-          "downloads": 6848,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.2.4.json"
-        },
-        {
-          "version": "13.3.0",
-          "downloads": 3585,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.3.0.json"
-        },
-        {
-          "version": "13.3.1",
-          "downloads": 1489,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.3.1.json"
-        },
-        {
-          "version": "13.3.2",
-          "downloads": 1470,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.3.2.json"
-        },
-        {
-          "version": "13.3.3",
-          "downloads": 3022,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.3.3.json"
-        },
-        {
-          "version": "13.3.4",
-          "downloads": 1172,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.3.4.json"
-        },
-        {
-          "version": "13.3.5",
-          "downloads": 9234,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.3.5.json"
-        },
-        {
-          "version": "13.4.0",
-          "downloads": 3083,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.4.0.json"
-        },
-        {
-          "version": "13.4.1",
-          "downloads": 1321,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.4.1.json"
-        },
-        {
-          "version": "13.4.2",
-          "downloads": 4319,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.4.2.json"
-        },
-        {
-          "version": "13.4.3",
-          "downloads": 4437,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.4.3.json"
-        },
-        {
-          "version": "13.4.4",
-          "downloads": 6353,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.4.4.json"
-        },
-        {
-          "version": "13.4.5",
-          "downloads": 25768,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.4.5.json"
-        },
-        {
-          "version": "13.4.6",
-          "downloads": 1389968,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.4.6.json"
-        },
-        {
-          "version": "13.5.0",
-          "downloads": 317672,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.5.0.json"
-        },
-        {
-          "version": "13.5.1",
-          "downloads": 97068,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.5.1.json"
-        },
-        {
-          "version": "13.5.2",
-          "downloads": 563421,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.5.2.json"
-        },
-        {
-          "version": "13.5.3",
-          "downloads": 2293540,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.5.3.json"
-        },
-        {
-          "version": "13.5.4",
-          "downloads": 1708794,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.5.4.json"
-        },
-        {
-          "version": "13.6.0",
-          "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.6.0.json"
-        },
-        {
-          "version": "13.6.1",
-          "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.projecttemplates/13.6.1.json"
         }
       ],
       "vulnerabilities": []
@@ -19076,6 +19076,189 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/index.json",
+      "id": "Microsoft.Maui.Templates.net10",
+      "version": "10.0.110",
+      "description": ".NET Multi-platform App UI (.NET MAUI) project and item templates.",
+      "summary": "",
+      "title": ".NET MAUI Templates",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.maui.templates.net10/10.0.110/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Maui.Templates.net10/10.0.110/license",
+      "projectUrl": "https://github.com/dotnet/maui",
+      "tags": [
+        "dotnet-maui",
+        "dotnet",
+        "maui",
+        "cross-platform",
+        "ios",
+        "android",
+        "macos",
+        "maccatalyst",
+        "windows",
+        "winui"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft",
+        "Xamarin"
+      ],
+      "totalDownloads": 2809058,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "Template"
+        }
+      ],
+      "versions": [
+        {
+          "version": "10.0.0-preview.1.25122.6",
+          "downloads": 1049,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-preview.1.25122.6.json"
+        },
+        {
+          "version": "10.0.0-preview.2.25165.1",
+          "downloads": 934,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-preview.2.25165.1.json"
+        },
+        {
+          "version": "10.0.0-preview.3.25208.1",
+          "downloads": 3137,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-preview.3.25208.1.json"
+        },
+        {
+          "version": "10.0.0-preview.4.25263.4",
+          "downloads": 2928,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-preview.4.25263.4.json"
+        },
+        {
+          "version": "10.0.0-preview.5.25306.5",
+          "downloads": 2190,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-preview.5.25306.5.json"
+        },
+        {
+          "version": "10.0.0-preview.6.25359.8",
+          "downloads": 6079,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-preview.6.25359.8.json"
+        },
+        {
+          "version": "10.0.0-preview.7.25406.3",
+          "downloads": 5839,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-preview.7.25406.3.json"
+        },
+        {
+          "version": "10.0.0-rc.1.25452.6",
+          "downloads": 13137,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-rc.1.25452.6.json"
+        },
+        {
+          "version": "10.0.0-rc.2.25504.7",
+          "downloads": 34396,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-rc.2.25504.7.json"
+        },
+        {
+          "version": "10.0.0",
+          "downloads": 308987,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0.json"
+        },
+        {
+          "version": "10.0.1",
+          "downloads": 396710,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.1.json"
+        },
+        {
+          "version": "10.0.10",
+          "downloads": 970,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.10.json"
+        },
+        {
+          "version": "10.0.11",
+          "downloads": 1005,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.11.json"
+        },
+        {
+          "version": "10.0.20",
+          "downloads": 2025233,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.20.json"
+        },
+        {
+          "version": "10.0.30",
+          "downloads": 544,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.30.json"
+        },
+        {
+          "version": "10.0.31",
+          "downloads": 411,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.31.json"
+        },
+        {
+          "version": "10.0.40",
+          "downloads": 407,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.40.json"
+        },
+        {
+          "version": "10.0.41",
+          "downloads": 588,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.41.json"
+        },
+        {
+          "version": "10.0.50",
+          "downloads": 381,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.50.json"
+        },
+        {
+          "version": "10.0.51",
+          "downloads": 407,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.51.json"
+        },
+        {
+          "version": "10.0.60",
+          "downloads": 348,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.60.json"
+        },
+        {
+          "version": "10.0.70",
+          "downloads": 296,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.70.json"
+        },
+        {
+          "version": "10.0.71",
+          "downloads": 288,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.71.json"
+        },
+        {
+          "version": "10.0.80",
+          "downloads": 572,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.80.json"
+        },
+        {
+          "version": "10.0.90",
+          "downloads": 325,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.90.json"
+        },
+        {
+          "version": "10.0.100",
+          "downloads": 304,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.100.json"
+        },
+        {
+          "version": "10.0.101",
+          "downloads": 958,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.101.json"
+        },
+        {
+          "version": "10.0.110",
+          "downloads": 635,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.110.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.api/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.api/index.json",
@@ -24557,189 +24740,6 @@
           "version": "4.9.9.96",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/furion.template.api/4.9.9.96.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/index.json",
-      "id": "Microsoft.Maui.Templates.net10",
-      "version": "10.0.110",
-      "description": ".NET Multi-platform App UI (.NET MAUI) project and item templates.",
-      "summary": "",
-      "title": ".NET MAUI Templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.maui.templates.net10/10.0.110/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.Maui.Templates.net10/10.0.110/license",
-      "projectUrl": "https://github.com/dotnet/maui",
-      "tags": [
-        "dotnet-maui",
-        "dotnet",
-        "maui",
-        "cross-platform",
-        "ios",
-        "android",
-        "macos",
-        "maccatalyst",
-        "windows",
-        "winui"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft",
-        "Xamarin"
-      ],
-      "totalDownloads": 2809058,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "Template"
-        }
-      ],
-      "versions": [
-        {
-          "version": "10.0.0-preview.1.25122.6",
-          "downloads": 1049,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-preview.1.25122.6.json"
-        },
-        {
-          "version": "10.0.0-preview.2.25165.1",
-          "downloads": 934,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-preview.2.25165.1.json"
-        },
-        {
-          "version": "10.0.0-preview.3.25208.1",
-          "downloads": 3137,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-preview.3.25208.1.json"
-        },
-        {
-          "version": "10.0.0-preview.4.25263.4",
-          "downloads": 2928,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-preview.4.25263.4.json"
-        },
-        {
-          "version": "10.0.0-preview.5.25306.5",
-          "downloads": 2190,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-preview.5.25306.5.json"
-        },
-        {
-          "version": "10.0.0-preview.6.25359.8",
-          "downloads": 6079,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-preview.6.25359.8.json"
-        },
-        {
-          "version": "10.0.0-preview.7.25406.3",
-          "downloads": 5839,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-preview.7.25406.3.json"
-        },
-        {
-          "version": "10.0.0-rc.1.25452.6",
-          "downloads": 13137,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-rc.1.25452.6.json"
-        },
-        {
-          "version": "10.0.0-rc.2.25504.7",
-          "downloads": 34396,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0-rc.2.25504.7.json"
-        },
-        {
-          "version": "10.0.0",
-          "downloads": 308987,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.0.json"
-        },
-        {
-          "version": "10.0.1",
-          "downloads": 396710,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.1.json"
-        },
-        {
-          "version": "10.0.10",
-          "downloads": 970,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.10.json"
-        },
-        {
-          "version": "10.0.11",
-          "downloads": 1005,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.11.json"
-        },
-        {
-          "version": "10.0.20",
-          "downloads": 2025233,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.20.json"
-        },
-        {
-          "version": "10.0.30",
-          "downloads": 544,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.30.json"
-        },
-        {
-          "version": "10.0.31",
-          "downloads": 411,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.31.json"
-        },
-        {
-          "version": "10.0.40",
-          "downloads": 407,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.40.json"
-        },
-        {
-          "version": "10.0.41",
-          "downloads": 588,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.41.json"
-        },
-        {
-          "version": "10.0.50",
-          "downloads": 381,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.50.json"
-        },
-        {
-          "version": "10.0.51",
-          "downloads": 407,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.51.json"
-        },
-        {
-          "version": "10.0.60",
-          "downloads": 348,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.60.json"
-        },
-        {
-          "version": "10.0.70",
-          "downloads": 296,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.70.json"
-        },
-        {
-          "version": "10.0.71",
-          "downloads": 288,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.71.json"
-        },
-        {
-          "version": "10.0.80",
-          "downloads": 572,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.80.json"
-        },
-        {
-          "version": "10.0.90",
-          "downloads": 325,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.90.json"
-        },
-        {
-          "version": "10.0.100",
-          "downloads": 304,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.100.json"
-        },
-        {
-          "version": "10.0.101",
-          "downloads": 958,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.101.json"
-        },
-        {
-          "version": "10.0.110",
-          "downloads": 635,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.maui.templates.net10/10.0.110.json"
         }
       ],
       "vulnerabilities": []
@@ -93560,12 +93560,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/uno.templates/index.json",
       "id": "Uno.Templates",
-      "version": "7.0.0-dev.79",
+      "version": "7.0.0-dev.81",
       "description": "Templates for creating Uno Platform apps and libraries",
       "summary": "",
       "title": "Uno.Templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/uno.templates/7.0.0-dev.79/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Uno.Templates/7.0.0-dev.79/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/uno.templates/7.0.0-dev.81/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Uno.Templates/7.0.0-dev.81/license",
       "projectUrl": "https://github.com/unoplatform/uno.templates",
       "tags": [
         "dotnet-new",
@@ -100331,6 +100331,11 @@
           "version": "7.0.0-dev.79",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.templates/7.0.0-dev.79.json"
+        },
+        {
+          "version": "7.0.0-dev.81",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.templates/7.0.0-dev.81.json"
         }
       ],
       "vulnerabilities": []
@@ -111370,12 +111375,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/meshmakers.octo.constructionkit.templates/index.json",
       "id": "Meshmakers.Octo.ConstructionKit.Templates",
-      "version": "3.5.21",
+      "version": "3.5.24",
       "description": "dotnet new templates for Octo Mesh Construction Kits.",
       "summary": "",
       "title": "Octo Mesh Construction Kit Templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/meshmakers.octo.constructionkit.templates/3.5.21/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Meshmakers.Octo.ConstructionKit.Templates/3.5.21/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/meshmakers.octo.constructionkit.templates/3.5.24/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Meshmakers.Octo.ConstructionKit.Templates/3.5.24/license",
       "projectUrl": "https://www.meshmakers.io/",
       "tags": [
         "dotnet-new",
@@ -116097,6 +116102,16 @@
           "version": "3.5.21",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/meshmakers.octo.constructionkit.templates/3.5.21.json"
+        },
+        {
+          "version": "3.5.23",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/meshmakers.octo.constructionkit.templates/3.5.23.json"
+        },
+        {
+          "version": "3.5.24",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/meshmakers.octo.constructionkit.templates/3.5.24.json"
         }
       ],
       "vulnerabilities": []
@@ -116106,12 +116121,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/umbraco.templates/index.json",
       "id": "Umbraco.Templates",
-      "version": "18.2.1",
+      "version": "18.3.0-rc",
       "description": "Contains templates for Umbraco CMS, as well as the templates for creating new packages for the Umbraco CMS.",
       "summary": "",
       "title": "Umbraco CMS - Templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/umbraco.templates/18.2.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Umbraco.Templates/18.2.1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/umbraco.templates/18.3.0-rc/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Umbraco.Templates/18.3.0-rc/license",
       "projectUrl": "https://umbraco.com/",
       "tags": [
         "umbraco"
@@ -117661,6 +117676,11 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/umbraco.templates/17.7.1.json"
         },
         {
+          "version": "17.8.0-rc",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/umbraco.templates/17.8.0-rc.json"
+        },
+        {
           "version": "18.0.0-beta1",
           "downloads": 245,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/umbraco.templates/18.0.0-beta1.json"
@@ -117734,6 +117754,11 @@
           "version": "18.2.1",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/umbraco.templates/18.2.1.json"
+        },
+        {
+          "version": "18.3.0-rc",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/umbraco.templates/18.3.0-rc.json"
         }
       ],
       "vulnerabilities": []
@@ -134339,12 +134364,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/chickensoft.godotpackage/index.json",
       "id": "Chickensoft.GodotPackage",
-      "version": "2.0.39",
+      "version": "2.0.40",
       "description": "A .NET template for quickly creating a C# nuget package for use with Godot 4.",
       "summary": "",
       "title": "GodotPackage",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/chickensoft.godotpackage/2.0.39/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Chickensoft.GodotPackage/2.0.39/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/chickensoft.godotpackage/2.0.40/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Chickensoft.GodotPackage/2.0.40/license",
       "projectUrl": "https://github.com/chickensoft-games/GodotPackageTemplate",
       "tags": [
         "godot",
@@ -136853,6 +136878,11 @@
           "version": "2.0.39",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/chickensoft.godotpackage/2.0.39.json"
+        },
+        {
+          "version": "2.0.40",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/chickensoft.godotpackage/2.0.40.json"
         }
       ],
       "vulnerabilities": []
@@ -136862,12 +136892,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/kentico.xperience.templates/index.json",
       "id": "Kentico.Xperience.Templates",
-      "version": "31.9.2",
+      "version": "31.9.3",
       "description": "Provides a set of .NET project templates used to bootstrap new Xperience by Kentico projects.",
       "summary": "",
       "title": "Kentico Xperience Templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/kentico.xperience.templates/31.9.2/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Kentico.Xperience.Templates/31.9.2/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/kentico.xperience.templates/31.9.3/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Kentico.Xperience.Templates/31.9.3/license",
       "tags": [
         "dotnet-new",
         "templates",
@@ -137937,6 +137967,11 @@
           "version": "31.9.2",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kentico.xperience.templates/31.9.2.json"
+        },
+        {
+          "version": "31.9.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kentico.xperience.templates/31.9.3.json"
         }
       ],
       "vulnerabilities": []
@@ -140161,265 +140196,16 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/index.json",
-      "id": "MvxScaffolding.Templates",
-      "version": "1.16.0",
-      "description": "A customizable template used to scaffold a cross-platform MvvmCross application. Includes a .NET Standard class library. Supports Xamarin Android, Xamarin iOS and UWP project types for Xamarin Native and Xamarin Forms.",
-      "summary": "A customizable template used to scaffold a cross-platform MvvmCross application.",
-      "title": "MvxScaffolding MvvmCross Templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/mvxscaffolding.templates/1.16.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/MvxScaffolding.Templates/1.16.0/license",
-      "projectUrl": "https://github.com/Plac3hold3r/MvxScaffolding",
-      "tags": [
-        "Xamarin",
-        "Xamarin.Forms",
-        "MvvmCross",
-        "C#",
-        "Android",
-        "iOS",
-        "UWP",
-        "Template"
-      ],
-      "authors": [
-        "Plac3hold3r"
-      ],
-      "owners": [
-        "Plac3hold3r"
-      ],
-      "totalDownloads": 280917,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "Template"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.5.1",
-          "downloads": 4850,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.5.1.json"
-        },
-        {
-          "version": "0.6.0",
-          "downloads": 4095,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.6.0.json"
-        },
-        {
-          "version": "0.7.0",
-          "downloads": 5069,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.7.0.json"
-        },
-        {
-          "version": "0.8.0",
-          "downloads": 4944,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.8.0.json"
-        },
-        {
-          "version": "0.9.0",
-          "downloads": 4251,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.9.0.json"
-        },
-        {
-          "version": "0.10.0",
-          "downloads": 4709,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.10.0.json"
-        },
-        {
-          "version": "0.11.0",
-          "downloads": 4655,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.11.0.json"
-        },
-        {
-          "version": "0.12.0",
-          "downloads": 4753,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.12.0.json"
-        },
-        {
-          "version": "0.12.1",
-          "downloads": 4951,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.12.1.json"
-        },
-        {
-          "version": "0.13.0",
-          "downloads": 4146,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.13.0.json"
-        },
-        {
-          "version": "0.14.0",
-          "downloads": 3650,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.14.0.json"
-        },
-        {
-          "version": "0.15.0",
-          "downloads": 3490,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.15.0.json"
-        },
-        {
-          "version": "0.15.1",
-          "downloads": 3557,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.15.1.json"
-        },
-        {
-          "version": "0.16.0",
-          "downloads": 3481,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.16.0.json"
-        },
-        {
-          "version": "0.17.0",
-          "downloads": 3669,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.17.0.json"
-        },
-        {
-          "version": "0.18.0",
-          "downloads": 3505,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.18.0.json"
-        },
-        {
-          "version": "0.19.0",
-          "downloads": 3493,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.19.0.json"
-        },
-        {
-          "version": "0.20.0",
-          "downloads": 3366,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.20.0.json"
-        },
-        {
-          "version": "0.21.0",
-          "downloads": 3737,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.21.0.json"
-        },
-        {
-          "version": "0.22.0",
-          "downloads": 3559,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.22.0.json"
-        },
-        {
-          "version": "0.23.0",
-          "downloads": 3136,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.23.0.json"
-        },
-        {
-          "version": "0.24.0",
-          "downloads": 4923,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.24.0.json"
-        },
-        {
-          "version": "0.25.0",
-          "downloads": 3421,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.25.0.json"
-        },
-        {
-          "version": "0.26.1",
-          "downloads": 3598,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.26.1.json"
-        },
-        {
-          "version": "1.0.0",
-          "downloads": 3142,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.0.0.json"
-        },
-        {
-          "version": "1.2.1",
-          "downloads": 3344,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.2.1.json"
-        },
-        {
-          "version": "1.2.3",
-          "downloads": 3098,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.2.3.json"
-        },
-        {
-          "version": "1.3.0",
-          "downloads": 3395,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.3.0.json"
-        },
-        {
-          "version": "1.4.0",
-          "downloads": 3169,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.4.0.json"
-        },
-        {
-          "version": "1.5.0",
-          "downloads": 3423,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.5.0.json"
-        },
-        {
-          "version": "1.6.0",
-          "downloads": 3245,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.6.0.json"
-        },
-        {
-          "version": "1.7.0",
-          "downloads": 3044,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.7.0.json"
-        },
-        {
-          "version": "1.8.0",
-          "downloads": 3316,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.8.0.json"
-        },
-        {
-          "version": "1.9.0",
-          "downloads": 3263,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.9.0.json"
-        },
-        {
-          "version": "1.9.1",
-          "downloads": 3280,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.9.1.json"
-        },
-        {
-          "version": "1.10.0",
-          "downloads": 3278,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.10.0.json"
-        },
-        {
-          "version": "1.11.0",
-          "downloads": 3315,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.11.0.json"
-        },
-        {
-          "version": "1.12.0",
-          "downloads": 4147,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.12.0.json"
-        },
-        {
-          "version": "1.13.0",
-          "downloads": 4687,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.13.0.json"
-        },
-        {
-          "version": "1.14.0",
-          "downloads": 3951,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.14.0.json"
-        },
-        {
-          "version": "1.15.0",
-          "downloads": 3193,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.15.0.json"
-        },
-        {
-          "version": "1.16.0",
-          "downloads": 6434,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.16.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/index.json",
       "id": "KubeOps.Templates",
-      "version": "13.3.3",
+      "version": "13.3.4-prerelease.3",
       "description": "dotnet new templates for KubeOps operator sdk.",
       "summary": "",
       "title": "KubeOps Templates",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/kubeops.templates/13.3.3/icon",
-      "licenseUrl": "https://www.nuget.org/packages/KubeOps.Templates/13.3.3/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/kubeops.templates/13.3.4-prerelease.3/icon",
+      "licenseUrl": "https://www.nuget.org/packages/KubeOps.Templates/13.3.4-prerelease.3/license",
       "projectUrl": "https://dotnet.github.io/dotnet-operator-sdk/",
       "tags": [
         "dotnet-new",
@@ -142167,6 +141953,270 @@
           "version": "13.3.3",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/13.3.3.json"
+        },
+        {
+          "version": "13.3.4-prerelease.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/13.3.4-prerelease.1.json"
+        },
+        {
+          "version": "13.3.4-prerelease.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/13.3.4-prerelease.2.json"
+        },
+        {
+          "version": "13.3.4-prerelease.3",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/kubeops.templates/13.3.4-prerelease.3.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/index.json",
+      "id": "MvxScaffolding.Templates",
+      "version": "1.16.0",
+      "description": "A customizable template used to scaffold a cross-platform MvvmCross application. Includes a .NET Standard class library. Supports Xamarin Android, Xamarin iOS and UWP project types for Xamarin Native and Xamarin Forms.",
+      "summary": "A customizable template used to scaffold a cross-platform MvvmCross application.",
+      "title": "MvxScaffolding MvvmCross Templates",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/mvxscaffolding.templates/1.16.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/MvxScaffolding.Templates/1.16.0/license",
+      "projectUrl": "https://github.com/Plac3hold3r/MvxScaffolding",
+      "tags": [
+        "Xamarin",
+        "Xamarin.Forms",
+        "MvvmCross",
+        "C#",
+        "Android",
+        "iOS",
+        "UWP",
+        "Template"
+      ],
+      "authors": [
+        "Plac3hold3r"
+      ],
+      "owners": [
+        "Plac3hold3r"
+      ],
+      "totalDownloads": 280917,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "Template"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.5.1",
+          "downloads": 4850,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.5.1.json"
+        },
+        {
+          "version": "0.6.0",
+          "downloads": 4095,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.6.0.json"
+        },
+        {
+          "version": "0.7.0",
+          "downloads": 5069,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.7.0.json"
+        },
+        {
+          "version": "0.8.0",
+          "downloads": 4944,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.8.0.json"
+        },
+        {
+          "version": "0.9.0",
+          "downloads": 4251,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.9.0.json"
+        },
+        {
+          "version": "0.10.0",
+          "downloads": 4709,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.10.0.json"
+        },
+        {
+          "version": "0.11.0",
+          "downloads": 4655,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.11.0.json"
+        },
+        {
+          "version": "0.12.0",
+          "downloads": 4753,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.12.0.json"
+        },
+        {
+          "version": "0.12.1",
+          "downloads": 4951,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.12.1.json"
+        },
+        {
+          "version": "0.13.0",
+          "downloads": 4146,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.13.0.json"
+        },
+        {
+          "version": "0.14.0",
+          "downloads": 3650,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.14.0.json"
+        },
+        {
+          "version": "0.15.0",
+          "downloads": 3490,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.15.0.json"
+        },
+        {
+          "version": "0.15.1",
+          "downloads": 3557,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.15.1.json"
+        },
+        {
+          "version": "0.16.0",
+          "downloads": 3481,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.16.0.json"
+        },
+        {
+          "version": "0.17.0",
+          "downloads": 3669,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.17.0.json"
+        },
+        {
+          "version": "0.18.0",
+          "downloads": 3505,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.18.0.json"
+        },
+        {
+          "version": "0.19.0",
+          "downloads": 3493,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.19.0.json"
+        },
+        {
+          "version": "0.20.0",
+          "downloads": 3366,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.20.0.json"
+        },
+        {
+          "version": "0.21.0",
+          "downloads": 3737,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.21.0.json"
+        },
+        {
+          "version": "0.22.0",
+          "downloads": 3559,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.22.0.json"
+        },
+        {
+          "version": "0.23.0",
+          "downloads": 3136,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.23.0.json"
+        },
+        {
+          "version": "0.24.0",
+          "downloads": 4923,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.24.0.json"
+        },
+        {
+          "version": "0.25.0",
+          "downloads": 3421,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.25.0.json"
+        },
+        {
+          "version": "0.26.1",
+          "downloads": 3598,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/0.26.1.json"
+        },
+        {
+          "version": "1.0.0",
+          "downloads": 3142,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.0.0.json"
+        },
+        {
+          "version": "1.2.1",
+          "downloads": 3344,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.2.1.json"
+        },
+        {
+          "version": "1.2.3",
+          "downloads": 3098,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.2.3.json"
+        },
+        {
+          "version": "1.3.0",
+          "downloads": 3395,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.3.0.json"
+        },
+        {
+          "version": "1.4.0",
+          "downloads": 3169,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.4.0.json"
+        },
+        {
+          "version": "1.5.0",
+          "downloads": 3423,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.5.0.json"
+        },
+        {
+          "version": "1.6.0",
+          "downloads": 3245,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.6.0.json"
+        },
+        {
+          "version": "1.7.0",
+          "downloads": 3044,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.7.0.json"
+        },
+        {
+          "version": "1.8.0",
+          "downloads": 3316,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.8.0.json"
+        },
+        {
+          "version": "1.9.0",
+          "downloads": 3263,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.9.0.json"
+        },
+        {
+          "version": "1.9.1",
+          "downloads": 3280,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.9.1.json"
+        },
+        {
+          "version": "1.10.0",
+          "downloads": 3278,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.10.0.json"
+        },
+        {
+          "version": "1.11.0",
+          "downloads": 3315,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.11.0.json"
+        },
+        {
+          "version": "1.12.0",
+          "downloads": 4147,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.12.0.json"
+        },
+        {
+          "version": "1.13.0",
+          "downloads": 4687,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.13.0.json"
+        },
+        {
+          "version": "1.14.0",
+          "downloads": 3951,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.14.0.json"
+        },
+        {
+          "version": "1.15.0",
+          "downloads": 3193,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.15.0.json"
+        },
+        {
+          "version": "1.16.0",
+          "downloads": 6434,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/mvxscaffolding.templates/1.16.0.json"
         }
       ],
       "vulnerabilities": []
@@ -161089,600 +161139,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/index.json",
-      "id": "XUCore.Template.Mediator",
-      "version": "8.0.1",
-      "description": "XUCore Web Api Mediator",
-      "summary": "",
-      "title": "XUCore Web Api Mediator",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/xucore.template.mediator/8.0.1/icon",
-      "projectUrl": "https://gitee.com/xuyiazl/XUCore.Tmpl",
-      "tags": [
-        "dotnet-new",
-        "templates",
-        "XUCore",
-        "FreeSql"
-      ],
-      "authors": [
-        "XUCore"
-      ],
-      "owners": [
-        "xuyiazl"
-      ],
-      "totalDownloads": 224420,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "Template"
-        }
-      ],
-      "versions": [
-        {
-          "version": "6.9.9",
-          "downloads": 850,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.9.json"
-        },
-        {
-          "version": "6.9.10",
-          "downloads": 861,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.10.json"
-        },
-        {
-          "version": "6.9.11",
-          "downloads": 783,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.11.json"
-        },
-        {
-          "version": "6.9.12",
-          "downloads": 861,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.12.json"
-        },
-        {
-          "version": "6.9.13",
-          "downloads": 829,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.13.json"
-        },
-        {
-          "version": "6.9.14",
-          "downloads": 787,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.14.json"
-        },
-        {
-          "version": "6.9.15",
-          "downloads": 887,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.15.json"
-        },
-        {
-          "version": "6.9.16",
-          "downloads": 874,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.16.json"
-        },
-        {
-          "version": "6.9.17",
-          "downloads": 830,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.17.json"
-        },
-        {
-          "version": "6.9.18",
-          "downloads": 860,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.18.json"
-        },
-        {
-          "version": "7.0.0",
-          "downloads": 772,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.0.json"
-        },
-        {
-          "version": "7.0.1",
-          "downloads": 781,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.1.json"
-        },
-        {
-          "version": "7.0.2",
-          "downloads": 799,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.2.json"
-        },
-        {
-          "version": "7.0.3",
-          "downloads": 748,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.3.json"
-        },
-        {
-          "version": "7.0.4",
-          "downloads": 837,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.4.json"
-        },
-        {
-          "version": "7.0.5",
-          "downloads": 856,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.5.json"
-        },
-        {
-          "version": "7.0.6",
-          "downloads": 800,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.6.json"
-        },
-        {
-          "version": "7.0.7",
-          "downloads": 823,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.7.json"
-        },
-        {
-          "version": "7.0.8",
-          "downloads": 771,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.8.json"
-        },
-        {
-          "version": "7.0.9",
-          "downloads": 849,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.9.json"
-        },
-        {
-          "version": "7.1.0",
-          "downloads": 800,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.0.json"
-        },
-        {
-          "version": "7.1.1",
-          "downloads": 817,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.1.json"
-        },
-        {
-          "version": "7.1.2",
-          "downloads": 796,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.2.json"
-        },
-        {
-          "version": "7.1.3",
-          "downloads": 873,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.3.json"
-        },
-        {
-          "version": "7.1.4",
-          "downloads": 846,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.4.json"
-        },
-        {
-          "version": "7.1.5",
-          "downloads": 820,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.5.json"
-        },
-        {
-          "version": "7.1.6",
-          "downloads": 845,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.6.json"
-        },
-        {
-          "version": "7.1.7",
-          "downloads": 756,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.7.json"
-        },
-        {
-          "version": "7.1.8",
-          "downloads": 774,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.8.json"
-        },
-        {
-          "version": "7.1.9",
-          "downloads": 762,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.9.json"
-        },
-        {
-          "version": "7.2.0",
-          "downloads": 791,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.0.json"
-        },
-        {
-          "version": "7.2.1",
-          "downloads": 866,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.1.json"
-        },
-        {
-          "version": "7.2.2",
-          "downloads": 821,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.2.json"
-        },
-        {
-          "version": "7.2.3",
-          "downloads": 840,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.3.json"
-        },
-        {
-          "version": "7.2.4",
-          "downloads": 834,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.4.json"
-        },
-        {
-          "version": "7.2.5",
-          "downloads": 856,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.5.json"
-        },
-        {
-          "version": "7.2.6",
-          "downloads": 872,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.6.json"
-        },
-        {
-          "version": "7.2.7",
-          "downloads": 859,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.7.json"
-        },
-        {
-          "version": "7.2.8",
-          "downloads": 849,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.8.json"
-        },
-        {
-          "version": "7.2.9",
-          "downloads": 834,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.9.json"
-        },
-        {
-          "version": "7.3.0",
-          "downloads": 808,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.0.json"
-        },
-        {
-          "version": "7.3.1",
-          "downloads": 847,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.1.json"
-        },
-        {
-          "version": "7.3.2",
-          "downloads": 779,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.2.json"
-        },
-        {
-          "version": "7.3.3",
-          "downloads": 788,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.3.json"
-        },
-        {
-          "version": "7.3.4",
-          "downloads": 804,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.4.json"
-        },
-        {
-          "version": "7.3.5",
-          "downloads": 840,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.5.json"
-        },
-        {
-          "version": "7.3.6",
-          "downloads": 813,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.6.json"
-        },
-        {
-          "version": "7.3.7",
-          "downloads": 804,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.7.json"
-        },
-        {
-          "version": "7.3.8",
-          "downloads": 744,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.8.json"
-        },
-        {
-          "version": "7.3.9",
-          "downloads": 795,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.9.json"
-        },
-        {
-          "version": "7.4.0",
-          "downloads": 814,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.0.json"
-        },
-        {
-          "version": "7.4.1",
-          "downloads": 793,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.1.json"
-        },
-        {
-          "version": "7.4.2",
-          "downloads": 736,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.2.json"
-        },
-        {
-          "version": "7.4.3",
-          "downloads": 1015,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.3.json"
-        },
-        {
-          "version": "7.4.4",
-          "downloads": 872,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.4.json"
-        },
-        {
-          "version": "7.4.5",
-          "downloads": 771,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.5.json"
-        },
-        {
-          "version": "7.4.6",
-          "downloads": 931,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.6.json"
-        },
-        {
-          "version": "7.4.7",
-          "downloads": 810,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.7.json"
-        },
-        {
-          "version": "7.4.8",
-          "downloads": 811,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.8.json"
-        },
-        {
-          "version": "7.4.9",
-          "downloads": 792,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.9.json"
-        },
-        {
-          "version": "7.5.0",
-          "downloads": 773,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.0.json"
-        },
-        {
-          "version": "7.5.1",
-          "downloads": 830,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.1.json"
-        },
-        {
-          "version": "7.5.2",
-          "downloads": 822,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.2.json"
-        },
-        {
-          "version": "7.5.3",
-          "downloads": 869,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.3.json"
-        },
-        {
-          "version": "7.5.4",
-          "downloads": 840,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.4.json"
-        },
-        {
-          "version": "7.5.5",
-          "downloads": 821,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.5.json"
-        },
-        {
-          "version": "7.5.6",
-          "downloads": 804,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.6.json"
-        },
-        {
-          "version": "7.5.7",
-          "downloads": 825,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.7.json"
-        },
-        {
-          "version": "7.5.8",
-          "downloads": 820,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.8.json"
-        },
-        {
-          "version": "7.5.9",
-          "downloads": 809,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.9.json"
-        },
-        {
-          "version": "7.6.0",
-          "downloads": 787,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.0.json"
-        },
-        {
-          "version": "7.6.1",
-          "downloads": 790,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.1.json"
-        },
-        {
-          "version": "7.6.2",
-          "downloads": 868,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.2.json"
-        },
-        {
-          "version": "7.6.3",
-          "downloads": 820,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.3.json"
-        },
-        {
-          "version": "7.6.4",
-          "downloads": 748,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.4.json"
-        },
-        {
-          "version": "7.6.5",
-          "downloads": 784,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.5.json"
-        },
-        {
-          "version": "7.6.6",
-          "downloads": 779,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.6.json"
-        },
-        {
-          "version": "7.6.7",
-          "downloads": 756,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.7.json"
-        },
-        {
-          "version": "7.6.8",
-          "downloads": 729,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.8.json"
-        },
-        {
-          "version": "7.6.9",
-          "downloads": 770,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.9.json"
-        },
-        {
-          "version": "7.7.0",
-          "downloads": 865,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.0.json"
-        },
-        {
-          "version": "7.7.1",
-          "downloads": 613,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.1.json"
-        },
-        {
-          "version": "7.7.2",
-          "downloads": 715,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.2.json"
-        },
-        {
-          "version": "7.7.3",
-          "downloads": 652,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.3.json"
-        },
-        {
-          "version": "7.7.4",
-          "downloads": 700,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.4.json"
-        },
-        {
-          "version": "7.7.5",
-          "downloads": 725,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.5.json"
-        },
-        {
-          "version": "7.7.6",
-          "downloads": 675,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.6.json"
-        },
-        {
-          "version": "7.7.7",
-          "downloads": 653,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.7.json"
-        },
-        {
-          "version": "7.7.8",
-          "downloads": 681,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.8.json"
-        },
-        {
-          "version": "7.7.9",
-          "downloads": 707,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.9.json"
-        },
-        {
-          "version": "7.8.0",
-          "downloads": 617,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.0.json"
-        },
-        {
-          "version": "7.8.1",
-          "downloads": 713,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.1.json"
-        },
-        {
-          "version": "7.8.2",
-          "downloads": 754,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.2.json"
-        },
-        {
-          "version": "7.8.3",
-          "downloads": 743,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.3.json"
-        },
-        {
-          "version": "7.8.4",
-          "downloads": 710,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.4.json"
-        },
-        {
-          "version": "7.8.5",
-          "downloads": 695,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.5.json"
-        },
-        {
-          "version": "7.8.6",
-          "downloads": 697,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.6.json"
-        },
-        {
-          "version": "7.8.7",
-          "downloads": 709,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.7.json"
-        },
-        {
-          "version": "7.8.8",
-          "downloads": 686,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.8.json"
-        },
-        {
-          "version": "7.8.9",
-          "downloads": 661,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.9.json"
-        },
-        {
-          "version": "7.9.0",
-          "downloads": 713,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.0.json"
-        },
-        {
-          "version": "7.9.1",
-          "downloads": 827,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.1.json"
-        },
-        {
-          "version": "7.9.2",
-          "downloads": 671,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.2.json"
-        },
-        {
-          "version": "7.9.3",
-          "downloads": 749,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.3.json"
-        },
-        {
-          "version": "7.9.4",
-          "downloads": 832,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.4.json"
-        },
-        {
-          "version": "7.9.5",
-          "downloads": 807,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.5.json"
-        },
-        {
-          "version": "7.9.6",
-          "downloads": 741,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.6.json"
-        },
-        {
-          "version": "7.9.7",
-          "downloads": 750,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.7.json"
-        },
-        {
-          "version": "7.9.8",
-          "downloads": 681,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.8.json"
-        },
-        {
-          "version": "7.9.9",
-          "downloads": 752,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.9.json"
-        },
-        {
-          "version": "8.0.0",
-          "downloads": 726,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/8.0.0.json"
-        },
-        {
-          "version": "8.0.1",
-          "downloads": 3396,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/8.0.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore.templates/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore.templates/index.json",
@@ -162351,6 +161807,600 @@
           "version": "11.0.0-rc.2.26504.105",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore.templates/11.0.0-rc.2.26504.105.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/index.json",
+      "id": "XUCore.Template.Mediator",
+      "version": "8.0.1",
+      "description": "XUCore Web Api Mediator",
+      "summary": "",
+      "title": "XUCore Web Api Mediator",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/xucore.template.mediator/8.0.1/icon",
+      "projectUrl": "https://gitee.com/xuyiazl/XUCore.Tmpl",
+      "tags": [
+        "dotnet-new",
+        "templates",
+        "XUCore",
+        "FreeSql"
+      ],
+      "authors": [
+        "XUCore"
+      ],
+      "owners": [
+        "xuyiazl"
+      ],
+      "totalDownloads": 224420,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "Template"
+        }
+      ],
+      "versions": [
+        {
+          "version": "6.9.9",
+          "downloads": 850,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.9.json"
+        },
+        {
+          "version": "6.9.10",
+          "downloads": 861,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.10.json"
+        },
+        {
+          "version": "6.9.11",
+          "downloads": 783,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.11.json"
+        },
+        {
+          "version": "6.9.12",
+          "downloads": 861,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.12.json"
+        },
+        {
+          "version": "6.9.13",
+          "downloads": 829,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.13.json"
+        },
+        {
+          "version": "6.9.14",
+          "downloads": 787,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.14.json"
+        },
+        {
+          "version": "6.9.15",
+          "downloads": 887,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.15.json"
+        },
+        {
+          "version": "6.9.16",
+          "downloads": 874,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.16.json"
+        },
+        {
+          "version": "6.9.17",
+          "downloads": 830,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.17.json"
+        },
+        {
+          "version": "6.9.18",
+          "downloads": 860,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/6.9.18.json"
+        },
+        {
+          "version": "7.0.0",
+          "downloads": 772,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.0.json"
+        },
+        {
+          "version": "7.0.1",
+          "downloads": 781,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.1.json"
+        },
+        {
+          "version": "7.0.2",
+          "downloads": 799,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.2.json"
+        },
+        {
+          "version": "7.0.3",
+          "downloads": 748,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.3.json"
+        },
+        {
+          "version": "7.0.4",
+          "downloads": 837,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.4.json"
+        },
+        {
+          "version": "7.0.5",
+          "downloads": 856,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.5.json"
+        },
+        {
+          "version": "7.0.6",
+          "downloads": 800,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.6.json"
+        },
+        {
+          "version": "7.0.7",
+          "downloads": 823,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.7.json"
+        },
+        {
+          "version": "7.0.8",
+          "downloads": 771,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.8.json"
+        },
+        {
+          "version": "7.0.9",
+          "downloads": 849,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.0.9.json"
+        },
+        {
+          "version": "7.1.0",
+          "downloads": 800,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.0.json"
+        },
+        {
+          "version": "7.1.1",
+          "downloads": 817,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.1.json"
+        },
+        {
+          "version": "7.1.2",
+          "downloads": 796,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.2.json"
+        },
+        {
+          "version": "7.1.3",
+          "downloads": 873,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.3.json"
+        },
+        {
+          "version": "7.1.4",
+          "downloads": 846,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.4.json"
+        },
+        {
+          "version": "7.1.5",
+          "downloads": 820,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.5.json"
+        },
+        {
+          "version": "7.1.6",
+          "downloads": 845,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.6.json"
+        },
+        {
+          "version": "7.1.7",
+          "downloads": 756,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.7.json"
+        },
+        {
+          "version": "7.1.8",
+          "downloads": 774,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.8.json"
+        },
+        {
+          "version": "7.1.9",
+          "downloads": 762,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.1.9.json"
+        },
+        {
+          "version": "7.2.0",
+          "downloads": 791,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.0.json"
+        },
+        {
+          "version": "7.2.1",
+          "downloads": 866,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.1.json"
+        },
+        {
+          "version": "7.2.2",
+          "downloads": 821,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.2.json"
+        },
+        {
+          "version": "7.2.3",
+          "downloads": 840,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.3.json"
+        },
+        {
+          "version": "7.2.4",
+          "downloads": 834,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.4.json"
+        },
+        {
+          "version": "7.2.5",
+          "downloads": 856,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.5.json"
+        },
+        {
+          "version": "7.2.6",
+          "downloads": 872,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.6.json"
+        },
+        {
+          "version": "7.2.7",
+          "downloads": 859,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.7.json"
+        },
+        {
+          "version": "7.2.8",
+          "downloads": 849,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.8.json"
+        },
+        {
+          "version": "7.2.9",
+          "downloads": 834,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.2.9.json"
+        },
+        {
+          "version": "7.3.0",
+          "downloads": 808,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.0.json"
+        },
+        {
+          "version": "7.3.1",
+          "downloads": 847,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.1.json"
+        },
+        {
+          "version": "7.3.2",
+          "downloads": 779,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.2.json"
+        },
+        {
+          "version": "7.3.3",
+          "downloads": 788,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.3.json"
+        },
+        {
+          "version": "7.3.4",
+          "downloads": 804,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.4.json"
+        },
+        {
+          "version": "7.3.5",
+          "downloads": 840,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.5.json"
+        },
+        {
+          "version": "7.3.6",
+          "downloads": 813,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.6.json"
+        },
+        {
+          "version": "7.3.7",
+          "downloads": 804,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.7.json"
+        },
+        {
+          "version": "7.3.8",
+          "downloads": 744,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.8.json"
+        },
+        {
+          "version": "7.3.9",
+          "downloads": 795,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.3.9.json"
+        },
+        {
+          "version": "7.4.0",
+          "downloads": 814,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.0.json"
+        },
+        {
+          "version": "7.4.1",
+          "downloads": 793,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.1.json"
+        },
+        {
+          "version": "7.4.2",
+          "downloads": 736,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.2.json"
+        },
+        {
+          "version": "7.4.3",
+          "downloads": 1015,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.3.json"
+        },
+        {
+          "version": "7.4.4",
+          "downloads": 872,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.4.json"
+        },
+        {
+          "version": "7.4.5",
+          "downloads": 771,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.5.json"
+        },
+        {
+          "version": "7.4.6",
+          "downloads": 931,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.6.json"
+        },
+        {
+          "version": "7.4.7",
+          "downloads": 810,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.7.json"
+        },
+        {
+          "version": "7.4.8",
+          "downloads": 811,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.8.json"
+        },
+        {
+          "version": "7.4.9",
+          "downloads": 792,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.4.9.json"
+        },
+        {
+          "version": "7.5.0",
+          "downloads": 773,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.0.json"
+        },
+        {
+          "version": "7.5.1",
+          "downloads": 830,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.1.json"
+        },
+        {
+          "version": "7.5.2",
+          "downloads": 822,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.2.json"
+        },
+        {
+          "version": "7.5.3",
+          "downloads": 869,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.3.json"
+        },
+        {
+          "version": "7.5.4",
+          "downloads": 840,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.4.json"
+        },
+        {
+          "version": "7.5.5",
+          "downloads": 821,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.5.json"
+        },
+        {
+          "version": "7.5.6",
+          "downloads": 804,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.6.json"
+        },
+        {
+          "version": "7.5.7",
+          "downloads": 825,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.7.json"
+        },
+        {
+          "version": "7.5.8",
+          "downloads": 820,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.8.json"
+        },
+        {
+          "version": "7.5.9",
+          "downloads": 809,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.5.9.json"
+        },
+        {
+          "version": "7.6.0",
+          "downloads": 787,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.0.json"
+        },
+        {
+          "version": "7.6.1",
+          "downloads": 790,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.1.json"
+        },
+        {
+          "version": "7.6.2",
+          "downloads": 868,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.2.json"
+        },
+        {
+          "version": "7.6.3",
+          "downloads": 820,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.3.json"
+        },
+        {
+          "version": "7.6.4",
+          "downloads": 748,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.4.json"
+        },
+        {
+          "version": "7.6.5",
+          "downloads": 784,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.5.json"
+        },
+        {
+          "version": "7.6.6",
+          "downloads": 779,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.6.json"
+        },
+        {
+          "version": "7.6.7",
+          "downloads": 756,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.7.json"
+        },
+        {
+          "version": "7.6.8",
+          "downloads": 729,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.8.json"
+        },
+        {
+          "version": "7.6.9",
+          "downloads": 770,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.6.9.json"
+        },
+        {
+          "version": "7.7.0",
+          "downloads": 865,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.0.json"
+        },
+        {
+          "version": "7.7.1",
+          "downloads": 613,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.1.json"
+        },
+        {
+          "version": "7.7.2",
+          "downloads": 715,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.2.json"
+        },
+        {
+          "version": "7.7.3",
+          "downloads": 652,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.3.json"
+        },
+        {
+          "version": "7.7.4",
+          "downloads": 700,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.4.json"
+        },
+        {
+          "version": "7.7.5",
+          "downloads": 725,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.5.json"
+        },
+        {
+          "version": "7.7.6",
+          "downloads": 675,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.6.json"
+        },
+        {
+          "version": "7.7.7",
+          "downloads": 653,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.7.json"
+        },
+        {
+          "version": "7.7.8",
+          "downloads": 681,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.8.json"
+        },
+        {
+          "version": "7.7.9",
+          "downloads": 707,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.7.9.json"
+        },
+        {
+          "version": "7.8.0",
+          "downloads": 617,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.0.json"
+        },
+        {
+          "version": "7.8.1",
+          "downloads": 713,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.1.json"
+        },
+        {
+          "version": "7.8.2",
+          "downloads": 754,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.2.json"
+        },
+        {
+          "version": "7.8.3",
+          "downloads": 743,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.3.json"
+        },
+        {
+          "version": "7.8.4",
+          "downloads": 710,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.4.json"
+        },
+        {
+          "version": "7.8.5",
+          "downloads": 695,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.5.json"
+        },
+        {
+          "version": "7.8.6",
+          "downloads": 697,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.6.json"
+        },
+        {
+          "version": "7.8.7",
+          "downloads": 709,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.7.json"
+        },
+        {
+          "version": "7.8.8",
+          "downloads": 686,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.8.json"
+        },
+        {
+          "version": "7.8.9",
+          "downloads": 661,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.8.9.json"
+        },
+        {
+          "version": "7.9.0",
+          "downloads": 713,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.0.json"
+        },
+        {
+          "version": "7.9.1",
+          "downloads": 827,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.1.json"
+        },
+        {
+          "version": "7.9.2",
+          "downloads": 671,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.2.json"
+        },
+        {
+          "version": "7.9.3",
+          "downloads": 749,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.3.json"
+        },
+        {
+          "version": "7.9.4",
+          "downloads": 832,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.4.json"
+        },
+        {
+          "version": "7.9.5",
+          "downloads": 807,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.5.json"
+        },
+        {
+          "version": "7.9.6",
+          "downloads": 741,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.6.json"
+        },
+        {
+          "version": "7.9.7",
+          "downloads": 750,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.7.json"
+        },
+        {
+          "version": "7.9.8",
+          "downloads": 681,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.8.json"
+        },
+        {
+          "version": "7.9.9",
+          "downloads": 752,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/7.9.9.json"
+        },
+        {
+          "version": "8.0.0",
+          "downloads": 726,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/8.0.0.json"
+        },
+        {
+          "version": "8.0.1",
+          "downloads": 3396,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/xucore.template.mediator/8.0.1.json"
         }
       ],
       "vulnerabilities": []
@@ -169811,12 +169861,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/wally.cleanarchitecture.template/index.json",
       "id": "Wally.CleanArchitecture.Template",
-      "version": "1.10.3830",
+      "version": "1.10.3837",
       "description": "CleanArchitecture Template",
       "summary": "",
       "title": "Wally's CleanArchitecture Template",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/wally.cleanarchitecture.template/1.10.3830/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Wally.CleanArchitecture.Template/1.10.3830/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/wally.cleanarchitecture.template/1.10.3837/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Wally.CleanArchitecture.Template/1.10.3837/license",
       "projectUrl": "https://github.com/bwalocha/Wally.CleanArchitecture",
       "tags": [
         "dotnet-new",
@@ -170836,6 +170886,11 @@
           "version": "1.10.3830",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/wally.cleanarchitecture.template/1.10.3830.json"
+        },
+        {
+          "version": "1.10.3837",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/wally.cleanarchitecture.template/1.10.3837.json"
         }
       ],
       "vulnerabilities": []
