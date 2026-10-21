@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 10528,
+  "totalHits": 10552,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cake.tool/index.json",
@@ -26411,6 +26411,100 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/index.json",
+      "id": "dotnet-format",
+      "version": "5.1.250801",
+      "description": "Command line tool for formatting C# and Visual Basic code files based on .editorconfig settings.",
+      "summary": "",
+      "title": "dotnet-format",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-format/5.1.250801/icon",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-format/5.1.250801/license",
+      "projectUrl": "https://github.com/dotnet/format",
+      "tags": [],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "dotnetframework",
+        "Microsoft",
+        "RoslynTeam"
+      ],
+      "totalDownloads": 12396933,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "3.0.0-beta4-19105-10",
+          "downloads": 1591,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/3.0.0-beta4-19105-10.json"
+        },
+        {
+          "version": "3.0.2",
+          "downloads": 5615,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/3.0.2.json"
+        },
+        {
+          "version": "3.0.4",
+          "downloads": 10394,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/3.0.4.json"
+        },
+        {
+          "version": "3.1.37601",
+          "downloads": 177832,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/3.1.37601.json"
+        },
+        {
+          "version": "3.2.107702",
+          "downloads": 25795,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/3.2.107702.json"
+        },
+        {
+          "version": "3.3.111304",
+          "downloads": 209095,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/3.3.111304.json"
+        },
+        {
+          "version": "4.0.130203",
+          "downloads": 358729,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/4.0.130203.json"
+        },
+        {
+          "version": "4.1.131201",
+          "downloads": 656988,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/4.1.131201.json"
+        },
+        {
+          "version": "5.0.211103",
+          "downloads": 687982,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/5.0.211103.json"
+        },
+        {
+          "version": "5.1.225507",
+          "downloads": 1105303,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/5.1.225507.json"
+        },
+        {
+          "version": "5.1.250801",
+          "downloads": 9152853,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/5.1.250801.json"
+        }
+      ],
+      "deprecation": {
+        "message": "This package has been deprecated as it is now included in the .NET SDK. See https://github.com/dotnet/format/issues/1268 for more details.",
+        "reasons": [
+          "Other",
+          "Legacy"
+        ]
+      },
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/refitter/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/refitter/index.json",
@@ -27392,100 +27486,6 @@
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/refitter/2.3.1.json"
         }
       ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/index.json",
-      "id": "dotnet-format",
-      "version": "5.1.250801",
-      "description": "Command line tool for formatting C# and Visual Basic code files based on .editorconfig settings.",
-      "summary": "",
-      "title": "dotnet-format",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-format/5.1.250801/icon",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-format/5.1.250801/license",
-      "projectUrl": "https://github.com/dotnet/format",
-      "tags": [],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "dotnetframework",
-        "Microsoft",
-        "RoslynTeam"
-      ],
-      "totalDownloads": 12396933,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "3.0.0-beta4-19105-10",
-          "downloads": 1591,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/3.0.0-beta4-19105-10.json"
-        },
-        {
-          "version": "3.0.2",
-          "downloads": 5615,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/3.0.2.json"
-        },
-        {
-          "version": "3.0.4",
-          "downloads": 10394,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/3.0.4.json"
-        },
-        {
-          "version": "3.1.37601",
-          "downloads": 177832,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/3.1.37601.json"
-        },
-        {
-          "version": "3.2.107702",
-          "downloads": 25795,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/3.2.107702.json"
-        },
-        {
-          "version": "3.3.111304",
-          "downloads": 209095,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/3.3.111304.json"
-        },
-        {
-          "version": "4.0.130203",
-          "downloads": 358729,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/4.0.130203.json"
-        },
-        {
-          "version": "4.1.131201",
-          "downloads": 656988,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/4.1.131201.json"
-        },
-        {
-          "version": "5.0.211103",
-          "downloads": 687982,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/5.0.211103.json"
-        },
-        {
-          "version": "5.1.225507",
-          "downloads": 1105303,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/5.1.225507.json"
-        },
-        {
-          "version": "5.1.250801",
-          "downloads": 9152853,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-format/5.1.250801.json"
-        }
-      ],
-      "deprecation": {
-        "message": "This package has been deprecated as it is now included in the .NET SDK. See https://github.com/dotnet/format/issues/1268 for more details.",
-        "reasons": [
-          "Other",
-          "Legacy"
-        ]
-      },
       "vulnerabilities": []
     },
     {
@@ -33091,6 +33091,490 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/index.json",
+      "id": "Microsoft.SqlPackage",
+      "version": "170.6.28-preview",
+      "description": "SqlPackage is a command-line utility that automates database development tasks by exposing some of the public Data-Tier Application Framework (DacFx) APIs.",
+      "summary": "",
+      "title": "SqlPackage",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.sqlpackage/170.6.28-preview/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.SqlPackage/170.6.28-preview/license",
+      "projectUrl": "https://github.com/microsoft/DacFx",
+      "tags": [
+        "SQL",
+        "Dac",
+        "DacFx",
+        "Dacpac",
+        "Bacpac",
+        "DevOps",
+        "database"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "Microsoft",
+        "nugetsqltools"
+      ],
+      "totalDownloads": 6564056,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "161.6374.0",
+          "downloads": 30088,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/161.6374.0.json"
+        },
+        {
+          "version": "161.8089.0",
+          "downloads": 97127,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/161.8089.0.json"
+        },
+        {
+          "version": "162.0.52",
+          "downloads": 759150,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.0.52.json"
+        },
+        {
+          "version": "162.1.167",
+          "downloads": 221824,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.1.167.json"
+        },
+        {
+          "version": "162.1.172",
+          "downloads": 84555,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.1.172.json"
+        },
+        {
+          "version": "162.2.33-preview",
+          "downloads": 408,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.2.33-preview.json"
+        },
+        {
+          "version": "162.2.37-preview",
+          "downloads": 476,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.2.37-preview.json"
+        },
+        {
+          "version": "162.2.51-preview",
+          "downloads": 351,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.2.51-preview.json"
+        },
+        {
+          "version": "162.2.56-preview",
+          "downloads": 320,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.2.56-preview.json"
+        },
+        {
+          "version": "162.2.69-preview",
+          "downloads": 1038,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.2.69-preview.json"
+        },
+        {
+          "version": "162.2.82-preview",
+          "downloads": 417,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.2.82-preview.json"
+        },
+        {
+          "version": "162.2.91-preview",
+          "downloads": 2625,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.2.91-preview.json"
+        },
+        {
+          "version": "162.2.111",
+          "downloads": 653692,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.2.111.json"
+        },
+        {
+          "version": "162.3.503-preview",
+          "downloads": 520,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.503-preview.json"
+        },
+        {
+          "version": "162.3.515-preview",
+          "downloads": 1183,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.515-preview.json"
+        },
+        {
+          "version": "162.3.520-preview",
+          "downloads": 535,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.520-preview.json"
+        },
+        {
+          "version": "162.3.530-preview",
+          "downloads": 444,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.530-preview.json"
+        },
+        {
+          "version": "162.3.540-preview",
+          "downloads": 876,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.540-preview.json"
+        },
+        {
+          "version": "162.3.550-preview",
+          "downloads": 313,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.550-preview.json"
+        },
+        {
+          "version": "162.3.557-preview",
+          "downloads": 428,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.557-preview.json"
+        },
+        {
+          "version": "162.3.562-preview",
+          "downloads": 413,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.562-preview.json"
+        },
+        {
+          "version": "162.3.563",
+          "downloads": 80339,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.563.json"
+        },
+        {
+          "version": "162.3.566",
+          "downloads": 204806,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.566.json"
+        },
+        {
+          "version": "162.4.20-preview",
+          "downloads": 391,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.20-preview.json"
+        },
+        {
+          "version": "162.4.28-preview",
+          "downloads": 389,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.28-preview.json"
+        },
+        {
+          "version": "162.4.44-preview",
+          "downloads": 349,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.44-preview.json"
+        },
+        {
+          "version": "162.4.51-preview",
+          "downloads": 348,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.51-preview.json"
+        },
+        {
+          "version": "162.4.56-preview",
+          "downloads": 369,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.56-preview.json"
+        },
+        {
+          "version": "162.4.71-preview",
+          "downloads": 476,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.71-preview.json"
+        },
+        {
+          "version": "162.4.80-preview",
+          "downloads": 451,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.80-preview.json"
+        },
+        {
+          "version": "162.4.87-preview",
+          "downloads": 405,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.87-preview.json"
+        },
+        {
+          "version": "162.4.92",
+          "downloads": 254932,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.92.json"
+        },
+        {
+          "version": "162.5.13-preview",
+          "downloads": 336,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.5.13-preview.json"
+        },
+        {
+          "version": "162.5.20-preview",
+          "downloads": 470,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.5.20-preview.json"
+        },
+        {
+          "version": "162.5.31-preview",
+          "downloads": 405,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.5.31-preview.json"
+        },
+        {
+          "version": "162.5.37-preview",
+          "downloads": 402,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.5.37-preview.json"
+        },
+        {
+          "version": "162.5.46-preview",
+          "downloads": 992,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.5.46-preview.json"
+        },
+        {
+          "version": "162.5.53-preview",
+          "downloads": 444,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.5.53-preview.json"
+        },
+        {
+          "version": "162.5.57",
+          "downloads": 570144,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.5.57.json"
+        },
+        {
+          "version": "170.0.7-preview",
+          "downloads": 539,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.7-preview.json"
+        },
+        {
+          "version": "170.0.27-preview",
+          "downloads": 334,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.27-preview.json"
+        },
+        {
+          "version": "170.0.33-preview",
+          "downloads": 382,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.33-preview.json"
+        },
+        {
+          "version": "170.0.48-preview",
+          "downloads": 1563,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.48-preview.json"
+        },
+        {
+          "version": "170.0.57-preview",
+          "downloads": 432,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.57-preview.json"
+        },
+        {
+          "version": "170.0.64-preview",
+          "downloads": 331,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.64-preview.json"
+        },
+        {
+          "version": "170.0.70-preview",
+          "downloads": 478,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.70-preview.json"
+        },
+        {
+          "version": "170.0.76-preview",
+          "downloads": 433,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.76-preview.json"
+        },
+        {
+          "version": "170.0.82-preview",
+          "downloads": 362,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.82-preview.json"
+        },
+        {
+          "version": "170.0.86-preview",
+          "downloads": 380,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.86-preview.json"
+        },
+        {
+          "version": "170.0.94",
+          "downloads": 624890,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.94.json"
+        },
+        {
+          "version": "170.1.11-preview",
+          "downloads": 338,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.1.11-preview.json"
+        },
+        {
+          "version": "170.1.23-preview",
+          "downloads": 964,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.1.23-preview.json"
+        },
+        {
+          "version": "170.1.31-preview",
+          "downloads": 285,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.1.31-preview.json"
+        },
+        {
+          "version": "170.1.43-preview",
+          "downloads": 195,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.1.43-preview.json"
+        },
+        {
+          "version": "170.1.47-preview",
+          "downloads": 210,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.1.47-preview.json"
+        },
+        {
+          "version": "170.1.56-preview",
+          "downloads": 476,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.1.56-preview.json"
+        },
+        {
+          "version": "170.1.61",
+          "downloads": 314661,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.1.61.json"
+        },
+        {
+          "version": "170.2.15-preview",
+          "downloads": 301,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.2.15-preview.json"
+        },
+        {
+          "version": "170.2.25-preview",
+          "downloads": 228,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.2.25-preview.json"
+        },
+        {
+          "version": "170.2.32-preview",
+          "downloads": 195,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.2.32-preview.json"
+        },
+        {
+          "version": "170.2.37-preview",
+          "downloads": 270,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.2.37-preview.json"
+        },
+        {
+          "version": "170.2.41-preview",
+          "downloads": 301,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.2.41-preview.json"
+        },
+        {
+          "version": "170.2.55-preview",
+          "downloads": 205,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.2.55-preview.json"
+        },
+        {
+          "version": "170.2.68-preview",
+          "downloads": 244,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.2.68-preview.json"
+        },
+        {
+          "version": "170.2.70",
+          "downloads": 540709,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.2.70.json"
+        },
+        {
+          "version": "170.3.26-preview",
+          "downloads": 13480,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.3.26-preview.json"
+        },
+        {
+          "version": "170.3.37-preview",
+          "downloads": 1444,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.3.37-preview.json"
+        },
+        {
+          "version": "170.3.54-preview",
+          "downloads": 192,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.3.54-preview.json"
+        },
+        {
+          "version": "170.3.63-preview",
+          "downloads": 1733,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.3.63-preview.json"
+        },
+        {
+          "version": "170.3.79-preview",
+          "downloads": 191,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.3.79-preview.json"
+        },
+        {
+          "version": "170.3.83-preview",
+          "downloads": 923,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.3.83-preview.json"
+        },
+        {
+          "version": "170.3.93",
+          "downloads": 866530,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.3.93.json"
+        },
+        {
+          "version": "170.4.20-preview",
+          "downloads": 807,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.4.20-preview.json"
+        },
+        {
+          "version": "170.4.34-preview",
+          "downloads": 388,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.4.34-preview.json"
+        },
+        {
+          "version": "170.4.43-preview",
+          "downloads": 236,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.4.43-preview.json"
+        },
+        {
+          "version": "170.4.63-preview",
+          "downloads": 172,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.4.63-preview.json"
+        },
+        {
+          "version": "170.4.71-preview",
+          "downloads": 174,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.4.71-preview.json"
+        },
+        {
+          "version": "170.4.77-preview",
+          "downloads": 189,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.4.77-preview.json"
+        },
+        {
+          "version": "170.4.80-preview",
+          "downloads": 220,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.4.80-preview.json"
+        },
+        {
+          "version": "170.4.83",
+          "downloads": 831217,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.4.83.json"
+        },
+        {
+          "version": "170.5.29-preview",
+          "downloads": 264,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.5.29-preview.json"
+        },
+        {
+          "version": "170.5.38-preview",
+          "downloads": 277,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.5.38-preview.json"
+        },
+        {
+          "version": "170.5.60-preview",
+          "downloads": 322,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.5.60-preview.json"
+        },
+        {
+          "version": "170.5.76",
+          "downloads": 250581,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.5.76.json"
+        },
+        {
+          "version": "170.5.80-preview",
+          "downloads": 157,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.5.80-preview.json"
+        },
+        {
+          "version": "170.5.94-preview",
+          "downloads": 118,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.5.94-preview.json"
+        },
+        {
+          "version": "170.5.96",
+          "downloads": 131368,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.5.96.json"
+        },
+        {
+          "version": "170.6.11-preview",
+          "downloads": 136,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.6.11-preview.json"
+        },
+        {
+          "version": "170.6.28-preview",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.6.28-preview.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/index.json",
@@ -35157,490 +35641,6 @@
           "version": "9.1.7",
           "downloads": 2666478,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/octopus.dotnet.cli/9.1.7.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/index.json",
-      "id": "Microsoft.SqlPackage",
-      "version": "170.6.28-preview",
-      "description": "SqlPackage is a command-line utility that automates database development tasks by exposing some of the public Data-Tier Application Framework (DacFx) APIs.",
-      "summary": "",
-      "title": "SqlPackage",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.sqlpackage/170.6.28-preview/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.SqlPackage/170.6.28-preview/license",
-      "projectUrl": "https://github.com/microsoft/DacFx",
-      "tags": [
-        "SQL",
-        "Dac",
-        "DacFx",
-        "Dacpac",
-        "Bacpac",
-        "DevOps",
-        "database"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "Microsoft",
-        "nugetsqltools"
-      ],
-      "totalDownloads": 6564056,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "161.6374.0",
-          "downloads": 30088,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/161.6374.0.json"
-        },
-        {
-          "version": "161.8089.0",
-          "downloads": 97127,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/161.8089.0.json"
-        },
-        {
-          "version": "162.0.52",
-          "downloads": 759150,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.0.52.json"
-        },
-        {
-          "version": "162.1.167",
-          "downloads": 221824,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.1.167.json"
-        },
-        {
-          "version": "162.1.172",
-          "downloads": 84555,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.1.172.json"
-        },
-        {
-          "version": "162.2.33-preview",
-          "downloads": 408,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.2.33-preview.json"
-        },
-        {
-          "version": "162.2.37-preview",
-          "downloads": 476,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.2.37-preview.json"
-        },
-        {
-          "version": "162.2.51-preview",
-          "downloads": 351,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.2.51-preview.json"
-        },
-        {
-          "version": "162.2.56-preview",
-          "downloads": 320,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.2.56-preview.json"
-        },
-        {
-          "version": "162.2.69-preview",
-          "downloads": 1038,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.2.69-preview.json"
-        },
-        {
-          "version": "162.2.82-preview",
-          "downloads": 417,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.2.82-preview.json"
-        },
-        {
-          "version": "162.2.91-preview",
-          "downloads": 2625,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.2.91-preview.json"
-        },
-        {
-          "version": "162.2.111",
-          "downloads": 653692,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.2.111.json"
-        },
-        {
-          "version": "162.3.503-preview",
-          "downloads": 520,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.503-preview.json"
-        },
-        {
-          "version": "162.3.515-preview",
-          "downloads": 1183,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.515-preview.json"
-        },
-        {
-          "version": "162.3.520-preview",
-          "downloads": 535,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.520-preview.json"
-        },
-        {
-          "version": "162.3.530-preview",
-          "downloads": 444,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.530-preview.json"
-        },
-        {
-          "version": "162.3.540-preview",
-          "downloads": 876,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.540-preview.json"
-        },
-        {
-          "version": "162.3.550-preview",
-          "downloads": 313,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.550-preview.json"
-        },
-        {
-          "version": "162.3.557-preview",
-          "downloads": 428,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.557-preview.json"
-        },
-        {
-          "version": "162.3.562-preview",
-          "downloads": 413,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.562-preview.json"
-        },
-        {
-          "version": "162.3.563",
-          "downloads": 80339,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.563.json"
-        },
-        {
-          "version": "162.3.566",
-          "downloads": 204806,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.3.566.json"
-        },
-        {
-          "version": "162.4.20-preview",
-          "downloads": 391,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.20-preview.json"
-        },
-        {
-          "version": "162.4.28-preview",
-          "downloads": 389,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.28-preview.json"
-        },
-        {
-          "version": "162.4.44-preview",
-          "downloads": 349,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.44-preview.json"
-        },
-        {
-          "version": "162.4.51-preview",
-          "downloads": 348,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.51-preview.json"
-        },
-        {
-          "version": "162.4.56-preview",
-          "downloads": 369,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.56-preview.json"
-        },
-        {
-          "version": "162.4.71-preview",
-          "downloads": 476,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.71-preview.json"
-        },
-        {
-          "version": "162.4.80-preview",
-          "downloads": 451,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.80-preview.json"
-        },
-        {
-          "version": "162.4.87-preview",
-          "downloads": 405,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.87-preview.json"
-        },
-        {
-          "version": "162.4.92",
-          "downloads": 254932,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.4.92.json"
-        },
-        {
-          "version": "162.5.13-preview",
-          "downloads": 336,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.5.13-preview.json"
-        },
-        {
-          "version": "162.5.20-preview",
-          "downloads": 470,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.5.20-preview.json"
-        },
-        {
-          "version": "162.5.31-preview",
-          "downloads": 405,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.5.31-preview.json"
-        },
-        {
-          "version": "162.5.37-preview",
-          "downloads": 402,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.5.37-preview.json"
-        },
-        {
-          "version": "162.5.46-preview",
-          "downloads": 992,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.5.46-preview.json"
-        },
-        {
-          "version": "162.5.53-preview",
-          "downloads": 444,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.5.53-preview.json"
-        },
-        {
-          "version": "162.5.57",
-          "downloads": 570144,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/162.5.57.json"
-        },
-        {
-          "version": "170.0.7-preview",
-          "downloads": 539,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.7-preview.json"
-        },
-        {
-          "version": "170.0.27-preview",
-          "downloads": 334,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.27-preview.json"
-        },
-        {
-          "version": "170.0.33-preview",
-          "downloads": 382,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.33-preview.json"
-        },
-        {
-          "version": "170.0.48-preview",
-          "downloads": 1563,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.48-preview.json"
-        },
-        {
-          "version": "170.0.57-preview",
-          "downloads": 432,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.57-preview.json"
-        },
-        {
-          "version": "170.0.64-preview",
-          "downloads": 331,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.64-preview.json"
-        },
-        {
-          "version": "170.0.70-preview",
-          "downloads": 478,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.70-preview.json"
-        },
-        {
-          "version": "170.0.76-preview",
-          "downloads": 433,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.76-preview.json"
-        },
-        {
-          "version": "170.0.82-preview",
-          "downloads": 362,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.82-preview.json"
-        },
-        {
-          "version": "170.0.86-preview",
-          "downloads": 380,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.86-preview.json"
-        },
-        {
-          "version": "170.0.94",
-          "downloads": 624890,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.0.94.json"
-        },
-        {
-          "version": "170.1.11-preview",
-          "downloads": 338,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.1.11-preview.json"
-        },
-        {
-          "version": "170.1.23-preview",
-          "downloads": 964,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.1.23-preview.json"
-        },
-        {
-          "version": "170.1.31-preview",
-          "downloads": 285,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.1.31-preview.json"
-        },
-        {
-          "version": "170.1.43-preview",
-          "downloads": 195,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.1.43-preview.json"
-        },
-        {
-          "version": "170.1.47-preview",
-          "downloads": 210,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.1.47-preview.json"
-        },
-        {
-          "version": "170.1.56-preview",
-          "downloads": 476,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.1.56-preview.json"
-        },
-        {
-          "version": "170.1.61",
-          "downloads": 314661,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.1.61.json"
-        },
-        {
-          "version": "170.2.15-preview",
-          "downloads": 301,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.2.15-preview.json"
-        },
-        {
-          "version": "170.2.25-preview",
-          "downloads": 228,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.2.25-preview.json"
-        },
-        {
-          "version": "170.2.32-preview",
-          "downloads": 195,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.2.32-preview.json"
-        },
-        {
-          "version": "170.2.37-preview",
-          "downloads": 270,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.2.37-preview.json"
-        },
-        {
-          "version": "170.2.41-preview",
-          "downloads": 301,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.2.41-preview.json"
-        },
-        {
-          "version": "170.2.55-preview",
-          "downloads": 205,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.2.55-preview.json"
-        },
-        {
-          "version": "170.2.68-preview",
-          "downloads": 244,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.2.68-preview.json"
-        },
-        {
-          "version": "170.2.70",
-          "downloads": 540709,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.2.70.json"
-        },
-        {
-          "version": "170.3.26-preview",
-          "downloads": 13480,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.3.26-preview.json"
-        },
-        {
-          "version": "170.3.37-preview",
-          "downloads": 1444,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.3.37-preview.json"
-        },
-        {
-          "version": "170.3.54-preview",
-          "downloads": 192,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.3.54-preview.json"
-        },
-        {
-          "version": "170.3.63-preview",
-          "downloads": 1733,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.3.63-preview.json"
-        },
-        {
-          "version": "170.3.79-preview",
-          "downloads": 191,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.3.79-preview.json"
-        },
-        {
-          "version": "170.3.83-preview",
-          "downloads": 923,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.3.83-preview.json"
-        },
-        {
-          "version": "170.3.93",
-          "downloads": 866530,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.3.93.json"
-        },
-        {
-          "version": "170.4.20-preview",
-          "downloads": 807,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.4.20-preview.json"
-        },
-        {
-          "version": "170.4.34-preview",
-          "downloads": 388,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.4.34-preview.json"
-        },
-        {
-          "version": "170.4.43-preview",
-          "downloads": 236,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.4.43-preview.json"
-        },
-        {
-          "version": "170.4.63-preview",
-          "downloads": 172,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.4.63-preview.json"
-        },
-        {
-          "version": "170.4.71-preview",
-          "downloads": 174,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.4.71-preview.json"
-        },
-        {
-          "version": "170.4.77-preview",
-          "downloads": 189,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.4.77-preview.json"
-        },
-        {
-          "version": "170.4.80-preview",
-          "downloads": 220,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.4.80-preview.json"
-        },
-        {
-          "version": "170.4.83",
-          "downloads": 831217,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.4.83.json"
-        },
-        {
-          "version": "170.5.29-preview",
-          "downloads": 264,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.5.29-preview.json"
-        },
-        {
-          "version": "170.5.38-preview",
-          "downloads": 277,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.5.38-preview.json"
-        },
-        {
-          "version": "170.5.60-preview",
-          "downloads": 322,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.5.60-preview.json"
-        },
-        {
-          "version": "170.5.76",
-          "downloads": 250581,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.5.76.json"
-        },
-        {
-          "version": "170.5.80-preview",
-          "downloads": 157,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.5.80-preview.json"
-        },
-        {
-          "version": "170.5.94-preview",
-          "downloads": 118,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.5.94-preview.json"
-        },
-        {
-          "version": "170.5.96",
-          "downloads": 131368,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.5.96.json"
-        },
-        {
-          "version": "170.6.11-preview",
-          "downloads": 136,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.6.11-preview.json"
-        },
-        {
-          "version": "170.6.28-preview",
-          "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.sqlpackage/170.6.28-preview.json"
         }
       ],
       "vulnerabilities": []
@@ -44199,11 +44199,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/index.json",
       "id": "FunFair.BuildVersion",
-      "version": "6.2.20.2421-update-mezianto",
+      "version": "6.2.20.2427-main",
       "description": "Build versioning tool.",
       "summary": "",
       "title": "FunFair.BuildVersion",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.20.2421-update-mezianto/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.20.2427-main/icon",
       "projectUrl": "https://github.com/funfair-tech/funfair-build-version",
       "tags": [
         "FunFair",
@@ -57368,6 +57368,36 @@
           "version": "6.2.20.2421-update-mezianto",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2421-update-mezianto.json"
+        },
+        {
+          "version": "6.2.20.2422-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2422-main.json"
+        },
+        {
+          "version": "6.2.20.2423-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2423-main.json"
+        },
+        {
+          "version": "6.2.20.2424-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2424-main.json"
+        },
+        {
+          "version": "6.2.20.2425-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2425-main.json"
+        },
+        {
+          "version": "6.2.20.2426-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2426-main.json"
+        },
+        {
+          "version": "6.2.20.2427-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2427-main.json"
         }
       ],
       "vulnerabilities": []
@@ -57377,11 +57407,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/sagefs/index.json",
       "id": "SageFs",
-      "version": "0.6.910",
+      "version": "0.6.918",
       "description": "F# Interactive that already has your project loaded, re-runs the affected tests on unsaved edits, and patches your running app on save. VS Code, Neovim, a web dashboard and an MCP server for agents share one session.",
       "summary": "",
       "title": "SageFs",
-      "licenseUrl": "https://www.nuget.org/packages/SageFs/0.6.910/license",
+      "licenseUrl": "https://www.nuget.org/packages/SageFs/0.6.918/license",
       "projectUrl": "https://github.com/WillEhrendreich/SageFs",
       "tags": [
         "fsharp",
@@ -60188,6 +60218,26 @@
           "version": "0.6.910",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sagefs/0.6.910.json"
+        },
+        {
+          "version": "0.6.914",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sagefs/0.6.914.json"
+        },
+        {
+          "version": "0.6.915",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sagefs/0.6.915.json"
+        },
+        {
+          "version": "0.6.916",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sagefs/0.6.916.json"
+        },
+        {
+          "version": "0.6.918",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/sagefs/0.6.918.json"
         }
       ],
       "vulnerabilities": []
@@ -60842,12 +60892,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/index.json",
       "id": "StrawberryShake.Tools",
-      "version": "16.7.0-p.30",
+      "version": "16.7.0-p.31",
       "description": "Package Description",
       "summary": "",
       "title": "StrawberryShake.Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/strawberryshake.tools/16.7.0-p.30/icon",
-      "licenseUrl": "https://www.nuget.org/packages/StrawberryShake.Tools/16.7.0-p.30/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/strawberryshake.tools/16.7.0-p.31/icon",
+      "licenseUrl": "https://www.nuget.org/packages/StrawberryShake.Tools/16.7.0-p.31/license",
       "projectUrl": "https://chillicream.com/",
       "tags": [
         "GraphQL",
@@ -61801,6 +61851,11 @@
           "version": "16.7.0-p.30",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.7.0-p.30.json"
+        },
+        {
+          "version": "16.7.0-p.31",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.7.0-p.31.json"
         }
       ],
       "vulnerabilities": []
@@ -73463,542 +73518,17 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/index.json",
-      "id": "fake-cli",
-      "version": "6.2.0",
-      "description": "FAKE - F# Make - is a build automation tool for .NET. Tasks and dependencies are specified in a DSL which is integrated in F#.",
-      "summary": "",
-      "title": "fake-cli",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fake-cli/6.2.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/fake-cli/6.2.0/license",
-      "projectUrl": "https://fake.build/",
-      "tags": [
-        "build",
-        "fake",
-        "f#"
-      ],
-      "authors": [
-        "Steffen Forkmann,Mauricio Scheffer,Colin Bull,Matthias Dittrich"
-      ],
-      "owners": [
-        "FAKE",
-        "sforkmann"
-      ],
-      "totalDownloads": 2490972,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "5.0.0-rc018.244+vsts.2afe36531fd4769064e034f550cbd8ab07abf850",
-          "downloads": 805,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.0.0-rc018.244.json"
-        },
-        {
-          "version": "5.0.0-rc018.248+vsts.4a341f21983b3d8e30503ecf9434e634efe4bf51",
-          "downloads": 694,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.0.0-rc018.248.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 6410,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.0.0.json"
-        },
-        {
-          "version": "5.1.0",
-          "downloads": 9084,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.1.0.json"
-        },
-        {
-          "version": "5.2.0",
-          "downloads": 6780,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.2.0.json"
-        },
-        {
-          "version": "5.3.0",
-          "downloads": 1778,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.3.0.json"
-        },
-        {
-          "version": "5.3.1",
-          "downloads": 2532,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.3.1.json"
-        },
-        {
-          "version": "5.4.0",
-          "downloads": 1625,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.4.0.json"
-        },
-        {
-          "version": "5.4.1",
-          "downloads": 2005,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.4.1.json"
-        },
-        {
-          "version": "5.5.0",
-          "downloads": 6102,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.5.0.json"
-        },
-        {
-          "version": "5.5.1-alpha.403+vsts.828dc7d5a86476514bf58d9f9e7b8a35469348f0",
-          "downloads": 594,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.5.1-alpha.403.json"
-        },
-        {
-          "version": "5.6.1",
-          "downloads": 3279,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.6.1.json"
-        },
-        {
-          "version": "5.6.2-alpha.491+vsts.837d9b2507e064f242bcfaa8f8ba7055a7fadd5c",
-          "downloads": 583,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.6.2-alpha.491.json"
-        },
-        {
-          "version": "5.6.2-alpha.494+vsts.012ae86338d207ea8103ef730e796a156a3c66f5",
-          "downloads": 552,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.6.2-alpha.494.json"
-        },
-        {
-          "version": "5.7.0",
-          "downloads": 1334,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.7.0.json"
-        },
-        {
-          "version": "5.7.2",
-          "downloads": 3269,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.7.2.json"
-        },
-        {
-          "version": "5.8.4",
-          "downloads": 1561,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.8.4.json"
-        },
-        {
-          "version": "5.8.5",
-          "downloads": 1780,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.8.5.json"
-        },
-        {
-          "version": "5.9.0",
-          "downloads": 1230,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.9.0.json"
-        },
-        {
-          "version": "5.9.1",
-          "downloads": 1188,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.9.1.json"
-        },
-        {
-          "version": "5.9.2",
-          "downloads": 1300,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.9.2.json"
-        },
-        {
-          "version": "5.9.3",
-          "downloads": 9022,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.9.3.json"
-        },
-        {
-          "version": "5.10.1",
-          "downloads": 6578,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.10.1.json"
-        },
-        {
-          "version": "5.11.0",
-          "downloads": 3021,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.11.0.json"
-        },
-        {
-          "version": "5.11.1",
-          "downloads": 9259,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.11.1.json"
-        },
-        {
-          "version": "5.12.0",
-          "downloads": 19054,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.12.0.json"
-        },
-        {
-          "version": "5.12.1",
-          "downloads": 5257,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.12.1.json"
-        },
-        {
-          "version": "5.12.4",
-          "downloads": 7533,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.12.4.json"
-        },
-        {
-          "version": "5.12.6",
-          "downloads": 9937,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.12.6.json"
-        },
-        {
-          "version": "5.13.0-alpha.975+vsts.9021f600abce214aa46a01a0b56b0a24fe34eca1",
-          "downloads": 361,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.13.0-alpha.975.json"
-        },
-        {
-          "version": "5.13.0-alpha.987+vsts.0b9add0c6a787b7424791501f3c017b7354a3049",
-          "downloads": 374,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.13.0-alpha.987.json"
-        },
-        {
-          "version": "5.13.0",
-          "downloads": 4394,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.13.0.json"
-        },
-        {
-          "version": "5.13.1",
-          "downloads": 1242,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.13.1.json"
-        },
-        {
-          "version": "5.13.2",
-          "downloads": 2938,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.13.2.json"
-        },
-        {
-          "version": "5.13.3",
-          "downloads": 1315,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.13.3.json"
-        },
-        {
-          "version": "5.13.5",
-          "downloads": 5401,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.13.5.json"
-        },
-        {
-          "version": "5.13.7",
-          "downloads": 12008,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.13.7.json"
-        },
-        {
-          "version": "5.14.0-alpha.1085+vsts.182fe09f8aceadfa55c605e1290fbfa11f756763",
-          "downloads": 379,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.14.0-alpha.1085.json"
-        },
-        {
-          "version": "5.14.0",
-          "downloads": 1406,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.14.0.json"
-        },
-        {
-          "version": "5.14.1",
-          "downloads": 2111,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.14.1.json"
-        },
-        {
-          "version": "5.15.0",
-          "downloads": 40909,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.15.0.json"
-        },
-        {
-          "version": "5.15.1-alpha.1104+vsts.cc7eb82df8f6bf610da583d50c0eba9d44f864c7",
-          "downloads": 356,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.15.1-alpha.1104.json"
-        },
-        {
-          "version": "5.15.1",
-          "downloads": 1995,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.15.1.json"
-        },
-        {
-          "version": "5.15.2",
-          "downloads": 1868,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.15.2.json"
-        },
-        {
-          "version": "5.15.3",
-          "downloads": 5737,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.15.3.json"
-        },
-        {
-          "version": "5.15.4",
-          "downloads": 14693,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.15.4.json"
-        },
-        {
-          "version": "5.16.0-alpha.1228+vsts.e9fc744e0bfe41aa3f14470cdb2062d1aec1c285",
-          "downloads": 359,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.16.0-alpha.1228.json"
-        },
-        {
-          "version": "5.16.0",
-          "downloads": 13545,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.16.0.json"
-        },
-        {
-          "version": "5.16.1",
-          "downloads": 97726,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.16.1.json"
-        },
-        {
-          "version": "5.16.2-alpha.1304+vsts.0629ca68ecbee4b03b5d882ed8aaf3602deb47ce",
-          "downloads": 2114,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.16.2-alpha.1304.json"
-        },
-        {
-          "version": "5.17.0",
-          "downloads": 5718,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.17.0.json"
-        },
-        {
-          "version": "5.18.0",
-          "downloads": 3967,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.18.0.json"
-        },
-        {
-          "version": "5.18.1",
-          "downloads": 3875,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.18.1.json"
-        },
-        {
-          "version": "5.18.2",
-          "downloads": 6724,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.18.2.json"
-        },
-        {
-          "version": "5.18.3",
-          "downloads": 65878,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.18.3.json"
-        },
-        {
-          "version": "5.19.0-alpha.1439+vsts.6c029f59eb41055d91fd6c208566d17ac3270600",
-          "downloads": 338,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.19.0-alpha.1439.json"
-        },
-        {
-          "version": "5.19.0-alpha.1473+vsts.487b0a2bbd8c87ce17b382da05193e791abf3d16",
-          "downloads": 354,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.19.0-alpha.1473.json"
-        },
-        {
-          "version": "5.19.0",
-          "downloads": 62901,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.19.0.json"
-        },
-        {
-          "version": "5.19.1",
-          "downloads": 110354,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.19.1.json"
-        },
-        {
-          "version": "5.19.2-alpha.1526+vsts.bdce1746a27764a630c1008c32326cc82ce90334",
-          "downloads": 371,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.19.2-alpha.1526.json"
-        },
-        {
-          "version": "5.20.0-alpha.1535+vsts.5e4f4ea465f23462897068e948d12cc577d04872",
-          "downloads": 332,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.0-alpha.1535.json"
-        },
-        {
-          "version": "5.20.0-alpha.1545+vsts.58dfa4b960edf215b7a1a2299f5b4d5cb1b61955",
-          "downloads": 1308,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.0-alpha.1545.json"
-        },
-        {
-          "version": "5.20.0-alpha.1566+vsts.ad38d03c83c035f034e38937e6bc0815c13dba7b",
-          "downloads": 350,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.0-alpha.1566.json"
-        },
-        {
-          "version": "5.20.0-alpha.1580+vsts.2f8b467cf7cc4a5639b2273b2fd60c9e93d0da9c",
-          "downloads": 383,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.0-alpha.1580.json"
-        },
-        {
-          "version": "5.20.0-alpha.1583+vsts.b596a7e25b41770fe6ddeebf678851f072dbc26f",
-          "downloads": 316,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.0-alpha.1583.json"
-        },
-        {
-          "version": "5.20.0-alpha.1584+vsts.27b3dff1a4cc77ea1cfb16d04f35fcd9fb2a381a",
-          "downloads": 307,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.0-alpha.1584.json"
-        },
-        {
-          "version": "5.20.0",
-          "downloads": 58365,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.0.json"
-        },
-        {
-          "version": "5.20.1-alpha.1590+vsts.4c3c2dec047fa04bbb87de8d77047f84e00f8091",
-          "downloads": 352,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.1-alpha.1590.json"
-        },
-        {
-          "version": "5.20.1",
-          "downloads": 18637,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.1.json"
-        },
-        {
-          "version": "5.20.2",
-          "downloads": 35177,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.2.json"
-        },
-        {
-          "version": "5.20.3",
-          "downloads": 255906,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.3.json"
-        },
-        {
-          "version": "5.20.4-alpha.1642+vsts.cc9c2d6e6d38fde57081cbefcd940f247425f904",
-          "downloads": 59963,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.4-alpha.1642.json"
-        },
-        {
-          "version": "5.20.4-alpha.1658+vsts.493275da2f1af5e8908ba41987199eac8320be14",
-          "downloads": 272,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.4-alpha.1658.json"
-        },
-        {
-          "version": "5.20.4",
-          "downloads": 478785,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.4.json"
-        },
-        {
-          "version": "5.21.0-alpha001",
-          "downloads": 504,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.21.0-alpha001.json"
-        },
-        {
-          "version": "5.21.0-alpha002",
-          "downloads": 437,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.21.0-alpha002.json"
-        },
-        {
-          "version": "5.21.0-alpha003",
-          "downloads": 6476,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.21.0-alpha003.json"
-        },
-        {
-          "version": "5.21.0-alpha004",
-          "downloads": 2121,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.21.0-alpha004.json"
-        },
-        {
-          "version": "5.21.0",
-          "downloads": 8915,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.21.0.json"
-        },
-        {
-          "version": "5.21.1",
-          "downloads": 6471,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.21.1.json"
-        },
-        {
-          "version": "5.22.0",
-          "downloads": 312492,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.22.0.json"
-        },
-        {
-          "version": "5.23.0-alpha001",
-          "downloads": 504,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.23.0-alpha001.json"
-        },
-        {
-          "version": "5.23.0-alpha002",
-          "downloads": 1426,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.23.0-alpha002.json"
-        },
-        {
-          "version": "5.23.0",
-          "downloads": 69888,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.23.0.json"
-        },
-        {
-          "version": "5.23.1",
-          "downloads": 95611,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.23.1.json"
-        },
-        {
-          "version": "6.0.0-alpha001",
-          "downloads": 1213,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.0.0-alpha001.json"
-        },
-        {
-          "version": "6.0.0-alpha002",
-          "downloads": 1010,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.0.0-alpha002.json"
-        },
-        {
-          "version": "6.0.0-alpha003",
-          "downloads": 569,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.0.0-alpha003.json"
-        },
-        {
-          "version": "6.0.0-alpha004",
-          "downloads": 1434,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.0.0-alpha004.json"
-        },
-        {
-          "version": "6.0.0-beta001",
-          "downloads": 6459,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.0.0-beta001.json"
-        },
-        {
-          "version": "6.0.0",
-          "downloads": 227752,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.0.0.json"
-        },
-        {
-          "version": "6.1.0",
-          "downloads": 5244,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.1.0.json"
-        },
-        {
-          "version": "6.1.1",
-          "downloads": 3896,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.1.1.json"
-        },
-        {
-          "version": "6.1.2",
-          "downloads": 1420,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.1.2.json"
-        },
-        {
-          "version": "6.1.3",
-          "downloads": 162032,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.1.3.json"
-        },
-        {
-          "version": "6.1.4",
-          "downloads": 64988,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.1.4.json"
-        },
-        {
-          "version": "6.1.5",
-          "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.1.5.json"
-        },
-        {
-          "version": "6.2.0",
-          "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.2.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/index.json",
       "id": "Azure.Mcp",
-      "version": "3.0.0",
+      "version": "4.0.0-beta.2",
       "description": "Azure MCP Server - Model Context Protocol implementation for Azure",
       "summary": "",
       "title": "Azure.Mcp",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.mcp/3.0.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Azure.Mcp/3.0.0/license",
-      "projectUrl": "https://github.com/microsoft/mcp/tree/Azure.Mcp.Server-3.0.0/servers/Azure.Mcp.Server",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/azure.mcp/4.0.0-beta.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Azure.Mcp/4.0.0-beta.2/license",
+      "projectUrl": "https://github.com/microsoft/mcp/tree/Azure.Mcp.Server-4.0.0-beta.2/servers/Azure.Mcp.Server",
       "tags": [
         "azure",
         "mcp"
@@ -74625,6 +74155,541 @@
           "version": "3.0.0",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/3.0.0.json"
+        },
+        {
+          "version": "4.0.0-beta.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/4.0.0-beta.1.json"
+        },
+        {
+          "version": "4.0.0-beta.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/azure.mcp/4.0.0-beta.2.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/index.json",
+      "id": "fake-cli",
+      "version": "6.2.0",
+      "description": "FAKE - F# Make - is a build automation tool for .NET. Tasks and dependencies are specified in a DSL which is integrated in F#.",
+      "summary": "",
+      "title": "fake-cli",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/fake-cli/6.2.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/fake-cli/6.2.0/license",
+      "projectUrl": "https://fake.build/",
+      "tags": [
+        "build",
+        "fake",
+        "f#"
+      ],
+      "authors": [
+        "Steffen Forkmann,Mauricio Scheffer,Colin Bull,Matthias Dittrich"
+      ],
+      "owners": [
+        "FAKE",
+        "sforkmann"
+      ],
+      "totalDownloads": 2490972,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "5.0.0-rc018.244+vsts.2afe36531fd4769064e034f550cbd8ab07abf850",
+          "downloads": 805,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.0.0-rc018.244.json"
+        },
+        {
+          "version": "5.0.0-rc018.248+vsts.4a341f21983b3d8e30503ecf9434e634efe4bf51",
+          "downloads": 694,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.0.0-rc018.248.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 6410,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.0.0.json"
+        },
+        {
+          "version": "5.1.0",
+          "downloads": 9084,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.1.0.json"
+        },
+        {
+          "version": "5.2.0",
+          "downloads": 6780,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.2.0.json"
+        },
+        {
+          "version": "5.3.0",
+          "downloads": 1778,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.3.0.json"
+        },
+        {
+          "version": "5.3.1",
+          "downloads": 2532,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.3.1.json"
+        },
+        {
+          "version": "5.4.0",
+          "downloads": 1625,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.4.0.json"
+        },
+        {
+          "version": "5.4.1",
+          "downloads": 2005,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.4.1.json"
+        },
+        {
+          "version": "5.5.0",
+          "downloads": 6102,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.5.0.json"
+        },
+        {
+          "version": "5.5.1-alpha.403+vsts.828dc7d5a86476514bf58d9f9e7b8a35469348f0",
+          "downloads": 594,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.5.1-alpha.403.json"
+        },
+        {
+          "version": "5.6.1",
+          "downloads": 3279,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.6.1.json"
+        },
+        {
+          "version": "5.6.2-alpha.491+vsts.837d9b2507e064f242bcfaa8f8ba7055a7fadd5c",
+          "downloads": 583,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.6.2-alpha.491.json"
+        },
+        {
+          "version": "5.6.2-alpha.494+vsts.012ae86338d207ea8103ef730e796a156a3c66f5",
+          "downloads": 552,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.6.2-alpha.494.json"
+        },
+        {
+          "version": "5.7.0",
+          "downloads": 1334,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.7.0.json"
+        },
+        {
+          "version": "5.7.2",
+          "downloads": 3269,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.7.2.json"
+        },
+        {
+          "version": "5.8.4",
+          "downloads": 1561,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.8.4.json"
+        },
+        {
+          "version": "5.8.5",
+          "downloads": 1780,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.8.5.json"
+        },
+        {
+          "version": "5.9.0",
+          "downloads": 1230,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.9.0.json"
+        },
+        {
+          "version": "5.9.1",
+          "downloads": 1188,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.9.1.json"
+        },
+        {
+          "version": "5.9.2",
+          "downloads": 1300,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.9.2.json"
+        },
+        {
+          "version": "5.9.3",
+          "downloads": 9022,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.9.3.json"
+        },
+        {
+          "version": "5.10.1",
+          "downloads": 6578,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.10.1.json"
+        },
+        {
+          "version": "5.11.0",
+          "downloads": 3021,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.11.0.json"
+        },
+        {
+          "version": "5.11.1",
+          "downloads": 9259,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.11.1.json"
+        },
+        {
+          "version": "5.12.0",
+          "downloads": 19054,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.12.0.json"
+        },
+        {
+          "version": "5.12.1",
+          "downloads": 5257,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.12.1.json"
+        },
+        {
+          "version": "5.12.4",
+          "downloads": 7533,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.12.4.json"
+        },
+        {
+          "version": "5.12.6",
+          "downloads": 9937,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.12.6.json"
+        },
+        {
+          "version": "5.13.0-alpha.975+vsts.9021f600abce214aa46a01a0b56b0a24fe34eca1",
+          "downloads": 361,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.13.0-alpha.975.json"
+        },
+        {
+          "version": "5.13.0-alpha.987+vsts.0b9add0c6a787b7424791501f3c017b7354a3049",
+          "downloads": 374,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.13.0-alpha.987.json"
+        },
+        {
+          "version": "5.13.0",
+          "downloads": 4394,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.13.0.json"
+        },
+        {
+          "version": "5.13.1",
+          "downloads": 1242,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.13.1.json"
+        },
+        {
+          "version": "5.13.2",
+          "downloads": 2938,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.13.2.json"
+        },
+        {
+          "version": "5.13.3",
+          "downloads": 1315,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.13.3.json"
+        },
+        {
+          "version": "5.13.5",
+          "downloads": 5401,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.13.5.json"
+        },
+        {
+          "version": "5.13.7",
+          "downloads": 12008,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.13.7.json"
+        },
+        {
+          "version": "5.14.0-alpha.1085+vsts.182fe09f8aceadfa55c605e1290fbfa11f756763",
+          "downloads": 379,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.14.0-alpha.1085.json"
+        },
+        {
+          "version": "5.14.0",
+          "downloads": 1406,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.14.0.json"
+        },
+        {
+          "version": "5.14.1",
+          "downloads": 2111,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.14.1.json"
+        },
+        {
+          "version": "5.15.0",
+          "downloads": 40909,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.15.0.json"
+        },
+        {
+          "version": "5.15.1-alpha.1104+vsts.cc7eb82df8f6bf610da583d50c0eba9d44f864c7",
+          "downloads": 356,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.15.1-alpha.1104.json"
+        },
+        {
+          "version": "5.15.1",
+          "downloads": 1995,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.15.1.json"
+        },
+        {
+          "version": "5.15.2",
+          "downloads": 1868,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.15.2.json"
+        },
+        {
+          "version": "5.15.3",
+          "downloads": 5737,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.15.3.json"
+        },
+        {
+          "version": "5.15.4",
+          "downloads": 14693,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.15.4.json"
+        },
+        {
+          "version": "5.16.0-alpha.1228+vsts.e9fc744e0bfe41aa3f14470cdb2062d1aec1c285",
+          "downloads": 359,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.16.0-alpha.1228.json"
+        },
+        {
+          "version": "5.16.0",
+          "downloads": 13545,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.16.0.json"
+        },
+        {
+          "version": "5.16.1",
+          "downloads": 97726,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.16.1.json"
+        },
+        {
+          "version": "5.16.2-alpha.1304+vsts.0629ca68ecbee4b03b5d882ed8aaf3602deb47ce",
+          "downloads": 2114,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.16.2-alpha.1304.json"
+        },
+        {
+          "version": "5.17.0",
+          "downloads": 5718,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.17.0.json"
+        },
+        {
+          "version": "5.18.0",
+          "downloads": 3967,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.18.0.json"
+        },
+        {
+          "version": "5.18.1",
+          "downloads": 3875,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.18.1.json"
+        },
+        {
+          "version": "5.18.2",
+          "downloads": 6724,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.18.2.json"
+        },
+        {
+          "version": "5.18.3",
+          "downloads": 65878,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.18.3.json"
+        },
+        {
+          "version": "5.19.0-alpha.1439+vsts.6c029f59eb41055d91fd6c208566d17ac3270600",
+          "downloads": 338,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.19.0-alpha.1439.json"
+        },
+        {
+          "version": "5.19.0-alpha.1473+vsts.487b0a2bbd8c87ce17b382da05193e791abf3d16",
+          "downloads": 354,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.19.0-alpha.1473.json"
+        },
+        {
+          "version": "5.19.0",
+          "downloads": 62901,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.19.0.json"
+        },
+        {
+          "version": "5.19.1",
+          "downloads": 110354,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.19.1.json"
+        },
+        {
+          "version": "5.19.2-alpha.1526+vsts.bdce1746a27764a630c1008c32326cc82ce90334",
+          "downloads": 371,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.19.2-alpha.1526.json"
+        },
+        {
+          "version": "5.20.0-alpha.1535+vsts.5e4f4ea465f23462897068e948d12cc577d04872",
+          "downloads": 332,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.0-alpha.1535.json"
+        },
+        {
+          "version": "5.20.0-alpha.1545+vsts.58dfa4b960edf215b7a1a2299f5b4d5cb1b61955",
+          "downloads": 1308,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.0-alpha.1545.json"
+        },
+        {
+          "version": "5.20.0-alpha.1566+vsts.ad38d03c83c035f034e38937e6bc0815c13dba7b",
+          "downloads": 350,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.0-alpha.1566.json"
+        },
+        {
+          "version": "5.20.0-alpha.1580+vsts.2f8b467cf7cc4a5639b2273b2fd60c9e93d0da9c",
+          "downloads": 383,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.0-alpha.1580.json"
+        },
+        {
+          "version": "5.20.0-alpha.1583+vsts.b596a7e25b41770fe6ddeebf678851f072dbc26f",
+          "downloads": 316,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.0-alpha.1583.json"
+        },
+        {
+          "version": "5.20.0-alpha.1584+vsts.27b3dff1a4cc77ea1cfb16d04f35fcd9fb2a381a",
+          "downloads": 307,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.0-alpha.1584.json"
+        },
+        {
+          "version": "5.20.0",
+          "downloads": 58365,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.0.json"
+        },
+        {
+          "version": "5.20.1-alpha.1590+vsts.4c3c2dec047fa04bbb87de8d77047f84e00f8091",
+          "downloads": 352,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.1-alpha.1590.json"
+        },
+        {
+          "version": "5.20.1",
+          "downloads": 18637,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.1.json"
+        },
+        {
+          "version": "5.20.2",
+          "downloads": 35177,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.2.json"
+        },
+        {
+          "version": "5.20.3",
+          "downloads": 255906,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.3.json"
+        },
+        {
+          "version": "5.20.4-alpha.1642+vsts.cc9c2d6e6d38fde57081cbefcd940f247425f904",
+          "downloads": 59963,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.4-alpha.1642.json"
+        },
+        {
+          "version": "5.20.4-alpha.1658+vsts.493275da2f1af5e8908ba41987199eac8320be14",
+          "downloads": 272,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.4-alpha.1658.json"
+        },
+        {
+          "version": "5.20.4",
+          "downloads": 478785,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.20.4.json"
+        },
+        {
+          "version": "5.21.0-alpha001",
+          "downloads": 504,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.21.0-alpha001.json"
+        },
+        {
+          "version": "5.21.0-alpha002",
+          "downloads": 437,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.21.0-alpha002.json"
+        },
+        {
+          "version": "5.21.0-alpha003",
+          "downloads": 6476,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.21.0-alpha003.json"
+        },
+        {
+          "version": "5.21.0-alpha004",
+          "downloads": 2121,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.21.0-alpha004.json"
+        },
+        {
+          "version": "5.21.0",
+          "downloads": 8915,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.21.0.json"
+        },
+        {
+          "version": "5.21.1",
+          "downloads": 6471,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.21.1.json"
+        },
+        {
+          "version": "5.22.0",
+          "downloads": 312492,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.22.0.json"
+        },
+        {
+          "version": "5.23.0-alpha001",
+          "downloads": 504,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.23.0-alpha001.json"
+        },
+        {
+          "version": "5.23.0-alpha002",
+          "downloads": 1426,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.23.0-alpha002.json"
+        },
+        {
+          "version": "5.23.0",
+          "downloads": 69888,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.23.0.json"
+        },
+        {
+          "version": "5.23.1",
+          "downloads": 95611,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/5.23.1.json"
+        },
+        {
+          "version": "6.0.0-alpha001",
+          "downloads": 1213,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.0.0-alpha001.json"
+        },
+        {
+          "version": "6.0.0-alpha002",
+          "downloads": 1010,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.0.0-alpha002.json"
+        },
+        {
+          "version": "6.0.0-alpha003",
+          "downloads": 569,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.0.0-alpha003.json"
+        },
+        {
+          "version": "6.0.0-alpha004",
+          "downloads": 1434,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.0.0-alpha004.json"
+        },
+        {
+          "version": "6.0.0-beta001",
+          "downloads": 6459,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.0.0-beta001.json"
+        },
+        {
+          "version": "6.0.0",
+          "downloads": 227752,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.0.0.json"
+        },
+        {
+          "version": "6.1.0",
+          "downloads": 5244,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.1.0.json"
+        },
+        {
+          "version": "6.1.1",
+          "downloads": 3896,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.1.1.json"
+        },
+        {
+          "version": "6.1.2",
+          "downloads": 1420,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.1.2.json"
+        },
+        {
+          "version": "6.1.3",
+          "downloads": 162032,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.1.3.json"
+        },
+        {
+          "version": "6.1.4",
+          "downloads": 64988,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.1.4.json"
+        },
+        {
+          "version": "6.1.5",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.1.5.json"
+        },
+        {
+          "version": "6.2.0",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fake-cli/6.2.0.json"
         }
       ],
       "vulnerabilities": []
@@ -75741,144 +75806,15 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/index.json",
-      "id": "Amazon.Lambda.TestTool-3.1",
-      "version": "0.14.1",
-      "description": "A tool to help debug and test your .NET Core 3.1 AWS Lambda functions locally.",
-      "summary": "",
-      "title": "Amazon.Lambda.TestTool-3.1",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/amazon.lambda.testtool-3.1/0.14.1/icon",
-      "licenseUrl": "http://aws.amazon.com/apache2.0/",
-      "projectUrl": "https://github.com/aws/aws-lambda-dotnet",
-      "tags": [
-        "AWS",
-        "Amazon",
-        "Lambda"
-      ],
-      "authors": [
-        "Amazon Web Services"
-      ],
-      "owners": [
-        "awsdotnet"
-      ],
-      "totalDownloads": 2301859,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.10.0",
-          "downloads": 93736,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.10.0.json"
-        },
-        {
-          "version": "0.10.1",
-          "downloads": 160178,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.10.1.json"
-        },
-        {
-          "version": "0.11.0",
-          "downloads": 47482,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.0.json"
-        },
-        {
-          "version": "0.11.1",
-          "downloads": 114120,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.1.json"
-        },
-        {
-          "version": "0.11.2",
-          "downloads": 17073,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.2.json"
-        },
-        {
-          "version": "0.11.3",
-          "downloads": 527888,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.3.json"
-        },
-        {
-          "version": "0.11.4",
-          "downloads": 188867,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.4.json"
-        },
-        {
-          "version": "0.12.0",
-          "downloads": 55452,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.0.json"
-        },
-        {
-          "version": "0.12.1",
-          "downloads": 128756,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.1.json"
-        },
-        {
-          "version": "0.12.2",
-          "downloads": 146209,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.2.json"
-        },
-        {
-          "version": "0.12.3",
-          "downloads": 174678,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.3.json"
-        },
-        {
-          "version": "0.12.4",
-          "downloads": 42875,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.4.json"
-        },
-        {
-          "version": "0.12.5",
-          "downloads": 4028,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.5.json"
-        },
-        {
-          "version": "0.12.6",
-          "downloads": 70219,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.6.json"
-        },
-        {
-          "version": "0.12.7",
-          "downloads": 234153,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.7.json"
-        },
-        {
-          "version": "0.13.0",
-          "downloads": 65263,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.13.0.json"
-        },
-        {
-          "version": "0.13.1",
-          "downloads": 37867,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.13.1.json"
-        },
-        {
-          "version": "0.14.0",
-          "downloads": 14001,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.14.0.json"
-        },
-        {
-          "version": "0.14.1",
-          "downloads": 179014,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.14.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
       "id": "Credfeto.ChangeLog.Cmd",
-      "version": "1.10.209.2735-main",
+      "version": "1.10.209.2739-main",
       "description": "Changelog manager dotnet tool.",
       "summary": "",
       "title": "Credfeto.ChangeLog.Cmd",
-      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.209.2735-main/license",
+      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.209.2739-main/license",
       "tags": [
         "Changelog",
         "tool",
@@ -91493,6 +91429,155 @@
           "version": "1.10.209.2735-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.209.2735-main.json"
+        },
+        {
+          "version": "1.10.209.2736-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.209.2736-main.json"
+        },
+        {
+          "version": "1.10.209.2737-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.209.2737-main.json"
+        },
+        {
+          "version": "1.10.209.2738-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.209.2738-main.json"
+        },
+        {
+          "version": "1.10.209.2739-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.209.2739-main.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/index.json",
+      "id": "Amazon.Lambda.TestTool-3.1",
+      "version": "0.14.1",
+      "description": "A tool to help debug and test your .NET Core 3.1 AWS Lambda functions locally.",
+      "summary": "",
+      "title": "Amazon.Lambda.TestTool-3.1",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/amazon.lambda.testtool-3.1/0.14.1/icon",
+      "licenseUrl": "http://aws.amazon.com/apache2.0/",
+      "projectUrl": "https://github.com/aws/aws-lambda-dotnet",
+      "tags": [
+        "AWS",
+        "Amazon",
+        "Lambda"
+      ],
+      "authors": [
+        "Amazon Web Services"
+      ],
+      "owners": [
+        "awsdotnet"
+      ],
+      "totalDownloads": 2301859,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.10.0",
+          "downloads": 93736,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.10.0.json"
+        },
+        {
+          "version": "0.10.1",
+          "downloads": 160178,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.10.1.json"
+        },
+        {
+          "version": "0.11.0",
+          "downloads": 47482,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.0.json"
+        },
+        {
+          "version": "0.11.1",
+          "downloads": 114120,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.1.json"
+        },
+        {
+          "version": "0.11.2",
+          "downloads": 17073,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.2.json"
+        },
+        {
+          "version": "0.11.3",
+          "downloads": 527888,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.3.json"
+        },
+        {
+          "version": "0.11.4",
+          "downloads": 188867,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.11.4.json"
+        },
+        {
+          "version": "0.12.0",
+          "downloads": 55452,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.0.json"
+        },
+        {
+          "version": "0.12.1",
+          "downloads": 128756,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.1.json"
+        },
+        {
+          "version": "0.12.2",
+          "downloads": 146209,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.2.json"
+        },
+        {
+          "version": "0.12.3",
+          "downloads": 174678,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.3.json"
+        },
+        {
+          "version": "0.12.4",
+          "downloads": 42875,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.4.json"
+        },
+        {
+          "version": "0.12.5",
+          "downloads": 4028,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.5.json"
+        },
+        {
+          "version": "0.12.6",
+          "downloads": 70219,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.6.json"
+        },
+        {
+          "version": "0.12.7",
+          "downloads": 234153,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.12.7.json"
+        },
+        {
+          "version": "0.13.0",
+          "downloads": 65263,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.13.0.json"
+        },
+        {
+          "version": "0.13.1",
+          "downloads": 37867,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.13.1.json"
+        },
+        {
+          "version": "0.14.0",
+          "downloads": 14001,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.14.0.json"
+        },
+        {
+          "version": "0.14.1",
+          "downloads": 179014,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-3.1/0.14.1.json"
         }
       ],
       "vulnerabilities": []
@@ -93056,12 +93141,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/uno.check/index.json",
       "id": "Uno.Check",
-      "version": "1.35.0-dev.114",
+      "version": "1.35.0-dev.116",
       "description": "A dotnet tool for helping set up your Uno Platform environment",
       "summary": "",
       "title": "Uno Platform Check Tool",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/uno.check/1.35.0-dev.114/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Uno.Check/1.35.0-dev.114/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/uno.check/1.35.0-dev.116/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Uno.Check/1.35.0-dev.116/license",
       "projectUrl": "https://github.com/unoplatform/uno.check",
       "tags": [],
       "authors": [
@@ -94837,64 +94922,11 @@
           "version": "1.35.0-dev.114",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.check/1.35.0-dev.114.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/index.json",
-      "id": "dotnet-certificate-tool",
-      "version": "2.1.0",
-      "description": "CLI tool that installs a certificate to the specified store (defaults to My).",
-      "summary": "",
-      "title": "dotnet-certificate-tool",
-      "licenseUrl": "https://www.nuget.org/packages/dotnet-certificate-tool/2.1.0/license",
-      "tags": [
-        "dotnet",
-        "cli",
-        "tool",
-        "certificate"
-      ],
-      "authors": [
-        "GSoft.CertificateTool"
-      ],
-      "owners": [
-        "stylianosnicoletti"
-      ],
-      "totalDownloads": 2090323,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "2.0.6",
-          "downloads": 200953,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/2.0.6.json"
         },
         {
-          "version": "2.0.7",
-          "downloads": 851986,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/2.0.7.json"
-        },
-        {
-          "version": "2.0.9",
-          "downloads": 260229,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/2.0.9.json"
-        },
-        {
-          "version": "2.0.10",
-          "downloads": 335006,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/2.0.10.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 237251,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/2.1.0.json"
+          "version": "1.35.0-dev.116",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/uno.check/1.35.0-dev.116.json"
         }
       ],
       "vulnerabilities": []
@@ -95217,6 +95249,64 @@
           "version": "4.0.18",
           "downloads": 28500,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/nuget-license/4.0.18.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/index.json",
+      "id": "dotnet-certificate-tool",
+      "version": "2.1.0",
+      "description": "CLI tool that installs a certificate to the specified store (defaults to My).",
+      "summary": "",
+      "title": "dotnet-certificate-tool",
+      "licenseUrl": "https://www.nuget.org/packages/dotnet-certificate-tool/2.1.0/license",
+      "tags": [
+        "dotnet",
+        "cli",
+        "tool",
+        "certificate"
+      ],
+      "authors": [
+        "GSoft.CertificateTool"
+      ],
+      "owners": [
+        "stylianosnicoletti"
+      ],
+      "totalDownloads": 2090323,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.0.6",
+          "downloads": 200953,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/2.0.6.json"
+        },
+        {
+          "version": "2.0.7",
+          "downloads": 851986,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/2.0.7.json"
+        },
+        {
+          "version": "2.0.9",
+          "downloads": 260229,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/2.0.9.json"
+        },
+        {
+          "version": "2.0.10",
+          "downloads": 335006,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/2.0.10.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 237251,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnet-certificate-tool/2.1.0.json"
         }
       ],
       "vulnerabilities": []
@@ -96451,6 +96541,493 @@
       "vulnerabilities": []
     },
     {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/index.json",
+      "id": "dotnetsay",
+      "version": "3.0.3",
+      "description": "A simple .NET tool that prints dotnetbot",
+      "summary": "",
+      "title": "dotnetsay",
+      "licenseUrl": "https://www.nuget.org/packages/dotnetsay/3.0.3/license",
+      "tags": [],
+      "authors": [
+        "Richard Lander"
+      ],
+      "owners": [
+        "richlander"
+      ],
+      "totalDownloads": 1425046,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloads": 2021,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/1.0.0.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 2322,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.0.0.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 1776,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.0.json"
+        },
+        {
+          "version": "2.1.1",
+          "downloads": 1617,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.1.json"
+        },
+        {
+          "version": "2.1.2",
+          "downloads": 1698,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.2.json"
+        },
+        {
+          "version": "2.1.3",
+          "downloads": 2909,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.3.json"
+        },
+        {
+          "version": "2.1.4",
+          "downloads": 47296,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.4.json"
+        },
+        {
+          "version": "2.1.5",
+          "downloads": 743,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.5.json"
+        },
+        {
+          "version": "2.1.6",
+          "downloads": 788,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.6.json"
+        },
+        {
+          "version": "2.1.7",
+          "downloads": 191367,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.7.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 171,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.0.json"
+        },
+        {
+          "version": "3.0.1",
+          "downloads": 208,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.1.json"
+        },
+        {
+          "version": "3.0.2",
+          "downloads": 324,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.2.json"
+        },
+        {
+          "version": "3.0.3",
+          "downloads": 1171806,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.3.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/index.json",
+      "id": "Microsoft.PowerApps.CLI.Tool",
+      "version": "2.13.1",
+      "description": "Microsoft PowerPlatform CLI is a simple, single-stop, developer command-line interface (CLI) for developing customizations and extensions for Microsoft PowerPlatform. See project site how to install",
+      "summary": "",
+      "title": "Microsoft PowerPlatform CLI",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.powerapps.cli.tool/2.13.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Microsoft.PowerApps.CLI.Tool/2.13.1/license",
+      "projectUrl": "https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction",
+      "tags": [
+        "Dynamics",
+        "CRM",
+        "PowerApps",
+        "PowerPlatform"
+      ],
+      "authors": [
+        "Microsoft"
+      ],
+      "owners": [
+        "crmsdk",
+        "Microsoft"
+      ],
+      "totalDownloads": 1921138,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        },
+        {
+          "name": "McpServer"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.23.3",
+          "downloads": 1774,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.23.3.json"
+        },
+        {
+          "version": "1.23.4",
+          "downloads": 1710,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.23.4.json"
+        },
+        {
+          "version": "1.24.3",
+          "downloads": 4732,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.24.3.json"
+        },
+        {
+          "version": "1.25.2",
+          "downloads": 1657,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.25.2.json"
+        },
+        {
+          "version": "1.25.3",
+          "downloads": 801,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.25.3.json"
+        },
+        {
+          "version": "1.25.4",
+          "downloads": 512,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.25.4.json"
+        },
+        {
+          "version": "1.25.5",
+          "downloads": 4933,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.25.5.json"
+        },
+        {
+          "version": "1.26.5",
+          "downloads": 5589,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.26.5.json"
+        },
+        {
+          "version": "1.26.6",
+          "downloads": 6848,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.26.6.json"
+        },
+        {
+          "version": "1.27.5",
+          "downloads": 1792,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.27.5.json"
+        },
+        {
+          "version": "1.27.6",
+          "downloads": 16120,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.27.6.json"
+        },
+        {
+          "version": "1.28.2",
+          "downloads": 2747,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.28.2.json"
+        },
+        {
+          "version": "1.28.3",
+          "downloads": 20190,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.28.3.json"
+        },
+        {
+          "version": "1.29.6",
+          "downloads": 8939,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.29.6.json"
+        },
+        {
+          "version": "1.29.9",
+          "downloads": 1460,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.29.9.json"
+        },
+        {
+          "version": "1.29.10",
+          "downloads": 3757,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.29.10.json"
+        },
+        {
+          "version": "1.29.11",
+          "downloads": 39071,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.29.11.json"
+        },
+        {
+          "version": "1.30.3",
+          "downloads": 3717,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.30.3.json"
+        },
+        {
+          "version": "1.30.4",
+          "downloads": 3576,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.30.4.json"
+        },
+        {
+          "version": "1.30.5",
+          "downloads": 4028,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.30.5.json"
+        },
+        {
+          "version": "1.30.6",
+          "downloads": 13418,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.30.6.json"
+        },
+        {
+          "version": "1.30.7",
+          "downloads": 17902,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.30.7.json"
+        },
+        {
+          "version": "1.31.3",
+          "downloads": 4039,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.31.3.json"
+        },
+        {
+          "version": "1.31.6",
+          "downloads": 96682,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.31.6.json"
+        },
+        {
+          "version": "1.32.5",
+          "downloads": 2428,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.32.5.json"
+        },
+        {
+          "version": "1.32.6",
+          "downloads": 7631,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.32.6.json"
+        },
+        {
+          "version": "1.32.7",
+          "downloads": 5772,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.32.7.json"
+        },
+        {
+          "version": "1.32.8",
+          "downloads": 28191,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.32.8.json"
+        },
+        {
+          "version": "1.33.3",
+          "downloads": 1744,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.33.3.json"
+        },
+        {
+          "version": "1.33.4",
+          "downloads": 2658,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.33.4.json"
+        },
+        {
+          "version": "1.33.5",
+          "downloads": 88774,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.33.5.json"
+        },
+        {
+          "version": "1.34.3",
+          "downloads": 3074,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.34.3.json"
+        },
+        {
+          "version": "1.34.4",
+          "downloads": 147967,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.34.4.json"
+        },
+        {
+          "version": "1.35.1",
+          "downloads": 24529,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.35.1.json"
+        },
+        {
+          "version": "1.36.3",
+          "downloads": 11950,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.36.3.json"
+        },
+        {
+          "version": "1.37.4",
+          "downloads": 14741,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.37.4.json"
+        },
+        {
+          "version": "1.38.3",
+          "downloads": 30446,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.38.3.json"
+        },
+        {
+          "version": "1.39.3",
+          "downloads": 27741,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.39.3.json"
+        },
+        {
+          "version": "1.40.4",
+          "downloads": 21625,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.40.4.json"
+        },
+        {
+          "version": "1.41.1",
+          "downloads": 10672,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.41.1.json"
+        },
+        {
+          "version": "1.42.1",
+          "downloads": 47150,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.42.1.json"
+        },
+        {
+          "version": "1.43.6",
+          "downloads": 252749,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.43.6.json"
+        },
+        {
+          "version": "1.44.2",
+          "downloads": 147644,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.44.2.json"
+        },
+        {
+          "version": "1.45.3",
+          "downloads": 12613,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.45.3.json"
+        },
+        {
+          "version": "1.46.1",
+          "downloads": 8801,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.46.1.json"
+        },
+        {
+          "version": "1.47.1",
+          "downloads": 22155,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.47.1.json"
+        },
+        {
+          "version": "1.48.2",
+          "downloads": 27954,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.48.2.json"
+        },
+        {
+          "version": "1.49.3",
+          "downloads": 1846,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.49.3.json"
+        },
+        {
+          "version": "1.49.4",
+          "downloads": 23940,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.49.4.json"
+        },
+        {
+          "version": "1.50.1",
+          "downloads": 31579,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.50.1.json"
+        },
+        {
+          "version": "1.51.1",
+          "downloads": 21788,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.51.1.json"
+        },
+        {
+          "version": "1.52.1",
+          "downloads": 27741,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.52.1.json"
+        },
+        {
+          "version": "2.0.1",
+          "downloads": 3069,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.0.1.json"
+        },
+        {
+          "version": "2.1.1",
+          "downloads": 3280,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.1.1.json"
+        },
+        {
+          "version": "2.1.2",
+          "downloads": 5843,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.1.2.json"
+        },
+        {
+          "version": "2.2.1",
+          "downloads": 25177,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.2.1.json"
+        },
+        {
+          "version": "2.3.2",
+          "downloads": 10489,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.3.2.json"
+        },
+        {
+          "version": "2.4.1",
+          "downloads": 33957,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.4.1.json"
+        },
+        {
+          "version": "2.5.1",
+          "downloads": 11987,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.5.1.json"
+        },
+        {
+          "version": "2.6.3",
+          "downloads": 7442,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.6.3.json"
+        },
+        {
+          "version": "2.6.4",
+          "downloads": 34481,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.6.4.json"
+        },
+        {
+          "version": "2.7.4",
+          "downloads": 96486,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.7.4.json"
+        },
+        {
+          "version": "2.8.1",
+          "downloads": 170205,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.8.1.json"
+        },
+        {
+          "version": "2.9.3",
+          "downloads": 38821,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.9.3.json"
+        },
+        {
+          "version": "2.10.1",
+          "downloads": 38197,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.10.1.json"
+        },
+        {
+          "version": "2.11.1",
+          "downloads": 3449,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.11.1.json"
+        },
+        {
+          "version": "2.11.2",
+          "downloads": 69381,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.11.2.json"
+        },
+        {
+          "version": "2.12.1",
+          "downloads": 4534,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.12.1.json"
+        },
+        {
+          "version": "2.12.2",
+          "downloads": 42443,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.12.2.json"
+        },
+        {
+          "version": "2.13.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.13.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/specsync.azuredevops/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/specsync.azuredevops/index.json",
@@ -97059,493 +97636,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/index.json",
-      "id": "Microsoft.PowerApps.CLI.Tool",
-      "version": "2.13.1",
-      "description": "Microsoft PowerPlatform CLI is a simple, single-stop, developer command-line interface (CLI) for developing customizations and extensions for Microsoft PowerPlatform. See project site how to install",
-      "summary": "",
-      "title": "Microsoft PowerPlatform CLI",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/microsoft.powerapps.cli.tool/2.13.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Microsoft.PowerApps.CLI.Tool/2.13.1/license",
-      "projectUrl": "https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction",
-      "tags": [
-        "Dynamics",
-        "CRM",
-        "PowerApps",
-        "PowerPlatform"
-      ],
-      "authors": [
-        "Microsoft"
-      ],
-      "owners": [
-        "crmsdk",
-        "Microsoft"
-      ],
-      "totalDownloads": 1921138,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        },
-        {
-          "name": "McpServer"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.23.3",
-          "downloads": 1774,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.23.3.json"
-        },
-        {
-          "version": "1.23.4",
-          "downloads": 1710,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.23.4.json"
-        },
-        {
-          "version": "1.24.3",
-          "downloads": 4732,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.24.3.json"
-        },
-        {
-          "version": "1.25.2",
-          "downloads": 1657,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.25.2.json"
-        },
-        {
-          "version": "1.25.3",
-          "downloads": 801,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.25.3.json"
-        },
-        {
-          "version": "1.25.4",
-          "downloads": 512,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.25.4.json"
-        },
-        {
-          "version": "1.25.5",
-          "downloads": 4933,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.25.5.json"
-        },
-        {
-          "version": "1.26.5",
-          "downloads": 5589,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.26.5.json"
-        },
-        {
-          "version": "1.26.6",
-          "downloads": 6848,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.26.6.json"
-        },
-        {
-          "version": "1.27.5",
-          "downloads": 1792,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.27.5.json"
-        },
-        {
-          "version": "1.27.6",
-          "downloads": 16120,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.27.6.json"
-        },
-        {
-          "version": "1.28.2",
-          "downloads": 2747,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.28.2.json"
-        },
-        {
-          "version": "1.28.3",
-          "downloads": 20190,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.28.3.json"
-        },
-        {
-          "version": "1.29.6",
-          "downloads": 8939,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.29.6.json"
-        },
-        {
-          "version": "1.29.9",
-          "downloads": 1460,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.29.9.json"
-        },
-        {
-          "version": "1.29.10",
-          "downloads": 3757,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.29.10.json"
-        },
-        {
-          "version": "1.29.11",
-          "downloads": 39071,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.29.11.json"
-        },
-        {
-          "version": "1.30.3",
-          "downloads": 3717,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.30.3.json"
-        },
-        {
-          "version": "1.30.4",
-          "downloads": 3576,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.30.4.json"
-        },
-        {
-          "version": "1.30.5",
-          "downloads": 4028,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.30.5.json"
-        },
-        {
-          "version": "1.30.6",
-          "downloads": 13418,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.30.6.json"
-        },
-        {
-          "version": "1.30.7",
-          "downloads": 17902,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.30.7.json"
-        },
-        {
-          "version": "1.31.3",
-          "downloads": 4039,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.31.3.json"
-        },
-        {
-          "version": "1.31.6",
-          "downloads": 96682,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.31.6.json"
-        },
-        {
-          "version": "1.32.5",
-          "downloads": 2428,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.32.5.json"
-        },
-        {
-          "version": "1.32.6",
-          "downloads": 7631,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.32.6.json"
-        },
-        {
-          "version": "1.32.7",
-          "downloads": 5772,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.32.7.json"
-        },
-        {
-          "version": "1.32.8",
-          "downloads": 28191,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.32.8.json"
-        },
-        {
-          "version": "1.33.3",
-          "downloads": 1744,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.33.3.json"
-        },
-        {
-          "version": "1.33.4",
-          "downloads": 2658,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.33.4.json"
-        },
-        {
-          "version": "1.33.5",
-          "downloads": 88774,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.33.5.json"
-        },
-        {
-          "version": "1.34.3",
-          "downloads": 3074,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.34.3.json"
-        },
-        {
-          "version": "1.34.4",
-          "downloads": 147967,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.34.4.json"
-        },
-        {
-          "version": "1.35.1",
-          "downloads": 24529,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.35.1.json"
-        },
-        {
-          "version": "1.36.3",
-          "downloads": 11950,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.36.3.json"
-        },
-        {
-          "version": "1.37.4",
-          "downloads": 14741,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.37.4.json"
-        },
-        {
-          "version": "1.38.3",
-          "downloads": 30446,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.38.3.json"
-        },
-        {
-          "version": "1.39.3",
-          "downloads": 27741,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.39.3.json"
-        },
-        {
-          "version": "1.40.4",
-          "downloads": 21625,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.40.4.json"
-        },
-        {
-          "version": "1.41.1",
-          "downloads": 10672,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.41.1.json"
-        },
-        {
-          "version": "1.42.1",
-          "downloads": 47150,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.42.1.json"
-        },
-        {
-          "version": "1.43.6",
-          "downloads": 252749,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.43.6.json"
-        },
-        {
-          "version": "1.44.2",
-          "downloads": 147644,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.44.2.json"
-        },
-        {
-          "version": "1.45.3",
-          "downloads": 12613,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.45.3.json"
-        },
-        {
-          "version": "1.46.1",
-          "downloads": 8801,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.46.1.json"
-        },
-        {
-          "version": "1.47.1",
-          "downloads": 22155,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.47.1.json"
-        },
-        {
-          "version": "1.48.2",
-          "downloads": 27954,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.48.2.json"
-        },
-        {
-          "version": "1.49.3",
-          "downloads": 1846,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.49.3.json"
-        },
-        {
-          "version": "1.49.4",
-          "downloads": 23940,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.49.4.json"
-        },
-        {
-          "version": "1.50.1",
-          "downloads": 31579,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.50.1.json"
-        },
-        {
-          "version": "1.51.1",
-          "downloads": 21788,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.51.1.json"
-        },
-        {
-          "version": "1.52.1",
-          "downloads": 27741,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/1.52.1.json"
-        },
-        {
-          "version": "2.0.1",
-          "downloads": 3069,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.0.1.json"
-        },
-        {
-          "version": "2.1.1",
-          "downloads": 3280,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.1.1.json"
-        },
-        {
-          "version": "2.1.2",
-          "downloads": 5843,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.1.2.json"
-        },
-        {
-          "version": "2.2.1",
-          "downloads": 25177,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.2.1.json"
-        },
-        {
-          "version": "2.3.2",
-          "downloads": 10489,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.3.2.json"
-        },
-        {
-          "version": "2.4.1",
-          "downloads": 33957,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.4.1.json"
-        },
-        {
-          "version": "2.5.1",
-          "downloads": 11987,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.5.1.json"
-        },
-        {
-          "version": "2.6.3",
-          "downloads": 7442,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.6.3.json"
-        },
-        {
-          "version": "2.6.4",
-          "downloads": 34481,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.6.4.json"
-        },
-        {
-          "version": "2.7.4",
-          "downloads": 96486,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.7.4.json"
-        },
-        {
-          "version": "2.8.1",
-          "downloads": 170205,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.8.1.json"
-        },
-        {
-          "version": "2.9.3",
-          "downloads": 38821,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.9.3.json"
-        },
-        {
-          "version": "2.10.1",
-          "downloads": 38197,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.10.1.json"
-        },
-        {
-          "version": "2.11.1",
-          "downloads": 3449,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.11.1.json"
-        },
-        {
-          "version": "2.11.2",
-          "downloads": 69381,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.11.2.json"
-        },
-        {
-          "version": "2.12.1",
-          "downloads": 4534,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.12.1.json"
-        },
-        {
-          "version": "2.12.2",
-          "downloads": 42443,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.12.2.json"
-        },
-        {
-          "version": "2.13.1",
-          "downloads": 0,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.powerapps.cli.tool/2.13.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/index.json",
-      "id": "dotnetsay",
-      "version": "3.0.3",
-      "description": "A simple .NET tool that prints dotnetbot",
-      "summary": "",
-      "title": "dotnetsay",
-      "licenseUrl": "https://www.nuget.org/packages/dotnetsay/3.0.3/license",
-      "tags": [],
-      "authors": [
-        "Richard Lander"
-      ],
-      "owners": [
-        "richlander"
-      ],
-      "totalDownloads": 1425046,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "downloads": 2021,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/1.0.0.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 2322,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.0.0.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 1776,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.0.json"
-        },
-        {
-          "version": "2.1.1",
-          "downloads": 1617,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.1.json"
-        },
-        {
-          "version": "2.1.2",
-          "downloads": 1698,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.2.json"
-        },
-        {
-          "version": "2.1.3",
-          "downloads": 2909,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.3.json"
-        },
-        {
-          "version": "2.1.4",
-          "downloads": 47296,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.4.json"
-        },
-        {
-          "version": "2.1.5",
-          "downloads": 743,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.5.json"
-        },
-        {
-          "version": "2.1.6",
-          "downloads": 788,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.6.json"
-        },
-        {
-          "version": "2.1.7",
-          "downloads": 191367,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/2.1.7.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 171,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.0.json"
-        },
-        {
-          "version": "3.0.1",
-          "downloads": 208,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.1.json"
-        },
-        {
-          "version": "3.0.2",
-          "downloads": 324,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.2.json"
-        },
-        {
-          "version": "3.0.3",
-          "downloads": 1171806,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/dotnetsay/3.0.3.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/fluentmigrator.dotnet.cli/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/fluentmigrator.dotnet.cli/index.json",
@@ -98124,100 +98214,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/index.json",
-      "id": "Amazon.Lambda.TestTool-8.0",
-      "version": "0.18.0",
-      "description": "A tool to help debug and test your .NET 8.0 AWS Lambda functions locally.",
-      "summary": "",
-      "title": "Amazon.Lambda.TestTool-8.0",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/amazon.lambda.testtool-8.0/0.18.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Amazon.Lambda.TestTool-8.0/0.18.0/license",
-      "projectUrl": "https://github.com/aws/aws-lambda-dotnet",
-      "tags": [
-        "AWS",
-        "Amazon",
-        "Lambda"
-      ],
-      "authors": [
-        "Amazon Web Services"
-      ],
-      "owners": [
-        "awsdotnet"
-      ],
-      "totalDownloads": 1811194,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.15.0",
-          "downloads": 8009,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.15.0.json"
-        },
-        {
-          "version": "0.15.1",
-          "downloads": 132067,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.15.1.json"
-        },
-        {
-          "version": "0.15.2",
-          "downloads": 578857,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.15.2.json"
-        },
-        {
-          "version": "0.15.3",
-          "downloads": 34126,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.15.3.json"
-        },
-        {
-          "version": "0.16.0",
-          "downloads": 210187,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.16.0.json"
-        },
-        {
-          "version": "0.16.1",
-          "downloads": 48346,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.16.1.json"
-        },
-        {
-          "version": "0.16.2",
-          "downloads": 406129,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.16.2.json"
-        },
-        {
-          "version": "0.16.3",
-          "downloads": 218740,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.16.3.json"
-        },
-        {
-          "version": "0.17.0",
-          "downloads": 85148,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.17.0.json"
-        },
-        {
-          "version": "0.17.1",
-          "downloads": 18565,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.17.1.json"
-        },
-        {
-          "version": "0.17.2",
-          "downloads": 18085,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.17.2.json"
-        },
-        {
-          "version": "0.18.0",
-          "downloads": 52935,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.18.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/codecov.tool/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/codecov.tool/index.json",
@@ -98358,6 +98354,100 @@
           "Legacy"
         ]
       },
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/index.json",
+      "id": "Amazon.Lambda.TestTool-8.0",
+      "version": "0.18.0",
+      "description": "A tool to help debug and test your .NET 8.0 AWS Lambda functions locally.",
+      "summary": "",
+      "title": "Amazon.Lambda.TestTool-8.0",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/amazon.lambda.testtool-8.0/0.18.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Amazon.Lambda.TestTool-8.0/0.18.0/license",
+      "projectUrl": "https://github.com/aws/aws-lambda-dotnet",
+      "tags": [
+        "AWS",
+        "Amazon",
+        "Lambda"
+      ],
+      "authors": [
+        "Amazon Web Services"
+      ],
+      "owners": [
+        "awsdotnet"
+      ],
+      "totalDownloads": 1811194,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.15.0",
+          "downloads": 8009,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.15.0.json"
+        },
+        {
+          "version": "0.15.1",
+          "downloads": 132067,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.15.1.json"
+        },
+        {
+          "version": "0.15.2",
+          "downloads": 578857,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.15.2.json"
+        },
+        {
+          "version": "0.15.3",
+          "downloads": 34126,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.15.3.json"
+        },
+        {
+          "version": "0.16.0",
+          "downloads": 210187,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.16.0.json"
+        },
+        {
+          "version": "0.16.1",
+          "downloads": 48346,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.16.1.json"
+        },
+        {
+          "version": "0.16.2",
+          "downloads": 406129,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.16.2.json"
+        },
+        {
+          "version": "0.16.3",
+          "downloads": 218740,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.16.3.json"
+        },
+        {
+          "version": "0.17.0",
+          "downloads": 85148,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.17.0.json"
+        },
+        {
+          "version": "0.17.1",
+          "downloads": 18565,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.17.1.json"
+        },
+        {
+          "version": "0.17.2",
+          "downloads": 18085,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.17.2.json"
+        },
+        {
+          "version": "0.18.0",
+          "downloads": 52935,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/amazon.lambda.testtool-8.0/0.18.0.json"
+        }
+      ],
       "vulnerabilities": []
     },
     {
@@ -102242,12 +102332,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.cli/index.json",
       "id": "Aspire.Cli",
-      "version": "13.6.1",
+      "version": "13.6.2",
       "description": "Command line tool for Aspire developers.",
       "summary": "",
       "title": "Aspire.Cli",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/aspire.cli/13.6.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/Aspire.Cli/13.6.1/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/aspire.cli/13.6.2/icon",
+      "licenseUrl": "https://www.nuget.org/packages/Aspire.Cli/13.6.2/license",
       "projectUrl": "https://github.com/microsoft/aspire",
       "tags": [
         "aspire",
@@ -102482,6 +102572,128 @@
           "version": "13.6.1",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.cli/13.6.1.json"
+        },
+        {
+          "version": "13.6.2",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/aspire.cli/13.6.2.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/index.json",
+      "id": "GitReleaseManager.Tool",
+      "version": "0.20.0",
+      "description": "Tool for creating and exporting releases for software applications from online Version Control Systems",
+      "summary": "",
+      "title": "GitReleaseManager Tool",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/gitreleasemanager.tool/0.20.0/icon",
+      "licenseUrl": "https://www.nuget.org/packages/GitReleaseManager.Tool/0.20.0/license",
+      "projectUrl": "https://github.com/GitTools/GitReleaseManager",
+      "tags": [
+        "github",
+        "release",
+        "notes",
+        "create",
+        "export"
+      ],
+      "authors": [
+        "GitTools Contributors"
+      ],
+      "owners": [
+        "gep13",
+        "gittools"
+      ],
+      "totalDownloads": 1483605,
+      "verified": true,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.8.0",
+          "downloads": 52602,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.8.0.json"
+        },
+        {
+          "version": "0.9.0",
+          "downloads": 11999,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.9.0.json"
+        },
+        {
+          "version": "0.10.0",
+          "downloads": 13773,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.10.0.json"
+        },
+        {
+          "version": "0.10.2",
+          "downloads": 7047,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.10.2.json"
+        },
+        {
+          "version": "0.10.3",
+          "downloads": 5717,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.10.3.json"
+        },
+        {
+          "version": "0.11.0",
+          "downloads": 68205,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.11.0.json"
+        },
+        {
+          "version": "0.12.0",
+          "downloads": 4805,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.12.0.json"
+        },
+        {
+          "version": "0.12.1",
+          "downloads": 29855,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.12.1.json"
+        },
+        {
+          "version": "0.13.0",
+          "downloads": 50043,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.13.0.json"
+        },
+        {
+          "version": "0.14.0",
+          "downloads": 3212,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.14.0.json"
+        },
+        {
+          "version": "0.15.0",
+          "downloads": 4675,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.15.0.json"
+        },
+        {
+          "version": "0.16.0",
+          "downloads": 17612,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.16.0.json"
+        },
+        {
+          "version": "0.17.0",
+          "downloads": 26182,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.17.0.json"
+        },
+        {
+          "version": "0.18.0",
+          "downloads": 548197,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.18.0.json"
+        },
+        {
+          "version": "0.19.0",
+          "downloads": 6992,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.19.0.json"
+        },
+        {
+          "version": "0.20.0",
+          "downloads": 632689,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.20.0.json"
         }
       ],
       "vulnerabilities": []
@@ -103900,123 +104112,6 @@
           "version": "10.7.0",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/volo.abp.cli/10.7.0.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/index.json",
-      "id": "GitReleaseManager.Tool",
-      "version": "0.20.0",
-      "description": "Tool for creating and exporting releases for software applications from online Version Control Systems",
-      "summary": "",
-      "title": "GitReleaseManager Tool",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/gitreleasemanager.tool/0.20.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/GitReleaseManager.Tool/0.20.0/license",
-      "projectUrl": "https://github.com/GitTools/GitReleaseManager",
-      "tags": [
-        "github",
-        "release",
-        "notes",
-        "create",
-        "export"
-      ],
-      "authors": [
-        "GitTools Contributors"
-      ],
-      "owners": [
-        "gep13",
-        "gittools"
-      ],
-      "totalDownloads": 1483605,
-      "verified": true,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.8.0",
-          "downloads": 52602,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.8.0.json"
-        },
-        {
-          "version": "0.9.0",
-          "downloads": 11999,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.9.0.json"
-        },
-        {
-          "version": "0.10.0",
-          "downloads": 13773,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.10.0.json"
-        },
-        {
-          "version": "0.10.2",
-          "downloads": 7047,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.10.2.json"
-        },
-        {
-          "version": "0.10.3",
-          "downloads": 5717,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.10.3.json"
-        },
-        {
-          "version": "0.11.0",
-          "downloads": 68205,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.11.0.json"
-        },
-        {
-          "version": "0.12.0",
-          "downloads": 4805,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.12.0.json"
-        },
-        {
-          "version": "0.12.1",
-          "downloads": 29855,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.12.1.json"
-        },
-        {
-          "version": "0.13.0",
-          "downloads": 50043,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.13.0.json"
-        },
-        {
-          "version": "0.14.0",
-          "downloads": 3212,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.14.0.json"
-        },
-        {
-          "version": "0.15.0",
-          "downloads": 4675,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.15.0.json"
-        },
-        {
-          "version": "0.16.0",
-          "downloads": 17612,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.16.0.json"
-        },
-        {
-          "version": "0.17.0",
-          "downloads": 26182,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.17.0.json"
-        },
-        {
-          "version": "0.18.0",
-          "downloads": 548197,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.18.0.json"
-        },
-        {
-          "version": "0.19.0",
-          "downloads": 6992,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.19.0.json"
-        },
-        {
-          "version": "0.20.0",
-          "downloads": 632689,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/gitreleasemanager.tool/0.20.0.json"
         }
       ],
       "vulnerabilities": []
