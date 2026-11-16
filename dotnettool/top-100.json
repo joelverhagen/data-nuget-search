@@ -3,7 +3,7 @@
     "@vocab": "http://schema.nuget.org/schema#",
     "@base": "https://api.nuget.org/v3/registration5-gz-semver2/"
   },
-  "totalHits": 11149,
+  "totalHits": 11171,
   "data": [
     {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/cake.tool/index.json",
@@ -9739,12 +9739,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.console/index.json",
       "id": "coverlet.console",
-      "version": "10.1.0",
+      "version": "10.1.1",
       "description": "Coverlet is a cross platform code coverage tool for .NET, with support for line, branch and method coverage.",
       "summary": "",
       "title": "coverlet.console",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/coverlet.console/10.1.0/icon",
-      "licenseUrl": "https://www.nuget.org/packages/coverlet.console/10.1.0/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/coverlet.console/10.1.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/coverlet.console/10.1.1/license",
       "projectUrl": "https://github.com/coverlet-coverage/coverlet",
       "tags": [
         "coverage",
@@ -9940,6 +9940,11 @@
           "version": "10.1.0",
           "downloads": 307069,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.console/10.1.0.json"
+        },
+        {
+          "version": "10.1.1",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/coverlet.console/10.1.1.json"
         }
       ],
       "vulnerabilities": []
@@ -38477,406 +38482,6 @@
       "vulnerabilities": []
     },
     {
-      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/index.json",
-      "@type": "Package",
-      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/index.json",
-      "id": "minver-cli",
-      "version": "8.1.0-alpha.1",
-      "description": "A minimalist .NET tool, developed by humans, for versioning any kind of software or content using Git tags.",
-      "summary": "",
-      "title": "minver-cli",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/minver-cli/8.1.0-alpha.1/icon",
-      "licenseUrl": "https://www.nuget.org/packages/minver-cli/8.1.0-alpha.1/license",
-      "projectUrl": "https://github.com/adamralph/minver",
-      "tags": [],
-      "authors": [
-        "minver"
-      ],
-      "owners": [
-        "adamralph"
-      ],
-      "totalDownloads": 5165130,
-      "verified": false,
-      "packageTypes": [
-        {
-          "name": "DotnetTool"
-        }
-      ],
-      "versions": [
-        {
-          "version": "1.0.0-alpha.15+build.105",
-          "downloads": 541,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-alpha.15.json"
-        },
-        {
-          "version": "1.0.0-alpha.16+build.111",
-          "downloads": 435,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-alpha.16.json"
-        },
-        {
-          "version": "1.0.0-alpha.17+build.121",
-          "downloads": 426,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-alpha.17.json"
-        },
-        {
-          "version": "1.0.0-alpha.18+build.123",
-          "downloads": 435,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-alpha.18.json"
-        },
-        {
-          "version": "1.0.0-alpha.19+build.130",
-          "downloads": 412,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-alpha.19.json"
-        },
-        {
-          "version": "1.0.0-alpha.20+build.136",
-          "downloads": 416,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-alpha.20.json"
-        },
-        {
-          "version": "1.0.0-alpha.21+build.139",
-          "downloads": 802,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-alpha.21.json"
-        },
-        {
-          "version": "1.0.0-beta.1+build.141",
-          "downloads": 1068,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-beta.1.json"
-        },
-        {
-          "version": "1.0.0-beta.2+build.172",
-          "downloads": 984,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-beta.2.json"
-        },
-        {
-          "version": "1.0.0-beta.3+build.186",
-          "downloads": 752,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-beta.3.json"
-        },
-        {
-          "version": "1.0.0-beta.4+build.193",
-          "downloads": 1246,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-beta.4.json"
-        },
-        {
-          "version": "1.0.0-rc.1+build.201",
-          "downloads": 452,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-rc.1.json"
-        },
-        {
-          "version": "1.0.0+build.203",
-          "downloads": 3597,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0.json"
-        },
-        {
-          "version": "1.1.0-beta.1+build.206",
-          "downloads": 343,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.1.0-beta.1.json"
-        },
-        {
-          "version": "1.1.0-beta.2+build.208",
-          "downloads": 336,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.1.0-beta.2.json"
-        },
-        {
-          "version": "1.1.0-rc.1+build.214",
-          "downloads": 350,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.1.0-rc.1.json"
-        },
-        {
-          "version": "1.1.0+build.221",
-          "downloads": 1331,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.1.0.json"
-        },
-        {
-          "version": "1.2.0-beta.1+build.233",
-          "downloads": 334,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.2.0-beta.1.json"
-        },
-        {
-          "version": "1.2.0-rc.1+build.240",
-          "downloads": 322,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.2.0-rc.1.json"
-        },
-        {
-          "version": "1.2.0+build.244",
-          "downloads": 1220,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.2.0.json"
-        },
-        {
-          "version": "2.0.0-alpha.1",
-          "downloads": 526,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.0.0-alpha.1.json"
-        },
-        {
-          "version": "2.0.0-alpha.2",
-          "downloads": 505,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.0.0-alpha.2.json"
-        },
-        {
-          "version": "2.0.0-rc.1",
-          "downloads": 711,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.0.0-rc.1.json"
-        },
-        {
-          "version": "2.0.0",
-          "downloads": 159449,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.0.0.json"
-        },
-        {
-          "version": "2.1.0-rc.1",
-          "downloads": 796,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.1.0-rc.1.json"
-        },
-        {
-          "version": "2.1.0",
-          "downloads": 1098,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.1.0.json"
-        },
-        {
-          "version": "2.2.0",
-          "downloads": 33607,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.2.0.json"
-        },
-        {
-          "version": "2.3.0",
-          "downloads": 33942,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.3.0.json"
-        },
-        {
-          "version": "2.3.1-beta.1",
-          "downloads": 534,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.3.1-beta.1.json"
-        },
-        {
-          "version": "2.3.1-beta.2",
-          "downloads": 535,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.3.1-beta.2.json"
-        },
-        {
-          "version": "2.3.1",
-          "downloads": 95346,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.3.1.json"
-        },
-        {
-          "version": "2.4.0-beta.1",
-          "downloads": 407,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.4.0-beta.1.json"
-        },
-        {
-          "version": "2.4.0-beta.2",
-          "downloads": 427,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.4.0-beta.2.json"
-        },
-        {
-          "version": "2.4.0",
-          "downloads": 55534,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.4.0.json"
-        },
-        {
-          "version": "2.5.0-alpha.1",
-          "downloads": 596,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.5.0-alpha.1.json"
-        },
-        {
-          "version": "2.5.0-rc.1",
-          "downloads": 1380,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.5.0-rc.1.json"
-        },
-        {
-          "version": "2.5.0",
-          "downloads": 274998,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.5.0.json"
-        },
-        {
-          "version": "3.0.0-alpha.1",
-          "downloads": 384,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/3.0.0-alpha.1.json"
-        },
-        {
-          "version": "3.0.0-rc.1",
-          "downloads": 453,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/3.0.0-rc.1.json"
-        },
-        {
-          "version": "3.0.0-rc.2",
-          "downloads": 300,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/3.0.0-rc.2.json"
-        },
-        {
-          "version": "3.0.0-rc.3",
-          "downloads": 304,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/3.0.0-rc.3.json"
-        },
-        {
-          "version": "3.0.0",
-          "downloads": 2706,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/3.0.0.json"
-        },
-        {
-          "version": "3.1.0-beta.1",
-          "downloads": 300,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/3.1.0-beta.1.json"
-        },
-        {
-          "version": "3.1.0",
-          "downloads": 118056,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/3.1.0.json"
-        },
-        {
-          "version": "4.0.0-alpha.1",
-          "downloads": 302,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.0.0-alpha.1.json"
-        },
-        {
-          "version": "4.0.0-rc.1",
-          "downloads": 288,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.0.0-rc.1.json"
-        },
-        {
-          "version": "4.0.0",
-          "downloads": 33591,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.0.0.json"
-        },
-        {
-          "version": "4.1.0-alpha.1",
-          "downloads": 273,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.1.0-alpha.1.json"
-        },
-        {
-          "version": "4.1.0-alpha.2",
-          "downloads": 309,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.1.0-alpha.2.json"
-        },
-        {
-          "version": "4.1.0-rc.1",
-          "downloads": 285,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.1.0-rc.1.json"
-        },
-        {
-          "version": "4.1.0",
-          "downloads": 42420,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.1.0.json"
-        },
-        {
-          "version": "4.2.0-alpha.1",
-          "downloads": 278,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.2.0-alpha.1.json"
-        },
-        {
-          "version": "4.2.0-rc.1",
-          "downloads": 302,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.2.0-rc.1.json"
-        },
-        {
-          "version": "4.2.0",
-          "downloads": 933845,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.2.0.json"
-        },
-        {
-          "version": "4.3.0-beta.1",
-          "downloads": 4036,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.3.0-beta.1.json"
-        },
-        {
-          "version": "4.3.0",
-          "downloads": 862038,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.3.0.json"
-        },
-        {
-          "version": "5.0.0-alpha.1",
-          "downloads": 228,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/5.0.0-alpha.1.json"
-        },
-        {
-          "version": "5.0.0-beta.1",
-          "downloads": 315,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/5.0.0-beta.1.json"
-        },
-        {
-          "version": "5.0.0",
-          "downloads": 1043450,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/5.0.0.json"
-        },
-        {
-          "version": "5.1.0-rc.1",
-          "downloads": 174,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/5.1.0-rc.1.json"
-        },
-        {
-          "version": "6.0.0-rc.1",
-          "downloads": 208,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/6.0.0-rc.1.json"
-        },
-        {
-          "version": "6.0.0",
-          "downloads": 854322,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/6.0.0.json"
-        },
-        {
-          "version": "6.1.0-beta.1",
-          "downloads": 204,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/6.1.0-beta.1.json"
-        },
-        {
-          "version": "6.1.0-rc.1",
-          "downloads": 144,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/6.1.0-rc.1.json"
-        },
-        {
-          "version": "6.1.0-rc.2",
-          "downloads": 104,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/6.1.0-rc.2.json"
-        },
-        {
-          "version": "6.1.0",
-          "downloads": 33905,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/6.1.0.json"
-        },
-        {
-          "version": "6.2.0-alpha.1",
-          "downloads": 192,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/6.2.0-alpha.1.json"
-        },
-        {
-          "version": "7.0.0-alpha.2",
-          "downloads": 103,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/7.0.0-alpha.2.json"
-        },
-        {
-          "version": "7.0.0-rc.1",
-          "downloads": 117,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/7.0.0-rc.1.json"
-        },
-        {
-          "version": "7.0.0",
-          "downloads": 416922,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/7.0.0.json"
-        },
-        {
-          "version": "8.0.0-alpha.1",
-          "downloads": 166,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/8.0.0-alpha.1.json"
-        },
-        {
-          "version": "8.0.0-rc.1",
-          "downloads": 124,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/8.0.0-rc.1.json"
-        },
-        {
-          "version": "8.0.0",
-          "downloads": 137619,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/8.0.0.json"
-        },
-        {
-          "version": "8.1.0-alpha.1",
-          "downloads": 170,
-          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/8.1.0-alpha.1.json"
-        }
-      ],
-      "vulnerabilities": []
-    },
-    {
       "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/index.json",
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/index.json",
@@ -39508,6 +39113,406 @@
           "version": "0.2.0-alpha.26556.1",
           "downloads": 319531,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/microsoft.crank.agent/0.2.0-alpha.26556.1.json"
+        }
+      ],
+      "vulnerabilities": []
+    },
+    {
+      "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/index.json",
+      "@type": "Package",
+      "registration": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/index.json",
+      "id": "minver-cli",
+      "version": "8.1.0-alpha.1",
+      "description": "A minimalist .NET tool, developed by humans, for versioning any kind of software or content using Git tags.",
+      "summary": "",
+      "title": "minver-cli",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/minver-cli/8.1.0-alpha.1/icon",
+      "licenseUrl": "https://www.nuget.org/packages/minver-cli/8.1.0-alpha.1/license",
+      "projectUrl": "https://github.com/adamralph/minver",
+      "tags": [],
+      "authors": [
+        "minver"
+      ],
+      "owners": [
+        "adamralph"
+      ],
+      "totalDownloads": 5165130,
+      "verified": false,
+      "packageTypes": [
+        {
+          "name": "DotnetTool"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0-alpha.15+build.105",
+          "downloads": 541,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-alpha.15.json"
+        },
+        {
+          "version": "1.0.0-alpha.16+build.111",
+          "downloads": 435,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-alpha.16.json"
+        },
+        {
+          "version": "1.0.0-alpha.17+build.121",
+          "downloads": 426,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-alpha.17.json"
+        },
+        {
+          "version": "1.0.0-alpha.18+build.123",
+          "downloads": 435,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-alpha.18.json"
+        },
+        {
+          "version": "1.0.0-alpha.19+build.130",
+          "downloads": 412,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-alpha.19.json"
+        },
+        {
+          "version": "1.0.0-alpha.20+build.136",
+          "downloads": 416,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-alpha.20.json"
+        },
+        {
+          "version": "1.0.0-alpha.21+build.139",
+          "downloads": 802,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-alpha.21.json"
+        },
+        {
+          "version": "1.0.0-beta.1+build.141",
+          "downloads": 1068,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-beta.1.json"
+        },
+        {
+          "version": "1.0.0-beta.2+build.172",
+          "downloads": 984,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-beta.2.json"
+        },
+        {
+          "version": "1.0.0-beta.3+build.186",
+          "downloads": 752,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-beta.3.json"
+        },
+        {
+          "version": "1.0.0-beta.4+build.193",
+          "downloads": 1246,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-beta.4.json"
+        },
+        {
+          "version": "1.0.0-rc.1+build.201",
+          "downloads": 452,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0-rc.1.json"
+        },
+        {
+          "version": "1.0.0+build.203",
+          "downloads": 3597,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.0.0.json"
+        },
+        {
+          "version": "1.1.0-beta.1+build.206",
+          "downloads": 343,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.1.0-beta.1.json"
+        },
+        {
+          "version": "1.1.0-beta.2+build.208",
+          "downloads": 336,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.1.0-beta.2.json"
+        },
+        {
+          "version": "1.1.0-rc.1+build.214",
+          "downloads": 350,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.1.0-rc.1.json"
+        },
+        {
+          "version": "1.1.0+build.221",
+          "downloads": 1331,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.1.0.json"
+        },
+        {
+          "version": "1.2.0-beta.1+build.233",
+          "downloads": 334,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.2.0-beta.1.json"
+        },
+        {
+          "version": "1.2.0-rc.1+build.240",
+          "downloads": 322,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.2.0-rc.1.json"
+        },
+        {
+          "version": "1.2.0+build.244",
+          "downloads": 1220,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/1.2.0.json"
+        },
+        {
+          "version": "2.0.0-alpha.1",
+          "downloads": 526,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.0.0-alpha.1.json"
+        },
+        {
+          "version": "2.0.0-alpha.2",
+          "downloads": 505,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.0.0-alpha.2.json"
+        },
+        {
+          "version": "2.0.0-rc.1",
+          "downloads": 711,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.0.0-rc.1.json"
+        },
+        {
+          "version": "2.0.0",
+          "downloads": 159449,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.0.0.json"
+        },
+        {
+          "version": "2.1.0-rc.1",
+          "downloads": 796,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.1.0-rc.1.json"
+        },
+        {
+          "version": "2.1.0",
+          "downloads": 1098,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.1.0.json"
+        },
+        {
+          "version": "2.2.0",
+          "downloads": 33607,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.2.0.json"
+        },
+        {
+          "version": "2.3.0",
+          "downloads": 33942,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.3.0.json"
+        },
+        {
+          "version": "2.3.1-beta.1",
+          "downloads": 534,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.3.1-beta.1.json"
+        },
+        {
+          "version": "2.3.1-beta.2",
+          "downloads": 535,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.3.1-beta.2.json"
+        },
+        {
+          "version": "2.3.1",
+          "downloads": 95346,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.3.1.json"
+        },
+        {
+          "version": "2.4.0-beta.1",
+          "downloads": 407,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.4.0-beta.1.json"
+        },
+        {
+          "version": "2.4.0-beta.2",
+          "downloads": 427,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.4.0-beta.2.json"
+        },
+        {
+          "version": "2.4.0",
+          "downloads": 55534,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.4.0.json"
+        },
+        {
+          "version": "2.5.0-alpha.1",
+          "downloads": 596,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.5.0-alpha.1.json"
+        },
+        {
+          "version": "2.5.0-rc.1",
+          "downloads": 1380,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.5.0-rc.1.json"
+        },
+        {
+          "version": "2.5.0",
+          "downloads": 274998,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/2.5.0.json"
+        },
+        {
+          "version": "3.0.0-alpha.1",
+          "downloads": 384,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/3.0.0-alpha.1.json"
+        },
+        {
+          "version": "3.0.0-rc.1",
+          "downloads": 453,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/3.0.0-rc.1.json"
+        },
+        {
+          "version": "3.0.0-rc.2",
+          "downloads": 300,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/3.0.0-rc.2.json"
+        },
+        {
+          "version": "3.0.0-rc.3",
+          "downloads": 304,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/3.0.0-rc.3.json"
+        },
+        {
+          "version": "3.0.0",
+          "downloads": 2706,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/3.0.0.json"
+        },
+        {
+          "version": "3.1.0-beta.1",
+          "downloads": 300,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/3.1.0-beta.1.json"
+        },
+        {
+          "version": "3.1.0",
+          "downloads": 118056,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/3.1.0.json"
+        },
+        {
+          "version": "4.0.0-alpha.1",
+          "downloads": 302,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.0.0-alpha.1.json"
+        },
+        {
+          "version": "4.0.0-rc.1",
+          "downloads": 288,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.0.0-rc.1.json"
+        },
+        {
+          "version": "4.0.0",
+          "downloads": 33591,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.0.0.json"
+        },
+        {
+          "version": "4.1.0-alpha.1",
+          "downloads": 273,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.1.0-alpha.1.json"
+        },
+        {
+          "version": "4.1.0-alpha.2",
+          "downloads": 309,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.1.0-alpha.2.json"
+        },
+        {
+          "version": "4.1.0-rc.1",
+          "downloads": 285,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.1.0-rc.1.json"
+        },
+        {
+          "version": "4.1.0",
+          "downloads": 42420,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.1.0.json"
+        },
+        {
+          "version": "4.2.0-alpha.1",
+          "downloads": 278,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.2.0-alpha.1.json"
+        },
+        {
+          "version": "4.2.0-rc.1",
+          "downloads": 302,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.2.0-rc.1.json"
+        },
+        {
+          "version": "4.2.0",
+          "downloads": 933845,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.2.0.json"
+        },
+        {
+          "version": "4.3.0-beta.1",
+          "downloads": 4036,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.3.0-beta.1.json"
+        },
+        {
+          "version": "4.3.0",
+          "downloads": 862038,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/4.3.0.json"
+        },
+        {
+          "version": "5.0.0-alpha.1",
+          "downloads": 228,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/5.0.0-alpha.1.json"
+        },
+        {
+          "version": "5.0.0-beta.1",
+          "downloads": 315,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/5.0.0-beta.1.json"
+        },
+        {
+          "version": "5.0.0",
+          "downloads": 1043450,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/5.0.0.json"
+        },
+        {
+          "version": "5.1.0-rc.1",
+          "downloads": 174,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/5.1.0-rc.1.json"
+        },
+        {
+          "version": "6.0.0-rc.1",
+          "downloads": 208,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/6.0.0-rc.1.json"
+        },
+        {
+          "version": "6.0.0",
+          "downloads": 854322,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/6.0.0.json"
+        },
+        {
+          "version": "6.1.0-beta.1",
+          "downloads": 204,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/6.1.0-beta.1.json"
+        },
+        {
+          "version": "6.1.0-rc.1",
+          "downloads": 144,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/6.1.0-rc.1.json"
+        },
+        {
+          "version": "6.1.0-rc.2",
+          "downloads": 104,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/6.1.0-rc.2.json"
+        },
+        {
+          "version": "6.1.0",
+          "downloads": 33905,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/6.1.0.json"
+        },
+        {
+          "version": "6.2.0-alpha.1",
+          "downloads": 192,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/6.2.0-alpha.1.json"
+        },
+        {
+          "version": "7.0.0-alpha.2",
+          "downloads": 103,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/7.0.0-alpha.2.json"
+        },
+        {
+          "version": "7.0.0-rc.1",
+          "downloads": 117,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/7.0.0-rc.1.json"
+        },
+        {
+          "version": "7.0.0",
+          "downloads": 416922,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/7.0.0.json"
+        },
+        {
+          "version": "8.0.0-alpha.1",
+          "downloads": 166,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/8.0.0-alpha.1.json"
+        },
+        {
+          "version": "8.0.0-rc.1",
+          "downloads": 124,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/8.0.0-rc.1.json"
+        },
+        {
+          "version": "8.0.0",
+          "downloads": 137619,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/8.0.0.json"
+        },
+        {
+          "version": "8.1.0-alpha.1",
+          "downloads": 170,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/minver-cli/8.1.0-alpha.1.json"
         }
       ],
       "vulnerabilities": []
@@ -43720,11 +43725,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/index.json",
       "id": "FunFair.BuildVersion",
-      "version": "6.2.20.2540-main",
+      "version": "6.2.20.2545-main",
       "description": "Build versioning tool.",
       "summary": "",
       "title": "FunFair.BuildVersion",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.20.2540-main/icon",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/funfair.buildversion/6.2.20.2545-main/icon",
       "projectUrl": "https://github.com/funfair-tech/funfair-build-version",
       "tags": [
         "FunFair",
@@ -57409,6 +57414,31 @@
           "version": "6.2.20.2540-main",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2540-main.json"
+        },
+        {
+          "version": "6.2.20.2541-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2541-main.json"
+        },
+        {
+          "version": "6.2.20.2542-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2542-main.json"
+        },
+        {
+          "version": "6.2.20.2543-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2543-main.json"
+        },
+        {
+          "version": "6.2.20.2544-github-actions",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2544-github-actions.json"
+        },
+        {
+          "version": "6.2.20.2545-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/funfair.buildversion/6.2.20.2545-main.json"
         }
       ],
       "vulnerabilities": []
@@ -62192,12 +62222,12 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/index.json",
       "id": "StrawberryShake.Tools",
-      "version": "16.8.0-p.12",
+      "version": "16.8.0-p.14",
       "description": "Package Description",
       "summary": "",
       "title": "StrawberryShake.Tools",
-      "iconUrl": "https://api.nuget.org/v3-flatcontainer/strawberryshake.tools/16.8.0-p.12/icon",
-      "licenseUrl": "https://www.nuget.org/packages/StrawberryShake.Tools/16.8.0-p.12/license",
+      "iconUrl": "https://api.nuget.org/v3-flatcontainer/strawberryshake.tools/16.8.0-p.14/icon",
+      "licenseUrl": "https://www.nuget.org/packages/StrawberryShake.Tools/16.8.0-p.14/license",
       "projectUrl": "https://chillicream.com/",
       "tags": [
         "GraphQL",
@@ -63131,6 +63161,11 @@
           "version": "16.8.0-p.12",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.8.0-p.12.json"
+        },
+        {
+          "version": "16.8.0-p.14",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/strawberryshake.tools/16.8.0-p.14.json"
         }
       ],
       "vulnerabilities": []
@@ -77873,11 +77908,11 @@
       "@type": "Package",
       "registration": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/index.json",
       "id": "Credfeto.ChangeLog.Cmd",
-      "version": "1.10.217.2948-unreleased-prea",
+      "version": "1.10.217.2964-pull-409-merge",
       "description": "Changelog manager dotnet tool.",
       "summary": "",
       "title": "Credfeto.ChangeLog.Cmd",
-      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.217.2948-unreleased-prea/license",
+      "licenseUrl": "https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd/1.10.217.2964-pull-409-merge/license",
       "projectUrl": "https://github.com/credfeto/credfeto-changelog-manager",
       "tags": [
         "Changelog",
@@ -94358,6 +94393,86 @@
           "version": "1.10.217.2948-unreleased-prea",
           "downloads": 0,
           "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2948-unreleased-prea.json"
+        },
+        {
+          "version": "1.10.217.2949-unreleased-prea",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2949-unreleased-prea.json"
+        },
+        {
+          "version": "1.10.217.2950-unreleased-prea",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2950-unreleased-prea.json"
+        },
+        {
+          "version": "1.10.217.2951-pull-407-merge",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2951-pull-407-merge.json"
+        },
+        {
+          "version": "1.10.217.2952-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2952-main.json"
+        },
+        {
+          "version": "1.10.217.2953-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2953-main.json"
+        },
+        {
+          "version": "1.10.217.2954-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2954-main.json"
+        },
+        {
+          "version": "1.10.217.2955-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2955-main.json"
+        },
+        {
+          "version": "1.10.217.2956-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2956-main.json"
+        },
+        {
+          "version": "1.10.217.2957-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2957-main.json"
+        },
+        {
+          "version": "1.10.217.2958-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2958-main.json"
+        },
+        {
+          "version": "1.10.217.2959-ca2012-root-cau",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2959-ca2012-root-cau.json"
+        },
+        {
+          "version": "1.10.217.2960-ca2012-root-cau",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2960-ca2012-root-cau.json"
+        },
+        {
+          "version": "1.10.217.2961-ca2012-root-cau",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2961-ca2012-root-cau.json"
+        },
+        {
+          "version": "1.10.217.2962-main",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2962-main.json"
+        },
+        {
+          "version": "1.10.217.2963-ca2012-root-cau",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2963-ca2012-root-cau.json"
+        },
+        {
+          "version": "1.10.217.2964-pull-409-merge",
+          "downloads": 0,
+          "@id": "https://api.nuget.org/v3/registration5-gz-semver2/credfeto.changelog.cmd/1.10.217.2964-pull-409-merge.json"
         }
       ],
       "vulnerabilities": []
